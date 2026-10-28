@@ -28,8 +28,6 @@ El ternero se hace adentro de la vaca 🐄 Los números:
 
 "Si querés hacer carne de calidad, empezá a preocuparte por el último trimestre de gestación de la mamá y por los primeros 8 meses del ternero." @dariocolombatto
 
-@santiagodebernardi
-
 Fuentes: INTA Cuenca del Salado (Chascomús, 2026), IPCVA Ganadería y Compromiso 137, Univ. de Nebraska (Nebraska Beef Report 2009; Martin y col. 2007), INTA EEA Mercedes (Serie Técnica 30), Moralejo 2004, Rosgan (13/10/2026).
 
 #ganaderia #cria #programacionfetal #suplementacion #campo #agro #eltoroagro
