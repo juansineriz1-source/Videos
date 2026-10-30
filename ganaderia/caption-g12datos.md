@@ -15,7 +15,6 @@ Tu ternero puede valer $500 menos por kilo. Por un trámite. 🐄 Los números:
 💰 La plata
 • Novillo para Europa: $8.100/kg vs. consumo: $7.500/kg (La Nación, 26/10/2026)
 • 500 kg × $600 = $300.000 menos por novillo
-• Cuota Hilton 2025-26: 29.389 t, ~US$406 millones
 
 📝 Anotarse
 • Gratis
@@ -24,4 +23,4 @@ Tu ternero puede valer $500 menos por kilo. Por un trámite. 🐄 Los números:
 
 Fuentes: Reglamento (UE) 2023/1115, BCR (VISEC), IPCVA, La Nación (26/10/2026).
 
-#visec #ganaderia #exportacion #cuotahilton #trazabilidad #campo #agro #eltoroagro
+#visec #ganaderia #exportacion #trazabilidad #campo #agro #eltoroagro
