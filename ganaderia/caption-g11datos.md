@@ -2,12 +2,12 @@ Nunca la hacienda valió tanto en dólares. Y hay ganaderos perdiendo plata 🐄
 
 💵 Precio en dólares (kg vivo)
 • Novillo: US$0,5 en 2002 → US$3,1 en marzo 2026
-• Ternero hoy: US$3,8 · promedio 10 años: US$1,8 · récord: US$4,4 (marzo 2026)
+• Ternero hoy: US$3,8, el doble del promedio de 10 años (US$1,8)
 • Novillo: de US$1,5 a US$2,7 · vaquillona: US$2,8 · vaca gorda: US$2,1
 
 🐄 Cría
 • Margen 40 % arriba del promedio: el mejor en 15 años
-• En campo alquilado quedan ~US$78 por vaca, y el margen viene bajando
+• En campo alquilado quedan ~US$78 por vaca: el alquiler se paga en kilos de carne, así que sube con la hacienda
 
 🌱 Recría
 • 1 kg de ternero = casi 1,5 kg de novillo (lo normal: 1,25)
