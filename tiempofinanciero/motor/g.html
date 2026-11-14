@@ -1,0 +1,106 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:AN;src:url(assets/Anton-Regular.ttf)}
+@font-face{font-family:MB;src:url(assets/Montserrat-Black.ttf)}
+@font-face{font-family:MS;src:url(assets/Montserrat-SemiBold.ttf)}
+:root{--bg:#0B1426;--bg2:#13203A;--oro:#E8B64C;--ver:#2BD67B;--roj:#FF5A5F;--bl:#F4F6FA;--gr:#8FA0BD}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden}
+body{background:radial-gradient(1100px 900px at 50% 40%,#16284A 0%,var(--bg) 70%);color:var(--bl);font-family:MS;position:relative}
+body:before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.035) 2px,transparent 2px),linear-gradient(90deg,rgba(255,255,255,.035) 2px,transparent 2px);background-size:120px 120px}
+.sc{position:absolute;inset:0;display:none}
+.k{position:absolute;left:80px;top:280px;font-family:MB;font-size:30px;letter-spacing:5px;color:var(--bg);background:var(--oro);padding:10px 22px;border-radius:6px}
+h1{position:absolute;left:80px;top:350px;width:860px;font-family:AN;font-weight:400;font-size:112px;line-height:1.06;text-transform:uppercase}
+h1 b{color:var(--oro);font-weight:400} h1 i{color:var(--roj);font-style:normal} h1 u{color:var(--ver);text-decoration:none}
+.src{position:absolute;left:80px;top:1380px;width:860px;font-size:24px;color:var(--gr)}
+.abs{position:absolute}
+.row{position:absolute;left:80px;width:860px;background:var(--bg2);border:2px solid rgba(255,255,255,.08);border-radius:22px;padding:30px 36px;font-family:MB;font-size:54px;display:flex;justify-content:space-between;align-items:center}
+.st{font-family:AN;font-size:46px;color:var(--roj);border:5px solid var(--roj);padding:2px 18px;border-radius:8px;transform:rotate(-6deg);letter-spacing:2px}
+.pill{position:absolute;left:100px;width:820px;text-align:center;font-family:MB;font-size:50px;padding:34px 20px;border-radius:999px;border:4px solid var(--oro)}
+</style></head><body>
+<div class="sc" id="madoff"><div class="k">DICIEMBRE DE 2008</div>
+ <div class="abs" id="mf" style="left:140px;top:360px;width:740px;height:900px;border-radius:18px;overflow:hidden;border:6px solid var(--oro)"><img src="img/madoff.jpg" style="width:100%;height:100%;object-fit:cover;object-position:50% 20%"></div>
+ <div class="abs" id="mn" style="left:80px;top:1280px;font-family:AN;font-size:84px">BERNIE MADOFF</div>
+ <div class="src" style="top:1390px">Foto: Departamento de Justicia de EE. UU. (dominio público)</div></div>
+<div class="sc" id="linea"><div class="k">LO QUE MOSTRABA</div><h1><b>10 a 12 %</b><br>todos los años</h1>
+ <svg class="abs" style="left:60px;top:640px" width="900" height="720" viewBox="0 0 900 720">
+  <line x1="40" y1="680" x2="880" y2="680" stroke="#8FA0BD" stroke-width="3"/><line x1="40" y1="40" x2="40" y2="680" stroke="#8FA0BD" stroke-width="3"/>
+  <polyline id="lb" fill="none" stroke="#8FA0BD" stroke-width="8" stroke-linejoin="round" points="40,600 110,560 180,590 250,500 320,540 390,430 460,520 530,610 600,470 670,400 740,470 810,330 880,380"/>
+  <polyline id="lm" fill="none" stroke="#2BD67B" stroke-width="12" stroke-linecap="round" points="40,600 880,120"/>
+ </svg>
+ <div class="abs" id="t1" style="left:560px;top:700px;font-family:MB;font-size:40px;color:var(--ver)">MADOFF</div>
+ <div class="abs" id="t2" style="left:540px;top:1262px;font-family:MB;font-size:40px;color:var(--gr)">LA BOLSA REAL</div>
+ <div class="src">Esquema ilustrativo. Rendimiento declarado por sus fondos.</div></div>
+<div class="sc" id="ponzi"><div class="k">EL TRUCO</div><h1 id="pz">Esquema <b>Ponzi</b></h1>
+ <div class="row" id="p1" style="top:660px;font-size:46px"><span>CLIENTES NUEVOS</span><span style="color:var(--ver)">+ US$</span></div>
+ <div class="abs" id="a1" style="left:470px;top:800px;font-family:AN;font-size:110px;color:var(--oro)">▼</div>
+ <div class="row" id="p2" style="top:930px;justify-content:center;background:var(--oro);color:var(--bg)">MADOFF</div>
+ <div class="abs" id="a2" style="left:470px;top:1070px;font-family:AN;font-size:110px;color:var(--oro)">▼</div>
+ <div class="row" id="p3" style="top:1200px;font-size:46px"><span>CLIENTES VIEJOS</span><span style="color:var(--oro)">"ganancia"</span></div></div>
+<div class="sc" id="lista"><div class="k">LAS VÍCTIMAS</div><h1>Le confiaron<br><b>su plata</b></h1>
+ <div class="row" id="l1" style="top:700px">BANCOS</div><div class="row" id="l2" style="top:870px">FUNDACIONES</div>
+ <div class="row" id="l3" style="top:1040px;border-color:var(--oro)"><span>STEVEN SPIELBERG</span></div>
+ <div class="src" style="top:1230px">Spielberg, a través de su fundación Wunderkinder.</div></div>
+<div class="sc" id="doc"><div class="k">HARRY MARKOPOLOS</div><h1>Avisos<br>a la <b>SEC</b></h1>
+ <div class="row" id="d1" style="top:700px"><span>2000</span><span class="st" id="s1">IGNORADO</span></div>
+ <div class="row" id="d2" style="top:870px"><span>2001</span><span class="st" id="s2">IGNORADO</span></div>
+ <div class="row" id="d3" style="top:1040px"><span>2005</span><span class="st" id="s3">IGNORADO</span></div>
+ <div class="src" style="top:1230px">SEC: el organismo que controla la bolsa en EE. UU.</div></div>
+<div class="sc" id="barras"><div class="k">LA CUENTA FINAL</div><h1>Papel vs<br><b>plata real</b></h1>
+ <div class="abs" id="b1" style="left:150px;bottom:600px;width:300px;background:var(--roj);border-radius:16px 16px 0 0"></div>
+ <div class="abs" id="b2" style="left:560px;bottom:600px;width:300px;background:var(--oro);border-radius:16px 16px 0 0"></div>
+ <div class="abs" id="n1" style="left:80px;width:440px;text-align:center;white-space:nowrap;font-family:AN;font-size:74px;color:var(--roj)">US$ 65.000 M</div>
+ <div class="abs" id="n2" style="left:490px;width:440px;text-align:center;white-space:nowrap;font-family:AN;font-size:74px;color:var(--oro)">US$ 17.500 M</div>
+ <div class="abs" id="e1" style="left:80px;top:1335px;width:440px;text-align:center;font-family:MB;font-size:32px">EN LOS PAPELES</div>
+ <div class="abs" id="e2" style="left:490px;top:1335px;width:440px;text-align:center;font-family:MB;font-size:32px">LO QUE PUSO LA GENTE</div>
+ <div class="src" style="top:1400px">Fuente: fideicomisario Irving Picard.</div></div>
+<div class="sc" id="condena"><div class="k">29 DE JUNIO DE 2009</div><h1>Condena</h1>
+ <div class="abs" id="c1" style="left:80px;top:560px;font-family:AN;font-size:330px;color:var(--oro);line-height:1">150</div>
+ <div class="abs" id="c2" style="left:80px;top:910px;font-family:AN;font-size:150px">AÑOS DE CÁRCEL</div>
+ <div class="row" id="c3" style="top:1150px">MURIÓ PRESO EN 2021</div></div>
+<div class="sc" id="alarma"><div class="k" id="ak">LA REGLA</div><h1 id="ah">Sin altibajos<br><u id="aw">no es un premio</u></h1>
+ <svg class="abs" style="left:60px;top:700px" width="900" height="560" viewBox="0 0 900 560"><polyline id="al" fill="none" stroke="#2BD67B" stroke-width="14" stroke-linecap="round" points="40,500 880,80"/></svg>
+ <div class="abs" id="ax" style="left:80px;top:1180px;width:860px;text-align:center;white-space:nowrap;font-family:AN;font-size:136px;color:var(--roj)">ES UNA ALARMA</div></div>
+<div class="sc" id="encuesta"><div class="k">VOTÁ ABAJO</div><h1>¿Le hubieras dado <b>tu plata</b>?</h1>
+ <div class="pill" id="o1" style="top:860px">SÍ, ME CONVENCÍA</div><div class="pill" id="o2" style="top:1040px">NO, DEMASIADO PERFECTO</div></div>
+<div class="sc" id="portada">
+ <div class="abs" style="left:0;top:0;width:1080px;height:1920px;background:url(img/madoff.jpg) 50% 30%/cover;filter:grayscale(.35) contrast(1.05)"></div>
+ <div class="abs" style="left:0;top:0;width:1080px;height:1920px;background:linear-gradient(180deg,rgba(11,20,38,.55) 0%,rgba(11,20,38,.05) 30%,rgba(11,20,38,.2) 52%,rgba(11,20,38,.97) 74%)"></div>
+ <div class="abs" style="left:80px;top:1010px;font-family:MB;font-size:34px;letter-spacing:5px;color:var(--bg);background:var(--oro);padding:10px 22px;border-radius:6px">HISTORIAS DE LA BOLSA</div>
+ <div class="abs" style="left:80px;top:1085px;width:920px;font-family:AN;font-size:150px;line-height:1.04">EL FONDO QUE<br><span style="color:var(--oro)">NUNCA PERDÍA</span></div>
+ <div class="abs" style="left:80px;top:1420px;width:900px;font-family:MB;font-size:44px">Madoff y la estafa de US$ 65.000 millones</div></div>
+<div class="sc" id="cierre">
+ <div class="abs" id="z1" style="left:0;top:720px;width:1080px;text-align:center;font-family:AN;font-size:120px;line-height:1.05">TIEMPO<br><span style="color:var(--oro)">FINANCIERO</span></div>
+ <div class="abs" id="z2" style="left:0;top:1010px;width:1080px;text-align:center;font-family:MB;font-size:40px;color:var(--gr)">@tiempofinancierok</div>
+ <div class="abs" id="z3" style="left:0;top:1100px;width:1080px;text-align:center;font-size:34px">Historias de la bolsa, en un minuto</div>
+ <div class="abs" style="left:90px;top:1330px;width:900px;text-align:center;font-size:24px;color:var(--gr)">Contenido educativo. No es recomendación de inversión.</div></div>
+<script>
+const cl=x=>Math.max(0,Math.min(1,x)),eo=x=>1-Math.pow(1-cl(x),3),P=(t,a,d)=>cl((t-a)/d),$=i=>document.getElementById(i);
+const back=x=>{x=cl(x);const c=1.7;const y=x-1;return 1+y*y*((c+1)*y+c)};
+function F(e,p,dy=30){e=$(e);e.style.opacity=cl(p);e.style.transform=`translateY(${(1-eo(p))*dy}px)`}
+function POP(e,p){e=$(e);e.style.opacity=cl(p*3);e.style.transform=`scale(${p>0?back(p):0})`}
+function draw(e,p){e=$(e);const L=e.getTotalLength();e.style.strokeDasharray=L;e.style.strokeDashoffset=L*(1-cl(p))}
+function A(c,ws,def){for(const w of [].concat(ws)){if(c.at&&c.at[w]!=null)return c.at[w]}return def}
+let cur=null;
+window.render=function(t,c){
+ if(cur!==c.g){document.querySelectorAll('.sc').forEach(s=>s.style.display='none');$(c.g).style.display='block';cur=c.g}
+ const s=$(c.g),k=s.querySelector('.k'),h=s.querySelector('h1');
+ if(k){const p=eo(P(t,0,.3));k.style.transform=`translateX(${-(1-p)*500}px)`}
+ if(h&&c.g!=='alarma'){h.style.opacity=P(t,.05,.25);h.style.transform=`translateY(${(1-eo(P(t,.05,.35)))*40}px)`}
+ const d=c.d;
+ if(c.g==='madoff'){$('mf').style.transform=`scale(${.96+.04*eo(P(t,0,d))})`;$('mf').style.opacity=P(t,0,.2);F('mn',P(t,A(c,'bernie',.4)-.1,.3))}
+ if(c.g==='linea'){draw('lm',P(t,.5,d*.5));draw('lb',P(t,A(c,['sin','solo'],d*.6)-.3,1.2));F('t1',P(t,1.2,.3),0);F('t2',P(t,A(c,['sin','solo'],d*.6)+.5,.3),0)}
+ if(c.g==='ponzi'){POP('p1',P(t,A(c,'nuevos',.5)-.5,.35));POP('a1',P(t,A(c,'nuevos',.5)+.1,.3));POP('p2',P(t,A(c,'pagaba',1.2)-.3,.35));POP('a2',P(t,A(c,'pagaba',1.2)+.1,.3));POP('p3',P(t,A(c,'viejos',2)-.3,.35));
+   const pp=P(t,A(c,'esquema',d*.7)-.1,.3);$('pz').style.opacity=pp;$('pz').style.transform=`scale(${.8+.2*back(pp)})`;$('pz').style.transformOrigin='0 50%'}
+ if(c.g==='lista'){POP('l1',P(t,A(c,'bancos',.3)-.1,.3));POP('l2',P(t,A(c,'fundaciones',1)-.1,.3));POP('l3',P(t,A(c,['steven','spielberg'],1.8)-.1,.3));F(s.querySelector('.src').id='lsrc',P(t,A(c,['steven','spielberg'],1.8)+.4,.3),0)}
+ if(c.g==='doc'){const a=A(c,['varias','veces'],.6),b=A(c,['imposibles','números'],d*.6);[1,2,3].forEach((i,j)=>{POP('d'+i,P(t,.15+j*.25,.3));const p=P(t,a+.2+j*.45,.22);$('s'+i).style.opacity=p;$('s'+i).style.transform=`rotate(-6deg) scale(${2.2-1.2*eo(p)})`})}
+ if(c.g==='barras'){const a=A(c,['sesenta','valía'],1),b=A(c,['diecisiete','unos'],d*.6);$('b1').style.height=470*eo(P(t,.4,1.1))+'px';$('b2').style.height=127*eo(P(t,b-.3,.9))+'px';
+   $('n1').style.bottom=(1320-700+470*eo(P(t,a-.3,.9))+10-620+600)+'px';$('n1').style.opacity=P(t,a,.3);$('n2').style.bottom=(600+127*eo(P(t,b-.3,.9))+10)+'px';$('n2').style.opacity=P(t,b,.3);
+   $('n1').style.bottom=(600+470*eo(P(t,.4,1.1))+10)+'px';F('e1',P(t,.3,.3),0);F('e2',P(t,b-.3,.3),0)}
+ if(c.g==='condena'){POP('c1',P(t,A(c,['ciento','cincuenta'],.8)-.2,.4));F('c2',P(t,A(c,['años','cárcel'],1.4)-.2,.3));POP('c3',P(t,A(c,['murió','preso'],d*.6)-.2,.35))}
+ if(c.g==='alarma'){h.style.opacity=P(t,.05,.25);draw('al',P(t,.2,1.4));const a=A(c,'premio',d*.6)+.3;const p=P(t,a,.3);$('ax').style.opacity=p;$('ax').style.transform=`scale(${1.6-.6*eo(p)})`;
+   if(p>0){$('al').setAttribute('stroke','#FF5A5F');$('aw').style.color='#FF5A5F';document.body.style.boxShadow=`inset 0 0 ${120+60*Math.sin(t*14)}px rgba(255,90,95,.45)`}else{$('al').setAttribute('stroke','#2BD67B');$('aw').style.color='';document.body.style.boxShadow='none'}}
+ else document.body.style.boxShadow='none';
+ if(c.g==='encuesta'){POP('o1',P(t,.15,.35));POP('o2',P(t,.4,.35));const w=1+.03*Math.sin(t*6);$('o1').style.scale=w;$('o2').style.scale=2-w}
+ if(c.g==='cierre'){POP('z1',P(t,.05,.45));F('z2',P(t,.4,.3));F('z3',P(t,.6,.3))}
+}
+</script></body></html>

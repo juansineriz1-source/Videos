@@ -1,0 +1,15 @@
+{"voz":"voz.wav","palabras":"voz.json","tempo":1.1,"cierre":1.8,"segs":[
+{"txt":"Si alguien te promete ganar todos los años, aunque el mundo se venga abajo, escapate.","vis":[["c:231177",1],["c:307615",1]],"cartel":"ESCAPATE","cartel_en":3.6},
+{"txt":"En diciembre de 2008, Bernie Madoff, que había sido presidente del Nasdaq, les confesó a sus hijos que su fondo era una gran mentira.","vis":[["g:madoff",4],["c:7260",3]]},
+{"txt":"Durante décadas mostró ganancias de entre diez y doce por ciento por año, sin un solo año malo.","vis":[["g:linea",1]]},
+{"txt":"¿El truco? No invertía nada.","vis":[["c:164394",1]],"cartel":"NO INVERTÍA\\NNADA","cartel_en":0.9},
+{"txt":"Con la plata de los clientes nuevos les pagaba a los viejos. Un esquema Ponzi.","vis":[["g:ponzi",1]]},
+{"txt":"Y nadie desconfiaba, porque Madoff no salía a buscar clientes: había que rogarle para entrar.","vis":[["c:62216",1],["c:199623",1]]},
+{"txt":"Bancos, fundaciones, hasta Steven Spielberg le confiaron plata.","vis":[["g:lista",1]]},
+{"txt":"Un analista, Harry Markopolos, avisó a la SEC varias veces desde el año 2000: los números eran imposibles.","vis":[["c:293084",2],["g:doc",3]]},
+{"txt":"No le hicieron caso.","vis":[["c:87146",1]],"cartel":"NADIE\\NESCUCHÓ"},
+{"txt":"Hasta que llegó la crisis de 2008: todos pidieron su plata al mismo tiempo, y no había.","vis":[["c:204306",1],["c:50622",1]],"cartel":"NO HABÍA","cartel_en":4.3},
+{"txt":"En los papeles, el fondo valía sesenta y cinco mil millones de dólares. Lo que la gente había puesto de verdad eran unos diecisiete mil quinientos millones.","vis":[["g:barras",1]]},
+{"txt":"Madoff fue condenado a ciento cincuenta años de cárcel y murió preso en 2021.","vis":[["g:condena",1]]},
+{"txt":"Ya sabés la regla: un rendimiento sin altibajos no es un premio, es una alarma.","vis":[["g:alarma",1]]},
+{"txt":"¿Vos le hubieras dado tu plata? Votá abajo.","vis":[["g:encuesta",1]]}]}
