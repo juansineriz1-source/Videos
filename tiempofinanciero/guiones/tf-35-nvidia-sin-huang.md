@@ -1,17 +1,17 @@
 # tf-35 Nvidia sin Jensen Huang
-Tipo: historia de actualidad (pedido de juan 2026-11-14, sale HOY). Duración objetivo: 70 s. Estado: revisado OK por el agente financiero (2026-11-14), con una corrección en la línea 4. Listo para grabar.
+Tipo: historia de actualidad (pedido de juan 2026-11-14, sale HOY). Duración objetivo: 70 s. Estado: guion corregido con el veredicto del juez (2026-11-14); video a aprobar.
 
 ## Texto (voz) y visuales
 | # | Voz | Visual |
 |---|---|---|
-| 1 | En diez días, Nvidia perdió más de un billón de dólares de valor. Y se quedó sin el hombre que la inventó. | Archivo: Jensen Huang en una keynote. Número: −1 billón |
+| 1 | En diez días, Nvidia perdió más de un billón de dólares de valor. Y se quedó sin el hombre que la inventó. | Archivo: Jensen Huang en una keynote. Número: −1 billón (en pantalla: "de dólares, aprox.") |
 | 2 | Jensen Huang fundó Nvidia en 1993 con dos socios, en la mesa de un restaurante Denny's de California. | Archivo / foto. Tercio: Jensen Huang, cofundador |
 | 3 | Hacían chips para videojuegos. Esos mismos chips terminaron siendo el motor de la inteligencia artificial. | Flujo: videojuegos → chips → inteligencia artificial |
 | 4 | Así llegó a valer más de cinco billones de dólares: en octubre era la empresa más valiosa del mundo. | Número: US$ 5,7 billones (máximo, octubre 2026) |
 | 5 | Y la manejaba distinto a todos: casi sin jefes intermedios, con unas sesenta personas reportándole directo a él. | Gráfico: Huang arriba, 60 puntos abajo |
 | 6 | Esa era su fuerza. Hoy es el problema. | Remate |
-| 7 | El 8 de noviembre admitió una infidelidad en una carta a sus empleados. Y sobre una de sus ex parejas hay sospechas de espionaje para China, que no están probadas. | Lista con fechas. Sello: NO PROBADO |
-| 8 | El 12 de noviembre dejó la empresa. La dirige de forma interina la directora financiera, Colette Kress. | Tercio / lista |
+| 7 | El 8 de noviembre admitió que le fue infiel a su esposa y pidió disculpas. La mujer con la que se lo vincula está sospechada por la inteligencia de Estados Unidos de trabajar para China. No está probado, y el directorio dijo que no ve secretos comprometidos. | Lista con fechas. Sello: NO PROBADO |
+| 8 | El 12 de noviembre renunció como director ejecutivo y dejó el directorio, que ya evaluaba removerlo. La dirige de forma interina la directora financiera, Colette Kress. | Tercio / lista |
 | 9 | La acción cayó veintiuno por ciento desde el 3 de noviembre. | Línea NVDA 206,69 → 162,85 |
 | 10 | ¿El riesgo hacia adelante? Una empresa armada alrededor de una sola persona, sin sucesor definido, con China en el medio. | Lista: una sola persona / sin sucesor / China |
 | 11 | El martes presenta resultados: la primera prueba sin su fundador. | Título: martes 17 de noviembre |
@@ -24,7 +24,7 @@ Tipo: historia de actualidad (pedido de juan 2026-11-14, sale HOY). Duración ob
 Nvidia se quedó sin Jensen Huang. Cómo nació en un Denny's, por qué sus chips mueven la inteligencia artificial y qué riesgo deja una empresa armada alrededor de una sola persona.
 ¿Nvidia sin Huang vale lo mismo? Comentá 1 (Sí, la empresa es más que él) o 2 (No, él era Nvidia) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
-Fuentes: EFE, Bloomberg y The New York Times (vía Emol, El Universal y Xataka); precios de Yahoo Finance al cierre del 13/11/2026.
+Fuentes: Reuters, Fortune, Al Jazeera, EFE, Bloomberg y The New York Times; precios de Yahoo Finance al cierre del 13/11/2026.
 #nvidia #jensenhuang #bolsa #inversiones #inteligenciaartificial #wallstreet #finanzas
 
 ## Fuentes y datos a verificar (agente financiero)
@@ -42,3 +42,6 @@ Fuentes: EFE, Bloomberg y The New York Times (vía Emol, El Universal y Xataka);
 - Línea 4 corregida: "más que cualquier otra empresa" pasó a "en octubre era la empresa más valiosa del mundo". Verificado el 6/10/2026: Nvidia ≈ 5,77 billones vs Apple ≈ 4,85 y Microsoft ≈ 3,93 (cierres de Yahoo × acciones actuales, aproximado). Hoy ya no es la primera: Apple ≈ 5,18 billones. No decir que "es" la más valiosa.
 - Lo no probado está dicho como no probado (sello NO PROBADO, sin nombres de terceros). "Dejó la empresa" es neutral y correcto ante fuentes que difieren.
 - Sin recomendación; caption con aviso. "Unas sesenta personas" está bien.
+
+## Video (2026-11-14)
+Spec: motor/tf-35-v3.json. Voz Justo (HeyGen). Material real con crédito en pantalla: NVIDIA (GTC 2026, Blackwell, AI Factory), CNBC, The Wall Street Journal, Stanford Journalism, Bloomberg Tech. Lista en NAS descargas/nvidia/canales.txt.

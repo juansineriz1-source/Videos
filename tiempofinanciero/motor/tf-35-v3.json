@@ -1,0 +1,516 @@
+{
+"voz": "voz-tf35b.wav",
+"palabras": "voz-tf35b.json",
+"tempo": 1.1,
+"cierre": 1.8,
+"musica": "musica/mx-682.mp3",
+"musica_vol": 0.1,
+"portada": {
+"g": "portada",
+"img": "img/huang.jpg",
+"k": "LA NOTICIA",
+"h": "Nvidia <b>sin Jensen Huang</b>",
+"sub": "Qué pasó y qué riesgo deja"
+},
+"segs": [
+{
+"txt": "En diez días, Nvidia perdió más de un billón de dólares de valor.",
+"vis": [
+[
+"g",
+2,
+{
+"g": "archivo",
+"bg": "v:nv/nv-01.mp4@136",
+"crop": "1440:1080:300:0",
+"k": "Noviembre de 2026",
+"h": "Nvidia perdió <i>un billón</i>",
+"cred": "NVIDIA · GTC 2026"
+}
+],
+[
+"g",
+2.6,
+{
+"g": "num",
+"k": "En diez días",
+"h": "Valor de mercado",
+"num": "−1 billón",
+"color": "roj",
+"sub": "de dólares, aprox.",
+"row": "Del 3 al 13 de noviembre",
+"en": 0.2,
+"row_en": 1.2
+}
+]
+]
+},
+{
+"txt": "Y se quedó sin el hombre que la inventó.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "archivo",
+"bg": "v:nv/nv-06.mp4@125",
+"crop": "880:660:900:0",
+"k": "12 de noviembre",
+"h": "Y se quedó sin <b>su fundador</b>",
+"cred": "Archivo · CNBC"
+}
+]
+]
+},
+{
+"txt": "Jensen Huang fundó Nvidia en 1993 con dos socios, en la mesa de un restaurante Denny's de California.",
+"vis": [
+[
+"g",
+3,
+{
+"g": "archivo",
+"bg": "v:nv/nv-01.mp4@66",
+"crop": "1440:1080:240:0",
+"k": "1993",
+"h": "La fundó con <b>dos socios</b>",
+"nombre": "Jensen Huang",
+"rol": "Cofundador de Nvidia",
+"cred": "NVIDIA · GTC 2026"
+}
+],
+[
+"g",
+3.4,
+{
+"g": "archivo",
+"bg": "v:nv/nv-03.mp4@10",
+"crop": "640:480:640:260",
+"k": "San José, California",
+"h": "En la mesa de <b>un Denny's</b>",
+"cred": "Stanford Journalism"
+}
+]
+]
+},
+{
+"txt": "Hacían chips para videojuegos. Esos mismos chips terminaron siendo el motor de la inteligencia artificial.",
+"vis": [
+[
+"g",
+2.2,
+{
+"g": "archivo",
+"bg": "v:nv/nv-05.mp4@19",
+"crop": "1280:960:320:0",
+"k": "Qué hace",
+"h": "Chips para <b>videojuegos</b>",
+"cred": "NVIDIA"
+}
+],
+[
+"g",
+4.6,
+{
+"g": "flujo",
+"k": "El salto",
+"h": "El motor de <u>la IA</u>",
+"items": [
+{
+"t": "Videojuegos",
+"en": 0.1
+},
+{
+"t": "Los mismos chips",
+"en": 0.9,
+"hi": true
+},
+{
+"t": "Inteligencia artificial",
+"en": 2.4,
+"color": "ver"
+}
+]
+}
+]
+]
+},
+{
+"txt": "Así llegó a valer más de cinco billones de dólares: en octubre era la empresa más valiosa del mundo.",
+"vis": [
+[
+"g",
+3.8,
+{
+"g": "num",
+"bg": "v:nv/nv-08.mp4@128",
+"k": "Valor de mercado",
+"h": "Llegó a <b>valer</b>",
+"num": "US$ 5,7 billones",
+"color": "oro",
+"sub": "máximo: 6 de octubre de 2026",
+"en": 0.6
+}
+],
+[
+"g",
+3.4,
+{
+"g": "titulo",
+"bg": "v:nv/nv-08.mp4@135",
+"k": "Octubre de 2026",
+"h": "La empresa <b>más valiosa</b> del mundo",
+"size": 160,
+"paso": 0.2,
+"en": 0.1
+}
+]
+]
+},
+{
+"txt": "Y la manejaba distinto a todos: casi sin jefes intermedios, con unas sesenta personas reportándole directo a él.",
+"vis": [
+[
+"g",
+2.5,
+{
+"g": "archivo",
+"bg": "v:nv/nv-04.mp4@27",
+"crop": "1440:1080:100:0",
+"k": "Cómo la manejaba",
+"h": "Distinto <b>a todos</b>",
+"cred": "The Wall Street Journal"
+}
+],
+[
+"g",
+2.1,
+{
+"g": "titulo",
+"h": "Casi sin <b>jefes intermedios</b>",
+"size": 170,
+"paso": 0.2,
+"en": 0.05
+}
+],
+[
+"g",
+3.4,
+{
+"g": "num",
+"k": "Estructura plana",
+"h": "Le reportaban <b>directo</b>",
+"num": "≈ 60",
+"color": "oro",
+"sub": "personas, sin escalones en el medio",
+"en": 0.3
+}
+]
+]
+},
+{
+"txt": "Esa era su fuerza. Hoy es el problema.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "remate",
+"k": "La paradoja",
+"h": "Esa era su fuerza",
+"big": "Hoy es el problema",
+"color": "roj",
+"en": "problema"
+}
+]
+]
+},
+{
+"txt": "El ocho de noviembre admitió que le fue infiel a su esposa y pidió disculpas.",
+"vis": [
+[
+"g",
+2.8,
+{
+"g": "archivo",
+"bg": "v:nv/nv-02.mp4@50",
+"crop": "1000:750:400:0",
+"k": "8 de noviembre",
+"h": "Admitió <i>una infidelidad</i>",
+"cred": "Archivo · CNBC · septiembre de 2026"
+}
+],
+[
+"g",
+2,
+{
+"g": "archivo",
+"bg": "v:nv/nv-02.mp4@84",
+"crop": "1000:750:560:0",
+"k": "8 de noviembre",
+"h": "Y pidió <b>disculpas</b>",
+"cred": "Archivo · CNBC · septiembre de 2026"
+}
+]
+]
+},
+{
+"txt": "La mujer con la que se lo vincula está sospechada por la inteligencia de Estados Unidos de trabajar para China.",
+"vis": [
+[
+"g",
+2.6,
+{
+"g": "titulo",
+"k": "La otra parte",
+"h": "La mujer con la que <b>se lo vincula</b>",
+"size": 150,
+"paso": 0.2,
+"en": 0.05
+}
+],
+[
+"g",
+3.8,
+{
+"g": "titulo",
+"k": "Inteligencia de Estados Unidos",
+"h": "Sospechada de trabajar <i>para China</i>",
+"size": 150,
+"paso": 0.25,
+"en": 0.1
+}
+]
+]
+},
+{
+"txt": "No está probado, y el directorio dijo que no ve secretos comprometidos.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "sello",
+"k": "Importante",
+"h": "Es una <b>sospecha</b>",
+"items": [
+{
+"t": "Espionaje para China",
+"st": "NO PROBADO",
+"en": 0.2
+},
+{
+"t": "Secretos comprometidos",
+"st": "EL DIRECTORIO NO VE",
+"en": 1.6
+}
+],
+"src": "Según el comunicado del directorio de Nvidia."
+}
+]
+]
+},
+{
+"txt": "El doce de noviembre renunció como director ejecutivo y dejó el directorio, que ya evaluaba removerlo.",
+"vis": [
+[
+"g",
+2.8,
+{
+"g": "archivo",
+"bg": "v:nv/nv-01.mp4@200",
+"crop": "1440:1080:240:0",
+"k": "12 de noviembre",
+"h": "<i>Renunció</i> como director ejecutivo",
+"cred": "NVIDIA · GTC 2026"
+}
+],
+[
+"g",
+3.8,
+{
+"g": "lista",
+"k": "12 de noviembre",
+"h": "Huang <i>se va</i>",
+"items": [
+{
+"t": "Renunció como CEO",
+"en": 0.05
+},
+{
+"t": "Dejó el directorio",
+"en": 0.4
+},
+{
+"t": "Que ya evaluaba removerlo",
+"en": 1.7,
+"hi": true
+}
+]
+}
+]
+]
+},
+{
+"txt": "La dirige de forma interina la directora financiera, Colette Kress.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "archivo",
+"bg": "v:nv/nv-07.mp4@88",
+"crop": "520:420:360:210",
+"k": "Quién la dirige hoy",
+"h": "CEO <b>interina</b>",
+"nombre": "Colette Kress",
+"rol": "Directora financiera de Nvidia",
+"cred": "Bloomberg Tech"
+}
+]
+]
+},
+{
+"txt": "La acción cayó veintiuno por ciento desde el tres de noviembre.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "linea",
+"k": "Acción de Nvidia (NVDA)",
+"h": "Cayó <i>21 %</i>",
+"series": [
+{
+"pts": [
+206.69,
+200.13,
+181.6,
+186.64,
+178.67,
+168.89,
+173.73,
+166.19,
+162.85
+],
+"label": "NVDA",
+"color": "roj",
+"pre": "US$ ",
+"en": 0.2
+}
+],
+"xl": [
+"3/11",
+"13/11"
+],
+"min": 150,
+"src": "Yahoo Finance, cierres del 3 al 13/11/2026."
+}
+]
+]
+},
+{
+"txt": "¿El riesgo hacia adelante? Una empresa armada alrededor de una sola persona, sin sucesor definido, con China en el medio.",
+"vis": [
+[
+"g",
+1.8,
+{
+"g": "titulo",
+"h": "¿El riesgo <i>hacia adelante</i>?",
+"size": 180,
+"paso": 0.2,
+"en": 0.05
+}
+],
+[
+"g",
+2.7,
+{
+"g": "archivo",
+"bg": "v:nv/nv-05.mp4@80",
+"crop": "1280:960:320:0",
+"k": "El riesgo",
+"h": "Armada alrededor de <b>una sola persona</b>",
+"cred": "NVIDIA"
+}
+],
+[
+"g",
+3.6,
+{
+"g": "lista",
+"k": "Los riesgos",
+"h": "Lo que <i>queda abierto</i>",
+"items": [
+{
+"t": "Una sola persona",
+"en": 0.05
+},
+{
+"t": "Sin sucesor definido",
+"en": 0.4,
+"hi": true
+},
+{
+"t": "China en el medio",
+"en": 1.9
+}
+]
+}
+]
+]
+},
+{
+"txt": "El martes presenta resultados: la primera prueba sin su fundador.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "num",
+"bg": "v:nv/nv-05.mp4@203",
+"k": "Martes 17 de noviembre",
+"h": "Presenta <b>resultados</b>",
+"num": "17/11",
+"color": "oro",
+"sub": "la primera prueba sin su fundador",
+"en": 0.3
+}
+]
+]
+},
+{
+"txt": "Ya sabés por qué en la bolsa también importa quién maneja la empresa.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "remate",
+"k": "La idea",
+"h": "En la bolsa también importa",
+"big": "quién maneja la empresa",
+"color": "oro",
+"en": "quién"
+}
+]
+]
+},
+{
+"txt": "¿Nvidia sin Huang vale lo mismo? Comentá uno o dos.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "encuesta",
+"h": "¿Nvidia sin Huang <b>vale lo mismo</b>?",
+"o1": "Sí, la empresa es más que él",
+"o2": "No, él era Nvidia"
+}
+]
+]
+}
+]
+}

@@ -19,7 +19,7 @@ Meta: **2 reels por día**, publicados solos por Buffer cuando juan lo autorice.
 
 ## Reglas propias de esta cuenta
 - **Voz: siempre gratis.** NUNCA Mauricio ni ElevenLabs. Voz elegida por juan: **Justo** (HeyGen gratis, voice_id 49d1050d0a764f1394587a6d2409ea80). Muestras (https://claude.ai/artifact/KFQYKBPJEAv61rQkDxAaZA).
-- **Revisión financiera obligatoria**: cada guion pasa por el agente financiero (hilo "Operar cartera en IOL") antes de grabar. Revisa datos, fechas, cuentas y que la enseñanza tenga sentido. Si marca algo, se corrige antes de armar.
+- **Revisión financiera obligatoria**: cada guion pasa por el agente financiero (hilo "Agente financiero", cmsg_012iAc6VdP7eYJXjbazkX5KbADCKJgTiF33bho4iEiQ4Td; desde el 14/11 el hilo de IOL ya no revisa reels) antes de grabar. Revisa datos, fechas, cuentas y que la enseñanza tenga sentido. Si marca algo, se corrige antes de armar.
 - Números calculados con datos reales (Yahoo con period1/period2, dividendos reinvertidos cuando corresponda) y con la fecha del cálculo en el guion.
 - Nunca recomendar comprar o vender algo. Caption con: "Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros."
 - Lo dudoso o atribuido se dice como tal ("se le atribuye", "según...").

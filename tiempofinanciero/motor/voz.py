@@ -1,6 +1,6 @@
 # python3 voz.py <resultado_heygen.txt> <tfNN>  -> voz-tfNN.wav + voz-tfNN.json (sin caracteres); aplica reemplazos de subtítulo
 import sys,json,urllib.request
-REEMP={"espái":"SPY"}
+REEMP={"espái":"SPY","Envidia":"Nvidia","Yensen":"Jensen","Denis":"Denny's","Colet":"Colette","Kres":"Kress"}
 d=json.loads(open(sys.argv[1]).read())
 if isinstance(d,list): d=json.loads(d[0]["text"])
 for w in d["original_words"]:

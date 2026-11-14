@@ -1,0 +1,464 @@
+{
+"voz": "voz-tf02b.wav",
+"palabras": "voz-tf02b.json",
+"tempo": 1.1,
+"cierre": 1.8,
+"musica": "musica/mx-580.mp3",
+"musica_vol": 0.1,
+"portada": {
+"g": "portada",
+"k": "LA CUENTA",
+"h": "100 dólares <b>por mes</b>",
+"sub": "20 años en el SPY: cuánto tendrías hoy"
+},
+"segs": [
+{
+"txt": "Si en 2006 hubieras puesto cien dólares por mes en la bolsa de Estados Unidos, hoy no tendrías lo que pusiste. Tendrías más de cuatro veces más.",
+"vis": [
+[
+"g",
+3,
+{
+"g": "titulo",
+"bg": "c:46922",
+"k": "Desde 2006",
+"h": "<b>100 dólares</b> por mes",
+"size": 170,
+"paso": 0.25,
+"en": 0.9
+}
+],
+[
+"g",
+2.6,
+{
+"g": "titulo",
+"bg": "c:1044",
+"h": "En la bolsa de <b>Estados Unidos</b>",
+"size": 150,
+"paso": 0.2,
+"en": 0.1
+}
+],
+[
+"g",
+3,
+{
+"g": "num",
+"k": "20 años después",
+"h": "Lo que pusiste",
+"num": "x 4,6",
+"color": "ver",
+"sub": "más de cuatro veces",
+"en": 0.3
+}
+]
+]
+},
+{
+"txt": "Hagamos la cuenta.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "titulo",
+"bg": "c:59139",
+"h": "Hagamos <b>la cuenta</b>",
+"size": 190,
+"en": 0.05
+}
+]
+]
+},
+{
+"txt": "El SPY es un fondo que compra unas quinientas de las empresas más grandes de Estados Unidos: Apple, Microsoft, Nvidia, Coca-Cola.",
+"vis": [
+[
+"g",
+2.2,
+{
+"g": "titulo",
+"bg": "c:42489",
+"k": "Qué es",
+"h": "El <b>SPY</b>: un fondo",
+"size": 170,
+"en": 0.1
+}
+],
+[
+"g",
+3,
+{
+"g": "lista",
+"k": "SPY",
+"h": "Unas <b>500 empresas</b>",
+"items": [
+{
+"t": "Apple",
+"en": "apple"
+},
+{
+"t": "Microsoft",
+"en": "microsoft"
+},
+{
+"t": "Nvidia",
+"en": "nvidia"
+},
+{
+"t": "Coca-Cola",
+"en": "coca-cola"
+}
+]
+}
+]
+]
+},
+{
+"txt": "Desde noviembre de 2006, cien dólares todos los meses, reinvirtiendo los dividendos.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "num",
+"k": "Desde noviembre de 2006",
+"h": "Todos los meses",
+"num": "US$ 100",
+"sub": "y los dividendos adentro",
+"en": "cien",
+"row": "240 aportes",
+"row_en": "reinvirtiendo"
+}
+]
+]
+},
+{
+"txt": "En veinte años pusiste veinticuatro mil dólares.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "num",
+"bg": "c:153458",
+"k": "En 20 años",
+"h": "<b>Pusiste</b>",
+"num": "US$ 24.000",
+"color": "oro",
+"en": "veinticuatro"
+}
+]
+]
+},
+{
+"txt": "Hoy valen unos ciento once mil.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "linea",
+"k": "SPY, 2006-2026",
+"h": "Hoy: <u>US$ 111.000</u>",
+"series": [
+{
+"pts": [
+100,
+1327,
+1702,
+3578,
+5214,
+6790,
+9141,
+13253,
+16768,
+18459,
+21192,
+27322,
+30150,
+36389,
+44120,
+57616,
+53535,
+62181,
+84567,
+98419,
+111600
+],
+"label": "VALOR",
+"color": "ver",
+"pre": "US$ ",
+"en": 0.2
+},
+{
+"pts": [
+100,
+1300,
+2500,
+3700,
+4900,
+6100,
+7300,
+8500,
+9700,
+10900,
+12100,
+13300,
+14500,
+15700,
+16900,
+18100,
+19300,
+20500,
+21700,
+22900,
+24000
+],
+"label": "PUSISTE",
+"color": "gr",
+"fmt": false,
+"en": 0.1
+}
+],
+"xl": [
+"2006",
+"2016",
+"2026"
+],
+"min": 0,
+"src": "Yahoo Finance al 13/11/2026. Dividendos reinvertidos, sin comisiones ni impuestos."
+}
+]
+]
+},
+{
+"txt": "Si esos mismos cien los guardabas en el colchón, seguís teniendo veinticuatro mil. Y hoy compran bastante menos que en 2006.",
+"vis": [
+[
+"g",
+2.2,
+{
+"g": "titulo",
+"bg": "c:363408",
+"k": "La otra opción",
+"h": "En <i>el colchón</i>",
+"size": 190,
+"en": "colchón"
+}
+],
+[
+"g",
+4.4,
+{
+"g": "barras",
+"k": "Mismos 100 por mes",
+"h": "Colchón vs <u>bolsa</u>",
+"src": "Y los dólares del colchón hoy compran menos que en 2006.",
+"bars": [
+{
+"v": 24,
+"txt": "US$ 24.000",
+"label": "Colchón",
+"color": "gr",
+"en": 0.4
+},
+{
+"v": 111.6,
+"txt": "US$ 111.000",
+"label": "SPY",
+"color": "ver",
+"en": 1.3
+}
+]
+}
+]
+]
+},
+{
+"txt": "Pero ojo, no fue un tobogán para arriba.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "titulo",
+"bg": "c:251716",
+"h": "Pero <i>ojo</i>",
+"size": 210,
+"sub": "No fue un tobogán para arriba",
+"en": 0.05
+}
+]
+]
+},
+{
+"txt": "En marzo de 2009, en plena crisis, habías puesto dos mil novecientos y tenías unos mil seiscientos. Cuarenta y cinco por ciento abajo.",
+"vis": [
+[
+"g",
+5,
+{
+"g": "barras",
+"k": "Marzo de 2009",
+"h": "En plena <i>crisis</i>",
+"src": "Peor momento: cierre del 9/3/2009.",
+"bars": [
+{
+"v": 2900,
+"txt": "US$ 2.900",
+"label": "Habías puesto",
+"color": "gr",
+"en": "puesto"
+},
+{
+"v": 1606,
+"txt": "US$ 1.606",
+"label": "Tenías",
+"color": "roj",
+"en": "tenías"
+}
+]
+}
+],
+[
+"g",
+2.3,
+{
+"g": "num",
+"k": "Marzo de 2009",
+"h": "Tu inversión",
+"num": "−45 %",
+"color": "roj",
+"sub": "abajo",
+"en": 0.15
+}
+]
+]
+},
+{
+"txt": "El que vendió ahí, perdió. El que siguió poniendo sus cien dólares, compró barato cuando todos tenían miedo.",
+"vis": [
+[
+"g",
+2,
+{
+"g": "titulo",
+"bg": "c:307615@3",
+"h": "El que vendió, <i>perdió</i>",
+"size": 170,
+"paso": 0.2,
+"en": 0.1
+}
+],
+[
+"g",
+4,
+{
+"g": "titulo",
+"bg": "c:215751",
+"k": "El que siguió poniendo",
+"h": "Compró <u>barato</u>",
+"size": 190,
+"sub": "cuando todos tenían miedo",
+"en": "compró"
+}
+]
+]
+},
+{
+"txt": "En 2020 y en 2022 volvió a caer, y otra vez se recuperó.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "sello",
+"k": "Las otras caídas",
+"h": "Y otra vez <u>se recuperó</u>",
+"items": [
+{
+"t": "2009",
+"r": "−45 % tu cuenta",
+"color": "roj"
+},
+{
+"t": "2020",
+"r": "−34 % el SPY",
+"color": "roj"
+},
+{
+"t": "2022",
+"r": "−25 % el SPY",
+"color": "roj"
+}
+]
+}
+]
+]
+},
+{
+"txt": "Desde Argentina, el SPY se puede comprar como CEDEAR, en pesos al dólar contado con liqui.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "titulo",
+"bg": "c:19309",
+"k": "Desde Argentina",
+"h": "Como <b>CEDEAR</b>",
+"size": 200,
+"sub": "En pesos, al dólar contado con liqui",
+"en": "cedear"
+}
+]
+]
+},
+{
+"txt": "Ya sabés por qué la constancia le gana a adivinar el momento. Y que lo que pasó no garantiza lo que viene.",
+"vis": [
+[
+"g",
+3.2,
+{
+"g": "remate",
+"k": "La idea",
+"h": "La constancia",
+"big": "le gana a adivinar",
+"color": "ver",
+"en": "gana"
+}
+],
+[
+"g",
+2.6,
+{
+"g": "remate",
+"k": "Ojo",
+"h": "Lo que pasó",
+"big": "no garantiza lo que viene",
+"color": "oro",
+"en": 0.5
+}
+]
+]
+},
+{
+"txt": "Si mañana la bolsa cae un cuarenta por ciento, ¿qué hacés? Comentá 1 o 2.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "encuesta",
+"h": "Si la bolsa cae <i>40 %</i>, ¿qué hacés?",
+"o1": "Vendo todo",
+"o2": "Sigo poniendo"
+}
+]
+]
+}
+]
+}
