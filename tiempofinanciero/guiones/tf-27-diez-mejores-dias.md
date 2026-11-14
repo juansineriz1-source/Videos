@@ -21,14 +21,15 @@ Cálculo: Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), US$ 
 | 9 | La contra es real: para cobrar esos días hubo que aguantar una caída de cincuenta y cinco por ciento. | -55 % | Gráfico: línea con zoom 2007-2009, de 11.417 (9/10/2007) a 5.116 (9/3/2009) |
 | 10 | Esquivando los diez peores tendrías mucho más. Pero nadie sabe cuáles son hasta que pasaron. | NADIE LOS ADIVINA | Pixabay: dice rolling on table |
 | 11 | Ya sabés por qué entrar y salir puede costar caro. Y que lo que pasó no garantiza lo que viene. | 10 DÍAS, MEDIA GANANCIA | Gráfico: remate "Siempre adentro: US$ 77.900 / Sin los 10 mejores días: US$ 33.800" |
-| 12 | Cuando la bolsa se derrumba, ¿qué te cuesta más: quedarte quieto o volver a entrar? Votá abajo. | QUEDARME QUIETO / VOLVER A ENTRAR | Placa de encuesta + cierre |
+| 12 | Cuando la bolsa se derrumba, ¿qué te cuesta más: quedarte quieto o volver a entrar? Comentá 1 o 2. | QUEDARME QUIETO / VOLVER A ENTRAR | Placa de encuesta + cierre |
 
-## Encuesta para poner
-En una caída, ¿qué te cuesta más? / Quedarme quieto / Volver a entrar
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+En una caída, ¿qué te cuesta más? / 1: Quedarme quieto / 2: Volver a entrar
 
 ## Caption
 US$ 10.000 en el SPY del 14/11/2006 al 13/11/2026: unos US$ 77.900. Si te perdías solo los 10 mejores días (de más de 5.000 ruedas): unos US$ 33.800, un 57 % menos. Sin los 40 mejores, terminabas con menos de lo que pusiste. Esos días fueron en 2008, 2009, 2020 y 2025, casi todos pegados a los peores. La otra cara: esquivando los 10 peores días tendrías mucho más, pero nadie sabe de antemano cuáles son. Y quedarse adentro fue aguantar una caída de 55 %.
 Cálculo con datos de Yahoo Finance al 13/11/2026, rendimientos diarios con dividendos reinvertidos, sin comisiones ni impuestos. Cuenta en dólares.
+En una caída, ¿qué te cuesta más? Comentá 1 (Quedarme quieto) o 2 (Volver a entrar) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #spy #bolsa #inversiones #largoplazo #markettiming #finanzas #argentina
 

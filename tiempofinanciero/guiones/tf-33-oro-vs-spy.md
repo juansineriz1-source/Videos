@@ -22,14 +22,15 @@ Cálculo: Yahoo Finance, GLD (fondo respaldado por oro físico; no paga dividend
 | 9 | Y la pelea sigue: en abril de este año, el oro todavía iba adelante. | ABRIL 2026: ORO ARRIBA | Pixabay: two runners race track |
 | 10 | En los últimos diez años, el oro multiplicó por tres y el SPY por cuatro. | 10 AÑOS: x3 vs x4 | Gráfico: barras últimos 10 años "Oro: x3,1" contra "SPY: x4,1" |
 | 11 | Ya sabés que oro y acciones no siempre caen juntos. Y que lo que pasó no garantiza lo que viene. | NO SIEMPRE CAEN JUNTOS | Gráfico: remate "20 años: Oro x5,8 / SPY x7,8" |
-| 12 | Veinte años sin poder tocar la plata: ¿qué elegís, oro o acciones? Votá abajo. | ORO / ACCIONES | Placa de encuesta + cierre |
+| 12 | Veinte años sin poder tocar la plata: ¿qué elegís, oro o acciones? Comentá 1 o 2. | ORO / ACCIONES | Placa de encuesta + cierre |
 
-## Encuesta para poner
-Veinte años sin tocarla: ¿qué elegís? / Oro / Acciones
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+Veinte años sin tocarla: ¿qué elegís? / 1: Oro / 2: Acciones
 
 ## Caption
 Oro contra acciones, 20 años (14/11/2006 al 13/11/2026). US$ 1.000 en GLD (fondo respaldado por oro físico): unos US$ 5.770. US$ 1.000 en el SPY con dividendos reinvertidos: unos US$ 7.790. Pero el oro fue adelante el 48 % de los días: en la crisis de 2008 subió 24 % mientras el SPY caía 55 %. Después el oro cayó 46 % y tardó casi nueve años en recuperarse. Según cuándo mires, gana uno u otro.
 Cálculo con datos de Yahoo Finance al 13/11/2026. El GLD no paga dividendos y su gasto anual ya está en el precio. Sin comisiones de compra ni impuestos. Cuenta en dólares.
+Veinte años sin tocarla: ¿qué elegís? Comentá 1 (Oro) o 2 (Acciones) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #oro #gld #spy #inversiones #refugio #bolsa #finanzas
 

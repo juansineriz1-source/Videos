@@ -17,13 +17,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK por el agente fina
 | 11 | En los papeles, el fondo valía sesenta y cinco mil millones de dólares. Lo que la gente había puesto de verdad eran unos diecisiete mil quinientos millones. | US$ 65.000 M vs 17.500 M | Gráfico: dos barras |
 | 12 | Madoff fue condenado a ciento cincuenta años de cárcel y murió preso en 2021. | 150 AÑOS | Pixabay: rejas / cárcel |
 | 13 | Ya sabés la regla: un rendimiento sin altibajos no es un premio, es una alarma. | ES UNA ALARMA | Gráfico: línea perfecta con alarma |
-| 14 | ¿Vos le hubieras dado tu plata? Votá abajo. | SÍ, ME CONVENCÍA / NO, DEMASIADO PERFECTO | Placa de encuesta + cierre de marca |
+| 14 | ¿Vos le hubieras dado tu plata? Comentá 1 o 2. | SÍ, ME CONVENCÍA / NO, DEMASIADO PERFECTO | Placa de encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Le hubieras dado tu plata a Madoff? / Sí, me convencía / No, demasiado perfecto
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Le hubieras dado tu plata a Madoff? / 1: Sí, me convencía / 2: No, demasiado perfecto
 
 ## Caption
 El fondo que nunca perdía 📉 Bernie Madoff mostró ganancias parejas durante décadas… y era todo mentira. La estafa Ponzi más grande de la historia, en un minuto.
+¿Le hubieras dado tu plata a Madoff? Comentá 1 (Sí, me convencía) o 2 (No, demasiado perfecto) 👇
 Contenido educativo. No es recomendación de inversión.
 #madoff #bolsa #inversiones #estafa #wallstreet #finanzas #argentina
 

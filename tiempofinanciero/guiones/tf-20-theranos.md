@@ -15,14 +15,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | En 2018 la empresa cerró. En 2022 un jurado declaró culpable a Holmes de cuatro cargos de fraude a inversores. | CULPABLE: 4 CARGOS | Gráfico: línea: valuación: US$ 9.000 M (2014) → US$ 800 M (2016, Forbes) → cierre (2018) |
 | 10 | La condenaron a once años y tres meses. En 2026 un juez le redujo un año. | 135 → 123 MESES | Gráfico: número grande: condena: 135 meses (2022) → 123 meses (marzo de 2026) · restitución US$ 452 M |
 | 11 | Ya sabés qué mirar: nombres famosos y mucha plata no reemplazan una prueba independiente. | PEDÍ LA PRUEBA | Pixabay: microscope scientist checking |
-| 12 | ¿Vos hubieras puesto plata en Theranos, sí o no? Votá abajo. | SÍ, CON ESE DIRECTORIO / NO, SIN PRUEBAS | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 12 | ¿Vos hubieras puesto plata en Theranos, sí o no? Comentá 1 o 2. | SÍ, CON ESE DIRECTORIO / NO, SIN PRUEBAS | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Hubieras puesto plata en Theranos? / Sí, con ese directorio / No, sin pruebas
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Hubieras puesto plata en Theranos? / 1: Sí, con ese directorio / 2: No, sin pruebas
 
 ## Caption
 Prometía análisis de sangre con unas gotas del dedo. Juntó más de 700 millones de dólares y llegó a valer 9.000 millones. Después se supo cómo se hacían los análisis. Theranos, en un minuto.
 Fuentes: The Wall Street Journal (2015), SEC, Departamento de Justicia de EE. UU. Imágenes: Pixabay y Wikimedia Commons.
+¿Hubieras puesto plata en Theranos? Comentá 1 (Sí, con ese directorio) o 2 (No, sin pruebas) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #theranos #elizabethholmes #startups #siliconvalley #inversiones #finanzas #historiasdenegocios
 

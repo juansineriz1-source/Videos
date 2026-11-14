@@ -15,14 +15,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | Al catorce de noviembre de 2026, un bitcoin cotiza cerca de sesenta y cinco mil dólares. | 1 BTC ≈ US$ 65.200 | Gráfico: línea: precio de bitcoin 2010 → 14/11/2026: US$ 65.200 |
 | 10 | Cada pizza: trescientos veinticinco millones. Hanyecz dijo varias veces que no se arrepiente. | US$ 325 M CADA UNA | Gráfico: barras: US$ 41 (2010) vs US$ 652 M (14/11/2026) |
 | 11 | Ya sabés por qué esta historia importa: una moneda vale cuando alguien la acepta a cambio de algo. | VALE SI ALGUIEN LA ACEPTA | Pixabay: paying with phone shop |
-| 12 | ¿Vos qué hubieras hecho con diez mil bitcoins en 2010: gastarlos o guardarlos? Votá abajo. | GASTARLOS / GUARDARLOS | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 12 | ¿Vos qué hubieras hecho con diez mil bitcoins en 2010: gastarlos o guardarlos? Comentá 1 o 2. | GASTARLOS / GUARDARLOS | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Qué hubieras hecho con 10.000 bitcoins en 2010? / Gastarlos / Guardarlos
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué hubieras hecho con 10.000 bitcoins en 2010? / 1: Gastarlos / 2: Guardarlos
 
 ## Caption
 22 de mayo de 2010: un programador paga dos pizzas con 10.000 bitcoins, que ese día valían unos 41 dólares. Al 14/11/2026 serían unos 650 millones. La primera compra con bitcoin, en un minuto.
 Precio de bitcoin: Yahoo Finance (BTC-USD), 14/11/2026. Imágenes: Pixabay.
+¿Qué hubieras hecho con 10.000 bitcoins en 2010? Comentá 1 (Gastarlos) o 2 (Guardarlos) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #bitcoin #bitcoinpizzaday #cripto #historiadelbitcoin #finanzas #inversiones
 

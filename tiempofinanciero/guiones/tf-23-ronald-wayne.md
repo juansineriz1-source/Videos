@@ -16,14 +16,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 10 | El diez por ciento serían quinientos dieciocho mil millones. Aunque con los años esa parte se habría achicado mucho. | 10 % = US$ 518.000 M | Pixabay: modern glass technology store |
 | 11 | Wayne dijo que no se arrepiente: decidió con la información que tenía. | "NO ME ARREPIENTO" | Gráfico: cita: Ronald Wayne: tomó "la mejor decisión con la información disponible en ese momento" |
 | 12 | Ya sabés que el riesgo no es igual para todos: depende de cuánto tenés para perder. | EL RIESGO NO ES IGUAL PARA TODOS | Pixabay: balance scale weights |
-| 13 | ¿Vos te quedabas en Apple o agarrabas los ochocientos dólares? Votá abajo. | ME QUEDABA / AGARRABA LOS 800 | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 13 | ¿Vos te quedabas en Apple o agarrabas los ochocientos dólares? Comentá 1 o 2. | ME QUEDABA / AGARRABA LOS 800 | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Te quedabas en Apple o agarrabas los 800 dólares? / Me quedaba / Agarraba los 800
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Te quedabas en Apple o agarrabas los 800 dólares? / 1: Me quedaba / 2: Agarraba los 800
 
 ## Caption
 Apple tuvo tres fundadores. El tercero se fue a los doce días y vendió su 10 % por 800 dólares. La historia de Ronald Wayne, y por qué él dice que no se arrepiente.
 Valor de Apple: Yahoo Finance, cierre del 13/11/2026 (cálculo del 14/11/2026). El 10 % de hoy es una cuenta teórica: con las rondas de inversión esa parte se habría diluido. Imágenes: Pixabay y Wikimedia Commons.
+¿Te quedabas en Apple o agarrabas los 800 dólares? Comentá 1 (Me quedaba) o 2 (Agarraba los 800) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #apple #ronaldwayne #stevejobs #historiasdenegocios #bolsa #inversiones #finanzas
 

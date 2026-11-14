@@ -16,13 +16,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 | 10 | Tenía unos veinte mil empleados. Muchos perdieron el trabajo y gran parte de sus ahorros para la jubilación. | 20.000 EMPLEADOS | Wikimedia: logo de Enron frente a su sede de Houston (verificar licencia libre) |
 | 11 | Su director ejecutivo, Jeffrey Skilling, fue condenado a veinticuatro años de cárcel. | 24 AÑOS | Gráfico: número grande. 24 años de condena (2006); cumplió unos 12 |
 | 12 | Ya sabés el riesgo de tener el sueldo y los ahorros en la misma canasta: si se cae, perdés las dos cosas. | TODO EN UNA CANASTA | Pixabay: eggs in basket |
-| 13 | ¿Vos tendrías acciones de la empresa donde trabajás? Votá abajo. | SÍ, LA CONOZCO / NO, YA ME JUEGO EL SUELDO | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 13 | ¿Vos tendrías acciones de la empresa donde trabajás? Comentá 1 o 2. | SÍ, LA CONOZCO / NO, YA ME JUEGO EL SUELDO | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Tendrías acciones de la empresa donde trabajás? / Sí, la conozco / No, ya me juego el sueldo
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Tendrías acciones de la empresa donde trabajás? / 1: Sí, la conozco / 2: No, ya me juego el sueldo
 
 ## Caption
 Enron: seis años elegida la empresa más innovadora de Estados Unidos, y los balances eran humo. De noventa dólares a menos de uno.
+¿Tendrías acciones de la empresa donde trabajás? Comentá 1 (Sí, la conozco) o 2 (No, ya me juego el sueldo) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #enron #fraude #wallstreet #bolsa #inversiones #finanzas #argentina
 

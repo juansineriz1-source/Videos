@@ -21,14 +21,15 @@ Cálculo: Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), US$ 
 | 9 | Con uno por ciento anual se va la cuarta parte. Con medio punto, catorce por ciento. | 0,5 % · 1 % · 2 % | Gráfico: barras valor final "Sin comisión: 170.500 / 0,5 %: 146.800 / 1 %: 126.200 / 2 %: 93.100 / 3 %: 68.500" |
 | 10 | Ojo: la comisión se cobra igual cuando perdés. Entre 2007 y 2009 esa inversión cayó cincuenta y cinco por ciento. | -55 % Y SE COBRA IGUAL | Pixabay: stock market crash red numbers |
 | 11 | Ya sabés que un número chico, repetido treinta años, es enorme. Y que lo que pasó no garantiza lo que viene. | CHICO x 30 AÑOS = ENORME | Gráfico: remate "Sin comisión: US$ 170.500 / Con 2 % anual: US$ 93.100" |
-| 12 | ¿Qué mirás primero cuando te ofrecen un fondo: cuánto rindió o cuánto cobra? Votá abajo. | CUÁNTO RINDIÓ / CUÁNTO COBRA | Placa de encuesta + cierre |
+| 12 | ¿Qué mirás primero cuando te ofrecen un fondo: cuánto rindió o cuánto cobra? Comentá 1 o 2. | CUÁNTO RINDIÓ / CUÁNTO COBRA | Placa de encuesta + cierre |
 
-## Encuesta para poner
-¿Qué mirás primero en un fondo? / Cuánto rindió / Cuánto cobra
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué mirás primero en un fondo? / 1: Cuánto rindió / 2: Cuánto cobra
 
 ## Caption
 US$ 10.000 en el SPY del 14/11/1996 al 13/11/2026, con dividendos reinvertidos: unos US$ 170.500. La misma inversión con una comisión de 2 % anual sobre el saldo: unos US$ 93.100. La comisión se llevó unos US$ 77.400, el 45 % del resultado. Con 1 % anual se va el 26 %; con 0,5 %, el 14 %. En el medio hubo una caída de 55 %, y la comisión se cobra igual.
 El 2 % es un ejemplo, no la comisión de ningún fondo en particular. Cálculo con datos de Yahoo Finance al 13/11/2026, comisión descontada día a día, sin otras comisiones ni impuestos. Cuenta en dólares.
+¿Qué mirás primero en un fondo? Comentá 1 (Cuánto rindió) o 2 (Cuánto cobra) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #comisiones #interescompuesto #inversiones #fondos #spy #finanzas #argentina
 

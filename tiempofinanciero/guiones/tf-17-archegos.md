@@ -15,14 +15,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | Los bancos perdieron más de diez mil millones. Solo Credit Suisse, cinco mil quinientos. | BANCOS: -US$ 10.000 M | Gráfico: barras: Credit Suisse 5.500 · Nomura 2.850 · Morgan Stanley 911 · UBS 774 · MUFG 300 (US$ M) |
 | 10 | En 2024 un jurado lo declaró culpable de fraude y manipulación, y lo condenaron a dieciocho años. Él apeló. | 18 AÑOS (APELADO) | Wikimedia: tribunal federal de Manhattan (Thurgood Marshall Courthouse) |
 | 11 | Ya sabés qué hace la plata prestada: agranda lo que ganás, y también lo que perdés. | AGRANDA TODO | Gráfico: barras: con apalancamiento 5 a 1: +10 % → +50 % · -10 % → -50 % |
-| 12 | ¿Vos invertirías con plata prestada, sí o no? Votá abajo. | SÍ, CON CUIDADO / NO, NUNCA | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 12 | ¿Vos invertirías con plata prestada, sí o no? Comentá 1 o 2. | SÍ, CON CUIDADO / NO, NUNCA | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Invertirías con plata prestada? / Sí, con cuidado / No, nunca
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Invertirías con plata prestada? / 1: Sí, con cuidado / 2: No, nunca
 
 ## Caption
 No era un banco ni un fondo famoso: era la oficina de un solo hombre. En marzo de 2021 cayó en días y les costó más de 10.000 millones de dólares a los bancos que le prestaban. Archegos, en un minuto.
 Fuentes: Departamento de Justicia de EE. UU., Bloomberg, Reuters. Imágenes: Pixabay y Wikimedia Commons.
+¿Invertirías con plata prestada? Comentá 1 (Sí, con cuidado) o 2 (No, nunca) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #archegos #billhwang #apalancamiento #bolsa #wallstreet #finanzas #inversiones
 

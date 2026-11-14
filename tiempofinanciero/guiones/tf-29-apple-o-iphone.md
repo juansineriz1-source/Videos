@@ -21,14 +21,15 @@ Cálculo: Yahoo Finance, AAPL diario con dividendos reinvertidos (adjclose). Com
 | 9 | Además, en 2007 nadie sabía que iba a ganar Apple. Nokia y BlackBerry dominaban, y sus acciones después se hundieron. | NOKIA Y BLACKBERRY | Pixabay: old mobile phones pile |
 | 10 | La misma plata en el SPY, repartida entre quinientas empresas, hoy serían unos cuatro mil trescientos dólares. | SPY: US$ 4.300 | Gráfico: barras "Apple: US$ 58.500" contra "SPY: US$ 4.270" contra "iPhone: pieza de colección" |
 | 11 | Ya sabés que elegir a la ganadora es fácil mirando para atrás. Y que lo que pasó no garantiza lo que viene. | FÁCIL MIRANDO PARA ATRÁS | Gráfico: remate "US$ 599 en 2007 → US$ 58.500 en 2026, con una caída de 61 % en el medio" |
-| 12 | ¿Qué es más difícil: no comprarte el teléfono o aguantar la acción cuando cae sesenta por ciento? Votá abajo. | NO COMPRAR EL TELÉFONO / AGUANTAR LA CAÍDA | Placa de encuesta + cierre |
+| 12 | ¿Qué es más difícil: no comprarte el teléfono o aguantar la acción cuando cae sesenta por ciento? Comentá 1 o 2. | NO COMPRAR EL TELÉFONO / AGUANTAR LA CAÍDA | Placa de encuesta + cierre |
 
-## Encuesta para poner
-¿Qué es más difícil? / No comprar el teléfono / Aguantar la caída
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué es más difícil? / 1: No comprar el teléfono / 2: Aguantar la caída
 
 ## Caption
 El primer iPhone salió a la venta el 29/6/2007 a US$ 599 (8 GB, con contrato). Esa plata en acciones de Apple ese mismo día, con dividendos reinvertidos, hoy serían unos US$ 58.500. Pero no fue un paseo: en enero de 2009 valían US$ 384, con la acción 61 % abajo de su pico, y después hubo otras cuatro caídas de más de 30 %. Y en 2007 las líderes eran Nokia y BlackBerry. La misma plata en el SPY: unos US$ 4.270.
 Cálculo con datos de Yahoo Finance del 29/6/2007 al 13/11/2026 (precio de cierre, ajustado por splits), sin comisiones ni impuestos. Cuenta en dólares.
+¿Qué es más difícil? Comentá 1 (No comprar el teléfono) o 2 (Aguantar la caída) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #apple #iphone #aapl #inversiones #cedears #bolsa #finanzas
 

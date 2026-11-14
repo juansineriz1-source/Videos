@@ -15,13 +15,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | Fue la mayor de la historia del país. Tenía veinticinco mil empleados. | 25.000 EMPLEADOS | Pixabay: office worker carrying box |
 | 10 | Ese día el Dow Jones cayó más de quinientos puntos, y la crisis se hizo mundial. | -500 PUNTOS | Gráfico: línea. Dow Jones, 15-9-2008: -504 puntos (-4,4 %) |
 | 11 | Ya sabés que el tamaño no protege: a un banco lo funden la deuda y la pérdida de confianza. | EL TAMAÑO NO PROTEGE | Pixabay: domino falling row |
-| 12 | ¿Vos creés que había que rescatar a Lehman? Votá abajo. | SÍ, HABÍA QUE SALVARLO / NO, QUE QUIEBRE | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 12 | ¿Vos creés que había que rescatar a Lehman? Comentá 1 o 2. | SÍ, HABÍA QUE SALVARLO / NO, QUE QUIEBRE | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Había que rescatar a Lehman Brothers? / Sí, había que salvarlo / No, que quiebre
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Había que rescatar a Lehman Brothers? / 1: Sí, había que salvarlo / 2: No, que quiebre
 
 ## Caption
 15 de septiembre de 2008: el cuarto banco de inversión de Estados Unidos pidió la quiebra y la crisis se volvió mundial. Lehman Brothers en un minuto.
+¿Había que rescatar a Lehman Brothers? Comentá 1 (Sí, había que salvarlo) o 2 (No, que quiebre) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #lehmanbrothers #crisis2008 #wallstreet #bolsa #inversiones #finanzas #argentina
 

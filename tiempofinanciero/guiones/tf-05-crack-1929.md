@@ -15,13 +15,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 | 9 | Había perdido el ochenta y nueve por ciento desde el máximo. | -89 % | Pixabay: empty old bank hall |
 | 10 | Recién en noviembre de 1954 volvió a ese nivel. Veinticinco años de espera. | 25 AÑOS | Gráfico: línea. Dow Jones 1929-1954, vuelve a 381 el 23-11-1954 |
 | 11 | Ya sabés lo que hace la deuda: agranda las ganancias, pero en la baja te saca del juego. | LA DEUDA TE SACA DEL JUEGO | Pixabay: old coins falling |
-| 12 | ¿Vos invertirías en la bolsa con plata prestada? Votá abajo. | SÍ, SI LA VEO CLARA / NO, NUNCA | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 12 | ¿Vos invertirías en la bolsa con plata prestada? Comentá 1 o 2. | SÍ, SI LA VEO CLARA / NO, NUNCA | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Invertirías en la bolsa con plata prestada? / Sí, si la veo clara / No, nunca
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Invertirías en la bolsa con plata prestada? / 1: Sí, si la veo clara / 2: No, nunca
 
 ## Caption
 1929: se compraban acciones con diez por ciento propio y el resto prestado. Cuando la bolsa cayó, la deuda hizo el resto. El crack del 29 en un minuto.
+¿Invertirías en la bolsa con plata prestada? Comentá 1 (Sí, si la veo clara) o 2 (No, nunca) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #crackdel29 #wallstreet #bolsa #historia #inversiones #finanzas #argentina
 

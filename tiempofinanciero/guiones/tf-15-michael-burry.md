@@ -15,14 +15,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | En 2007 las hipotecas empezaron a caer y en 2008 arrastraron a bancos enteros. | 2007-2008 | Wikimedia: sede de Lehman Brothers en Nueva York, 2008 |
 | 10 | Según el libro La gran apuesta, ganó cien millones para él y más de setecientos para sus inversores. | US$ 100 M + 700 M | Gráfico: barras: Burry US$ 100 M · sus inversores US$ 700 M (fuente: Michael Lewis) |
 | 11 | Ya sabés lo más difícil de tener razón antes de tiempo: aguantar mientras todos creen que estás equivocado. | TENER RAZÓN ANTES DE TIEMPO | Gráfico: línea: Scion +489 % neto (nov. 2000 - jun. 2008) vs S&P 500 +2 % |
-| 12 | ¿Vos hubieras aguantado dos años perdiendo, o salías antes? Votá abajo. | AGUANTABA / SALÍA ANTES | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 12 | ¿Vos hubieras aguantado dos años perdiendo, o salías antes? Comentá 1 o 2. | AGUANTABA / SALÍA ANTES | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Hubieras aguantado dos años perdiendo? / Aguantaba / Salía antes
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Hubieras aguantado dos años perdiendo? / 1: Aguantaba / 2: Salía antes
 
 ## Caption
 Un médico leyó lo que nadie leía y apostó contra las hipotecas de Estados Unidos. Dos años perdiendo, hasta que llegó 2008. La historia de Michael Burry en un minuto.
 Fuentes: Michael Lewis, "The Big Short" (2010); cartas de Scion Capital. Imágenes: Pixabay y Wikimedia Commons.
+¿Hubieras aguantado dos años perdiendo? Comentá 1 (Aguantaba) o 2 (Salía antes) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #michaelburry #lagranapuesta #crisis2008 #bolsa #inversiones #finanzas #wallstreet
 

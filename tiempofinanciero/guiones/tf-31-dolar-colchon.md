@@ -20,14 +20,15 @@ Cálculo: inflación de EE. UU. con el CPI-U del BLS (todos los rubros, promedio
 | 8 | Pero ojo: el colchón nunca mostró un número en rojo. El SPY cayó cincuenta y cinco por ciento en la crisis de 2008. | SPY: -55 % | Pixabay: stock market crash red screen |
 | 9 | Y en Argentina, el dólar guardado te cubrió de algo mucho peor: la inflación en pesos. | CONTRA EL PESO, SIRVIÓ | Pixabay: buenos aires city street |
 | 10 | Ya sabés que el colchón también cuesta, aunque no se vea. Y que lo que pasó no garantiza lo que viene. | EL COLCHÓN TAMBIÉN CUESTA | Gráfico: remate "US$ 100 en 2006 → compran como US$ 60 en 2026" |
-| 11 | ¿Qué te da más miedo: ver tu inversión caer cuarenta por ciento, o perderlo sin darte cuenta? Votá abajo. | VERLA CAER / PERDER SIN VERLO | Placa de encuesta + cierre |
+| 11 | ¿Qué te da más miedo: ver tu inversión caer cuarenta por ciento, o perderlo sin darte cuenta? Comentá 1 o 2. | VERLA CAER / PERDER SIN VERLO | Placa de encuesta + cierre |
 
-## Encuesta para poner
-¿Qué te da más miedo? / Verla caer 40 % / Perder 40 % sin verlo
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué te da más miedo? / 1: Verla caer 40 % / 2: Perder 40 % sin verlo
 
 ## Caption
 US$ 100 guardados en el colchón en 2006 siguen siendo US$ 100. Pero entre octubre de 2006 y octubre de 2026 los precios en Estados Unidos subieron 67 % (2,6 % anual), así que hoy compran lo que antes comprabas con unos US$ 60. Para comprar lo mismo que entonces hacen falta US$ 167. Esos mismos US$ 100 en el SPY, con dividendos reinvertidos, serían unos US$ 779, pero con una caída de 55 % en el medio que el colchón no tuvo. Y contra la inflación en pesos, el dólar guardado sí cubrió.
 Fuente de inflación: CPI-U del BLS (oct-2006: 201,8; oct-2026: 337,511). SPY: Yahoo Finance del 14/11/2006 al 13/11/2026, sin comisiones ni impuestos. Cuenta en dólares.
+¿Qué te da más miedo? Comentá 1 (Verla caer 40 %) o 2 (Perder 40 % sin verlo) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #dolar #dolarcolchon #inflacion #ahorro #inversiones #finanzas #argentina
 

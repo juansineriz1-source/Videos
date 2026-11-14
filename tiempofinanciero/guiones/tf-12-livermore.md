@@ -16,13 +16,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 | 10 | Murió en 1940, a los sesenta y tres años, en Nueva York. | 1877-1940 | Pixabay: empty hotel lobby vintage |
 | 11 | Había ganado y perdido fortunas más de una vez. | GANÓ Y PERDIÓ | Gráfico: línea de su fortuna: 1907, 1915, 1929, 1934 |
 | 12 | Ya sabés que ganar plata y conservarla son dos habilidades distintas. | GANAR NO ES CONSERVAR | Pixabay: hourglass sand dark |
-| 13 | ¿Qué te parece más difícil con la plata? Votá abajo. | GANARLA / CONSERVARLA | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 13 | ¿Qué te parece más difícil con la plata? Comentá 1 o 2. | GANARLA / CONSERVARLA | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Qué es más difícil con la plata? / Ganarla / Conservarla
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué es más difícil con la plata? / 1: Ganarla / 2: Conservarla
 
 ## Caption
 Jesse Livermore empezó anotando precios en una pizarra, ganó fortunas apostando a la baja en 1907 y 1929, y quebró tres veces. Su vida inspiró el libro 'Recuerdos de un operador de bolsa' (Edwin Lefèvre, 1923).
+¿Qué es más difícil con la plata? Comentá 1 (Ganarla) o 2 (Conservarla) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #jesselivermore #trading #wallstreet #bolsa #inversiones #finanzas #argentina
 

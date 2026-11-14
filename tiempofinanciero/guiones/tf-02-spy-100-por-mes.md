@@ -21,14 +21,15 @@ Cálculo: Yahoo Finance, SPY mensual con dividendos reinvertidos (adjclose), 100
 | 11 | En 2020 y en 2022 volvió a caer, y otra vez se recuperó. | — | Gráfico: caídas marcadas 2020 y 2022 |
 | 12 | Desde Argentina, el SPY se puede comprar como CEDEAR, en pesos al dólar contado con liqui. | CEDEAR | Pixabay: Buenos Aires / Obelisco |
 | 13 | Ya sabés por qué la constancia le gana a adivinar el momento. Y que lo que pasó no garantiza lo que viene. | CONSTANCIA > TIMING | Gráfico: resumen 24.000 → 111.000 |
-| 14 | Si mañana la bolsa cae un cuarenta por ciento, ¿qué hacés? Votá abajo. | VENDO TODO / SIGO PONIENDO | Placa de encuesta + cierre |
+| 14 | Si mañana la bolsa cae un cuarenta por ciento, ¿qué hacés? Comentá 1 o 2. | VENDO TODO / SIGO PONIENDO | Placa de encuesta + cierre |
 
-## Encuesta para poner
-Si la bolsa cae 40 %, ¿qué hacés? / Vendo todo / Sigo poniendo
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+Si la bolsa cae 40 %, ¿qué hacés? / 1: Vendo todo / 2: Sigo poniendo
 
 ## Caption
 100 dólares por mes durante 20 años en el SPY (las 500 empresas más grandes de EE. UU.): pusiste US$ 24.000 y hoy tendrías unos US$ 111.000. Con una caída de más del 40 % en el medio. Cuenta en dólares.
 Cálculo con datos de Yahoo Finance al 13/11/2026, dividendos reinvertidos, sin comisiones (en Argentina ~0,7 % por compra) ni impuestos.
+Si la bolsa cae 40 %, ¿qué hacés? Comentá 1 (Vendo todo) o 2 (Sigo poniendo) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #spy #inversiones #interescompuesto #cedears #bolsa #finanzas #argentina
 

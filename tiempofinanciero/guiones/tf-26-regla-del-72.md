@@ -20,14 +20,15 @@ Cálculo: regla del 72 (años para duplicar ≈ 72 / tasa anual en %). Contraste
 | 9 | Con una caída de cincuenta y cinco por ciento, recién en 2011 quedó para siempre arriba del doble. | -55 % | Gráfico: línea con zoom 1996-2011 y la raya de "x2" marcada: cruza en 1999, vuelve a caer en 2002 y 2008, la pasa definitivamente en 2011 |
 | 10 | También sirve al revés. Con la inflación de Estados Unidos, los precios en dólares se duplican cada veintiocho años. | INFLACIÓN: x2 EN 28 AÑOS | Pixabay: supermarket shopping cart prices |
 | 11 | Ya sabés estimar una duplicación sin calculadora. Y que lo que pasó no garantiza lo que viene. | 72 ÷ TASA | Gráfico: remate "72 ÷ tasa = años para duplicar" |
-| 12 | ¿Qué es más difícil: conseguir una buena tasa o aguantar los años que hacen falta? Votá abajo. | CONSEGUIR LA TASA / AGUANTAR LOS AÑOS | Placa de encuesta + cierre |
+| 12 | ¿Qué es más difícil: conseguir una buena tasa o aguantar los años que hacen falta? Comentá 1 o 2. | CONSEGUIR LA TASA / AGUANTAR LOS AÑOS | Placa de encuesta + cierre |
 
-## Encuesta para poner
-¿Qué es más difícil? / Conseguir la tasa / Aguantar los años
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué es más difícil? / 1: Conseguir la tasa / 2: Aguantar los años
 
 ## Caption
 Regla del 72: dividís 72 por la tasa anual y te da, más o menos, los años que tarda en duplicarse la plata. Al 6 %, 12 años; al 10 %, unos 7. La probamos con el SPY: del 14/11/1996 al 13/11/2026 rindió 9,9 % anual con dividendos reinvertidos, y mil dólares se hicieron unos 17 mil (cuatro duplicaciones). Pero el camino no fue parejo: hubo una caída de 55 % y recién en 2011 quedó definitivamente arriba del doble. También sirve al revés: con la inflación de EE. UU. de los últimos 20 años (2,6 % anual, CPI del BLS), los precios se duplican cada 28 años.
 Es una aproximación, no una fórmula exacta. Cálculo con datos de Yahoo Finance al 13/11/2026, sin comisiones ni impuestos. Cuenta en dólares.
+¿Qué es más difícil? Comentá 1 (Conseguir la tasa) o 2 (Aguantar los años) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #regladel72 #interescompuesto #inversiones #spy #inflacion #finanzas #argentina
 

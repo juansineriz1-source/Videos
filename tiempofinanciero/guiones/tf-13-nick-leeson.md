@@ -16,13 +16,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 10 | Barings, con doscientos treinta y tres años, se vendió por una libra. | VENDIDO POR £ 1 | Gráfico: número grande. £ 1: lo que pagó ING por Barings (1995) |
 | 11 | A Leeson lo condenaron a seis años y medio de cárcel en Singapur. | 6 AÑOS Y MEDIO | Pixabay: prison bars shadow |
 | 12 | Ya sabés lo que pasa cuando se dobla la apuesta para tapar una pérdida: el agujero crece. | EL AGUJERO CRECE | Pixabay: hole in ground dark |
-| 13 | ¿Quién te parece que tuvo más culpa? Votá abajo. | LEESON / EL BANCO QUE NO CONTROLÓ | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 13 | ¿Quién te parece que tuvo más culpa? Comentá 1 o 2. | LEESON / EL BANCO QUE NO CONTROLÓ | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Quién tuvo más culpa en la caída del Barings? / Leeson / El banco que no controló
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Quién tuvo más culpa en la caída del Barings? / 1: Leeson / 2: El banco que no controló
 
 ## Caption
 1995: un operador de 28 años escondió pérdidas en la cuenta 88888 hasta fundir a un banco de 233 años. Nick Leeson y la quiebra del Barings.
+¿Quién tuvo más culpa en la caída del Barings? Comentá 1 (Leeson) o 2 (El banco que no controló) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #nickleeson #barings #trading #bolsa #inversiones #finanzas #argentina
 

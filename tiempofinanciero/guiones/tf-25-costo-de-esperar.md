@@ -22,14 +22,15 @@ Cálculo: Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), 100 
 | 10 | Pero ojo: la primera también se comió la caída de las puntocom y la de 2008. | DOS CRISIS | Pixabay: stock market crash red screen |
 | 11 | En marzo de 2009, tras doce años aportando, había puesto catorce mil novecientos y tenía diez mil. | -33 % | Gráfico: barras al 2009-03-09 "Puesto: US$ 14.900" contra "Valía: US$ 10.000" (-33 %) |
 | 12 | Ya sabés que el tiempo pesa más que el monto. Y que lo que pasó no garantiza lo que viene. | TIEMPO > MONTO | Gráfico: remate "30 años: US$ 239.500 / 20 años: US$ 111.600" |
-| 13 | ¿Qué te frenó más para empezar: la falta de plata o el miedo a perder? Votá abajo. | FALTA DE PLATA / MIEDO A PERDER | Placa de encuesta + cierre |
+| 13 | ¿Qué te frenó más para empezar: la falta de plata o el miedo a perder? Comentá 1 o 2. | FALTA DE PLATA / MIEDO A PERDER | Placa de encuesta + cierre |
 
-## Encuesta para poner
-¿Qué te frenó más para empezar? / Falta de plata / Miedo a perder
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué te frenó más para empezar? / 1: Falta de plata / 2: Miedo a perder
 
 ## Caption
 Dos personas, 100 dólares por mes en el SPY. Una empezó en noviembre de 1996 (30 años): puso US$ 36.000 y hoy tendría unos US$ 239.500. La otra esperó diez años (desde noviembre de 2006): puso US$ 24.000 y tendría unos US$ 111.600. Doce mil dólares menos de aportes, casi 128 mil menos de resultado. La que empezó antes también pasó dos crisis: en marzo de 2009 tenía 33 % menos de lo que había puesto.
 Cálculo con datos de Yahoo Finance al 13/11/2026: aporte el primer día hábil de cada mes, dividendos reinvertidos, sin comisiones ni impuestos. Cuenta en dólares.
+¿Qué te frenó más para empezar? Comentá 1 (Falta de plata) o 2 (Miedo a perder) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #interescompuesto #spy #inversiones #ahorro #bolsa #finanzas #argentina
 

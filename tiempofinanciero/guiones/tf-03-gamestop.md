@@ -16,13 +16,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: corregido con la revisión fin
 | 10 | Ese mismo día, Robinhood, la app que usaban casi todos, frenó las compras. | COMPRAS BLOQUEADAS | Gráfico: celular con botón bloqueado |
 | 11 | La acción se desplomó, y muchos que entraron tarde perdieron mucha plata. | — | Pixabay: pantalla en rojo |
 | 12 | Ya sabés qué es un short squeeze: cuando los que apostaron a la baja tienen que salir corriendo a comprar. | — | Gráfico: resumen |
-| 13 | ¿Quién ganó esa pelea? Votá abajo. | LOS DEL FORO / WALL STREET | Placa de encuesta + cierre |
+| 13 | ¿Quién ganó esa pelea? Comentá 1 o 2. | LOS DEL FORO / WALL STREET | Placa de encuesta + cierre |
 
-## Encuesta para poner
-¿Quién ganó la pelea de GameStop? / Los del foro / Wall Street
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Quién ganó la pelea de GameStop? / 1: Los del foro / 2: Wall Street
 
 ## Caption
 Enero 2021: un foro de Reddit contra los fondos de Wall Street. Qué es un short squeeze, contado con GameStop.
+¿Quién ganó la pelea de GameStop? Comentá 1 (Los del foro) o 2 (Wall Street) 👇
 Precios antes del desdoblamiento de acciones de 2022. Contenido educativo. No es recomendación de inversión.
 #gamestop #wallstreetbets #shortsqueeze #bolsa #inversiones #finanzas
 

@@ -15,13 +15,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | Esas diferencias, en vez de achicarse, se agrandaron. El fondo perdió cuatro mil seiscientos millones en menos de cuatro meses. | -US$ 4.600 M | Gráfico: número grande. -US$ 4.600 M en menos de cuatro meses |
 | 10 | La Reserva Federal de Nueva York reunió a catorce bancos, que pusieron tres mil seiscientos millones para evitar algo peor. | 14 BANCOS AL RESCATE | Wikimedia: edificio del Banco de la Reserva Federal de Nueva York (dominio público) |
 | 11 | Ya sabés que tener razón no alcanza: con demasiada deuda, el mercado te funde antes de dártela. | LA DEUDA NO ESPERA | Pixabay: chess king fallen |
-| 12 | ¿Qué te parece que pesa más al invertir? Votá abajo. | SER UN GENIO / NO ENDEUDARSE | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 12 | ¿Qué te parece que pesa más al invertir? Comentá 1 o 2. | SER UN GENIO / NO ENDEUDARSE | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Qué pesa más al invertir? / Ser un genio / No endeudarse
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué pesa más al invertir? / 1: Ser un genio / 2: No endeudarse
 
 ## Caption
 1998: un fondo con dos premios Nobel y 25 dólares de deuda por cada dólar propio. Rusia dejó de pagar y hubo que juntar a 14 bancos para rescatarlo.
+¿Qué pesa más al invertir? Comentá 1 (Ser un genio) o 2 (No endeudarse) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #ltcm #hedgefund #wallstreet #bolsa #inversiones #finanzas #argentina
 

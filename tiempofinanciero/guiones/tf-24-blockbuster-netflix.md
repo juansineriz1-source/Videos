@@ -16,14 +16,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 10 | Hoy queda un solo local abierto, en Bend, Oregón. | QUEDA UNO | Wikimedia: el último Blockbuster, Bend, Oregón |
 | 11 | Netflix vale unas cinco mil veces lo que pidió aquella vez. Cálculo al catorce de noviembre de 2026. | × 5.000 | Gráfico: número grande: US$ 255.000 M ÷ US$ 50 M = 5.100 veces |
 | 12 | Ya sabés que muchas veces a una empresa grande no la tumba el rival: la tumba no cambiar a tiempo. | NO CAMBIAR A TIEMPO | Pixabay: abandoned store closed sign |
-| 13 | ¿Vos hubieras comprado Netflix en el 2000, sí o no? Votá abajo. | SÍ, LA COMPRABA / NO, PERDÍA PLATA | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 13 | ¿Vos hubieras comprado Netflix en el 2000, sí o no? Comentá 1 o 2. | SÍ, LA COMPRABA / NO, PERDÍA PLATA | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Hubieras comprado Netflix en el 2000? / Sí, la compraba / No, perdía plata
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Hubieras comprado Netflix en el 2000? / 1: Sí, la compraba / 2: No, perdía plata
 
 ## Caption
 Año 2000: los fundadores de Netflix viajan a Dallas a ofrecerle la empresa a Blockbuster por 50 millones de dólares. La respuesta fue no. Diez años después, Blockbuster pidió la quiebra.
 Valor de Netflix: Yahoo Finance, cierre del 13/11/2026 (cálculo del 14/11/2026). Fuente del encuentro: Marc Randolph, "That Will Never Work" (2019). Imágenes: Pixabay y Wikimedia Commons.
+¿Hubieras comprado Netflix en el 2000? Comentá 1 (Sí, la compraba) o 2 (No, perdía plata) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #netflix #blockbuster #historiasdenegocios #streaming #bolsa #inversiones #finanzas
 

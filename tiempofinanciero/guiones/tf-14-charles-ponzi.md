@@ -15,13 +15,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 | 9 | Los inversores recuperaron menos de treinta centavos por cada dólar. | 30 CENTAVOS POR DÓLAR | Gráfico: barras. Por cada US$ 1 puesto: menos de US$ 0,30 recuperados |
 | 10 | Ponzi fue preso, lo deportaron en 1934 y murió en 1949 en un hospital de Río de Janeiro, casi sin plata. | MURIÓ CON US$ 75 | Pixabay: rio de janeiro old street |
 | 11 | Ya sabés cómo reconocer un esquema Ponzi: te pagan con plata de otros inversores, no con ganancias reales. | ESQUEMA PONZI | Pixabay: house of cards collapse |
-| 12 | ¿Alguna vez te ofrecieron algo así? Votá abajo. | SÍ, Y CASI ENTRO / NO, NUNCA | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 12 | ¿Alguna vez te ofrecieron algo así? Comentá 1 o 2. | SÍ, Y CASI ENTRO / NO, NUNCA | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Alguna vez te ofrecieron algo así? / Sí, y casi entro / No, nunca
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Alguna vez te ofrecieron algo así? / 1: Sí, y casi entro / 2: No, nunca
 
 ## Caption
 Boston, 1920: Charles Ponzi prometía 50 % en 45 días con cupones de correo. Pagaba a los primeros con la plata de los últimos, y la estafa se quedó con su apellido.
+¿Alguna vez te ofrecieron algo así? Comentá 1 (Sí, y casi entro) o 2 (No, nunca) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #ponzi #estafa #esquemaponzi #bolsa #inversiones #finanzas #argentina
 

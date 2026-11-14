@@ -16,14 +16,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 10 | En 2023 un jurado lo declaró culpable de siete cargos de fraude y conspiración. | CULPABLE: 7 CARGOS | Wikimedia: tribunal federal Daniel Patrick Moynihan, Nueva York |
 | 11 | En 2024 lo condenaron a veinticinco años de prisión. En junio de 2026 le rechazaron la apelación. | 25 AÑOS | Gráfico: sello: 28/03/2024: 25 años · decomiso US$ 11.020 M · apelación rechazada 12/06/2026 |
 | 12 | Ya sabés la diferencia: una cosa es tener cripto y otra es dejársela a alguien para que la guarde. | TENER ≠ DEJAR EN CUSTODIA | Pixabay: hardware wallet key |
-| 13 | ¿Vos dónde tendrías tus criptos: en una plataforma o en tu propia billetera? Votá abajo. | EN UNA PLATAFORMA / EN MI BILLETERA | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 13 | ¿Vos dónde tendrías tus criptos: en una plataforma o en tu propia billetera? Comentá 1 o 2. | EN UNA PLATAFORMA / EN MI BILLETERA | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Dónde tendrías tus criptos? / En una plataforma / En mi billetera
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Dónde tendrías tus criptos? / 1: En una plataforma / 2: En mi billetera
 
 ## Caption
 En enero de 2022 valía 32.000 millones de dólares. En noviembre, los clientes no podían retirar su plata. La caída de FTX, en un minuto.
 Fuentes: Departamento de Justicia de EE. UU., CoinDesk, expediente de quiebra de FTX. Imágenes: Pixabay y Wikimedia Commons.
+¿Dónde tendrías tus criptos? Comentá 1 (En una plataforma) o 2 (En mi billetera) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #ftx #cripto #bitcoin #sambankmanfried #finanzas #inversiones #historiasdelabolsa
 

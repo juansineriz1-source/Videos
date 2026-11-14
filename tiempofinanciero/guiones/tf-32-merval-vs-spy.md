@@ -22,15 +22,16 @@ Cálculo: no se consiguió una serie confiable de 20 años del Merval en dólare
 | 8 | Entre 2018 y 2020 perdieron ochenta y seis por ciento. La peor caída del SPY fue treinta y cuatro. | -86 % vs -34 % | Gráfico: barras peor caída "5 argentinas: -86 %" contra "SPY: -34 %" |
 | 9 | En 2024 subieron ciento cuarenta y cuatro por ciento en un año. Y en lo que va de 2026 bajan treinta y tres. | 2024: +144 % / 2026: -33 % | Gráfico: barras por año calendario "2017: +116 % / 2018: -48 % / 2019: -40 % / 2024: +144 % / 2026: -33 %" |
 | 10 | Ya sabés que Argentina en dólares paga a los saltos. Y que lo que pasó no garantiza lo que viene. | A LOS SALTOS | Gráfico: remate "15 años: Argentina x3,8 / SPY x7,8" |
-| 11 | ¿Qué te pesa más de las acciones argentinas: el año que suben sesenta por ciento o cuando caen sesenta? Votá abajo. | EL +60 % / EL -60 % | Placa de encuesta + cierre |
+| 11 | ¿Qué te pesa más de las acciones argentinas: el año que suben sesenta por ciento o cuando caen sesenta? Comentá 1 o 2. | EL +60 % / EL -60 % | Placa de encuesta + cierre |
 
-## Encuesta para poner
-¿Qué te pesa más de las acciones argentinas? / El año de +60 % / La caída de -60 %
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué te pesa más de las acciones argentinas? / 1: El año de +60 % / 2: La caída de -60 %
 
 ## Caption
 Acciones argentinas en dólares contra el SPY, 15 años (14/11/2011 al 13/11/2026). US$ 1.000 en el ARGT: unos US$ 3.800. US$ 1.000 en el SPY: unos US$ 7.800. El camino argentino: ocho años para volver al punto de partida, una caída de 62 % entre 2018 y 2020 (24 % en un solo día después de las PASO de 2019), y casi toda la suba en 2023 y 2024.
 Aclaración: usamos el ETF ARGT (cotiza en dólares en Nueva York desde 2011) porque no conseguimos una serie confiable de 20 años del Merval en dólares CCL. El ARGT no es el Merval: incluye empresas argentinas que cotizan afuera, como MercadoLibre.
 Cálculo con datos de Yahoo Finance al 13/11/2026, dividendos reinvertidos, sin comisiones ni impuestos.
+¿Qué te pesa más de las acciones argentinas? Comentá 1 (El año de +60 %) o 2 (La caída de -60 %) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #merval #argt #spy #accionesargentinas #inversiones #finanzas #argentina
 

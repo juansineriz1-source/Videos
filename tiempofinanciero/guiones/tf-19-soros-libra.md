@@ -15,14 +15,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | La ganancia de Soros se estima en más de mil millones de dólares. | +US$ 1.000 M | Gráfico: número grande: ganancia estimada: más de US$ 1.000 M |
 | 10 | Al Tesoro británico le costó unos tres mil trescientos millones de libras. | -£ 3.300 M | Gráfico: barras: Soros +US$ 1.000 M (estimado) vs Tesoro británico -£ 3.300 M (estimación oficial de 2005) |
 | 11 | Ya sabés qué pasa con un tipo de cambio fijo cuando el mercado deja de creerle. Acá lo vimos. | ACÁ LO VIMOS | Pixabay: currency exchange board rates |
-| 12 | ¿Quién tuvo la culpa: Soros o el gobierno? Votá abajo. | SOROS / EL GOBIERNO | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 12 | ¿Quién tuvo la culpa: Soros o el gobierno? Comentá 1 o 2. | SOROS / EL GOBIERNO | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Quién tuvo la culpa del miércoles negro? / Soros / El gobierno
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Quién tuvo la culpa del miércoles negro? / 1: Soros / 2: El gobierno
 
 ## Caption
 16 de septiembre de 1992: el Reino Unido sube la tasa dos veces en un día y, a la tarde, suelta la libra. Del otro lado había un fondo con más de 10.000 millones de dólares apostados. El miércoles negro, en un minuto.
 Fuentes: Tesoro del Reino Unido (estimación de 2005), biografías de George Soros. Imágenes: Pixabay y Wikimedia Commons.
+¿Quién tuvo la culpa del miércoles negro? Comentá 1 (Soros) o 2 (El gobierno) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #soros #libra #miercolesnegro #tipodecambio #historiaeconomica #finanzas #inversiones
 

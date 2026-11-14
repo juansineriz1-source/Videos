@@ -15,13 +15,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | En 1841, el escocés Charles Mackay escribió que hubo ruina general. Así nació la leyenda. | LA LEYENDA | Wikimedia: portada de 'Extraordinary Popular Delusions' de Charles Mackay, 1841 (dominio público) |
 | 10 | Pero la historiadora Anne Goldgar revisó los archivos y encontró menos de seis personas con problemas serios. | MENOS DE 6 CASOS | Gráfico: sello. 'RUINA GENERAL' tachado; debajo: menos de 6 casos documentados (Goldgar, 2007) |
 | 11 | Ya sabés cómo se arma una burbuja: comprás algo caro solo porque creés que otro va a pagar más. | OTRO VA A PAGAR MÁS | Pixabay: tulips close up wilting |
-| 12 | ¿Vos creés que hoy hay algún tulipán dando vueltas? Votá abajo. | SÍ, MÁS DE UNO / NO, ESO YA NO PASA | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 12 | ¿Vos creés que hoy hay algún tulipán dando vueltas? Comentá 1 o 2. | SÍ, MÁS DE UNO / NO, ESO YA NO PASA | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Hoy hay algún tulipán dando vueltas? / Sí, más de uno / No, eso ya no pasa
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Hoy hay algún tulipán dando vueltas? / 1: Sí, más de uno / 2: No, eso ya no pasa
 
 ## Caption
 Holanda, 1637: bulbos de tulipán a precio de casa. La burbuja existió, pero la historia de la ruina general es bastante más leyenda que archivo.
+¿Hoy hay algún tulipán dando vueltas? Comentá 1 (Sí, más de uno) o 2 (No, eso ya no pasa) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #tulipanes #burbuja #historia #bolsa #inversiones #finanzas #argentina
 

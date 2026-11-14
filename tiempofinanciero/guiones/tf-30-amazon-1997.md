@@ -20,14 +20,15 @@ Cálculo: Yahoo Finance, AMZN diario (Amazon nunca pagó dividendos, así que cl
 | 8 | Tardó casi diez años en volver. Después cayó sesenta y cinco por ciento en 2008 y cincuenta y seis en 2022. | 10 AÑOS PARA VOLVER | Pixabay: man stressed looking at laptop |
 | 9 | Y había que elegir justo Amazon. Muchas puntocom desaparecieron, como Pets punto com, Webvan o eToys. | LAS QUE NO LLEGARON | Gráfico: lista tachada "Pets.com / Webvan / eToys" y sin tachar "Amazon" |
 | 10 | Ya sabés que el premio grande exigió aguantar caídas enormes y tener suerte. Y que lo que pasó no garantiza lo que viene. | PREMIO GRANDE, CAÍDAS ENORMES | Gráfico: remate "US$ 1.000 → US$ 2,7 millones, con un -94 % en el medio" |
-| 11 | A fines de 1999, con mil dólares convertidos en cincuenta y cuatro mil, ¿qué hacías? Votá abajo. | VENDÍA TODO / ME QUEDABA | Placa de encuesta + cierre |
+| 11 | A fines de 1999, con mil dólares convertidos en cincuenta y cuatro mil, ¿qué hacías? Comentá 1 o 2. | VENDÍA TODO / ME QUEDABA | Placa de encuesta + cierre |
 
-## Encuesta para poner
-Con US$ 1.000 convertidos en US$ 54.000, ¿qué hacías? / Vendía todo / Me quedaba
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+Con US$ 1.000 convertidos en US$ 54.000, ¿qué hacías? / 1: Vendía todo / 2: Me quedaba
 
 ## Caption
 Amazon empezó a cotizar el 15/5/1997 y cerró su primer día a US$ 23,50. Mil dólares a ese precio, sin vender nunca, hoy serían unos US$ 2,72 millones. La parte que no se cuenta: de fines de 1999 a septiembre de 2001 cayó 94 % (de unos US$ 54.500 a US$ 3.050) y tardó casi diez años en recuperar ese pico. Después cayó 65 % en 2008 y 56 % en 2022. Y muchas puntocom de esa camada desaparecieron. En el mismo período, mil dólares en el SPY: unos US$ 14.800.
 Cálculo con datos de Yahoo Finance del 15/5/1997 (primer cierre, ajustado por splits) al 13/11/2026. Amazon no paga dividendos. Sin comisiones ni impuestos. Cuenta en dólares.
+Con US$ 1.000 convertidos en US$ 54.000, ¿qué hacías? Comentá 1 (Vendía todo) o 2 (Me quedaba) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #amazon #amzn #puntocom #inversiones #bolsa #finanzas #cedears
 

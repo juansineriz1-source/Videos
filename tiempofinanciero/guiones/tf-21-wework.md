@@ -15,14 +15,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 | 9 | SoftBank la rescató. En noviembre de 2019 ya reconocía pérdidas de más de cuatro mil millones con WeWork. | SOFTBANK: -US$ 4.600 M | Gráfico: barras: SoftBank: invirtió US$ 10.300 M · pérdida reconocida US$ 4.600 M (nov. 2019) |
 | 10 | Salió a la bolsa recién en 2021, valuada en nueve mil millones. En noviembre de 2023 pidió la quiebra. | 47.000 → 9.000 → QUIEBRA | Gráfico: línea: US$ 47.000 M (ene. 2019) → US$ 9.000 M (oct. 2021) → quiebra (06/11/2023) |
 | 11 | Ya sabés la diferencia entre valuación y valor: una es lo que alguien pagó, la otra es lo que la empresa gana. | VALUACIÓN ≠ VALOR | Pixabay: price tag hand |
-| 12 | ¿Qué mirás primero en una empresa: cuánto crece o cuánto gana? Votá abajo. | CUÁNTO CRECE / CUÁNTO GANA | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 12 | ¿Qué mirás primero en una empresa: cuánto crece o cuánto gana? Comentá 1 o 2. | CUÁNTO CRECE / CUÁNTO GANA | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Qué mirás primero en una empresa? / Cuánto crece / Cuánto gana
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué mirás primero en una empresa? / 1: Cuánto crece / 2: Cuánto gana
 
 ## Caption
 En enero de 2019 valía 47.000 millones de dólares. En agosto mostró sus números para salir a la bolsa: perdía más de lo que facturaba. WeWork, en un minuto.
 Fuentes: prospecto S-1 de The We Company (agosto de 2019), TechCrunch. Imágenes: Pixabay y Wikimedia Commons.
+¿Qué mirás primero en una empresa? Comentá 1 (Cuánto crece) o 2 (Cuánto gana) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #wework #startups #valuacion #softbank #bolsa #inversiones #historiasdenegocios
 

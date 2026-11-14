@@ -15,14 +15,15 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | O sea: cada año cobra el sesenta y cinco por ciento de lo que puso. Sin vender nada. | 65 % POR AÑO | Gráfico: barras: lo que puso US$ 1.299 M vs lo que cobra por año US$ 848 M |
 | 10 | Y las acciones valen casi cuarenta mil millones. Cálculo al catorce de noviembre de 2026. | US$ 39.700 M | Gráfico: barras: costo US$ 1.299 M vs valor US$ 39.700 M (cierre 13/11/2026: US$ 99,25) |
 | 11 | Ya sabés qué es el rendimiento sobre el costo: lo que cobrás hoy, medido contra lo que pagaste hace años. | RENDIMIENTO SOBRE EL COSTO | Pixabay: calendar pages time passing |
-| 12 | ¿Vos qué preferís: cobrar dividendos todos los años o vender cuando sube? Votá abajo. | COBRAR DIVIDENDOS / VENDER CUANDO SUBE | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
+| 12 | ¿Vos qué preferís: cobrar dividendos todos los años o vender cuando sube? Comentá 1 o 2. | COBRAR DIVIDENDOS / VENDER CUANDO SUBE | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
 
-## Encuesta para poner
-¿Qué preferís? / Cobrar dividendos / Vender cuando sube
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué preferís? / 1: Cobrar dividendos / 2: Vender cuando sube
 
 ## Caption
 En 1988 Warren Buffett empezó a comprar Coca-Cola. Nunca vendió. Hoy esas acciones le pagan a Berkshire más de 2 millones de dólares por día en dividendos.
 Cálculo al 14/11/2026 con datos de Yahoo Finance y del informe anual de Berkshire Hathaway. Imágenes: Pixabay y Wikimedia Commons.
+¿Qué preferís? Comentá 1 (Cobrar dividendos) o 2 (Vender cuando sube) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #warrenbuffett #cocacola #dividendos #bolsa #inversiones #largoplazo #finanzas
 

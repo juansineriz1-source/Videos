@@ -1,6 +1,6 @@
 {
-"voz": "voz.wav",
-"palabras": "voz.json",
+"voz": "voz-tf01b.wav",
+"palabras": "voz-tf01b.json",
 "tempo": 1.1,
 "cierre": 1.8,
 "musica": "musica/mx-188.mp3",
@@ -496,7 +496,7 @@
 ]
 },
 {
-"txt": "¿Vos le hubieras dado tu plata? Votá abajo.",
+"txt": "¿Vos le hubieras dado tu plata? Comentá 1 o 2.",
 "vis": [
 [
 "g",

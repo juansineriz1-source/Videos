@@ -15,13 +15,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 9 | Al día siguiente, la Reserva Federal avisó que estaba lista para dar toda la liquidez necesaria. | LA FED RESPALDA | Wikimedia: edificio Eccles de la Reserva Federal, Washington (dominio público) |
 | 10 | El mercado se calmó, y en menos de dos años había superado los máximos previos a la caída. | MENOS DE 2 AÑOS | Gráfico: línea. S&P 500: 336,77 antes de la caída, recupera ese nivel el 26-7-1989 |
 | 11 | Ya sabés que un día negro asusta, pero el que vendió en el pánico convirtió un susto en pérdida. | SUSTO NO ES PÉRDIDA | Pixabay: sunrise over city skyline |
-| 12 | ¿Qué hacés vos si la bolsa cae veinte por ciento en un día? Votá abajo. | VENDO TODO / ME QUEDO QUIETO | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 12 | ¿Qué hacés vos si la bolsa cae veinte por ciento en un día? Comentá 1 o 2. | VENDO TODO / ME QUEDO QUIETO | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Qué hacés si la bolsa cae 20 % en un día? / Vendo todo / Me quedo quieto
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Qué hacés si la bolsa cae 20 % en un día? / 1: Vendo todo / 2: Me quedo quieto
 
 ## Caption
 19 de octubre de 1987: el Dow Jones perdió 22,6 % en una sola rueda, sin guerra ni quiebra de por medio. El lunes negro en un minuto.
+¿Qué hacés si la bolsa cae 20 % en un día? Comentá 1 (Vendo todo) o 2 (Me quedo quieto) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #lunesnegro #1987 #wallstreet #bolsa #inversiones #finanzas #argentina
 

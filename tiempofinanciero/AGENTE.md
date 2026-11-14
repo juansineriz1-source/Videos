@@ -13,12 +13,12 @@ Meta: **2 reels por día**, publicados solos por Buffer cuando juan lo autorice.
 - Sin zoom excesivo ni cuadros cortados: la imagen se tiene que entender entera.
 - No repetir clips ni fotos entre reels. Nada de tomas con subtítulos en inglés.
 - Subtítulos palabra por palabra, carteles cortos en mayúscula, barra de progreso.
-- **Cierre**: "Ya sabés X" + pregunta con **2 opciones** + "Votá abajo". Las opciones van en pantalla y en el sticker de encuesta de IG; el texto para publicar trae "Encuesta para poner: pregunta / Opción 1 / Opción 2".
+- **Cierre** (juan 2026-11-14): "Ya sabés X" + pregunta con **2 opciones** + "Comentá 1 o 2". Sin sticker de encuesta: Buffer no puede ponerlo y esta cuenta publica sola. Las dos opciones van dibujadas en el video con su número, y el caption repite la pregunta con "Comentá 1 (…) o 2 (…)".
 - Portada diseñada (1080x1920, lo clave en el centro 1080x1440).
 - Fuentes y créditos de todo video o foto de terceros en el caption.
 
 ## Reglas propias de esta cuenta
-- **Voz: siempre gratis.** NUNCA Mauricio ni ElevenLabs. Voz elegida por juan: _pendiente_ (muestras: https://claude.ai/artifact/KFQYKBPJEAv61rQkDxAaZA).
+- **Voz: siempre gratis.** NUNCA Mauricio ni ElevenLabs. Voz elegida por juan: **Justo** (HeyGen gratis, voice_id 49d1050d0a764f1394587a6d2409ea80). Muestras (https://claude.ai/artifact/KFQYKBPJEAv61rQkDxAaZA).
 - **Revisión financiera obligatoria**: cada guion pasa por el agente financiero (hilo "Operar cartera en IOL") antes de grabar. Revisa datos, fechas, cuentas y que la enseñanza tenga sentido. Si marca algo, se corrige antes de armar.
 - Números calculados con datos reales (Yahoo con period1/period2, dividendos reinvertidos cuando corresponda) y con la fecha del cálculo en el guion.
 - Nunca recomendar comprar o vender algo. Caption con: "Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros."

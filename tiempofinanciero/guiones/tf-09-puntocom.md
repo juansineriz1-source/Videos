@@ -15,13 +15,14 @@ Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 | 9 | El Nasdaq cayó setenta y ocho por ciento hasta octubre de 2002, y tardó unos quince años en recuperar el máximo. | -78 % | Gráfico: línea. Nasdaq: 5.048 (10-3-2000) a 1.114 (9-10-2002); recupera el máximo en 2015 |
 | 10 | Ojo: internet sí cambió el mundo. Amazon sobrevivió, aunque su acción cayó noventa y cuatro por ciento. | LA IDEA ERA BUENA | Pixabay: online shopping delivery boxes |
 | 11 | Ya sabés la diferencia: una buena idea no siempre es un buen negocio, ni una buena inversión a cualquier precio. | IDEA ≠ NEGOCIO | Pixabay: light bulb idea dark |
-| 12 | ¿Hoy ves algo parecido con la inteligencia artificial? Votá abajo. | SÍ, ES OTRA BURBUJA / NO, ESTA VEZ ES DISTINTO | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
+| 12 | ¿Hoy ves algo parecido con la inteligencia artificial? Comentá 1 o 2. | SÍ, ES OTRA BURBUJA / NO, ESTA VEZ ES DISTINTO | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
-## Encuesta para poner
-¿Ves algo parecido hoy con la inteligencia artificial? / Sí, es otra burbuja / No, esta vez es distinto
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Ves algo parecido hoy con la inteligencia artificial? / 1: Sí, es otra burbuja / 2: No, esta vez es distinto
 
 ## Caption
 Pets.com: aviso en el Super Bowl, salida a la bolsa y cierre, todo en el mismo año. La burbuja puntocom en un minuto.
+¿Ves algo parecido hoy con la inteligencia artificial? Comentá 1 (Sí, es otra burbuja) o 2 (No, esta vez es distinto) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #puntocom #nasdaq #burbuja #bolsa #inversiones #finanzas #argentina
 

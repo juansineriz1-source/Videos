@@ -14,13 +14,14 @@ Tipo: historia. Duración objetivo: 55-60 s. Estado: corregido con la revisión 
 | 8 | Y se le atribuye la frase: "Puedo calcular el movimiento de los astros, pero no la locura de la gente". | "LA LOCURA DE LA GENTE" | Pixabay: cielo estrellado |
 | 9 | La lección: ser un genio no te salva del miedo a quedarte afuera. | FOMO | Gráfico: definición |
 | 10 | Ya sabés que lo peligroso no es entrar: es volver a entrar porque todos están ganando. | — | Gráfico: resumen |
-| 11 | ¿Te pasó alguna vez? Votá abajo. | SÍ, ENTRÉ TARDE / NO, NUNCA | Placa de encuesta + cierre |
+| 11 | ¿Te pasó alguna vez? Comentá 1 o 2. | SÍ, ENTRÉ TARDE / NO, NUNCA | Placa de encuesta + cierre |
 
-## Encuesta para poner
-¿Alguna vez entraste tarde por FOMO? / Sí, entré tarde / No, nunca
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+¿Alguna vez entraste tarde por FOMO? / 1: Sí, entré tarde / 2: No, nunca
 
 ## Caption
 Isaac Newton perdió una fortuna en la burbuja de los Mares del Sur (1720). El genio de la física contra el FOMO.
+¿Alguna vez entraste tarde por FOMO? Comentá 1 (Sí, entré tarde) o 2 (No, nunca) 👇
 Contenido educativo. No es recomendación de inversión.
 #newton #burbuja #historia #bolsa #inversiones #fomo #finanzas
 

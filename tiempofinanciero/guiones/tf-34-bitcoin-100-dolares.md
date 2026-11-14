@@ -22,14 +22,15 @@ Cálculo: Yahoo Finance, BTC-USD diario (cierre UTC; bitcoin cotiza todos los d�
 | 10 | Aun así, multiplicó por noventa y siete. Los mismos cien en el SPY son unos cuatrocientos. | x97 vs x4 | Gráfico: barras "Bitcoin: US$ 9.680" contra "SPY: US$ 408" |
 | 11 | Pero bitcoin no tiene ganancias ni dividendos. Su precio depende de cuánta gente lo quiera. | SIN GANANCIAS NI DIVIDENDOS | Pixabay: question mark neon sign |
 | 12 | Ya sabés que la ganancia fue enorme, aguantando caídas de ochenta por ciento. Y que lo que pasó no garantiza lo que viene. | x97 CON DOS -80 % | Gráfico: lista de caídas "2018: -83 % / 2021: -53 % / 2022: -77 % / 2026: -53 %" |
-| 13 | Con cien dólares convertidos en diecisiete mil, ¿vendías una parte o no tocabas nada? Votá abajo. | VENDÍA UNA PARTE / NO TOCABA NADA | Placa de encuesta + cierre |
+| 13 | Con cien dólares convertidos en diecisiete mil, ¿vendías una parte o no tocabas nada? Comentá 1 o 2. | VENDÍA UNA PARTE / NO TOCABA NADA | Placa de encuesta + cierre |
 
-## Encuesta para poner
-Con US$ 100 convertidos en US$ 17.000, ¿qué hacías? / Vendía una parte / No tocaba nada
+## Pregunta de cierre (va dibujada en el video con 1 y 2, y al final del texto)
+Con US$ 100 convertidos en US$ 17.000, ¿qué hacías? / 1: Vendía una parte / 2: No tocaba nada
 
 ## Caption
 US$ 100 en bitcoin el 14/11/2016 (a unos US$ 705 por bitcoin) hoy serían unos US$ 9.680. En el camino: de US$ 2.766 a US$ 459 en 2018 (-83 %), de US$ 9.584 a US$ 2.239 en 2022 (-77 %), y desde el máximo de octubre de 2025 (US$ 17.695) hoy está 45 % abajo. Los mismos US$ 100 en el SPY: unos US$ 408, con caídas mucho menores. Bitcoin no tiene ganancias ni dividendos: nada dice que los próximos diez años se parezcan a los últimos.
 Cálculo con datos de Yahoo Finance (BTC-USD, cierre diario) del 14/11/2016 al 13/11/2026, sin comisiones, impuestos ni costos de custodia. Cuenta en dólares.
+Con US$ 100 convertidos en US$ 17.000, ¿qué hacías? Comentá 1 (Vendía una parte) o 2 (No tocaba nada) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #bitcoin #btc #cripto #inversiones #riesgo #finanzas #argentina
 
