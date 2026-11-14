@@ -1,5 +1,5 @@
 # tf-35 Nvidia sin Jensen Huang
-Tipo: historia de actualidad (pedido de juan 2026-11-14, sale HOY). Duración objetivo: 70 s. Estado: a revisar por el agente financiero.
+Tipo: historia de actualidad (pedido de juan 2026-11-14, sale HOY). Duración objetivo: 70 s. Estado: revisado OK por el agente financiero (2026-11-14), con una corrección en la línea 4. Listo para grabar.
 
 ## Texto (voz) y visuales
 | # | Voz | Visual |
@@ -7,7 +7,7 @@ Tipo: historia de actualidad (pedido de juan 2026-11-14, sale HOY). Duración ob
 | 1 | En diez días, Nvidia perdió más de un billón de dólares de valor. Y se quedó sin el hombre que la inventó. | Archivo: Jensen Huang en una keynote. Número: −1 billón |
 | 2 | Jensen Huang fundó Nvidia en 1993 con dos socios, en la mesa de un restaurante Denny's de California. | Archivo / foto. Tercio: Jensen Huang, cofundador |
 | 3 | Hacían chips para videojuegos. Esos mismos chips terminaron siendo el motor de la inteligencia artificial. | Flujo: videojuegos → chips → inteligencia artificial |
-| 4 | Así llegó a valer más de cinco billones de dólares, más que cualquier otra empresa. | Número: US$ 5,7 billones (máximo, octubre 2026) |
+| 4 | Así llegó a valer más de cinco billones de dólares: en octubre era la empresa más valiosa del mundo. | Número: US$ 5,7 billones (máximo, octubre 2026) |
 | 5 | Y la manejaba distinto a todos: casi sin jefes intermedios, con unas sesenta personas reportándole directo a él. | Gráfico: Huang arriba, 60 puntos abajo |
 | 6 | Esa era su fuerza. Hoy es el problema. | Remate |
 | 7 | El 8 de noviembre admitió una infidelidad en una carta a sus empleados. Y sobre una de sus ex parejas hay sospechas de espionaje para China, que no están probadas. | Lista con fechas. Sello: NO PROBADO |
@@ -35,3 +35,10 @@ Fuentes: EFE, Bloomberg y The New York Times (vía Emol, El Universal y Xataka);
 - Unos 60 reportes directos: Huang lo dijo en entrevistas (cifras entre 55 y 60); juan mencionó 64. Se dice "unas sesenta".
 - Noticia (leída el 14/11): 8/11 carta a empleados admitiendo infidelidad (Emol/Bloomberg 9/11, EFE 14/11). Relación con Alice Huang, ex ejecutiva de Megaspeed, sospechada por agencias de EE. UU. de espiar para China: "presunta", no probada, China lo niega. 12/11 salida: Xataka y EFE dicen "dimitió" y que dejó también la presidencia y el directorio; Emol dice "fue destituido". Por eso el guion dice "dejó la empresa". CEO interina: Colette Kress (CFO). Resultados del 3er trimestre: 17/11.
 - Regla: nada de nombres de terceros fuera de Huang y Kress; lo no probado se dice como no probado.
+
+## Revisión financiera (agente financiero, 2026-11-14)
+- Veredicto: OK con una corrección. Se puede grabar y publicar.
+- Cifras verificadas: −21,2 % del 3/11 (206,69) al 13/11 (162,85); máximo de cierre 239,24 el 6/10/2026; −31,9 % desde el máximo. Acciones: 24.100 M (TradingView, 14/11). Valor máximo ≈ US$ 5,77 billones; perdido en esos diez días ≈ US$ 1,06 billones ("más de un billón" se sostiene, justo); hoy ≈ US$ 3,92 billones.
+- Línea 4 corregida: "más que cualquier otra empresa" pasó a "en octubre era la empresa más valiosa del mundo". Verificado el 6/10/2026: Nvidia ≈ 5,77 billones vs Apple ≈ 4,85 y Microsoft ≈ 3,93 (cierres de Yahoo × acciones actuales, aproximado). Hoy ya no es la primera: Apple ≈ 5,18 billones. No decir que "es" la más valiosa.
+- Lo no probado está dicho como no probado (sello NO PROBADO, sin nombres de terceros). "Dejó la empresa" es neutral y correcto ante fuentes que difieren.
+- Sin recomendación; caption con aviso. "Unas sesenta personas" está bien.
