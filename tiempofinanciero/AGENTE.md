@@ -56,3 +56,9 @@ Dos reels por día, todos los días:
 1. **Reel de la noticia del día**, a las 10:00 de Buenos Aires: la noticia financiera o de negocios más relevante del día, verificada en 2 fuentes, máximo 58 s. El mismo reel se sube también a la historia (reemplaza a la placa de noticia).
 2. **Reel de historia o enseñanza** (historias famosas, cuentas con números, cosas del mercado), a las 19:00: los guiones de la lista.
 Las historias de precios siguen igual. La tarea diaria arranca 7:07 para llegar a las 10:00 con el aprobado del juez.
+
+## Reel de noticias: prueba 1 contra 3, tono y diseño (juan 2026-11-14, 21:15Z)
+- **Prueba**: un día 1 noticia, al otro día 3 noticias, alternando (2026-11-15 = una). Registro y métricas en `noticias-prueba.csv`. Con 5 de cada formato, decirle a juan cuál rinde más.
+- **Tono**: contarlo distinto y con gracia, con vuelta de rosca. Abrir con un gancho: refrán, verso o comparación de la calle. Nada de tono de noticiero. El humor no cambia los hechos ni se burla de personas.
+- **Diseño**: gráficos muy dinámicos, estética cuidada, imágenes en HD o Ultra HD. Encargado al hilo de diseño ("Probar diseños nuevos para reels"); lo que entregue va en `diseno/`.
+- juan: "Dedicale": calidad antes que apuro.
