@@ -13,7 +13,7 @@ Meta: **2 reels por día**, publicados solos por Buffer cuando juan lo autorice.
 - Sin zoom excesivo ni cuadros cortados: la imagen se tiene que entender entera.
 - No repetir clips ni fotos entre reels. Nada de tomas con subtítulos en inglés.
 - Subtítulos palabra por palabra, carteles cortos en mayúscula, barra de progreso.
-- **Cierre** (juan 2026-11-14): "Ya sabés X" + pregunta con **2 opciones** + "Comentá 1 o 2". Sin sticker de encuesta: Buffer no puede ponerlo y esta cuenta publica sola. Las dos opciones van dibujadas en el video con su número, y el caption repite la pregunta con "Comentá 1 (…) o 2 (…)".
+- **Cierre** (juan 2026-11-14, 19:19Z): SIN encuesta ni "Comentá 1 o 2" (juan: "si no podemos poner botones, no tiene ningún sentido"). El reel termina con la idea final ("Ya sabés X") y la placa de marca. El caption tampoco pide comentar 1 o 2.
 - Portada diseñada (1080x1920, lo clave en el centro 1080x1440).
 - Fuentes y créditos de todo video o foto de terceros en el caption.
 
@@ -27,7 +27,7 @@ Meta: **2 reels por día**, publicados solos por Buffer cuando juan lo autorice.
 - Ángulo argentino cuando sume (CEDEAR, dólar colchón, plazo fijo, Merval), sin forzarlo.
 
 ## Flujo de cada reel
-1. Idea de la lista (abajo) → guion en `guiones/tf-NN-tema.md` con texto, segmentos visuales, encuesta, caption y fuentes.
+1. Idea de la lista (abajo) → guion en `guiones/tf-NN-tema.md` con texto, segmentos visuales, caption y fuentes.
 2. Revisión del agente financiero → correcciones.
 3. Voz gratis (Edge TTS o HeyGen free) con tiempos por palabra.
 4. Armado con el motor del toro (`contenido/reels-stock/armar3.py`: voz + subtítulos + clips Pixabay/Mixkit + gráficos HTML) con la paleta de esta cuenta.

@@ -32,7 +32,7 @@ Los campos `en` son la palabra de la voz en la que aparece el elemento (o un nú
 - `foto`: `img:"img/x.jpg"`, `nombre`, `pos:"50% 20%"` (foto entera en marco, sin recortar de más; crédito en `src`)
 - `cita`: `texto`, `autor`
 - `remate`: `big:"Es una alarma"`, `color` (rojo late; `ver`/`oro` sin latido), `en`
-- `encuesta`: `h` (pregunta), `o1`, `o2`
+- `encuesta`: NO usar más (juan 2026-11-14 sacó las encuestas y el "Comentá 1 o 2"); el reel cierra con `remate` + cierre de marca.
 - `portada`: `k`, `h`, `sub`, `img` opcional. `cierre`: sin parámetros.
 Probar un gráfico suelto: `node render2.js prueba.png 6 '{"d":6,"at":{},"p":{...}}'` (png = cuadro en el segundo indicado).
 
@@ -57,3 +57,6 @@ HeyGen gratis, voz "Justo - Professional" (voice_id 49d1050d0a764f1394587a6d2409
 El video real va en una ventana de 1000 px de ancho con marco sobre el fondo vivo (sirve para archivo en 360p/480p sin agrandarlo de más). `crop` recorta el original (sacar franjas negras o zócalos en inglés). Los videos AP 360p traen la imagen 4:3 con franjas: `480:360:80:0`.
 `bgcrop` recorta el video de fondo de cualquier escena con `bg`. `SOLO=4,7 python3 armar_tf3.py ...` rehace solo esas tomas y reusa el resto de tmp/.
 Ejemplo completo: `tf-01-v2.json` (Madoff, el molde).
+
+## Música (juan 2026-11-14)
+A juan la música de fondo de los tres primeros reels (Mixkit mx-188, mx-580, mx-682) le pareció "malísima, sin sentido con las finanzas". No usarlas más; ver AGENTE.md para la pista elegida.
