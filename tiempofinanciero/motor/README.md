@@ -58,5 +58,5 @@ El video real va en una ventana de 1000 px de ancho con marco sobre el fondo viv
 `bgcrop` recorta el video de fondo de cualquier escena con `bg`. `SOLO=4,7 python3 armar_tf3.py ...` rehace solo esas tomas y reusa el resto de tmp/.
 Ejemplo completo: `tf-01-v2.json` (Madoff, el molde).
 
-## Música (juan 2026-11-14)
-A juan la música de fondo de los tres primeros reels (Mixkit mx-188, mx-580, mx-682) le pareció "malísima, sin sentido con las finanzas". No usarlas más; ver AGENTE.md para la pista elegida.
+## Música y tempo (juan 2026-11-14)
+Sin música (no poner `musica` en el spec) y `"tempo": 1.21`. Ver AGENTE.md.
