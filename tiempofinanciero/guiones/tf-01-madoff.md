@@ -1,5 +1,5 @@
 # tf-01 Madoff: el fondo que nunca perdía
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK por el agente financiero (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -14,7 +14,7 @@ Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión fin
 | 8 | Un analista, Harry Markopolos, avisó a la SEC varias veces desde el año 2000: los números eran imposibles. | "IMPOSIBLE" | Gráfico: documento / sello "ignorado" |
 | 9 | No le hicieron caso. | — | Pixabay: edificio gubernamental |
 | 10 | Hasta que llegó la crisis de 2008: todos pidieron su plata al mismo tiempo, y no había. | NO HABÍA | Pixabay: pantallas de bolsa en rojo |
-| 11 | En los papeles, el fondo valía sesenta y cinco mil millones de dólares. Lo que la gente había puesto de verdad eran unos diecisiete mil millones. | US$ 65.000 M vs 17.000 M | Gráfico: dos barras |
+| 11 | En los papeles, el fondo valía sesenta y cinco mil millones de dólares. Lo que la gente había puesto de verdad eran unos diecisiete mil quinientos millones. | US$ 65.000 M vs 17.500 M | Gráfico: dos barras |
 | 12 | Madoff fue condenado a ciento cincuenta años de cárcel y murió preso en 2021. | 150 AÑOS | Pixabay: rejas / cárcel |
 | 13 | Ya sabés la regla: un rendimiento sin altibajos no es un premio, es una alarma. | ES UNA ALARMA | Gráfico: línea perfecta con alarma |
 | 14 | ¿Vos le hubieras dado tu plata? Votá abajo. | SÍ, ME CONVENCÍA / NO, DEMASIADO PERFECTO | Placa de encuesta + cierre de marca |

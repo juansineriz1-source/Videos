@@ -1,18 +1,18 @@
 # tf-03 GameStop: el foro que hizo temblar a Wall Street
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: corregido con la revisión financiera (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
 |---|---|---|---|
 | 1 | Un grupo de desconocidos en un foro de internet casi funde a un fondo de Wall Street. Y no es una película. | — | Pixabay: persona con computadora de noche |
 | 2 | Enero de 2021. GameStop, una cadena que vendía videojuegos en disco, en plena era digital. | GAMESTOP, 2021 | Pixabay: joysticks / videojuegos |
-| 3 | Los grandes fondos apostaban a que su acción iba a caer. Eso se llama ir en corto. | IR EN CORTO | Gráfico: flecha para abajo |
+| 3 | Varios fondos grandes apostaban a que su acción iba a caer. Eso se llama ir en corto. | IR EN CORTO | Gráfico: flecha para abajo |
 | 4 | Pedís acciones prestadas, las vendés, y esperás recomprarlas más baratas para devolverlas. | — | Gráfico: 3 pasos animados |
-| 5 | Pero había más acciones vendidas en corto que todas las que circulaban. | +100 % | Gráfico: barra que se pasa del tope |
+| 5 | Pero había más acciones vendidas en corto que todas las que circulaban libremente. | +100 % | Gráfico: barra que se pasa del tope |
 | 6 | En el foro WallStreetBets lo vieron, y empezaron a comprar. Miles. Millones. | WALLSTREETBETS | Pixabay: celulares, multitud |
 | 7 | La acción pasó de menos de veinte dólares a principios de enero a casi quinientos en un momento del veintiocho de enero. | US$ 20 → 483 | Gráfico: vela/línea vertical |
 | 8 | Los que estaban en corto tenían que recomprar a cualquier precio, y eso la empujaba más arriba. | SHORT SQUEEZE | Gráfico: espiral para arriba |
-| 9 | Melvin Capital, uno de esos fondos, perdió más de la mitad de su plata en un mes y tuvo que recibir un rescate. | -53 % | Pixabay: oficina vacía / pantallas |
+| 9 | Melvin Capital, uno de esos fondos, perdió más de la mitad de su plata en un mes y tuvo que recibir un rescate. Cerró en 2022. | -53 % | Pixabay: oficina vacía / pantallas |
 | 10 | Ese mismo día, Robinhood, la app que usaban casi todos, frenó las compras. | COMPRAS BLOQUEADAS | Gráfico: celular con botón bloqueado |
 | 11 | La acción se desplomó, y muchos que entraron tarde perdieron mucha plata. | — | Pixabay: pantalla en rojo |
 | 12 | Ya sabés qué es un short squeeze: cuando los que apostaron a la baja tienen que salir corriendo a comprar. | — | Gráfico: resumen |
