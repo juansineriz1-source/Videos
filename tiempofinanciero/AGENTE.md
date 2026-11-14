@@ -50,3 +50,9 @@ La cuenta: 100 USD por mes en el SPY 20 años, 100 USD una vez en 1990, el costo
 ## Música y velocidad de la voz (juan 2026-11-14, 19:43Z)
 - SIN música de fondo en los reels (rechazó la de los tres primeros y, después de escuchar opciones, eligió no poner). En el spec no va la clave `musica`.
 - Voz 10 % más rápida que en los tres primeros reels: `"tempo": 1.21` (antes 1.1).
+
+## Plan diario (juan 2026-11-14, 21:02Z)
+Dos reels por día, todos los días:
+1. **Reel de la noticia del día**, a las 10:00 de Buenos Aires: la noticia financiera o de negocios más relevante del día, verificada en 2 fuentes, máximo 58 s. El mismo reel se sube también a la historia (reemplaza a la placa de noticia).
+2. **Reel de historia o enseñanza** (historias famosas, cuentas con números, cosas del mercado), a las 19:00: los guiones de la lista.
+Las historias de precios siguen igual. La tarea diaria arranca 7:07 para llegar a las 10:00 con el aprobado del juez.
