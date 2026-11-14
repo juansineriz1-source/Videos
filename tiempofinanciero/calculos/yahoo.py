@@ -1,13 +1,13 @@
 """Helper comun de los calculos tf-25 a tf-34. Baja precios diarios de Yahoo Finance
 (period1/period2, nunca range=max) y da utilidades. Fecha del calculo: 2026-11-14,
-ultimo cierre usado: 2026-11-13. Cache en calculos/cache/ para que el revisor
+ultimo cierre usado: 2026-11-13. Cache en la carpeta temporal del sistema para que el revisor
 pueda repetir la cuenta con los mismos datos (borrar la carpeta para bajar de nuevo)."""
-import json, os, time, calendar, urllib.request
+import json, os, time, calendar, tempfile, urllib.request
 from datetime import date, datetime, timezone
 
 HOY = date(2026, 11, 14)
 FIN = date(2026, 11, 13)          # ultimo cierre
-CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cache")
+CACHE = os.path.join(tempfile.gettempdir(), "tf_cache_yahoo")   # fuera del repo
 
 def _unix(d):
     return calendar.timegm(d.timetuple())

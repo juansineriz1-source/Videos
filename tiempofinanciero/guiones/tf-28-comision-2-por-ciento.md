@@ -10,19 +10,18 @@ Cálculo: Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), US$ 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
 |---|---|---|---|
-| 1 | Una comisión de dos por ciento anual parece poca cosa. En treinta años se te llevó casi la mitad de lo que tendrías. | 2 % → -45 % | Gráfico: número grande "-45 %" con subtítulo "se llevó una comisión de 2 % anual" |
+| 1 | Una comisión de dos por ciento anual parece poca cosa. En treinta años se te llevó casi la mitad. | 2 % → -45 % | Gráfico: número grande "-45 %" con subtítulo "se llevó una comisión de 2 % anual" |
 | 2 | Hagamos la cuenta con números reales de la bolsa de Estados Unidos. | LA CUENTA | Pixabay: calculator and documents desk |
-| 3 | Diez mil dólares en el SPY en noviembre de 1996. Dividendos reinvertidos, sin tocar nada durante treinta años. | US$ 10.000 EN 1996 | Pixabay: new york skyline 1990s |
+| 3 | Diez mil dólares en el SPY en noviembre de 1996. Dividendos reinvertidos, sin tocar nada treinta años. | US$ 10.000 EN 1996 | Pixabay: new york skyline 1990s |
 | 4 | Sin comisión, hoy serían unos ciento setenta mil dólares. | US$ 170.000 | Gráfico: línea sin comisión, valor anual en noviembre: 1996: 10.000, 1998: 15.776, 2000: 19.806, 2002: 13.264, 2004: 17.938, 2006: 21.898, 2008: 14.134, 2010: 20.519, 2012: 24.172, 2014: 37.837, 2016: 41.816, 2018: 54.194, 2020: 74.668, 2022: 84.811, 2024: 131.115, 2026: 170.544 |
-| 5 | Ahora lo mismo, pero alguien te cobra dos por ciento del saldo cada año por administrarlo. | 2 % POR AÑO | Pixabay: businessman signing contract |
+| 5 | Ahora lo mismo, pero alguien te cobra dos por ciento del saldo cada año. | 2 % POR AÑO | Pixabay: businessman signing contract |
 | 6 | Hoy tendrías unos noventa y tres mil. Setenta y siete mil dólares menos. | US$ 93.000 | Gráfico: línea con 2 % debajo de la anterior, valor anual: 1996: 10.000, 1998: 15.151, 2000: 18.267, 2002: 11.753, 2004: 15.267, 2006: 17.898, 2008: 11.095, 2010: 15.471, 2012: 17.504, 2014: 26.314, 2016: 27.933, 2018: 34.767, 2020: 46.008, 2022: 50.193, 2024: 74.530, 2026: 93.133 |
-| 7 | ¿Por qué tanto? Porque no se cobra sobre lo que pusiste. Se cobra todos los años sobre todo lo que tenés. | SOBRE TODO EL SALDO | Gráfico: flujo "saldo → -2 % → saldo → -2 % → saldo" repetido 30 veces |
-| 8 | Y cada dólar que se va deja de crecer para siempre. Es interés compuesto, pero en contra. | COMPUESTO EN CONTRA | Pixabay: coins falling from jar |
+| 7 | ¿Por qué tanto? Porque no se cobra sobre lo que pusiste. Se cobra cada año sobre todo lo que tenés. | SOBRE TODO EL SALDO | Gráfico: flujo "saldo → -2 % → saldo → -2 % → saldo" repetido 30 veces |
+| 8 | Y cada dólar que se va deja de crecer. Es interés compuesto, pero en contra. | COMPUESTO EN CONTRA | Pixabay: coins falling from jar |
 | 9 | Con uno por ciento anual se va la cuarta parte. Con medio punto, catorce por ciento. | 0,5 % · 1 % · 2 % | Gráfico: barras valor final "Sin comisión: 170.500 / 0,5 %: 146.800 / 1 %: 126.200 / 2 %: 93.100 / 3 %: 68.500" |
 | 10 | Ojo: la comisión se cobra igual cuando perdés. Entre 2007 y 2009 esa inversión cayó cincuenta y cinco por ciento. | -55 % Y SE COBRA IGUAL | Pixabay: stock market crash red numbers |
-| 11 | Pagar por un buen servicio puede valer la pena. Lo importante es saber cuánto te cuesta en serio. | ¿CUÁNTO TE CUESTA? | Gráfico: lista "Lo que hay que preguntar: comisión anual / comisión por operación / sobre qué se calcula" |
-| 12 | Ya sabés que un número chico, repetido treinta años, es un número enorme. Y que lo que pasó no garantiza lo que viene. | CHICO x 30 AÑOS = ENORME | Gráfico: remate "Sin comisión: US$ 170.500 / Con 2 % anual: US$ 93.100" |
-| 13 | ¿Qué mirás primero cuando te ofrecen un fondo: cuánto rindió o cuánto cobra? Votá abajo. | CUÁNTO RINDIÓ / CUÁNTO COBRA | Placa de encuesta + cierre |
+| 11 | Ya sabés que un número chico, repetido treinta años, es enorme. Y que lo que pasó no garantiza lo que viene. | CHICO x 30 AÑOS = ENORME | Gráfico: remate "Sin comisión: US$ 170.500 / Con 2 % anual: US$ 93.100" |
+| 12 | ¿Qué mirás primero cuando te ofrecen un fondo: cuánto rindió o cuánto cobra? Votá abajo. | CUÁNTO RINDIÓ / CUÁNTO COBRA | Placa de encuesta + cierre |
 
 ## Encuesta para poner
 ¿Qué mirás primero en un fondo? / Cuánto rindió / Cuánto cobra

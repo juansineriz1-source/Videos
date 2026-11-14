@@ -10,17 +10,17 @@ Cálculo: Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), 100 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
 |---|---|---|---|
-| 1 | Si esperaste diez años para empezar a invertir, esa espera te pudo costar más de la mitad del resultado: unos ciento veintiocho mil dólares. | -US$ 128.000 | Gráfico: número grande "-US$ 128.000" con subtítulo "por esperar 10 años" |
-| 2 | Hagamos la cuenta con dos personas y el mismo aporte: cien dólares por mes. | LA CUENTA | Pixabay: two people walking city street |
-| 3 | Las dos compran SPY, el fondo de unas quinientas de las empresas más grandes de Estados Unidos, y reinvierten los dividendos. | SPY ≈ 500 EMPRESAS | Pixabay: new york stock exchange building |
-| 4 | La primera arrancó a los veinticinco años, en noviembre de 1996. Hoy tiene cincuenta y cinco. | EMPEZÓ A LOS 25 | Gráfico: flujo "1996 (25 años) → 2026 (55 años)", 360 aportes de US$ 100 |
+| 1 | Esperar diez años para empezar a invertir te pudo costar ciento veintiocho mil dólares. | -US$ 128.000 | Gráfico: número grande "-US$ 128.000" con subtítulo "por esperar 10 años" |
+| 2 | Hagamos la cuenta: dos personas, el mismo aporte de cien dólares por mes. | LA CUENTA | Pixabay: two people walking city street |
+| 3 | Las dos compran SPY, unas quinientas de las empresas más grandes de Estados Unidos, y reinvierten los dividendos. | SPY ≈ 500 EMPRESAS | Pixabay: new york stock exchange building |
+| 4 | La primera arrancó a los veinticinco años, en noviembre de 1996. | EMPEZÓ A LOS 25 | Gráfico: flujo "1996 (25 años) → 2026 (55 años)", 360 aportes de US$ 100 |
 | 5 | En treinta años puso treinta y seis mil dólares. Hoy tiene unos doscientos treinta y nueve mil. | US$ 239.000 | Gráfico: línea plan A, valor anual en noviembre: 1996: 105, 1998: 3.114, 2000: 6.378, 2002: 6.268, 2004: 11.299, 2006: 16.526, 2008: 12.203, 2010: 20.669, 2012: 26.886, 2014: 44.978, 2016: 52.276, 2018: 70.338, 2020: 99.862, 2022: 115.755, 2024: 182.065, 2026: 239.493 |
-| 6 | La segunda esperó diez años. Arrancó a los treinta y cinco, en noviembre de 2006. | EMPEZÓ A LOS 35 | Pixabay: hourglass sand time |
+| 6 | La segunda esperó. Arrancó a los treinta y cinco, en noviembre de 2006. | EMPEZÓ A LOS 35 | Pixabay: hourglass sand time |
 | 7 | En veinte años puso veinticuatro mil dólares. Hoy tiene unos ciento once mil. | US$ 111.000 | Gráfico: línea plan B sobre la del plan A, valor anual: 2006: 102, 2008: 1.602, 2010: 5.279, 2012: 8.756, 2014: 16.600, 2016: 20.913, 2018: 29.691, 2020: 43.859, 2022: 52.144, 2024: 83.725, 2026: 111.580 |
-| 8 | La diferencia de aportes es de doce mil dólares. La diferencia de resultado, ciento veintiocho mil. | 12.000 vs 128.000 | Gráfico: barras "Aportes de más: US$ 12.000" contra "Resultado de más: US$ 127.900" |
-| 9 | Esos primeros doce mil tuvieron diez años más para crecer. Hoy valen más que todo lo que juntó la segunda. | EL TIEMPO HIZO EL RESTO | Pixabay: tree growing time lapse |
-| 10 | Pero ojo: empezar antes también fue aguantar más. La primera se comió la caída de las puntocom y la de 2008. | DOS CRISIS | Pixabay: stock market crash red screen |
-| 11 | En marzo de 2009, después de doce años aportando, había puesto catorce mil novecientos y tenía diez mil. | -33 % | Gráfico: barras al 2009-03-09 "Puesto: US$ 14.900" contra "Valía: US$ 10.000" (-33 %) |
+| 8 | Diferencia de aportes: doce mil dólares. Diferencia de resultado: ciento veintiocho mil. | 12.000 vs 128.000 | Gráfico: barras "Aportes de más: US$ 12.000" contra "Resultado de más: US$ 127.900" |
+| 9 | Esos primeros doce mil, con diez años más para crecer, hoy valen más que todo lo de la segunda. | EL TIEMPO HIZO EL RESTO | Pixabay: tree growing time lapse |
+| 10 | Pero ojo: la primera también se comió la caída de las puntocom y la de 2008. | DOS CRISIS | Pixabay: stock market crash red screen |
+| 11 | En marzo de 2009, tras doce años aportando, había puesto catorce mil novecientos y tenía diez mil. | -33 % | Gráfico: barras al 2009-03-09 "Puesto: US$ 14.900" contra "Valía: US$ 10.000" (-33 %) |
 | 12 | Ya sabés que el tiempo pesa más que el monto. Y que lo que pasó no garantiza lo que viene. | TIEMPO > MONTO | Gráfico: remate "30 años: US$ 239.500 / 20 años: US$ 111.600" |
 | 13 | ¿Qué te frenó más para empezar: la falta de plata o el miedo a perder? Votá abajo. | FALTA DE PLATA / MIEDO A PERDER | Placa de encuesta + cierre |
 

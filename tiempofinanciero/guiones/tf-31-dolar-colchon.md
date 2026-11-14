@@ -10,19 +10,17 @@ Cálculo: inflación de EE. UU. con el CPI-U del BLS (todos los rubros, promedio
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
 |---|---|---|---|
-| 1 | Si guardaste cien dólares en el colchón hace veinte años, seguís teniendo cien. Pero hoy compran lo que antes comprabas con sesenta. | US$ 100 → COMPRAN COMO US$ 60 | Pixabay: hundred dollar bill close up |
-| 2 | El mito dice que el dólar no pierde valor. Pierde, más despacio que el peso. Hagamos la cuenta. | EL DÓLAR TAMBIÉN PIERDE | Gráfico: número grande "-40 %" con subtítulo "poder de compra del dólar, 2006-2026" |
-| 3 | La inflación de Estados Unidos se mide con el índice de precios al consumidor. | CPI DE EE. UU. | Pixabay: supermarket aisle shopping cart |
-| 4 | De octubre de 2006 a octubre de 2026, los precios en dólares subieron sesenta y siete por ciento. | +67 % | Gráfico: barras "Precios oct-2006: 100" contra "Precios oct-2026: 167" |
-| 5 | Es un promedio de dos coma seis por ciento por año. Parece nada. | 2,6 % POR AÑO | Pixabay: gas station price sign |
-| 6 | Pero acumulado, tu billete de cien perdió cuarenta por ciento de su poder de compra. | -40 % | Gráfico: línea poder de compra de US$ 100, valor cada octubre: 2006: 100, 2008: 93,2, 2010: 92,3, 2012: 87,2, 2014: 85,0, 2016: 83,5, 2018: 79,8, 2020: 77,5, 2021: 73,0, 2022: 67,7, 2024: 63,9, 2026: 59,8 |
-| 7 | Para comprar lo mismo que en 2006, hoy necesitás ciento sesenta y siete dólares. | HOY HACEN FALTA US$ 167 | Gráfico: flujo "US$ 100 en 2006 = US$ 167 en 2026" |
-| 8 | Y no fue parejo. Entre 2020 y 2022, los precios subieron más de catorce por ciento en solo dos años. | +14 % EN 2 AÑOS | Gráfico: barras inflación anual de octubre a octubre "2021: 6,2 % / 2022: 7,7 %" contra promedio 2,6 % |
-| 9 | ¿Y si esos cien iban al SPY, con dividendos reinvertidos? Hoy serían unos setecientos ochenta dólares. | SPY: US$ 780 | Gráfico: barras "Colchón: US$ 100 (compran como 60)" contra "SPY: US$ 779 (compran como 466 de 2006)" |
-| 10 | Pero ojo: el colchón nunca te mostró un número en rojo. El SPY cayó cincuenta y cinco por ciento entre 2007 y 2009. | SPY: -55 % | Pixabay: stock market crash red screen |
-| 11 | Y en Argentina, el dólar guardado te cubrió de algo mucho peor: la inflación en pesos. | CONTRA EL PESO, SIRVIÓ | Pixabay: buenos aires city street |
-| 12 | Ya sabés que el colchón también cuesta, aunque no se vea. Y que lo que pasó no garantiza lo que viene. | EL COLCHÓN TAMBIÉN CUESTA | Gráfico: remate "US$ 100 en 2006 → compran como US$ 60 en 2026" |
-| 13 | ¿Qué te da más miedo: ver tu inversión cuarenta por ciento abajo, o perder cuarenta por ciento sin darte cuenta? Votá abajo. | VERLA CAER / PERDER SIN VERLO | Placa de encuesta + cierre |
+| 1 | Si guardaste cien dólares en el colchón hace veinte años, hoy compran lo que antes comprabas con sesenta. | US$ 100 → COMPRAN COMO US$ 60 | Pixabay: hundred dollar bill close up |
+| 2 | El mito: el dólar no pierde valor. Pierde, más despacio que el peso. Hagamos la cuenta. | EL DÓLAR TAMBIÉN PIERDE | Gráfico: número grande "-40 %" con subtítulo "poder de compra del dólar, 2006-2026" |
+| 3 | Según el índice de precios de Estados Unidos, de octubre de 2006 a octubre de 2026 todo subió sesenta y siete por ciento. | +67 % (2,6 % POR AÑO) | Gráfico: barras "Precios oct-2006: 100" contra "Precios oct-2026: 167" |
+| 4 | Pero acumulado, tu billete de cien perdió cuarenta por ciento de su poder de compra. | -40 % | Gráfico: línea poder de compra de US$ 100, valor cada octubre: 2006: 100, 2008: 93,2, 2010: 92,3, 2012: 87,2, 2014: 85,0, 2016: 83,5, 2018: 79,8, 2020: 77,5, 2021: 73,0, 2022: 67,7, 2024: 63,9, 2026: 59,8 |
+| 5 | Para comprar lo mismo que en 2006, hoy necesitás ciento sesenta y siete dólares. | HOY HACEN FALTA US$ 167 | Pixabay: grocery bags receipt kitchen table |
+| 6 | Y no fue parejo. Entre 2020 y 2022, los precios subieron catorce por ciento en dos años. | +14 % EN 2 AÑOS | Gráfico: barras inflación anual de octubre a octubre "2021: 6,2 % / 2022: 7,7 %" contra promedio 2,6 % |
+| 7 | ¿Y si esos cien iban al SPY, con dividendos reinvertidos? Hoy serían unos setecientos ochenta dólares. | SPY: US$ 780 | Gráfico: barras "Colchón: US$ 100 (compran como 60)" contra "SPY: US$ 779 (compran como 466 de 2006)" |
+| 8 | Pero ojo: el colchón nunca mostró un número en rojo. El SPY cayó cincuenta y cinco por ciento en la crisis de 2008. | SPY: -55 % | Pixabay: stock market crash red screen |
+| 9 | Y en Argentina, el dólar guardado te cubrió de algo mucho peor: la inflación en pesos. | CONTRA EL PESO, SIRVIÓ | Pixabay: buenos aires city street |
+| 10 | Ya sabés que el colchón también cuesta, aunque no se vea. Y que lo que pasó no garantiza lo que viene. | EL COLCHÓN TAMBIÉN CUESTA | Gráfico: remate "US$ 100 en 2006 → compran como US$ 60 en 2026" |
+| 11 | ¿Qué te da más miedo: ver tu inversión caer cuarenta por ciento, o perderlo sin darte cuenta? Votá abajo. | VERLA CAER / PERDER SIN VERLO | Placa de encuesta + cierre |
 
 ## Encuesta para poner
 ¿Qué te da más miedo? / Verla caer 40 % / Perder 40 % sin verlo
@@ -37,4 +35,4 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - CPI tomado de la tabla histórica y del comunicado del BLS vía búsqueda web (FRED y la API del BLS no responden desde este entorno): confirmar 201,8 (oct-2006) y 337,511 (oct-2026).
 - Octubre de 2025 interpolado (324,46) entre sep-2025 (324,800) y nov-2025 (324,122) solo para la serie del gráfico.
 - El CPI llega a octubre y el SPY al 13 de noviembre: desfase de dos semanas entre las dos series.
-- Fila 11 (el dólar cubrió de la inflación en pesos) va sin cifra. Si se quiere número, falta fuente de IPC argentino de 20 años (INDEC tiene el tramo 2007-2015 cuestionado).
+- Fila 9 (el dólar cubrió de la inflación en pesos) va sin cifra. Si se quiere número, falta fuente de IPC argentino de 20 años (INDEC tiene el tramo 2007-2015 cuestionado).

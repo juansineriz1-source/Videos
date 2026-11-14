@@ -14,17 +14,15 @@ Cálculo: no se consiguió una serie confiable de 20 años del Merval en dólare
 |---|---|---|---|
 | 1 | Si hace quince años pusiste mil dólares en acciones argentinas, hoy tenés casi cuatro mil. Suena bien, hasta que mirás al lado. | US$ 1.000 → US$ 3.800 | Pixabay: buenos aires obelisk aerial |
 | 2 | Hagamos la cuenta, en dólares y contra las acciones de Estados Unidos. | ARGENTINA vs SPY | Gráfico: número grande "x3,8 contra x7,8" con subtítulo "15 años, en dólares" |
-| 3 | Para medir Argentina en dólares usamos el ARGT, un fondo que cotiza en Nueva York. No es el Merval: incluye a MercadoLibre. | ARGT ≠ MERVAL | Gráfico: lista "ARGT: fondo de acciones argentinas / cotiza en dólares en Nueva York / incluye MercadoLibre / no es el Merval" |
+| 3 | Para medir Argentina usamos el ARGT, un fondo que cotiza en Nueva York. No es el Merval: incluye a MercadoLibre. | ARGT ≠ MERVAL | Pixabay: new york stock exchange building |
 | 4 | Mil dólares en noviembre de 2011, con dividendos reinvertidos. Hoy son unos tres mil ochocientos. | US$ 3.800 | Gráfico: línea US$ 1.000 en ARGT, valor anual en noviembre: 2011: 1.000, 2012: 693, 2013: 894, 2014: 944, 2015: 876, 2016: 1.032, 2017: 1.418, 2018: 1.181, 2019: 1.043, 2020: 1.256, 2021: 1.679, 2022: 1.558, 2023: 2.064, 2024: 3.906, 2025: 4.656, 2026: 3.816 |
 | 5 | Los mismos mil en el SPY son unos siete mil ochocientos. El doble. | SPY: US$ 7.800 | Gráfico: línea US$ 1.000 en SPY sobre la anterior, valor anual: 2011: 1.000, 2012: 1.107, 2013: 1.491, 2014: 1.732, 2015: 1.752, 2016: 1.914, 2017: 2.324, 2018: 2.481, 2019: 2.899, 2020: 3.418, 2021: 4.523, 2022: 3.883, 2023: 4.479, 2024: 6.003, 2025: 6.880, 2026: 7.808 |
-| 6 | Y lo más duro no es el final. Es el camino. | EL CAMINO | Pixabay: winding mountain road aerial |
-| 7 | Al primer año, los mil argentinos eran setecientos. Ocho años después, en 2019, seguían siendo apenas mil. | 8 AÑOS EN CERO | Gráfico: barras "2011: 1.000 / 2012: 693 / 2019: 1.043" |
-| 8 | El lunes después de las PASO de 2019, el fondo cayó veinticuatro por ciento en un solo día. | -24 % EN UN DÍA | Pixabay: stock market crash red numbers |
-| 9 | Entre enero de 2018 y marzo de 2020 cayó sesenta y dos por ciento. La peor caída del SPY en esos años fue treinta y cuatro. | -62 % vs -34 % | Gráfico: barras peor caída "ARGT: -62 %" contra "SPY: -34 %" |
-| 10 | Casi toda la ganancia llegó junta: subió cincuenta y cuatro por ciento en 2023 y sesenta y tres en 2024. | +54 % Y +63 % | Pixabay: fireworks night sky |
-| 11 | Y en lo que va de 2026 baja diecinueve por ciento. | 2026: -19 % | Gráfico: barras por año calendario del ARGT "2018: -33 % / 2023: +54 % / 2024: +63 % / 2025: +12 % / 2026: -19 %" |
-| 12 | Ya sabés que Argentina en dólares paga a los saltos y con sustos. Y que lo que pasó no garantiza lo que viene. | A LOS SALTOS | Gráfico: remate "15 años: Argentina x3,8 / SPY x7,8" |
-| 13 | ¿Qué te pesa más de las acciones argentinas: el año que suben sesenta por ciento, o la vez que cayeron sesenta? Votá abajo. | EL +60 % / EL -60 % | Placa de encuesta + cierre |
+| 6 | Y el camino fue duro. Al año eran setecientos. En 2019, ocho años después, seguían siendo apenas mil. | 8 AÑOS EN CERO | Gráfico: barras "2011: 1.000 / 2012: 693 / 2019: 1.043" |
+| 7 | El lunes después de las PASO de 2019, el fondo cayó veinticuatro por ciento en un día. | -24 % EN UN DÍA | Pixabay: stock market crash red numbers |
+| 8 | Entre 2018 y 2020 cayó sesenta y dos por ciento. La peor caída del SPY fue treinta y cuatro. | -62 % vs -34 % | Gráfico: barras peor caída "ARGT: -62 %" contra "SPY: -34 %" |
+| 9 | Casi toda la ganancia llegó junta, en 2023 y 2024. Y en lo que va de 2026 baja diecinueve por ciento. | 2023-2024 / 2026: -19 % | Gráfico: barras por año calendario del ARGT "2018: -33 % / 2023: +54 % / 2024: +63 % / 2025: +12 % / 2026: -19 %" |
+| 10 | Ya sabés que Argentina en dólares paga a los saltos. Y que lo que pasó no garantiza lo que viene. | A LOS SALTOS | Gráfico: remate "15 años: Argentina x3,8 / SPY x7,8" |
+| 11 | ¿Qué te pesa más de las acciones argentinas: el año que suben sesenta por ciento o cuando caen sesenta? Votá abajo. | EL +60 % / EL -60 % | Placa de encuesta + cierre |
 
 ## Encuesta para poner
 ¿Qué te pesa más de las acciones argentinas? / El año de +60 % / La caída de -60 %

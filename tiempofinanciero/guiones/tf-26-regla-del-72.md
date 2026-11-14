@@ -9,19 +9,18 @@ Cálculo: regla del 72 (años para duplicar ≈ 72 / tasa anual en %). Contraste
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
 |---|---|---|---|
-| 1 | Al diez por ciento anual, tu plata se duplica en unos siete años. Y lo podés calcular de memoria, con una sola división. | x2 EN 7 AÑOS | Gráfico: número grande "x2 en 7 años" con subtítulo "al 10 % anual" |
+| 1 | Al diez por ciento anual, tu plata se duplica en unos siete años. Y lo calculás de memoria. | x2 EN 7 AÑOS | Gráfico: número grande "x2 en 7 años" con subtítulo "al 10 % anual" |
 | 2 | Hagamos la cuenta. Se llama la regla del setenta y dos. | REGLA DEL 72 | Pixabay: calculator hand close up |
 | 3 | Dividís setenta y dos por la tasa anual. El resultado son los años que tarda en duplicarse. | 72 ÷ TASA = AÑOS | Gráfico: flujo "72 ÷ tasa anual (%) = años para duplicar" |
 | 4 | Al seis por ciento, doce años. Al diez por ciento, siete años y pico. | 6 % → 12 AÑOS | Gráfico: lista "3 % → 24 años / 6 % → 12 años / 10 % → 7,2 años / 12 % → 6 años" |
-| 5 | Probémosla con datos reales. El SPY, con dividendos reinvertidos, rindió casi diez por ciento anual en los últimos treinta años. | SPY: 9,9 % ANUAL | Pixabay: wall street sign new york |
-| 6 | Setenta y dos dividido diez da unos siete años. En treinta años son cuatro duplicaciones: multiplicar por dieciséis. | x2 x2 x2 x2 = x16 | Gráfico: flujo "1.000 → 2.000 → 4.000 → 8.000 → 16.000" |
+| 5 | Probémosla con datos reales. El SPY, con dividendos reinvertidos, rindió casi diez por ciento anual en treinta años. | SPY: 9,9 % ANUAL | Pixabay: wall street sign new york |
+| 6 | Siete años por duplicación. En treinta años son cuatro: multiplicar por dieciséis. | x2 x2 x2 x2 = x16 | Gráfico: flujo "1.000 → 2.000 → 4.000 → 8.000 → 16.000" |
 | 7 | La cuenta real: mil dólares de noviembre de 1996 hoy son unos diecisiete mil. La regla anduvo. | US$ 17.000 | Gráfico: línea US$ 1.000 en SPY, valor anual en noviembre: 1996: 1.000, 1998: 1.578, 2000: 1.981, 2002: 1.326, 2004: 1.794, 2006: 2.190, 2008: 1.413, 2010: 2.052, 2012: 2.417, 2014: 3.784, 2016: 4.182, 2018: 5.419, 2020: 7.467, 2022: 8.481, 2024: 13.112, 2026: 17.054 |
 | 8 | Pero ojo, es un promedio. La primera duplicación tardó tres años, y después vinieron dos crisis. | NO ES PAREJO | Pixabay: roller coaster ride |
-| 9 | Con una caída de cincuenta y cinco por ciento en el medio, recién en 2011 quedó para siempre arriba del doble. | -55 % | Gráfico: línea con zoom 1996-2011 y la raya de "x2" marcada: cruza en 1999, vuelve a caer en 2002 y 2008, la pasa definitivamente en 2011 |
-| 10 | La regla también sirve al revés. Con la inflación de Estados Unidos, los precios en dólares se duplican cada veintiocho años. | INFLACIÓN: x2 EN 28 AÑOS | Pixabay: supermarket shopping cart prices |
-| 11 | Y una comisión de dos por ciento anual se lleva la mitad de tu plata en treinta y seis años. | 72 ÷ 2 = 36 | Gráfico: barras "Sin comisión 100 %" contra "Con 2 % anual, a los 36 años: 50 %" |
-| 12 | Ya sabés cómo estimar una duplicación sin calculadora. Y que lo que pasó no garantiza lo que viene. | 72 ÷ TASA | Gráfico: remate "72 ÷ tasa = años para duplicar" |
-| 13 | ¿Qué te parece más difícil: conseguir una buena tasa o aguantar los años que hacen falta? Votá abajo. | CONSEGUIR LA TASA / AGUANTAR LOS AÑOS | Placa de encuesta + cierre |
+| 9 | Con una caída de cincuenta y cinco por ciento, recién en 2011 quedó para siempre arriba del doble. | -55 % | Gráfico: línea con zoom 1996-2011 y la raya de "x2" marcada: cruza en 1999, vuelve a caer en 2002 y 2008, la pasa definitivamente en 2011 |
+| 10 | También sirve al revés. Con la inflación de Estados Unidos, los precios en dólares se duplican cada veintiocho años. | INFLACIÓN: x2 EN 28 AÑOS | Pixabay: supermarket shopping cart prices |
+| 11 | Ya sabés estimar una duplicación sin calculadora. Y que lo que pasó no garantiza lo que viene. | 72 ÷ TASA | Gráfico: remate "72 ÷ tasa = años para duplicar" |
+| 12 | ¿Qué es más difícil: conseguir una buena tasa o aguantar los años que hacen falta? Votá abajo. | CONSEGUIR LA TASA / AGUANTAR LOS AÑOS | Placa de encuesta + cierre |
 
 ## Encuesta para poner
 ¿Qué es más difícil? / Conseguir la tasa / Aguantar los años
@@ -34,5 +33,4 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 
 ## A revisar (agente financiero)
 - Fila 6 redondea 9,92 % a "diez" y 7,3 años a "siete": 30 años dan 4,1 duplicaciones (x17,5 por regla, x17,05 real). ¿Alcanza con "unos"?
-- Fila 11: 0,98^36 = 0,48; la regla da "la mitad" como aproximación.
 - CPI de octubre de 2026 (337,511) tomado del comunicado del BLS del 2026-11-10; octubre de 2006 (201,8) de la tabla histórica del BLS.

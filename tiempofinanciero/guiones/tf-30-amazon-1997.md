@@ -13,16 +13,14 @@ Cálculo: Yahoo Finance, AMZN diario (Amazon nunca pagó dividendos, así que cl
 | 1 | Si ponías mil dólares en Amazon el día que salió a la bolsa, hoy tendrías más de dos millones setecientos mil. | US$ 1.000 → US$ 2,7 MILLONES | Gráfico: número grande "US$ 2.723.000" con subtítulo "US$ 1.000 en Amazon desde 1997" |
 | 2 | Hagamos la cuenta. Y después vemos por qué casi nadie los tiene. | LA CUENTA | Pixabay: cardboard boxes warehouse conveyor |
 | 3 | Amazon empezó a cotizar el quince de mayo de 1997. Vendía libros por internet y perdía plata. | 15 DE MAYO DE 1997 | Pixabay: old books stack library |
-| 4 | Ese primer día cerró a veintitrés dólares con cincuenta por acción. | US$ 23,50 | Gráfico: número grande "US$ 23,50" con subtítulo "primer cierre, 15/5/1997" |
-| 5 | Mil dólares a ese precio, sin vender nunca, hoy son unos dos millones setecientos veinte mil. | x2.723 | Gráfico: línea US$ 1.000 en AMZN (escala logarítmica), valor cada 15 de mayo: 1997: 1.000, 1999: 33.798, 2001: 6.914, 2003: 16.662, 2005: 17.311, 2007: 30.934, 2009: 37.583, 2011: 103.435, 2013: 136.115, 2015: 217.531, 2017: 489.175, 2019: 955.478, 2021: 1.645.731, 2023: 1.135.656, 2025: 2.095.346, nov-2026: 2.723.327 |
-| 6 | En el mismo tiempo, mil dólares en el SPY, con dividendos, son unos quince mil. | SPY: US$ 15.000 | Gráfico: barras "Amazon: US$ 2.723.000" contra "SPY: US$ 14.800" |
-| 7 | Ahora la parte que no se cuenta. A fines de 1999, tus mil dólares ya eran cincuenta y cuatro mil. | US$ 54.000 EN 1999 | Pixabay: champagne celebration party |
-| 8 | Explotó la burbuja puntocom. En septiembre de 2001 quedaban tres mil. Noventa y cuatro por ciento abajo. | -94 % | Gráfico: línea con zoom 1999-2001: 54.479 el 10/12/1999 → 3.049 el 28/9/2001 |
-| 9 | Tardó casi diez años en volver a ese pico. Después cayó sesenta y cinco por ciento en 2008 y cincuenta y seis en 2022. | 10 AÑOS PARA VOLVER | Gráfico: lista de caídas "1999-2001: -94 % / 2007-2008: -65 % / 2021-2022: -56 %" |
-| 10 | Para llegar a los millones había que no vender en ninguna de las tres. | NO VENDER NUNCA | Pixabay: man stressed looking at laptop |
-| 11 | Y había que elegir justo Amazon. Muchas puntocom de esa época desaparecieron, como Pets punto com, Webvan o eToys. | LAS QUE NO LLEGARON | Gráfico: lista tachada "Pets.com / Webvan / eToys" y sin tachar "Amazon" |
-| 12 | Ya sabés que el premio grande vino con caídas enormes y bastante suerte. Y que lo que pasó no garantiza lo que viene. | PREMIO GRANDE, CAÍDAS ENORMES | Gráfico: remate "US$ 1.000 → US$ 2,7 millones, con un -94 % en el medio" |
-| 13 | A fines de 1999, con mil dólares convertidos en cincuenta y cuatro mil, ¿qué hacías? Votá abajo. | VENDÍA TODO / ME QUEDABA | Placa de encuesta + cierre |
+| 4 | Ese día cerró a veintitrés dólares con cincuenta. Mil dólares a ese precio hoy son dos millones setecientos veinte mil. | US$ 23,50 → x2.723 | Gráfico: línea US$ 1.000 en AMZN (escala logarítmica), valor cada 15 de mayo: 1997: 1.000, 1999: 33.798, 2001: 6.914, 2003: 16.662, 2005: 17.311, 2007: 30.934, 2009: 37.583, 2011: 103.435, 2013: 136.115, 2015: 217.531, 2017: 489.175, 2019: 955.478, 2021: 1.645.731, 2023: 1.135.656, 2025: 2.095.346, nov-2026: 2.723.327 |
+| 5 | En el mismo tiempo, mil dólares en el SPY son unos quince mil. | SPY: US$ 15.000 | Gráfico: barras "Amazon: US$ 2.723.000" contra "SPY: US$ 14.800" |
+| 6 | Ahora lo que no se cuenta. A fines de 1999, tus mil dólares ya eran cincuenta y cuatro mil. | US$ 54.000 EN 1999 | Pixabay: champagne celebration party |
+| 7 | Explotó la burbuja puntocom. En septiembre de 2001 quedaban tres mil. Noventa y cuatro por ciento abajo. | -94 % | Gráfico: línea con zoom 1999-2001: 54.479 el 10/12/1999 → 3.049 el 28/9/2001 |
+| 8 | Tardó casi diez años en volver. Después cayó sesenta y cinco por ciento en 2008 y cincuenta y seis en 2022. | 10 AÑOS PARA VOLVER | Pixabay: man stressed looking at laptop |
+| 9 | Y había que elegir justo Amazon. Muchas puntocom desaparecieron, como Pets punto com, Webvan o eToys. | LAS QUE NO LLEGARON | Gráfico: lista tachada "Pets.com / Webvan / eToys" y sin tachar "Amazon" |
+| 10 | Ya sabés que el premio grande exigió aguantar caídas enormes y tener suerte. Y que lo que pasó no garantiza lo que viene. | PREMIO GRANDE, CAÍDAS ENORMES | Gráfico: remate "US$ 1.000 → US$ 2,7 millones, con un -94 % en el medio" |
+| 11 | A fines de 1999, con mil dólares convertidos en cincuenta y cuatro mil, ¿qué hacías? Votá abajo. | VENDÍA TODO / ME QUEDABA | Placa de encuesta + cierre |
 
 ## Encuesta para poner
 Con US$ 1.000 convertidos en US$ 54.000, ¿qué hacías? / Vendía todo / Me quedaba
@@ -36,5 +34,5 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 ## A revisar (agente financiero)
 - Se usa el primer cierre (US$ 23,50) y no el precio de la oferta inicial (US$ 18), que daría ~US$ 3,56 millones. Confirmar ambos precios y los splits (240 acumulado).
 - Período no redondo (29,5 años) porque la fecha la fija la salida a bolsa.
-- Fila 11: Pets.com, Webvan y eToys como puntocom que quebraron (2000-2001). Dato histórico, no sale del script; confirmar.
+- Fila 9: Pets.com, Webvan y eToys como puntocom que quebraron (2000-2001). Dato histórico, no sale del script; confirmar.
 - "Perdía plata" en 1997: confirmar con el prospecto o balance de la época.
