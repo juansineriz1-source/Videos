@@ -1,5 +1,5 @@
 # tf-27 Perderse los diez mejores días de la bolsa
-Tipo: la cuenta. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: la cuenta. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 Cálculo: Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), US$ 10.000 invertidos al cierre del 2006-11-14 y valuados al cierre del 2026-11-13 (20 años, 5.030 ruedas). "Perderse un día" = ese día el rendimiento es cero (estabas afuera). Sin comisiones ni impuestos. Script: `calculos/tf-27.py`.
 - Todos los días adentro: ~US$ 77.900 (x7,79; 10,8 % anual).
 - Sin los 10 mejores días: ~US$ 33.800 (-57 %). Sin los 20 mejores: ~US$ 20.300. Sin los 40 mejores: ~US$ 9.400 (menos que lo invertido).
@@ -35,3 +35,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 ## A revisar (agente financiero)
 - El ejercicio "perderse los mejores días" es un clásico discutido: nadie se pierde justo esos diez. Por eso se muestra también la otra cara (fila 10). ¿Alcanza o sumamos el número (US$ 183.800 sin los 10 peores) en pantalla?
 - "A menos de dos semanas" = 10 ruedas o menos (7 de 10); a 5 ruedas o menos son 5 de 10.
+
+## Revisión financiera (2026-11-14)
+Verificado: 77.879 contra 33.793 (−57%) y 7 de 10 a ≤10 ruedas de uno de los peores. Bien balanceado con el caso de los 10 peores.

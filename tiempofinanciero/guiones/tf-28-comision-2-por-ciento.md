@@ -1,5 +1,5 @@
 # tf-28 Lo que se come una comisión de 2 % anual en 30 años
-Tipo: la cuenta. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: la cuenta. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 Cálculo: Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), US$ 10.000 invertidos al cierre del 1996-11-14 y valuados al cierre del 2026-11-13 (30 años). La comisión de 2 % anual se descuenta del saldo en forma diaria (factor 0,98^(1/252) por rueda); cobrándola una vez por año el resultado es casi igual (~US$ 93.000). Sin otras comisiones ni impuestos. Script: `calculos/tf-28.py`.
 - Sin comisión: ~US$ 170.500 (9,92 % anual).
 - Con 2 % anual: ~US$ 93.100 (7,72 % anual). Diferencia: ~US$ 77.400 = 45 % del resultado.
@@ -36,3 +36,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Supuesto de cobro diario sobre el saldo contra cobro anual: da casi lo mismo (93.133 contra 93.029). ¿Preferís otro esquema?
 - ¿Conviene nombrar comisiones típicas de Argentina (administración de FCI, custodia) o dejarlo genérico? Lo dejé genérico para no afirmar cifras sin fuente.
 - Fila 9 dice "medio punto" por 0,5 % anual.
+
+## Revisión financiera (2026-11-14)
+Verificado: 170.543 contra 93.133 (−45%), 1% −26% y 0,5% −14%. 'La cuarta parte' está bien.

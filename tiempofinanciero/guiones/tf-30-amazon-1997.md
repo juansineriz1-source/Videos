@@ -1,5 +1,5 @@
 # tf-30 Mil dólares en Amazon el día que salió a la bolsa
-Tipo: la cuenta. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: la cuenta. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 Cálculo: Yahoo Finance, AMZN diario (Amazon nunca pagó dividendos, así que close = adjclose). Compra al primer cierre de mercado, 1997-05-15 (US$ 23,50 de la época; US$ 0,0979 ajustado por los splits 2x, 3x, 2x y 20x = 240), y valuación al cierre del 2026-11-13 (29,5 años: la fecha la fija la salida a bolsa). Sin comisiones ni impuestos. Script: `calculos/tf-30.py`.
 - US$ 1.000 al primer cierre → ~US$ 2.723.000 (x2.723; 30,8 % anual).
 - Al precio de la oferta inicial (US$ 18, que solo conseguían clientes de los bancos colocadores): ~US$ 3.555.000. Se usa el primer cierre por ser el precio al que podía comprar cualquiera.
@@ -36,3 +36,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Período no redondo (29,5 años) porque la fecha la fija la salida a bolsa.
 - Fila 9: Pets.com, Webvan y eToys como puntocom que quebraron (2000-2001). Dato histórico, no sale del script; confirmar.
 - "Perdía plata" en 1997: confirmar con el prospecto o balance de la época.
+
+## Revisión financiera (2026-11-14)
+Verificado: oferta a US$ 18, primer cierre US$ 23,50, x2.723, −94% (1999-12 a 2001-09), 9,9 años para volver y SPY 14.815. Muy bien el contrapeso con Pets.com, Webvan y eToys.

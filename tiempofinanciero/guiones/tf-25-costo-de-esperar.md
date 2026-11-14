@@ -1,5 +1,5 @@
 # tf-25 El costo de esperar diez años para empezar
-Tipo: la cuenta. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: la cuenta. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 Cálculo: Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), 100 USD el primer día hábil de cada mes. Plan A: desde 1996-11 hasta 2026-10 (360 aportes, 30 años). Plan B: desde 2006-11 hasta 2026-10 (240 aportes, 20 años; es el mismo de tf-02). Los dos valuados al cierre del 2026-11-13. Sin comisiones ni impuestos. Script: `calculos/tf-25.py`.
 - Plan A (empezó a los 25, en 1996): puesto US$ 36.000, valor ~US$ 239.500 (x6,65).
 - Plan B (esperó, empezó a los 35, en 2006): puesto US$ 24.000, valor ~US$ 111.600 (x4,65).
@@ -37,3 +37,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - El marco "25 vs 35 años" se resolvió con datos reales (empezar en 1996 vs 2006, ambos hasta hoy) y no con una tasa supuesta hasta los 65. ¿Está bien, o preferís el ejemplo teórico con tasa fija?
 - El peor momento del plan B me da 2009-03-09 con ~US$ 1.606 (-45 %); en tf-02 figura 2/3/2009 con ~US$ 1.665 (-43 %). Unificar criterio.
 - "Más de la mitad del resultado": 127.900 / 239.500 = 53 %.
+
+## Revisión financiera (2026-11-14)
+Verificado con calculos/tf-25.py: 239.493 contra 111.580, diferencia de 127.912, y −33% el 2009-03-09. Criterio unificado: el peor momento se mide con el cierre diario (tf-02 también se ajustó).

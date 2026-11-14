@@ -1,5 +1,5 @@
 # tf-34 Cien dólares en bitcoin hace diez años
-Tipo: la cuenta. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: la cuenta. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 Cálculo: Yahoo Finance, BTC-USD diario (cierre UTC; bitcoin cotiza todos los días y no paga dividendos). US$ 100 al cierre del 2016-11-14 (~US$ 705 por bitcoin) valuados al cierre del 2026-11-13 (~US$ 68.250): 10 años. Sin comisiones, sin impuestos y sin costo ni riesgo de custodia. Script: `calculos/tf-34.py`.
 - US$ 100 → ~US$ 9.680 (x96,8; 58 % anual).
 - Caídas de más de 50 % en el camino: -83,4 % (2017-12-16 ~US$ 2.766 → 2018-12-15 ~US$ 459), -53,1 % (abr a jul de 2021), -76,6 % (2021-11-08 ~US$ 9.584 → 2022-11-21 ~US$ 2.239), -53,1 % (2025-10-06 ~US$ 17.695 → 2026-06-30 ~US$ 8.306).
@@ -38,3 +38,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - "Dos veces" en el gancho se refiere a las caídas de 83 % y 77 %; hubo además dos de 53 % (2021 y 2025-2026).
 - Precios de Yahoo (cierre UTC); en cada exchange los máximos y mínimos difieren un poco.
 - No se menciona el riesgo de custodia (exchanges caídos como FTX): ¿sumarlo?
+
+## Revisión financiera (2026-11-14)
+Verificado con el cierre del 2026-11-13 (BTC 68.249). El sábado 14 cotiza ~65.600 (los 100 serían ~9.300), así que hay que recalcular el día de grabar. Arrancar en nov-2016 no es un piso de ciclo: está bien.

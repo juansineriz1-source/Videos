@@ -1,5 +1,5 @@
 # tf-31 Cien dólares en el colchón durante 20 años
-Tipo: la cuenta. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: la cuenta. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 Cálculo: inflación de EE. UU. con el CPI-U del BLS (todos los rubros, promedio de ciudades, sin desestacionalizar, base 1982-84 = 100), de octubre de 2006 (201,8) a octubre de 2026 (337,511; último dato publicado, comunicado del 2026-11-10): 20 años. Comparación con Yahoo Finance, SPY con dividendos reinvertidos (adjclose), del 2006-11-14 al 2026-11-13. Sin comisiones ni impuestos. Script: `calculos/tf-31.py`.
 - Inflación acumulada en dólares: 67,3 % (2,60 % anual).
 - US$ 100 de 2006 compran hoy lo que entonces se compraba con ~US$ 59,8 (pérdida de poder de compra: 40,2 %). Para comprar lo mismo hacen falta ~US$ 167.
@@ -36,3 +36,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Octubre de 2025 interpolado (324,46) entre sep-2025 (324,800) y nov-2025 (324,122) solo para la serie del gráfico.
 - El CPI llega a octubre y el SPY al 13 de noviembre: desfase de dos semanas entre las dos series.
 - Fila 9 (el dólar cubrió de la inflación en pesos) va sin cifra. Si se quiere número, falta fuente de IPC argentino de 20 años (INDEC tiene el tramo 2007-2015 cuestionado).
+
+## Revisión financiera (2026-11-14)
+CPI-U de oct-2026 = 337,511, confirmado en el comunicado de BLS del 2026-11-10. +67,3% y −40,2% de poder de compra están bien. Ojo: BLS no publica la variación de 12 meses de oct-2026 porque no relevó oct-2025, así que el gráfico no tiene que mostrar 'inflación 2026 interanual'.

@@ -1,5 +1,5 @@
 # tf-33 Oro contra acciones, 20 años
-Tipo: la cuenta. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: la cuenta. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 Cálculo: Yahoo Finance, GLD (fondo respaldado por oro físico; no paga dividendos y su gasto de 0,40 % anual ya está en el precio) y SPY con dividendos reinvertidos (adjclose). US$ 1.000 en cada uno al cierre del 2006-11-14, valuados al cierre del 2026-11-13 (20 años). Sin comisiones de compra ni impuestos. Script: `calculos/tf-33.py`.
 - GLD: US$ 1.000 → ~US$ 5.770 (x5,77; 9,2 % anual). SPY: US$ 1.000 → ~US$ 7.790 (x7,79; 10,8 % anual).
 - El oro estuvo por encima del SPY en 2.422 de 5.031 ruedas (48 %). Última rueda con el oro arriba: 2026-04-14.
@@ -37,3 +37,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Fila 11 ("no siempre caen juntos") se apoya en dos episodios (2008 y 2011-2015), no en una correlación calculada.
 - Fila 8 (el oro vale lo que otro pague): es una simplificación; tiene demanda industrial y de joyería.
 - GLD como aproximación al oro: tiene 0,40 % de gasto anual, así que rinde apenas menos que el metal.
+
+## Revisión financiera (2026-11-14)
+Verificado: GLD 5.767 contra SPY 7.788, oro arriba en 48% de las ruedas (la última el 2026-04-14), −46% y 8,9 años para recuperar.

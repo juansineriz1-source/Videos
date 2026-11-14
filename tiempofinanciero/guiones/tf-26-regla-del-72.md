@@ -1,5 +1,5 @@
 # tf-26 La regla del 72
-Tipo: la cuenta. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: la cuenta. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 Cálculo: regla del 72 (años para duplicar ≈ 72 / tasa anual en %). Contraste con Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), del 1996-11-14 al 2026-11-13 (30 años). Inflación de EE. UU.: CPI-U del BLS, octubre de 2006 (201,8) a octubre de 2026 (337,511). Sin comisiones ni impuestos. Script: `calculos/tf-26.py`.
 - Regla contra cuenta exacta: 6 % → 12,0 años (exacto 11,9); 10 % → 7,2 (exacto 7,3). La regla es una aproximación; se aleja con tasas muy altas.
 - SPY 30 años: x17,05, o sea 9,92 % anual. 72 / 9,92 = 7,3 años por duplicación; 30 años ≈ 4 duplicaciones (x16). US$ 1.000 → ~US$ 17.050.
@@ -34,3 +34,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 ## A revisar (agente financiero)
 - Fila 6 redondea 9,92 % a "diez" y 7,3 años a "siete": 30 años dan 4,1 duplicaciones (x17,5 por regla, x17,05 real). ¿Alcanza con "unos"?
 - CPI de octubre de 2026 (337,511) tomado del comunicado del BLS del 2026-11-10; octubre de 2006 (201,8) de la tabla histórica del BLS.
+
+## Revisión financiera (2026-11-14)
+Verificado: x17,05, 9,92% anual, primera duplicación en 3,0 años, última vez debajo de x2 en oct-2011. CPI 2,6% anual da duplicación en 28 años.
