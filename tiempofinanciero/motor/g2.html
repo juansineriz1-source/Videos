@@ -1,0 +1,80 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:AN;src:url(assets/Anton-Regular.ttf)}
+@font-face{font-family:MB;src:url(assets/Montserrat-Black.ttf)}
+@font-face{font-family:MS;src:url(assets/Montserrat-SemiBold.ttf)}
+:root{--bg:#0B1426;--bg2:#13203A;--oro:#E8B64C;--ver:#2BD67B;--roj:#FF5A5F;--bl:#F4F6FA;--gr:#8FA0BD}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden}
+body{background:radial-gradient(1100px 900px at 50% 40%,#16284A 0%,var(--bg) 70%);color:var(--bl);font-family:MS;position:relative}
+body:before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.035) 2px,transparent 2px),linear-gradient(90deg,rgba(255,255,255,.035) 2px,transparent 2px);background-size:120px 120px}
+#R{position:absolute;inset:0}
+.k{position:absolute;left:80px;top:280px;font-family:MB;font-size:30px;letter-spacing:5px;color:var(--bg);background:var(--oro);padding:10px 22px;border-radius:6px;text-transform:uppercase;white-space:nowrap}
+h1{position:absolute;left:80px;top:350px;width:860px;font-family:AN;font-weight:400;font-size:112px;line-height:1.06;text-transform:uppercase}
+b{color:var(--oro);font-weight:400} i{color:var(--roj);font-style:normal} u{color:var(--ver);text-decoration:none}
+.src{position:absolute;left:80px;top:1385px;width:860px;font-size:24px;color:var(--gr)}
+.abs{position:absolute}
+.body{position:absolute;left:80px;top:660px;width:860px;height:700px;display:flex;flex-direction:column;justify-content:center;gap:26px}
+.row{background:var(--bg2);border:2px solid rgba(255,255,255,.08);border-radius:22px;padding:28px 34px;font-family:MB;font-size:46px;line-height:1.12;display:flex;justify-content:space-between;align-items:center;gap:20px;text-transform:uppercase}
+.row.hi{background:var(--oro);color:var(--bg);justify-content:center}
+.row .r{color:var(--oro);white-space:nowrap}
+.st{font-family:AN;font-size:44px;color:var(--roj);border:5px solid var(--roj);padding:2px 18px;border-radius:8px;letter-spacing:2px;white-space:nowrap}
+.fl{font-family:AN;font-size:80px;color:var(--oro);text-align:center;line-height:.6}
+.pill{text-align:center;font-family:MB;font-size:48px;padding:34px 20px;border-radius:999px;border:4px solid var(--oro);text-transform:uppercase}
+</style></head><body><div id="R"></div>
+<script>
+const cl=x=>Math.max(0,Math.min(1,x)),eo=x=>1-Math.pow(1-cl(x),3),P=(t,a,d)=>cl((t-a)/d),$=i=>document.getElementById(i);
+const back=x=>{x=cl(x);const c=1.7,y=x-1;return 1+y*y*((c+1)*y+c)};
+const COL={oro:'#E8B64C',ver:'#2BD67B',roj:'#FF5A5F',gr:'#8FA0BD',bl:'#F4F6FA'};
+function A(c,w,def){if(w==null)return def;if(typeof w=='number')return w;for(const x of [].concat(w)){const k=x.toLowerCase().replace(/[^\wáéíóúñü]/g,'');if(c.at&&c.at[k]!=null)return c.at[k]}return def}
+let key=null,AN=[];
+function el(html){const d=document.createElement('div');d.innerHTML=html;return d.firstElementChild}
+function build(c){const p=c.p,R=$('R');R.innerHTML='';AN=[];document.body.style.boxShadow='none';
+ const add=(e,fn)=>{R.appendChild(e);if(fn)AN.push(t=>fn(e,t));return e};
+ const pop=(a)=>(e,t)=>{const q=P(t,a,.35);e.style.opacity=cl(q*3);e.style.transform=`scale(${q>0?back(q):0})`};
+ const fade=(a,dy=30)=>(e,t)=>{const q=P(t,a,.3);e.style.opacity=q;e.style.transform=`translateY(${(1-eo(q))*dy}px)`};
+ const d=c.d;
+ if(p.g!=='portada'&&p.g!=='cierre'&&p.g!=='cita'){
+  if(p.k)add(el(`<div class="k">${p.k}</div>`),(e,t)=>{e.style.transform=`translateX(${-(1-eo(P(t,0,.3)))*600}px)`});
+  if(p.h){const h=add(el(`<h1>${p.h}</h1>`),fade(.05,40));let f=112;while(h.offsetHeight>270&&f>64){f-=6;h.style.fontSize=f+'px'}}
+  if(p.src)add(el(`<div class="src">${p.src}</div>`),fade(.4,0))}
+ if(p.g==='lista'||p.g==='sello'||p.g==='flujo'){const b=add(el('<div class="body"></div>'));const n=p.items.length;
+  p.items.forEach((it,j)=>{const o=typeof it=='string'?{t:it}:it;const a=A(c,o.en,.3+j*(d*.7/n));
+   if(p.g==='flujo'&&j>0){const f=el('<div class="fl">▼</div>');b.appendChild(f);AN.push(t=>pop(a-.15)(f,t))}
+   const r=el(`<div class="row ${o.hi?'hi':''}" style="${n>4?'font-size:38px;padding:20px 28px':''}"><span>${o.t}</span>${o.r?`<span class="r">${o.r}</span>`:''}${o.st?`<span class="st">${o.st}</span>`:''}</div>`);b.appendChild(r);AN.push(t=>pop(p.g==='sello'?.15+j*.2:a)(r,t));
+   if(o.st){const s=r.querySelector('.st');AN.push(t=>{const q=P(t,a,.22);s.style.opacity=q;s.style.transform=`rotate(-6deg) scale(${2.2-1.2*eo(q)})`})}})}
+ if(p.g==='num'){const a=A(c,p.en,.5);const N=add(el(`<div class="abs" style="left:80px;top:640px;font-family:AN;line-height:1;white-space:nowrap;color:${COL[p.color||'oro']};font-size:300px;transform-origin:0 50%">${p.num}</div>`),pop(a-.15));
+  let f=300;while(N.offsetWidth>880&&f>90){f-=10;N.style.fontSize=f+'px'}
+  if(p.sub)add(el(`<div class="abs" style="left:80px;top:${660+f}px;width:860px;font-family:AN;font-size:100px;line-height:1.05;text-transform:uppercase">${p.sub}</div>`),fade(a+.25));
+  if(p.row)add(el(`<div class="abs row" style="left:80px;top:1200px;width:860px">${p.row}</div>`),pop(A(c,p.row_en,d*.6)-.15))}
+ if(p.g==='barras'){const mx=Math.max(...p.bars.map(b=>b.v)),n=p.bars.length,w=Math.min(300,(820-(n-1)*40)/n),x0=80+(860-(n*w+(n-1)*40))/2;
+  p.bars.forEach((b,j)=>{const a=A(c,b.en,.4+j*(d*.6/n)),x=x0+j*(w+40),hh=Math.max(14,470*b.v/mx),col=COL[b.color||(j?'oro':'roj')];
+   add(el(`<div class="abs" style="left:${x}px;bottom:600px;width:${w}px;background:${col};border-radius:14px 14px 0 0"></div>`),(e,t)=>{e.style.height=hh*eo(P(t,a-.3,.9))+'px'});
+   add(el(`<div class="abs" style="left:${x-60}px;width:${w+120}px;text-align:center;white-space:nowrap;font-family:AN;font-size:${n>2?52:62}px;color:${col}">${b.txt}</div>`),(e,t)=>{e.style.bottom=(610+hh*eo(P(t,a-.3,.9)))+'px';e.style.opacity=P(t,a,.3)});
+   add(el(`<div class="abs" style="left:${x-20}px;top:1335px;width:${w+40}px;text-align:center;font-family:MB;font-size:${n>2?24:30}px;text-transform:uppercase">${b.label}</div>`),fade(Math.max(.2,a-.4),0))})}
+ if(p.g==='linea'){const S=p.series,all=S.flatMap(s=>s.pts),mn=p.min!=null?p.min:Math.min(...all),mx=Math.max(...all),X=(i,n)=>40+840*i/(n-1),Y=v=>660-600*(v-mn)/(mx-mn||1);
+  let svg=`<svg class="abs" style="left:60px;top:640px" width="900" height="720" viewBox="0 0 900 720"><line x1="40" y1="680" x2="880" y2="680" stroke="#8FA0BD" stroke-width="3"/><line x1="40" y1="40" x2="40" y2="680" stroke="#8FA0BD" stroke-width="3"/>`;
+  S.forEach((s,j)=>{svg+=`<polyline id="L${j}" fill="none" stroke="${COL[s.color||(j?'gr':'ver')]}" stroke-width="${j?8:11}" stroke-linejoin="round" stroke-linecap="round" points="${s.pts.map((v,i)=>X(i,s.pts.length).toFixed(1)+','+Y(v).toFixed(1)).join(' ')}"/>`});
+  (p.xl||[]).forEach((x,i,a)=>{svg+=`<text x="${X(i,a.length)}" y="712" fill="#8FA0BD" font-family="MB" font-size="24" text-anchor="${i==0?'start':i==a.length-1?'end':'middle'}">${x}</text>`});
+  add(el(svg+'</svg>'));
+  S.forEach((s,j)=>{const a=A(c,s.en,.4+j*d*.35),L=$('L'+j),len=L.getTotalLength();L.style.strokeDasharray=len;AN.push(t=>{L.style.strokeDashoffset=len*(1-eo(P(t,a,Math.min(2.2,d*.5))))});
+   const last=s.pts[s.pts.length-1];let ly=640+Y(last)-(j%2?-30:64);ly=Math.max(650,Math.min(1250,ly));
+   if(s.label)add(el(`<div class="abs" style="right:150px;top:${ly}px;font-family:MB;font-size:36px;color:${COL[s.color||(j?'gr':'ver')]};white-space:nowrap;text-shadow:0 0 12px #0B1426,0 0 12px #0B1426">${s.label}</div>`),fade(a+Math.min(2.2,d*.5)*.8,0))})}
+ if(p.g==='foto'){add(el(`<div class="abs" style="left:140px;top:360px;width:740px;height:900px;border-radius:18px;overflow:hidden;border:6px solid var(--oro)"><img src="${p.img}" style="width:100%;height:100%;object-fit:cover;object-position:${p.pos||'50% 20%'}"></div>`),(e,t)=>{e.style.opacity=P(t,0,.2);e.style.transform=`scale(${.96+.04*eo(P(t,0,d))})`});
+  if(p.nombre)add(el(`<div class="abs" style="left:80px;top:1280px;font-family:AN;font-size:84px;text-transform:uppercase;white-space:nowrap">${p.nombre}</div>`),fade(A(c,p.en,.4)-.1))}
+ if(p.g==='cita'){if(p.k)add(el(`<div class="k">${p.k}</div>`));add(el(`<div class="abs" style="left:80px;top:420px;font-family:AN;font-size:260px;color:var(--oro);line-height:.8">“</div>`),pop(.05));
+  const q=add(el(`<div class="abs" style="left:80px;top:600px;width:860px;font-family:AN;font-size:96px;line-height:1.1;text-transform:uppercase">${p.texto}</div>`),fade(.2,40));let f=96;while(q.offsetHeight>620&&f>56){f-=6;q.style.fontSize=f+'px'}
+  if(p.autor)add(el(`<div class="abs" style="left:80px;top:1260px;width:860px;font-family:MB;font-size:36px;color:var(--gr)">${p.autor}</div>`),fade(A(c,p.en,d*.6),0))}
+ if(p.g==='remate'){const a=A(c,p.en,d*.55);const col=COL[p.color||'roj'];const B=add(el(`<div class="abs" style="left:60px;top:820px;width:900px;text-align:center;font-family:AN;font-size:150px;line-height:1.05;color:${col};text-transform:uppercase">${p.big}</div>`),(e,t)=>{const q=P(t,a,.3);e.style.opacity=q;e.style.transform=`scale(${1.6-.6*eo(q)})`;document.body.style.boxShadow=q>0&&p.color!=='ver'&&p.color!=='oro'?`inset 0 0 ${120+60*Math.sin(t*14)}px rgba(255,90,95,.45)`:'none'});
+  let f=150;while(B.offsetHeight>480&&f>80){f-=8;B.style.fontSize=f+'px'}}
+ if(p.g==='encuesta'){if(!p.k)add(el(`<div class="k">VOTÁ ABAJO</div>`));const b=add(el('<div class="body" style="top:760px;height:520px"></div>'));
+  [p.o1,p.o2].forEach((o,j)=>{const r=el(`<div class="pill">${o}</div>`);b.appendChild(r);AN.push(t=>{pop(.15+j*.25)(r,t);r.style.scale=1+(j?-1:1)*.03*Math.sin(t*6)})})}
+ if(p.g==='portada'){if(p.img){add(el(`<div class="abs" style="inset:0;background:url(${p.img}) ${p.pos||'50% 30%'}/cover;filter:grayscale(.35) contrast(1.05)"></div>`));add(el(`<div class="abs" style="inset:0;background:linear-gradient(180deg,rgba(11,20,38,.55) 0%,rgba(11,20,38,.05) 30%,rgba(11,20,38,.2) 52%,rgba(11,20,38,.97) 74%)"></div>`))}
+  const y=p.img?1010:640;add(el(`<div class="abs" style="left:80px;top:${y}px;font-family:MB;font-size:34px;letter-spacing:5px;color:var(--bg);background:var(--oro);padding:10px 22px;border-radius:6px;text-transform:uppercase">${p.k||'HISTORIAS DE LA BOLSA'}</div>`));
+  const h=add(el(`<div class="abs" style="left:80px;top:${y+75}px;width:920px;font-family:AN;font-size:150px;line-height:1.04;text-transform:uppercase">${p.h}</div>`));let f=150;while(h.offsetHeight>330&&f>80){f-=6;h.style.fontSize=f+'px'}
+  if(p.sub)add(el(`<div class="abs" style="left:80px;top:${y+75+h.offsetHeight+24}px;width:900px;font-family:MB;font-size:44px">${p.sub}</div>`))}
+ if(p.g==='cierre'){add(el(`<div class="abs" style="left:0;top:720px;width:1080px;text-align:center;font-family:AN;font-size:120px;line-height:1.05">TIEMPO<br><span style="color:var(--oro)">FINANCIERO</span></div>`),pop(.05));
+  add(el(`<div class="abs" style="left:0;top:1010px;width:1080px;text-align:center;font-family:MB;font-size:40px;color:var(--gr)">@tiempofinancierok</div>`),fade(.4));add(el(`<div class="abs" style="left:0;top:1100px;width:1080px;text-align:center;font-size:34px">Historias de la bolsa, en un minuto</div>`),fade(.6));
+  add(el(`<div class="abs" style="left:90px;top:1330px;width:900px;text-align:center;font-size:24px;color:var(--gr)">Contenido educativo. No es recomendación de inversión.</div>`))}
+}
+window.render=function(t,c){const k=JSON.stringify(c.p)+c.d;if(k!==key){key=k;build(c)}AN.forEach(f=>f(t))}
+</script></body></html>
