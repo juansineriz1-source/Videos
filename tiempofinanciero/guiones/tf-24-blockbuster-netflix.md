@@ -1,5 +1,5 @@
 # tf-24 Blockbuster dijo que no: Netflix por 50 millones
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -38,3 +38,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Valor de Netflix: US$ 62,15 por acción (cierre 13/11/2026, después del split 10 a 1 de noviembre de 2025) × 4.106 M de acciones = US$ 255.200 M (Yahoo Finance, quote API, consulta del 2026-11-14). 255.200 ÷ 50 = 5.104 veces.
 - La comparación es nominal (sin ajustar por inflación) y no es un rendimiento: Netflix nunca se vendió a ese precio.
 - Personas vivas (Hastings, Randolph, Antioco): solo hechos y relato atribuido.
+
+## Revisión financiera (2026-11-14)
+OK. NFLX a 62,15 (Yahoo, 2026-11-13), 255.200 M y ×5.100.

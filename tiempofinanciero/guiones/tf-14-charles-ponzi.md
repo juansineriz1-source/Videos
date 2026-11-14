@@ -1,5 +1,5 @@
 # tf-14 Charles Ponzi: el hombre que le puso nombre a la estafa
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -9,7 +9,7 @@ Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión fin
 | 3 | En 1920 encontró su idea: cupones de correo que se compraban baratos en Europa y valían más en Estados Unidos. | CUPONES DE CORREO | Wikimedia: cupón de respuesta internacional de la época (dominio público) |
 | 4 | Para respaldar lo que juntó hacían falta unos ciento sesenta millones de cupones. En circulación había unos veintisiete mil. | 160 MILLONES vs 27.000 | Gráfico: barras. Cupones necesarios: 160.000.000 / Cupones en circulación: 27.000 |
 | 5 | Entonces les pagaba a los primeros con la plata de los que entraban después. | PLATA DE OTROS | Gráfico: flujo. Inversores nuevos → Ponzi → pago a inversores viejos |
-| 6 | Y como pagaba, corría la voz. En julio de 1920 le entraba cerca de un millón de dólares por día. | US$ 1 MILLÓN POR DÍA | Gráfico: línea. Plata recibida en 1920: mayo US$ 420.000 / junio US$ 2,5 M / julio casi US$ 1 M por día |
+| 6 | Y como pagaba, corría la voz. En julio de 1920 le entraban cientos de miles de dólares por día. | CIENTOS DE MILES POR DÍA | Gráfico: línea. Plata recibida en 1920: mayo US$ 420.000 / junio US$ 2,5 M / julio ~US$ 250.000 por día |
 | 7 | El diario Boston Post investigó y publicó que era insolvente. | EL DIARIO LO DESTAPÓ | Pixabay: vintage newspaper printing press |
 | 8 | En agosto de 1920 todo se cayó. Las pérdidas rondaron los veinte millones de dólares y quebraron seis bancos. | -US$ 20 MILLONES | Pixabay: crowd outside old bank building |
 | 9 | Los inversores recuperaron menos de treinta centavos por cada dólar. | 30 CENTAVOS POR DÓLAR | Gráfico: barras. Por cada US$ 1 puesto: menos de US$ 0,30 recuperados |
@@ -36,3 +36,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Condena federal de 5 años (1/11/1920), luego 7 a 9 años en Massachusetts; deportado el 7/10/1934. Fuente: Wikipedia EN.
 - Muerte: 18/01/1949 en la sala de caridad de un hospital de Río de Janeiro; dejó US$ 75. Fuente: Wikipedia EN y Biography.com.
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+Corregido: 'cerca de un millón por día' → 'cientos de miles por día'. Los US$ 250.000 diarios están mejor documentados.

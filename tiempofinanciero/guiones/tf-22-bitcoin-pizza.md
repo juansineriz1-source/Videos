@@ -1,5 +1,5 @@
 # tf-22 Las dos pizzas de diez mil bitcoins
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -37,3 +37,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - OJO: bitcoin cayó de US$ 73.964 (11/11) a US$ 65.200 (14/11) en tres días. Recalcular el día de grabar y cambiar las filas 1, 9 y 10 si se mueve más de 5 %.
 - Hanyecz dijo que no se arrepiente: The Independent ("No regrets"), Fox Business. Según DiarioBitcoin gastó en total cerca de 100.000 BTC en 2010 (estimación, no se usa).
 - Yahoo no tiene precio de bitcoin antes del 17/09/2014 (US$ 457): la línea de la fila 9 arranca de los US$ 41 ÷ 10.000 de la fuente histórica.
+
+## Revisión financiera (2026-11-14)
+OK. BTC a US$ 65.595 (Yahoo, 2026-11-14) da 656 M: 'seiscientos cincuenta millones' alcanza. Recalcular el día de grabar.

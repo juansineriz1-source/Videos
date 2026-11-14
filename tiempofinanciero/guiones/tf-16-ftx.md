@@ -1,5 +1,5 @@
 # tf-16 FTX: de 32.000 millones a la quiebra en diez meses
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -37,3 +37,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Apelación rechazada el 12/06/2026: UNA sola fuente (Wikipedia "Sam Bankman-Fried"). Confirmar con una segunda fuente antes de grabar; si no se confirma, cortar la frase en "veinticinco años de prisión".
 - Contexto que no entra en la voz: el plan de quiebra aprobado el 07/10/2024 devuelve a la mayoría de los clientes el valor de sus cuentas a precios de noviembre de 2022.
 - Persona viva: solo cargos, veredicto y condena. Sin adjetivos.
+
+## Revisión financiera (2026-11-14)
+OK. Apelación rechazada el 2026-06-12, confirmada con Bloomberg Law y The Block.

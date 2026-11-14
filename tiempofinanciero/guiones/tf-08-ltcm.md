@@ -1,5 +1,5 @@
 # tf-08 LTCM: los premios Nobel que casi tumban Wall Street
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -35,3 +35,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Derivados fuera de balance: ~US$ 1,25 billones (millones de millones) nocionales. No se usa en la voz.
 - Fotos de Scholes y Merton: no son de dominio público por antigüedad; buscar licencia libre o reemplazar por gráfico.
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+OK. Capital US$ 4.700 M contra deuda de US$ 124.500 M da ~26 a 1, así que el cartel '25 a 1' está bien. Rescate de US$ 3.625 M.

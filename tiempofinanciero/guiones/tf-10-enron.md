@@ -1,5 +1,5 @@
 # tf-10 Enron: la empresa más admirada era humo
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -13,7 +13,7 @@ Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión fin
 | 7 | Su auditora, Arthur Andersen, una de las más grandes del mundo, firmaba todo. | LA AUDITORA FIRMABA | Gráfico: sello. Balance con sello 'AUDITADO: ARTHUR ANDERSEN' |
 | 8 | En octubre de 2001 reconoció una pérdida de seiscientos treinta y ocho millones, y la confianza se evaporó. | -US$ 638 M | Pixabay: worried businessman reading newspaper |
 | 9 | El dos de diciembre de 2001 pidió la quiebra. La acción valía menos de un dólar. | DE US$ 90 A MENOS DE 1 | Gráfico: línea. Acción de Enron: US$ 90 (ago-2000) a menos de US$ 1 (dic-2001) |
-| 10 | Tenía unos veinte mil empleados. Muchos perdieron el trabajo y casi todos sus ahorros para la jubilación. | 20.000 EMPLEADOS | Wikimedia: logo de Enron frente a su sede de Houston (verificar licencia libre) |
+| 10 | Tenía unos veinte mil empleados. Muchos perdieron el trabajo y gran parte de sus ahorros para la jubilación. | 20.000 EMPLEADOS | Wikimedia: logo de Enron frente a su sede de Houston (verificar licencia libre) |
 | 11 | Su director ejecutivo, Jeffrey Skilling, fue condenado a veinticuatro años de cárcel. | 24 AÑOS | Gráfico: número grande. 24 años de condena (2006); cumplió unos 12 |
 | 12 | Ya sabés el riesgo de tener el sueldo y los ahorros en la misma canasta: si se cae, perdés las dos cosas. | TODO EN UNA CANASTA | Pixabay: eggs in basket |
 | 13 | ¿Vos tendrías acciones de la empresa donde trabajás? Votá abajo. | SÍ, LA CONOZCO / NO, YA ME JUEGO EL SUELDO | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
@@ -38,3 +38,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Arthur Andersen: una de las 'Big Five' (dato de conocimiento general, sin fuente consultada); condenada en 2002 por destruir documentos, fallo anulado por la Corte Suprema en 2005, ya sin actividad. Fuente: Britannica.
 - Activos al quebrar: US$ 63.400 M es la cifra más citada, Wikipedia muestra US$ 67.500 M. No se usa en la voz por esa diferencia.
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+Corregido: 'casi todos sus ahorros' → 'gran parte de sus ahorros' (no todos tenían todo en Enron).

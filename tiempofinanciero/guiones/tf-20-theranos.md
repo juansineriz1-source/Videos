@@ -1,5 +1,5 @@
 # tf-20 Theranos: la gota de sangre de nueve mil millones
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -38,3 +38,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Reducción de 12 meses (a 123 meses) por el juez Edward Davila, 26/03/2026. Fuentes: Reason / The Volokh Conspiracy (27/03/2026); Bloomberg Government; Wikipedia "Elizabeth Holmes".
 - Ramesh Balwani: 12 años y 11 meses (dic. 2022). No entra en la voz.
 - Persona viva: solo veredicto, condena y reducción. Sin adjetivos.
+
+## Revisión financiera (2026-11-14)
+OK. Valuación de 9.000 M (la más citada). La reducción de 2026 tiene fuente (Reason, Bloomberg Government).

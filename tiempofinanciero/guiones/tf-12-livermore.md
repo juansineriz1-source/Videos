@@ -1,5 +1,5 @@
 # tf-12 Jesse Livermore: ganó una fortuna en el 29 y murió quebrado
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -13,8 +13,8 @@ Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión fin
 | 7 | En 1929 repitió la jugada, mucho más grande. Se le atribuyen unos cien millones. | 1929: US$ 100 M | Gráfico: línea. Dow Jones en 1929 cayendo, con la marca 'Livermore apostaba a la baja' |
 | 8 | Pero no supo conservarlos. En 1934 se declaró en quiebra por tercera vez. | TERCERA QUIEBRA | Gráfico: lista. Quiebras: una antes de 1915 / 1915 / 1934 |
 | 9 | Declaró ochenta y cuatro mil dólares en bienes contra dos millones y medio de deudas. | 84.000 vs 2,5 M | Gráfico: barras. Bienes US$ 84.000 / Deudas US$ 2,5 M (1934) |
-| 10 | En 1940, a los sesenta y tres años, se quitó la vida en un hotel de Nueva York. | 1877-1940 | Pixabay: empty hotel lobby vintage |
-| 11 | En su nota de despedida escribió: soy un fracaso. | "SOY UN FRACASO" | Gráfico: cita. "Soy un fracaso", Jesse Livermore, 1940 |
+| 10 | Murió en 1940, a los sesenta y tres años, en Nueva York. | 1877-1940 | Pixabay: empty hotel lobby vintage |
+| 11 | Había ganado y perdido fortunas más de una vez. | GANÓ Y PERDIÓ | Gráfico: línea de su fortuna: 1907, 1915, 1929, 1934 |
 | 12 | Ya sabés que ganar plata y conservarla son dos habilidades distintas. | GANAR NO ES CONSERVAR | Pixabay: hourglass sand dark |
 | 13 | ¿Qué te parece más difícil con la plata? Votá abajo. | GANARLA / CONSERVARLA | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
@@ -39,3 +39,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Tema sensible (suicidio): se menciona sin detalles del método. Evaluar con juan si se deja o se dice 'murió en 1940'.
 - Solo se pudo consultar una fuente (Wikipedia EN).
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+Corregido: se saca el suicidio y la nota de despedida (pauta de comunicación responsable). Queda 'murió en 1940'.

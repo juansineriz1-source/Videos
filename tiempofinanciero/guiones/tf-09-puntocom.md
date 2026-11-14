@@ -1,5 +1,5 @@
 # tf-09 Puntocom: la empresa que duró nueve meses en la bolsa
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -13,7 +13,7 @@ Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión fin
 | 7 | Después la confianza se cortó, y sin plata nueva esas empresas no pudieron seguir. | SE CORTÓ LA PLATA | Pixabay: empty office abandoned desks |
 | 8 | En noviembre, Pets punto com anunció el cierre. Ese día la acción valía diecinueve centavos. | DE US$ 11 A 19 CENTAVOS | Gráfico: línea. Acción de Pets.com: US$ 11 (feb-2000) a US$ 0,19 (7-11-2000) |
 | 9 | El Nasdaq cayó setenta y ocho por ciento hasta octubre de 2002, y tardó unos quince años en recuperar el máximo. | -78 % | Gráfico: línea. Nasdaq: 5.048 (10-3-2000) a 1.114 (9-10-2002); recupera el máximo en 2015 |
-| 10 | Ojo: internet sí cambió el mundo. Amazon sobrevivió a esa misma caída. | LA IDEA ERA BUENA | Pixabay: online shopping delivery boxes |
+| 10 | Ojo: internet sí cambió el mundo. Amazon sobrevivió, aunque su acción cayó noventa y cuatro por ciento. | LA IDEA ERA BUENA | Pixabay: online shopping delivery boxes |
 | 11 | Ya sabés la diferencia: una buena idea no siempre es un buen negocio, ni una buena inversión a cualquier precio. | IDEA ≠ NEGOCIO | Pixabay: light bulb idea dark |
 | 12 | ¿Hoy ves algo parecido con la inteligencia artificial? Votá abajo. | SÍ, ES OTRA BURBUJA / NO, ESTA VEZ ES DISTINTO | Gráfico: remate. Las dos opciones de la encuesta + cierre de marca |
 
@@ -36,3 +36,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Amazon sobrevivió a la caída (perdió gran parte de su valor de mercado, sin cifra verificada). Era además accionista de Pets.com (~30 % en oct-2000).
 - Pregunta de la encuesta sobre inteligencia artificial: es opinión del público, el guion no afirma que haya burbuja.
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+Corregido: Amazon cayó 94% (2000-2001, Yahoo), y decirlo muestra el riesgo aunque la idea fuera buena. Verificado con Yahoo ^IXIC: mínimo 1.114,11 el 2002-10-09 y máximo recuperado el 2015-04-23.

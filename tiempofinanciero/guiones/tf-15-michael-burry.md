@@ -1,5 +1,5 @@
 # tf-15 Michael Burry: el médico que apostó contra las hipotecas
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -35,3 +35,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Rendimiento de Scion: +489,34 % neto de comisiones entre nov. 2000 y jun. 2008; S&P 500 "poco más de 2 %" en el mismo período. Fuente: Wikipedia "Scion Asset Management". Una sola fuente: verificar el dato del S&P (con dividendos da algo distinto).
 - Cerró Scion Capital en 2008. En nov. 2025 dio de baja el registro de Scion Asset Management (no se usa en la voz).
 - Persona viva: solo hechos documentados, sin adjetivos.
+
+## Revisión financiera (2026-11-14)
+OK. Los US$ 60 M y los más de 1.000 M son montos asegurados (nocional), y el gráfico lo tiene que decir así. El +489% contra ~2% del S&P sin dividendos es de una sola fuente: no ponerlo en pantalla.

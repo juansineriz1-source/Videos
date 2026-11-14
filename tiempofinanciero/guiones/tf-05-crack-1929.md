@@ -1,10 +1,10 @@
 # tf-05 Crack del 29: la bolsa comprada a crédito
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
 |---|---|---|---|
-| 1 | Imaginate comprar acciones poniendo solo el diez por ciento y pidiendo prestado el resto. Así se invertía en 1929. | 10 % TUYO, 90 % PRESTADO | Gráfico: flujo. US$ 100 en acciones = US$ 10 propios + US$ 90 prestados por el corredor |
+| 1 | Imaginate comprar acciones poniendo solo el diez por ciento y pidiendo prestado el resto. Así invertían muchos en 1929. | 10 % TUYO, 90 % PRESTADO | Gráfico: flujo. US$ 100 en acciones = US$ 10 propios + US$ 90 prestados por el corredor |
 | 2 | Nadie lo veía como un riesgo: la bolsa de Nueva York venía subiendo hacía años. | — | Wikimedia: piso de la Bolsa de Nueva York en los años 1920 (dominio público) |
 | 3 | El tres de septiembre de 1929, el Dow Jones tocó su máximo: trescientos ochenta y un puntos. | 381 PUNTOS | Gráfico: número grande. 381,17 (Dow Jones, 3-9-1929) |
 | 4 | El lunes veintiocho de octubre, el índice cayó casi trece por ciento en un solo día. | LUNES NEGRO | Pixabay: vintage stock ticker machine |
@@ -33,3 +33,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Compra a crédito: la Fed dice que lo típico era poner ~10 % y pedir prestado el resto; Wikipedia dice que hacia agosto de 1929 los corredores prestaban 'más de dos tercios'. DUDA: el 10 % era el caso frecuente, no una regla general; el guion lo dice como 'así se invertía'.
 - 'Casi tres años' de caída: de sep-1929 a jul-1932 son 2 años y 10 meses.
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+Corregido: 'así se invertía' → 'así invertían muchos' (el 10% era lo frecuente, no la regla). El resto de cifras están verificadas: 381, −12,8%, −11,7%, 41, −89% y 1954.

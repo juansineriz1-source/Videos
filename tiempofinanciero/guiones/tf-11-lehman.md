@@ -1,5 +1,5 @@
 # tf-11 Lehman Brothers: 158 años y un fin de semana
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -35,3 +35,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Dow el 15/09/2008: -504 puntos, -4,4 %, peor caída desde la reapertura tras el 11-S. Fuente: History.com y Wikipedia EN (que en la introducción dice 4,5 %).
 - 'Desaparecer en un fin de semana': las negociaciones fallidas (Barclays, Bank of America) fueron el 13 y 14/09/2008. Barclays compró después el negocio norteamericano por ~US$ 1.370 M.
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+OK. 31 a 1 = 3,2%, la cuenta está bien.

@@ -1,5 +1,5 @@
 # tf-13 Nick Leeson: el empleado que fundió al banco Barings
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -39,3 +39,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Compra de Luisiana (1803) financiada con ayuda de Barings; manejó finanzas de la familia real británica. Fuente: Britannica.
 - 'Uno de los bancos más antiguos de Inglaterra': suele decirse 'el banco mercantil más antiguo de Londres'. DUDA: confirmar la fórmula exacta.
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+OK.

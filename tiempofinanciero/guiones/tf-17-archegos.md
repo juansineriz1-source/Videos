@@ -1,5 +1,5 @@
 # tf-17 Archegos: veinte mil millones en dos días
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -36,3 +36,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Veredicto 10/07/2024: culpable de 10 de 11 cargos (fraude bursátil y electrónico, asociación ilícita, manipulación). Condena 20/11/2024: 18 años. Fuentes: Wikipedia "Bill Hwang"; NBC News, Al Jazeera, The National (20/11/2024).
 - Estado: a marzo de 2026 seguía libre bajo fianza mientras apela; en enero de 2026 pidió un indulto (Bloomberg, Reuters). No encontré fallo de la apelación al 2026-11-14: verificar el estado el día de grabar.
 - Persona viva: solo veredicto y condena, y se aclara que apeló.
+
+## Revisión financiera (2026-11-14)
+OK. La pérdida de US$ 20.000 M está bien atribuida a Bloomberg.

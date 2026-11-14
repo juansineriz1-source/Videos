@@ -1,5 +1,5 @@
 # tf-23 Ronald Wayne: el diez por ciento de Apple por 800 dólares
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -38,3 +38,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Valor de Apple: US$ 356,27 por acción (cierre 13/11/2026) × 14.532 M de acciones = US$ 5,177 billones (Yahoo Finance, quote API, consulta del 2026-11-14). "Billones" en castellano = millones de millones.
 - 10 % = US$ 517.700 M (en la voz, "quinientos dieciocho mil millones"). Es una cuenta teórica: la participación se habría diluido con las rondas de inversión y la salida a bolsa de 1980. Se aclara en la voz (fila 10) y en el caption.
 - Persona viva: solo hechos y sus propios dichos.
+
+## Revisión financiera (2026-11-14)
+OK. AAPL a 356,27 (Yahoo, 2026-11-13). La aclaración de la dilución está bien puesta.

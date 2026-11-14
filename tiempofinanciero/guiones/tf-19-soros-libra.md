@@ -1,5 +1,5 @@
 # tf-19 Soros y la libra: el miércoles negro de 1992
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -37,3 +37,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Recesión británica y tasas altas alemanas tras la reunificación: Wikipedia "Black Wednesday".
 - "Acá lo vimos": guiño a la convertibilidad argentina (1991-2001); no se desarrolla en este reel.
 - Soros y Druckenmiller están vivos: solo hechos y dichos atribuidos.
+
+## Revisión financiera (2026-11-14)
+OK. La ganancia va 'más de mil millones de dólares' como estimación.

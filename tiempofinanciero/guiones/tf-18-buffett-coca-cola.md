@@ -1,5 +1,5 @@
 # tf-18 Buffett y Coca-Cola: la compra de 1988 que paga todos los años
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -37,3 +37,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - 64 aumentos anuales seguidos del dividendo: comunicado de The Coca-Cola Company de febrero de 2026 ("64th Consecutive Annual Dividend Increase"); Yahoo Finance.
 - El 65 % es rendimiento sobre el costo de 1988-1994, no lo que rinde la acción comprada hoy (~2,1 % al precio actual). Aclararlo si el revisor lo pide.
 - Buffett dejó de ser CEO de Berkshire a fin de 2025 (lo sucede Greg Abel); la posición es de Berkshire. Persona viva: solo hechos.
+
+## Revisión financiera (2026-11-14)
+OK. Verificado con Yahoo: KO a US$ 99,25 (2026-11-13) y dividendo de 2,12. Antes de armar el gráfico, chequear las barras de 1988-89 en las cartas de Berkshire.

@@ -1,5 +1,5 @@
 # tf-21 WeWork: cuarenta y siete mil millones que no estaban
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -12,7 +12,7 @@ Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión fin
 | 6 | En 2018 había facturado mil ochocientos millones de dólares, y había perdido mil novecientos. | FACTURÓ 1.800 · PERDIÓ 1.900 | Gráfico: barras: 2018: ingresos US$ 1.800 M vs pérdida US$ 1.900 M |
 | 7 | Además, le había pagado casi seis millones a una sociedad de sus fundadores por la marca We. | US$ 5,9 M POR "WE" | Gráfico: flujo: WeWork → US$ 5,9 M → sociedad de los fundadores (por la marca "We"; después devueltos) |
 | 8 | Los inversores no quisieron comprar. En septiembre, Neumann renunció y la salida a bolsa se canceló. | SE CANCELÓ | Pixabay: empty modern office chairs |
-| 9 | SoftBank la rescató. Después reconoció una pérdida de más de nueve mil millones. | SOFTBANK: -US$ 9.200 M | Gráfico: barras: SoftBank: invirtió US$ 10.300 M · dio por perdidos US$ 9.200 M (nov. 2019) |
+| 9 | SoftBank la rescató. En noviembre de 2019 ya reconocía pérdidas de más de cuatro mil millones con WeWork. | SOFTBANK: -US$ 4.600 M | Gráfico: barras: SoftBank: invirtió US$ 10.300 M · pérdida reconocida US$ 4.600 M (nov. 2019) |
 | 10 | Salió a la bolsa recién en 2021, valuada en nueve mil millones. En noviembre de 2023 pidió la quiebra. | 47.000 → 9.000 → QUIEBRA | Gráfico: línea: US$ 47.000 M (ene. 2019) → US$ 9.000 M (oct. 2021) → quiebra (06/11/2023) |
 | 11 | Ya sabés la diferencia entre valuación y valor: una es lo que alguien pagó, la otra es lo que la empresa gana. | VALUACIÓN ≠ VALOR | Pixabay: price tag hand |
 | 12 | ¿Qué mirás primero en una empresa: cuánto crece o cuánto gana? Votá abajo. | CUÁNTO CRECE / CUÁNTO GANA | Gráfico: remate: placa de encuesta con las dos opciones + cierre de marca |
@@ -36,3 +36,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Salida a bolsa por fusión con un SPAC (BowX) en octubre de 2021, a US$ 9.000 M. Chapter 11 el 06/11/2023; salió del concurso el 30/05/2024 y sigue operando. Fuente: ídem. "Quiebra" = Chapter 11 (reorganización), no liquidación.
 - Paquete de salida de Neumann (cerca de US$ 1.700 M de SoftBank): no entra en la voz.
 - Personas vivas (Neumann, McKelvey): solo hechos del prospecto y fechas.
+
+## Revisión financiera (2026-11-14)
+Corregido: SoftBank reconoció ~US$ 4.600 M de pérdida por WeWork en noviembre de 2019 (Fortune, 2019-11-06). Los 9.200 M de Wikipedia no se confirmaron.

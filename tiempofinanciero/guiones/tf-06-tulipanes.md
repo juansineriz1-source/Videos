@@ -1,5 +1,5 @@
 # tf-06 Tulipanes: la burbuja que te contaron exagerada
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -36,3 +36,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - La curva del gráfico de línea es ilustrativa (índice de Thompson, nov-1636 a feb-1637); no hay serie de precios confiable.
 - Solo se pudo consultar una fuente (Wikipedia EN); conviene cruzar con Goldgar o Britannica.
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+OK. Ya está planteado como mito discutido (Goldgar). Semper Augustus 10.000 florines es un precio atribuido, bien dicho como 'llegó a cotizar'.

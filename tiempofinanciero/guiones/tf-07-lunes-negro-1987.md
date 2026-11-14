@@ -1,5 +1,5 @@
 # tf-07 Lunes negro 1987: el peor día de Wall Street
-Tipo: historia. Duración objetivo: 60 s. Estado: borrador, espera revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -35,3 +35,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Recuperación: la Fed dice 'menos de dos años'; el S&P 500 recuperó 336,77 el 26/07/1989 (Wikipedia EN). DUDA: no se verificó la fecha exacta en que el Dow recuperó 2.722 (por eso el gráfico usa el S&P 500).
 - 'Casi la cuarta parte': 22,6 %.
 - Fecha de verificación de datos: 2026-11-14.
+
+## Revisión financiera (2026-11-14)
+OK. El Dow recuperó 2.722 en agosto de 1989, así que 'menos de dos años' está bien.
