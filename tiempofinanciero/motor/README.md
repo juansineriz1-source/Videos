@@ -41,3 +41,13 @@ Probar un gráfico suelto: `node render2.js prueba.png 6 '{"d":6,"at":{},"p":{..
 
 ## Voz
 HeyGen gratis, voz "Justo - Professional" (voice_id 49d1050d0a764f1394587a6d2409ea80), language es, withTimestamps true. Una sola llamada por reel con el guion entero ya revisado. NUNCA ElevenLabs/Mauricio.
+
+## v3 (2026-11-14, pedido de juan: más real y más profesional)
+`armar_tf3.py` + `render3.js` + `g3.html`. Cambios sobre v2:
+- Fondo vivo (grilla en perspectiva, velas, partículas), números que cuentan, líneas con brillo y etiqueta que sigue la punta, barras con degradé, sellos con golpe.
+- Cualquier gráfico acepta `"bg":"c:ID@ss"` o `"bg":"v:footage/archivo.mp4@ss"`: se dibuja encima del video real oscurecido.
+- Escenas nuevas: `tercio` (`nombre`, `rol`, `src`; nombre de la persona sobre el video), `titulo` (`h`, `sub`, `k`; texto grande palabra por palabra, reemplaza al cartel).
+- Material real: `["v:footage/archivo.mp4@segundo", peso, {"cred":"AP Archive","pos":0.5}]` (`pos` = dónde cortar el cuadro horizontal, 0 izquierda a 1 derecha).
+- `"musica":"musica/mx-188.mp3"`, `"musica_vol":0.11` (Mixkit, licencia gratis).
+- `voz.py <resultado_heygen.txt> tfNN` deja `voz-tfNN.wav` y `voz-tfNN.json`.
+- El armador avisa las tomas de más de 5,6 s: partirlas.
