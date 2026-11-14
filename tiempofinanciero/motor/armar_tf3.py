@@ -4,7 +4,10 @@
 import json,sys,os,re,subprocess
 R=json.load(open(sys.argv[1])); OUT=sys.argv[2]; W,H,FPS=1080,1920,30; T=R.get("tempo",1.0)
 os.makedirs("tmp",exist_ok=True)
+SOLO=os.environ.get("SOLO"); SOLO=set(SOLO.split(",")) if SOLO else None  # SOLO=4,7 rehace solo esas tomas y reusa tmp/pN.mp4 del resto
 def run(a):
+    if SOLO is not None and a[0]!="ffmpeg" and a[2].startswith("tmp/p") and a[2][5:-4] not in SOLO: return
+    if SOLO is not None and a[0]=="ffmpeg" and a[-1].startswith("tmp/p") and a[-1][5:-4] not in SOLO: return
     r=subprocess.run(a,stdout=subprocess.DEVNULL,stderr=subprocess.PIPE)
     if r.returncode: sys.exit("ERROR "+" ".join(a[:6])+"\n"+r.stderr.decode()[-800:])
 def src(v):
@@ -30,14 +33,18 @@ for i,s in enumerate(R["segs"]):
         if vis=="g":
             at={}
             for j in range(ini[i],ini[i+1]): at.setdefault(tok(pal[j][2]),max(0,pal[j][0]-t0))
-            g=v[2]; cfg=json.dumps({"p":g,"d":d,"at":at,"t0":t0},ensure_ascii=False)
+            g=v[2]
+            if g.get('g')=='archivo':
+                cw,ch=(int(x) for x in g['crop'].split(':')[:2]) if g.get('crop') else map(int,subprocess.check_output(['ffprobe','-v','0','-select_streams','v:0','-show_entries','stream=width,height','-of','csv=p=0',src(g['bg'])[0]]).decode().strip().split(','))
+                hh=round(1000*ch/cw/2)*2; g['win']={'x':40,'y':g.get('y',640 if g.get('h') else 480),'w':1000,'h':hh,'crop':g.get('crop')}
+            cfg=json.dumps({"p":g,"d":d,"at":at,"t0":t0},ensure_ascii=False)
             run(["node","render3.js",p,f"{d:.3f}",cfg]+(list(src(g["bg"])) if g.get("bg") else []))
         else:
-            c,ss=src(vis); o=v[2] if len(v)>2 else {}; z=f"(1+0.05*t/{d:.3f})"; fx=o.get("pos",0.5)
+            c,ss=src(vis); o=v[2] if len(v)>2 else {}; cr=("crop="+o["crop"]+"," if o.get("crop") else ""); z=f"(1+0.05*t/{d:.3f})"; fx=o.get("pos",0.5)
             cred=o.get("cred"); dt=(f",drawtext=fontfile=assets/Montserrat-SemiBold.ttf:text='{cred}':x=40:y=250:fontsize=26:fontcolor=white@0.85:box=1:boxcolor=black@0.45:boxborderw=10" if cred else "")
             look="eq=contrast=1.06:saturation=0.9:brightness=-0.02,vignette=PI/5"
             run(["ffmpeg","-y","-stream_loop","-1","-ss",ss,"-i",c,"-vf",
-              f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H}:(iw-ow)*{fx}:(ih-oh)/2,setsar=1,fps={FPS},scale=w='trunc({W}*{z}/2)*2':h=-2:eval=frame,crop={W}:{H},{look}{dt}",
+              f"{cr}scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H}:(iw-ow)*{fx}:(ih-oh)/2,setsar=1,fps={FPS},scale=w='trunc({W}*{z}/2)*2':h=-2:eval=frame,crop={W}:{H},{look}{dt}",
               "-t",f"{d:.3f}","-an","-c:v","libx264","-preset","veryfast","-crf","16","-pix_fmt","yuv420p",p])
         partes.append(p); t0+=d
 if R.get("portada"):

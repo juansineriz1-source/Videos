@@ -1,0 +1,514 @@
+{
+"voz": "voz.wav",
+"palabras": "voz.json",
+"tempo": 1.1,
+"cierre": 1.8,
+"musica": "musica/mx-188.mp3",
+"musica_vol": 0.11,
+"portada": {
+"g": "portada",
+"img": "img/madoff.jpg",
+"k": "HISTORIAS DE LA BOLSA",
+"h": "El fondo que <b>nunca perdía</b>",
+"sub": "La estafa de Madoff, en un minuto"
+},
+"segs": [
+{
+"txt": "Si alguien te promete ganar todos los años, aunque el mundo se venga abajo, escapate.",
+"vis": [
+[
+"g",
+2.2,
+{
+"g": "archivo",
+"bg": "v:footage/yt-wQFBQLlVUbE.mp4@15.2",
+"crop": "480:360:80:0",
+"k": "Nueva York · 2009",
+"h": "Te promete <b>ganar siempre</b>",
+"cred": "Archivo · AP"
+}
+],
+[
+"g",
+2.5,
+{
+"g": "titulo",
+"bg": "c:231177",
+"h": "Aunque el mundo se venga abajo: <i>escapate</i>",
+"size": 150,
+"paso": 0.2,
+"en": 0.05
+}
+]
+]
+},
+{
+"txt": "En diciembre de 2008, Bernie Madoff, que había sido presidente del Nasdaq, les confesó a sus hijos que su fondo era una gran mentira.",
+"vis": [
+[
+"g",
+2.6,
+{
+"g": "foto",
+"img": "img/madoff.jpg",
+"k": "Diciembre de 2008",
+"nombre": "Bernie Madoff",
+"rol": "El financista más respetado",
+"en": "bernie"
+}
+],
+[
+"g",
+1.8,
+{
+"g": "archivo",
+"bg": "v:footage/yt-oWXMHfHiRPA.mp4@41",
+"crop": "480:360:80:0",
+"k": "Quién era",
+"h": "Ex presidente <b>del Nasdaq</b>",
+"cred": "Archivo · AP"
+}
+],
+[
+"g",
+2.9,
+{
+"g": "archivo",
+"bg": "v:footage/yt-05HK-z6HoHM.mp4@34.6",
+"k": "La confesión",
+"h": "Su fondo era <i>una gran mentira</i>",
+"cred": "Película · The Wizard of Lies (HBO)",
+"crop": "1440:1080:240:0"
+}
+]
+]
+},
+{
+"txt": "Durante décadas mostró ganancias de entre diez y doce por ciento por año, sin un solo año malo.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "linea",
+"k": "1990 a 2008",
+"h": "Ni <u>un solo</u> año malo",
+"min": 60,
+"xl": [
+"1990",
+"1996",
+"2002",
+"2008"
+],
+"src": "Madoff: 10,5 % anual parejo (ilustrativo). S&P 500: cierres anuales, base 100.",
+"series": [
+{
+"pts": [
+100,
+110,
+122,
+135,
+149,
+165,
+182,
+201,
+222,
+246,
+271,
+300,
+331,
+366,
+405,
+447,
+494,
+546,
+603
+],
+"label": "Madoff",
+"fmt": false,
+"color": "ver",
+"en": 0.5
+},
+{
+"pts": [
+100,
+126,
+132,
+141,
+139,
+187,
+225,
+294,
+372,
+445,
+400,
+348,
+267,
+337,
+367,
+378,
+430,
+445,
+274
+],
+"label": "La bolsa",
+"fmt": false,
+"color": "gr",
+"en": 1.6
+}
+]
+}
+]
+]
+},
+{
+"txt": "¿El truco? No invertía nada.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "titulo",
+"bg": "c:164394",
+"k": "¿El truco?",
+"h": "No invertía <i>nada</i>",
+"size": 190,
+"en": 0.75
+}
+]
+]
+},
+{
+"txt": "Con la plata de los clientes nuevos les pagaba a los viejos. Un esquema Ponzi.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "flujo",
+"k": "Cómo funcionaba",
+"h": "Esquema <i>Ponzi</i>",
+"items": [
+{
+"t": "Plata de clientes nuevos",
+"en": 0.2,
+"color": "ver"
+},
+{
+"t": "Madoff",
+"en": "pagaba",
+"hi": true
+},
+{
+"t": "Les paga a los viejos",
+"en": "viejos",
+"st": "PONZI",
+"color": "roj"
+}
+]
+}
+]
+]
+},
+{
+"txt": "Y nadie desconfiaba, porque Madoff no salía a buscar clientes: había que rogarle para entrar.",
+"vis": [
+[
+"g",
+2.5,
+{
+"g": "archivo",
+"bg": "v:footage/yt-05HK-z6HoHM.mp4@11.5",
+"k": "El club exclusivo",
+"h": "Nadie <b>desconfiaba</b>",
+"cred": "Película · The Wizard of Lies (HBO)",
+"crop": "1440:1080:240:0"
+}
+],
+[
+"g",
+2.5,
+{
+"g": "titulo",
+"bg": "c:199623",
+"h": "Había que <b>rogarle</b> para entrar",
+"size": 160,
+"paso": 0.2,
+"en": 0.6
+}
+]
+]
+},
+{
+"txt": "Bancos, fundaciones, hasta Steven Spielberg le confiaron plata.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "lista",
+"k": "Le confiaron plata",
+"h": "Los que <i>cayeron</i>",
+"items": [
+{
+"t": "Bancos",
+"en": 0.05
+},
+{
+"t": "Fundaciones",
+"en": "fundaciones"
+},
+{
+"t": "Steven Spielberg",
+"en": "steven",
+"hi": true
+}
+],
+"src": "La fundación Wunderkinder, de Spielberg, tenía plata con Madoff."
+}
+]
+]
+},
+{
+"txt": "Un analista, Harry Markopolos, avisó a la SEC varias veces desde el año 2000: los números eran imposibles.",
+"vis": [
+[
+"g",
+2.9,
+{
+"g": "archivo",
+"bg": "v:footage/yt-AF-gzN3ppbE.mp4@21",
+"crop": "640:350:0:0",
+"k": "Congreso de EE. UU. · 2009",
+"h": "El que <b>lo descubrió</b>",
+"nombre": "Harry Markopolos",
+"rol": "El analista que lo denunció",
+"en": "harry",
+"cred": "C-SPAN"
+}
+],
+[
+"g",
+3.5,
+{
+"g": "sello",
+"k": "Avisos a la SEC",
+"h": "Números <i>imposibles</i>",
+"items": [
+{
+"t": "Año 2000",
+"st": "IGNORADO",
+"en": 0.9
+},
+{
+"t": "Año 2001",
+"st": "IGNORADO",
+"en": 1.5
+},
+{
+"t": "Año 2005",
+"st": "IGNORADO",
+"en": 2.1
+}
+],
+"src": "SEC: el regulador de la bolsa de EE. UU."
+}
+]
+]
+},
+{
+"txt": "No le hicieron caso.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "titulo",
+"bg": "v:footage/yt-AF-gzN3ppbE.mp4@119",
+"bgcrop": "270:350:230:0",
+"h": "Nadie <i>escuchó</i>",
+"size": 200,
+"en": 0.1
+}
+]
+]
+},
+{
+"txt": "Hasta que llegó la crisis de 2008: todos pidieron su plata al mismo tiempo, y no había.",
+"vis": [
+[
+"g",
+1.9,
+{
+"g": "archivo",
+"bg": "v:footage/yt-RmMXEwnEGOM.mp4@108",
+"crop": "480:360:80:0",
+"k": "Wall Street",
+"h": "Llegó <i>la crisis</i> de 2008",
+"cred": "Archivo · AP"
+}
+],
+[
+"g",
+2.7,
+{
+"g": "titulo",
+"bg": "c:50622",
+"k": "Todos al mismo tiempo",
+"h": "Pidieron su plata. <i>No había.</i>",
+"size": 150,
+"paso": 0.3,
+"en": 0.3
+}
+]
+]
+},
+{
+"txt": "En los papeles, el fondo valía sesenta y cinco mil millones de dólares. Lo que la gente había puesto de verdad eran unos diecisiete mil quinientos millones.",
+"vis": [
+[
+"g",
+4.1,
+{
+"g": "num",
+"k": "En los papeles",
+"h": "El fondo <b>valía</b>",
+"num": "US$ 65.000 M",
+"sub": "millones de dólares",
+"color": "roj",
+"en": 0.7
+}
+],
+[
+"g",
+4.6,
+{
+"g": "barras",
+"k": "La verdad",
+"h": "Lo que <b>había puesto</b> la gente",
+"src": "Fuente: fideicomisario de la quiebra, Irving Picard.",
+"bars": [
+{
+"v": 65,
+"txt": "US$ 65.000 M",
+"label": "En los papeles",
+"color": "roj",
+"en": 0.35
+},
+{
+"v": 17.5,
+"txt": "US$ 17.500 M",
+"label": "Puesto de verdad",
+"color": "oro",
+"en": "diecisiete"
+}
+]
+}
+]
+]
+},
+{
+"txt": "Madoff fue condenado a ciento cincuenta años de cárcel y murió preso en 2021.",
+"vis": [
+[
+"g",
+2.8,
+{
+"g": "num",
+"bg": "v:footage/yt-k31dKoFsniU.mp4@18.6",
+"bgcrop": "450:800:735:140",
+"k": "La condena",
+"h": "Madoff, <i>condenado</i>",
+"num": "150 años",
+"sub": "de cárcel",
+"color": "oro",
+"en": "ciento"
+}
+],
+[
+"g",
+1.9,
+{
+"g": "archivo",
+"bg": "v:footage/yt-1F6dZHA7sC8.mp4@26.5",
+"crop": "480:360:80:0",
+"k": "El final",
+"h": "Murió preso <i>en 2021</i>",
+"cred": "Archivo · AP · 2009"
+}
+]
+]
+},
+{
+"txt": "Ya sabés la regla: un rendimiento sin altibajos no es un premio, es una alarma.",
+"vis": [
+[
+"g",
+2.6,
+{
+"g": "linea",
+"k": "La regla",
+"h": "Sin <u>altibajos</u>",
+"min": 60,
+"series": [
+{
+"pts": [
+100,
+110,
+122,
+135,
+149,
+165,
+182,
+201,
+222,
+246,
+271,
+300,
+331,
+366,
+405,
+447,
+494,
+546,
+603
+],
+"label": "Demasiado perfecto",
+"fmt": false,
+"color": "ver",
+"en": 0.3
+}
+]
+}
+],
+[
+"g",
+2.1,
+{
+"g": "remate",
+"k": "La regla",
+"h": "No es un <u>premio</u>",
+"big": "Es una alarma",
+"color": "roj",
+"en": "alarma"
+}
+]
+]
+},
+{
+"txt": "¿Vos le hubieras dado tu plata? Votá abajo.",
+"vis": [
+[
+"g",
+1,
+{
+"g": "encuesta",
+"h": "¿Le hubieras dado <b>tu plata</b>?",
+"o1": "Sí, me convencía",
+"o2": "No, demasiado perfecto"
+}
+]
+]
+}
+]
+}

@@ -51,3 +51,9 @@ HeyGen gratis, voz "Justo - Professional" (voice_id 49d1050d0a764f1394587a6d2409
 - `"musica":"musica/mx-188.mp3"`, `"musica_vol":0.11` (Mixkit, licencia gratis).
 - `voz.py <resultado_heygen.txt> tfNN` deja `voz-tfNN.wav` y `voz-tfNN.json`.
 - El armador avisa las tomas de más de 5,6 s: partirlas.
+
+## Material real en ventana (escena `archivo`, 2026-11-14)
+`["g",peso,{"g":"archivo","bg":"v:footage/x.mp4@ss","crop":"480:360:80:0","k":"...","h":"...","cred":"Archivo · AP","nombre":"...","rol":"...","pie":"..."}]`
+El video real va en una ventana de 1000 px de ancho con marco sobre el fondo vivo (sirve para archivo en 360p/480p sin agrandarlo de más). `crop` recorta el original (sacar franjas negras o zócalos en inglés). Los videos AP 360p traen la imagen 4:3 con franjas: `480:360:80:0`.
+`bgcrop` recorta el video de fondo de cualquier escena con `bg`. `SOLO=4,7 python3 armar_tf3.py ...` rehace solo esas tomas y reusa el resto de tmp/.
+Ejemplo completo: `tf-01-v2.json` (Madoff, el molde).
