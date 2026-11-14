@@ -1,0 +1,117 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+/* Noticias @tiempofinancierok · diseño "papel y marcador" (lab de diseño, 2026-11-14).
+   Misma interfaz que g3.html: window.render(t,{d,at,p,t0}). Escenas: gancho, sep, dato, foto, cierre.
+   Zona segura: todo entre y 260 y 1420, x 60 a 1000. Sin brillos ni sombras de neón: plano, papel, tinta. */
+@font-face{font-family:AN;src:url(fuentes/Anton-Regular.ttf)}
+@font-face{font-family:MB;src:url(fuentes/Montserrat-Black.ttf)}
+@font-face{font-family:MS;src:url(fuentes/Montserrat-SemiBold.ttf)}
+@font-face{font-family:SE;src:url(fuentes/DMSerifDisplay-Italic.ttf)}
+@font-face{font-family:MO;src:url(fuentes/JetBrainsMono-Bold.ttf)}
+:root{--noche:#070D1A;--noche2:#0E1830;--oro:#F2B84B;--papel:#F1E7D3;--tinta:#0A1226;--ver:#2FCB85;--roj:#F0525B;--gr:#8FA0BF}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--noche)}
+body{position:relative;color:var(--papel);font-family:MS}
+.abs{position:absolute}
+#BG{position:absolute;inset:0;background:var(--noche)}
+#BG.papel{background:var(--papel)}
+#RAY{position:absolute;inset:-200px;background:repeating-linear-gradient(90deg,rgba(241,231,211,.045) 0 2px,transparent 2px 90px)}
+#BG.papel #RAY{background:repeating-linear-gradient(90deg,rgba(10,18,38,.07) 0 2px,transparent 2px 90px)}
+#R{position:absolute;inset:0}
+#GR{position:absolute;inset:0;mix-blend-mode:overlay;opacity:.5;pointer-events:none}
+#WP{position:absolute;left:-400px;top:-200px;width:700px;height:2400px;background:var(--oro);transform:skewX(-14deg) translateX(-900px)}
+b{color:var(--oro);font-weight:400} i{color:var(--roj);font-style:normal} u{color:var(--ver);text-decoration:none}
+.w{display:inline-block;white-space:pre}
+m{position:relative;display:inline-block;color:var(--tinta);padding:0 14px;margin:0 -6px;z-index:0}
+m:before{content:"";position:absolute;left:0;right:0;top:12%;bottom:4%;background:var(--oro);z-index:-1;transform-origin:0 50%;transform:scaleX(var(--mx,0)) rotate(-1.2deg);border-radius:6px 14px 8px 12px}
+.cinta{position:absolute;left:0;top:262px;width:1080px;height:50px;border-top:2px solid var(--oro);border-bottom:2px solid var(--oro);overflow:hidden;font:26px/46px MO;letter-spacing:3px;color:var(--oro);white-space:nowrap;text-transform:uppercase}
+.papel .cinta{color:var(--tinta);border-color:var(--tinta)}
+.k{position:absolute;left:80px;top:352px;font:30px MO;letter-spacing:4px;text-transform:uppercase;color:var(--tinta);background:var(--oro);padding:8px 18px 8px 16px;white-space:nowrap;transform-origin:0 50%}
+h1{position:absolute;left:80px;top:420px;width:900px;font:400 112px/1.04 AN;text-transform:uppercase}
+.src{position:absolute;left:80px;top:1354px;height:54px;display:flex;align-items:stretch;font:24px MO;letter-spacing:2px;text-transform:uppercase;white-space:nowrap}
+.src em{font-style:normal;background:var(--oro);color:var(--tinta);padding:0 14px;line-height:54px}
+.src span{border:2px solid var(--oro);border-left:0;padding:0 18px;line-height:50px;color:var(--papel);background:rgba(7,13,26,.85)}
+.pasos{position:absolute;left:80px;top:1322px;width:300px;display:flex;gap:10px}
+.pasos div{flex:1;height:8px;background:rgba(241,231,211,.22);position:relative;overflow:hidden}
+.pasos div s{position:absolute;inset:0;background:var(--oro);transform-origin:0 50%}
+</style></head><body><div id="BG"><div id="RAY"></div></div><div id="R"></div><div id="WP"></div><canvas id="GR" width="540" height="960" style="width:1080px;height:1920px"></canvas>
+<script>
+const cl=x=>Math.max(0,Math.min(1,x)),eo=x=>1-Math.pow(1-cl(x),3),eo5=x=>1-Math.pow(1-cl(x),5),P=(t,a,d)=>cl((t-a)/d),$=i=>document.getElementById(i);
+const back=x=>{x=cl(x);const c=1.7,y=x-1;return 1+y*y*((c+1)*y+c)};
+const COL={oro:'#F2B84B',ver:'#2FCB85',roj:'#F0525B',gr:'#8FA0BF',bl:'#F1E7D3'};
+function A(c,w,def){if(w==null)return def;if(typeof w=='number')return w;for(const x of [].concat(w)){const k=x.toLowerCase().replace(/[^\wáéíóúñü]/g,'');if(c.at&&c.at[k]!=null)return c.at[k]}return def}
+function contador(txt){const m=txt.match(/\d[\d.]*(,\d+)?/);if(!m)return p=>txt;const raw=m[0],dec=(raw.split(',')[1]||'').length,val=parseFloat(raw.replace(/\./g,'').replace(',','.')),pre=txt.slice(0,m.index),post=txt.slice(m.index+raw.length);
+ const miles=raw.includes('.')||val<1000;return p=>{const v=val*eo5(p);let s=v.toFixed(dec);let [a,b]=s.split('.');if(miles)a=a.replace(/\B(?=(\d{3})+(?!\d))/g,'.');return pre+a+(b?','+b:'')+post}}
+// grano fijo (semilla), 3 texturas que rotan para que "respire" sin parpadear
+let sd=11;const rnd=()=>(sd=(sd*16807)%2147483647)/2147483647;const gx=$('GR').getContext('2d');
+const GRN=[0,1,2].map(()=>{const im=gx.createImageData(540,960);for(let i=0;i<im.data.length;i+=4){const v=118+rnd()*20|0;im.data[i]=im.data[i+1]=im.data[i+2]=v;im.data[i+3]=255}return im});
+let key=null,AN=[];
+function el(h){const d=document.createElement('div');d.innerHTML=h;return d.firstElementChild}
+function palabras(h){const w=document.createTreeWalker(h,NodeFilter.SHOW_TEXT),ns=[];while(w.nextNode())ns.push(w.currentNode);const out=[];
+ ns.forEach(n=>{const f=document.createDocumentFragment();n.textContent.split(/(\s+)/).forEach(x=>{if(!x)return;if(/^\s+$/.test(x))f.appendChild(document.createTextNode(' '));else{const s=document.createElement('span');s.className='w';s.textContent=x;f.appendChild(s);out.push(s)}});n.parentNode.replaceChild(f,n)});return out}
+function encoger(e,max,f,min,paso=4){while(e.offsetHeight>max&&f>min){f-=paso;e.style.fontSize=f+'px'}return f}
+// tratamiento único de fotos: un solo color de familia (sombras azul noche, luces crema) + borde papel + crédito
+function ventana(p,x,y,w,h){return `<div class="abs" style="left:${x}px;top:${y}px;width:${w}px;height:${h}px;overflow:hidden;background:#000;outline:3px solid var(--papel);outline-offset:10px">
+ <img src="${p.img}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:${p.pos||'50% 50%'};filter:saturate(.8) contrast(1.06) brightness(1.04)">
+ <div style="position:absolute;inset:0;background:#0E1E48;mix-blend-mode:lighten;opacity:.32"></div>
+ <div style="position:absolute;inset:0;background:#F2D9A0;mix-blend-mode:multiply;opacity:.2"></div>
+ <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,13,26,0) 62%,rgba(7,13,26,.6) 100%)"></div>
+ ${p.cred?`<div style="position:absolute;left:0;bottom:0;font:22px MO;letter-spacing:2px;text-transform:uppercase;background:var(--papel);color:var(--tinta);padding:6px 14px">${p.cred}</div>`:''}</div>`}
+function build(c){const p=c.p,R=$('R'),d=c.d;R.innerHTML='';AN=[];const papel=p.g==='sep';$('BG').className=papel?'papel':'';R.className=papel?'papel':'';
+ const add=(e,fn)=>{R.appendChild(e);if(fn)AN.push(t=>fn(e,t));return e};
+ const sube=(a,dy=40,dur=.35)=>(e,t)=>{const q=P(t,a,dur);e.style.opacity=cl(q*2.5);e.style.transform=`translateY(${(1-eo5(q))*dy}px)`};
+ const golpe=(a,rot=0)=>(e,t)=>{const q=P(t,a,.22);e.style.opacity=q?1:0;e.style.transform=`rotate(${rot}deg) scale(${1.9-.9*eo5(q)})`};
+ const entra=(a,dx=-1100)=>(e,t)=>{const q=eo5(P(t,a,.45));e.style.opacity=q?1:0;e.style.transform=`translateX(${(1-q)*dx}px)`};
+ const titulo=(h,ws,a0,paso=.07)=>AN.push(t=>ws.forEach((w,i)=>{const q=P(t,a0+i*paso,.28);w.style.opacity=cl(q*3);w.style.transform=`translateY(${(1-eo5(q))*60}px)`}));
+ // barrido de entrada (transición): franja oro que cruza en 0,35 s
+ const wipe=p.wipe!==false&&(p.g==='sep'||p.g==='gancho'||p.wipe);AN.push(t=>{$('WP').style.transform=`skewX(-14deg) translateX(${wipe?-900+2700*eo(P(t,0,.42)):-900}px)`});
+ // cinta de arriba (teletipo)
+ if(p.g!=='cierre'){const txt=(p.cinta||'Tiempo Financiero · La noticia del día')+'  ·  ';const ci=add(el(`<div class="cinta"><div style="position:absolute;left:0;top:0">${txt.repeat(8)}</div></div>`));const tx=ci.firstChild;AN.push(t=>{tx.style.transform=`translateX(${-(((t+(c.t0||0))*70)%(tx.offsetWidth/8))}px)`})}
+ // pasos 1/3 2/3 3/3 (día de tres noticias): paso:[i,n]
+ if(p.paso&&p.g!=='sep'){const [i,n]=p.paso;const ps=add(el(`<div class="pasos" style="${papel?'':''}">${[...Array(n)].map((_,j)=>`<div><s style="transform:scaleX(${j<i-1?1:0})"></s></div>`).join('')}</div>`));const cur=ps.children[i-1].firstChild;AN.push(t=>{cur.style.transform=`scaleX(${cl((p.av0||0)+((p.av1||1)-(p.av0||0))*t/d)})`});
+  add(el(`<div class="abs" style="left:396px;top:1302px;font:26px MO;letter-spacing:2px;color:var(--oro)">${i}/${n}</div>`))}
+ // zócalo de fuente
+ if(p.src)add(el(`<div class="src"><em>FUENTE</em><span>${p.src}</span></div>`),entra(p.src_en!=null?p.src_en:.5,-900));
+ if(['dato','foto'].includes(p.g)){
+  if(p.k)add(el(`<div class="k">${p.k}</div>`),(e,t)=>{e.style.transform=`scaleX(${eo5(P(t,.05,.3))})`});
+  if(p.h){const h=add(el(`<h1>${p.h}</h1>`));encoger(h,240,112,64);titulo(h,palabras(h),.12)}}
+ if(p.g==='gancho'){const a=A(c,p.en,.15),hay=!!p.img,y0=hay?940:600;
+  if(p.k)add(el(`<div class="k">${p.k}</div>`),(e,t)=>{e.style.transform=`scaleX(${eo5(P(t,.2,.3))})`});
+  if(hay){const v=add(el(ventana(p,90,430,900,400)),(e,t)=>{const q=eo5(P(t,.1,.5));e.style.clipPath=`inset(0 ${100-100*q}% 0 0)`;e.style.outlineColor=q>.98?'':'transparent'});const im=v.querySelector('img');AN.push(t=>{im.style.transform=`scale(${1.02+.04*t/d})`})}
+  add(el(`<div class="abs" style="left:66px;top:${hay?y0-84:y0-170}px;font:${hay?170:300}px/1 SE;color:var(--oro)">“</div>`),golpe(a));
+  const r=add(el(`<div class="abs" style="left:80px;top:${y0}px;width:900px;font:${hay?100:150}px/1.06 SE;color:var(--papel)">${p.refran}</div>`));encoger(r,hay?230:500,hay?100:150,64);
+  const ws=palabras(r),paso=p.paso_pal||.13;AN.push(t=>ws.forEach((w,i)=>{const q=P(t,a+.15+i*paso,.3);w.style.opacity=cl(q*3);w.style.transform=`translateY(${(1-eo5(q))*36}px)`}));
+  const ms=[...r.querySelectorAll('m')];const am=A(c,p.marca_en,a+.15+ws.length*paso+.1);AN.push(t=>ms.forEach((x,i)=>{const q=eo5(P(t,am+i*.15,.35));x.style.setProperty('--mx',q);x.style.color=q>.5?'':'var(--papel)'}));
+  if(p.vuelta){const av=A(c,p.vuelta_en,am+.7),yv=y0+r.offsetHeight+46;
+   const v=add(el(`<div class="abs" style="left:64px;top:${yv}px;max-width:940px;background:var(--papel);color:var(--tinta);font:92px/1.05 AN;text-transform:uppercase;padding:14px 30px 18px;transform-origin:0 50%"><span>${p.vuelta}</span></div>`),(e,t)=>{const q=P(t,av,.22);e.style.opacity=q?1:0;e.style.transform=`rotate(${-2.5-8*(1-eo5(q))}deg) scale(${1.7-.7*eo5(q)})`;const sh=q>0&&P(t,av,.4)<1;R.style.translate=sh?`${Math.sin(t*90)*7}px ${Math.cos(t*70)*5}px`:'0 0'});
+   v.querySelectorAll('b').forEach(x=>x.style.color='#B26A00');let f=92;while((v.offsetHeight>250||yv+v.offsetHeight>1300)&&f>56){f-=4;v.style.fontSize=f+'px'}}}
+ if(p.g==='sep'){const n=p.n,de=p.de||3,a=.18;
+  const caja=add(el(`<div class="abs" style="left:80px;top:380px;width:560px;height:560px;overflow:hidden"></div>`));
+  const ant=el(`<div class="abs" style="left:0;top:-40px;font:620px/1 AN;color:var(--tinta);opacity:.18">${n>1?n-1:''}</div>`),num=el(`<div class="abs" style="left:0;top:-40px;font:620px/1 AN;color:var(--tinta)">${n}</div>`);caja.appendChild(ant);caja.appendChild(num);
+  AN.push(t=>{const q=eo5(P(t,a,.45));ant.style.transform=`translateY(${-640*q}px)`;num.style.transform=`translateY(${640*(1-q)}px)`});
+  add(el(`<div class="abs" style="left:${n==1?330:420}px;top:800px;font:120px/1 MO;color:var(--tinta)">/${de}</div>`),sube(a+.3,30));
+  const ps=add(el(`<div class="abs" style="left:80px;top:985px;width:920px;display:flex;gap:14px">${[...Array(de)].map((_,j)=>`<div style="flex:1;height:14px;background:rgba(10,18,38,.16);position:relative;overflow:hidden"><s style="position:absolute;inset:0;background:var(--tinta);transform-origin:0 50%;transform:scaleX(${j<n-1?1:0})"></s></div>`).join('')}</div>`));
+  const cur=ps.children[n-1].firstChild;AN.push(t=>{cur.style.transform=`scaleX(${.08*eo5(P(t,a+.4,.4))})`});
+  if(p.tema)add(el(`<div class="abs" style="left:80px;top:1040px;font:34px MO;letter-spacing:5px;text-transform:uppercase;background:var(--tinta);color:var(--oro);padding:10px 20px;transform-origin:0 50%">${p.tema}</div>`),(e,t)=>{e.style.transform=`scaleX(${eo5(P(t,a+.35,.3))})`});
+  if(p.h){const h=add(el(`<div class="abs" style="left:80px;top:1120px;width:920px;font:104px/1.04 AN;text-transform:uppercase;color:var(--tinta)">${p.h}</div>`));h.querySelectorAll('b').forEach(x=>x.style.color='#B26A00');encoger(h,230,104,60);titulo(h,palabras(h),a+.45,.08)}}
+ if(p.g==='dato'){const a=A(c,p.en,.45),col=COL[p.color||'bl'],cnt=contador(p.num),up=p.dir!=='down',dc=up?COL.ver:COL.roj;
+  const N=add(el(`<div class="abs" style="left:76px;top:690px;font:300px/1 AN;white-space:nowrap;color:${col};transform-origin:0 60%">${p.num}</div>`),(e,t)=>{const q=P(t,a-.15,.3);e.style.opacity=q?1:0;e.style.transform=`scale(${q>0?back(q):0})`;e.textContent=cnt(P(t,a-.15,1))});
+  let f=300;while(N.offsetWidth>920&&f>110){f-=10;N.style.fontSize=f+'px'}const yb=690+f*1.04;
+  if(p.delta){add(el(`<div class="abs" style="left:80px;top:${yb+18}px;height:84px;display:flex;align-items:center;gap:16px;background:${dc};color:var(--tinta);font:60px/84px AN;padding:0 26px 0 22px;white-space:nowrap"><span style="width:0;height:0;border-left:20px solid transparent;border-right:20px solid transparent;${up?'border-bottom':'border-top'}:30px solid var(--tinta)"></span>${p.delta}</div>`),(e,t)=>{const q=P(t,A(c,p.delta_en,a+.55),.22);e.style.opacity=q?1:0;e.style.transform=`rotate(-2deg) scale(${1.8-.8*eo5(q)})`})}
+  if(p.sub)add(el(`<div class="abs" style="left:${p.delta?80+R.lastChild.offsetWidth+26:80}px;top:${yb+(p.delta?18:24)}px;font:42px/84px MB;text-transform:uppercase;white-space:nowrap">${p.sub}</div>`),sube(a+.7,30));
+  if(p.serie){const s=p.serie,mn=Math.min(...s),mx=Math.max(...s),W=920,H=p.row?110:190,y1=yb+((p.delta||p.sub)?126:30),pts=s.map((v,i)=>(W*i/(s.length-1)).toFixed(1)+','+(H-8-(H-16)*(v-mn)/(mx-mn||1)).toFixed(1)).join(' ');
+   const sv=add(el(`<svg class="abs" style="left:80px;top:${y1}px;overflow:visible" width="${W}" height="${H}"><line x1="0" y1="${H}" x2="${W}" y2="${H}" stroke="rgba(241,231,211,.35)" stroke-width="2" stroke-dasharray="4 10"/><clipPath id="cs"><rect id="csr" x="0" y="-20" width="0" height="${H+40}"/></clipPath><polyline id="sl" clip-path="url(#cs)" fill="none" stroke="${dc}" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" points="${pts}"/><circle id="sdot" r="13" fill="var(--papel)" stroke="${dc}" stroke-width="7"/></svg>`));
+   const L=sv.querySelector('#sl'),len=L.getTotalLength();AN.push(t=>{const q=eo(P(t,a+.2,Math.min(1.8,d*.5))),pt=L.getPointAtLength(len*q);sv.querySelector('#csr').setAttribute('width',pt.x+6);const D=sv.querySelector('#sdot');D.setAttribute('cx',pt.x);D.setAttribute('cy',pt.y);D.style.opacity=q>0?1:0})}
+  if(p.row)add(el(`<div class="abs" style="left:80px;top:1228px;max-width:920px;font:36px/1.15 MB;text-transform:uppercase;border-left:10px solid var(--oro);padding:10px 0 10px 22px">${p.row}</div>`),entra(A(c,p.row_en,d*.6)))}
+ if(p.g==='foto'){const y=p.h?700:440,hh=Math.min(p.alto||560,1270-y);const v=add(el(ventana(p,90,y,900,hh)),(e,t)=>{const q=eo5(P(t,.1,.5));e.style.clipPath=`inset(0 0 ${100-100*q}% 0)`;e.style.outlineColor=q>.98?'':'transparent'});
+  const h1=R.querySelector('h1');if(h1&&p.h){const hy=420+h1.offsetHeight+40;v.style.top=hy+'px';v.style.height=Math.min(p.alto||600,1270-hy)+'px'}
+  const im=v.querySelector('img');AN.push(t=>{im.style.transform=`scale(${1.02+.04*t/d})`})}
+ if(p.g==='cierre'){
+  add(el(`<div class="abs" style="left:80px;top:640px;width:920px;height:4px;background:var(--oro);transform-origin:0 50%"></div>`),(e,t)=>{e.style.transform=`scaleX(${eo5(P(t,0,.4))})`});
+  const T=add(el(`<div class="abs" style="left:80px;top:670px;font:214px/.98 AN;color:var(--papel);overflow:hidden;height:214px"><div>TIEMPO</div></div>`));AN.push(t=>{T.firstChild.style.transform=`translateY(${(1-eo5(P(t,.1,.4)))*230}px)`});
+  const F=add(el(`<div class="abs" style="left:80px;top:884px;font:150px/1 AN;color:var(--tinta);background:var(--oro);padding:4px 22px 10px;transform-origin:0 50%;white-space:nowrap">FINANCIERO</div>`),(e,t)=>{const q=eo5(P(t,.3,.4));e.style.clipPath=`inset(0 ${100-100*q}% 0 0)`;e.style.transform='rotate(-2deg)'});
+  add(el(`<div class="abs" style="left:80px;top:1110px;width:920px;font:66px/1.1 SE;color:var(--papel)">${p.lema||'La plata, explicada en un minuto.'}</div>`),sube(.6,30));
+  add(el(`<div class="abs" style="left:80px;top:1290px;font:36px MO;letter-spacing:3px;color:var(--oro)">@tiempofinancierok</div>`),sube(.8,20));
+  add(el(`<div class="abs" style="left:80px;top:1372px;width:900px;font:22px MS;color:var(--gr)">Contenido educativo. No es recomendación de inversión.</div>`),sube(.9,0))}
+}
+window.render=function(t,c){const k=JSON.stringify(c.p)+c.d;if(k!==key){key=k;build(c)}const T=t+(c.t0||0);$('RAY').style.transform=`translateX(${(T*12)%90}px)`;gx.putImageData(GRN[Math.floor(T*12)%3],0,0);AN.forEach(f=>f(t))}
+</script></body></html>

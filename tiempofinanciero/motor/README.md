@@ -60,3 +60,6 @@ Ejemplo completo: `tf-01-v2.json` (Madoff, el molde).
 
 ## Música y tempo (juan 2026-11-14)
 Sin música (no poner `musica` en el spec) y `"tempo": 1.21`. Ver AGENTE.md.
+
+## Look "papel y marcador" para el reel de noticias (lab de diseño, 2026-11-14)
+Escenas en `n1.html` (documentadas en `../diseno/README.md`): `gancho`, `sep`, `dato`, `foto`, `cierre`. Para usarlas en un spec de `armar_tf3.py`, agregar `"look":"n1"` a los parámetros de la toma: `["g",4.5,{"look":"n1","g":"gancho","refran":"El que madruga, <m>compra caro</m>.","vuelta":"...","img":"img/x.jpg","cred":"Foto: ..."}]`. `render3.js` carga `n1.html` cuando ve `look:"n1"`; sin eso usa `g3.html` (look anterior). Los `en`, `marca_en`, `vuelta_en`, `delta_en` aceptan palabra de la voz o segundos. Requiere `fuentes/` al lado de `n1.html`. Todavía sin probar: reel entero armado con este look y subtítulos encima (revisar que no pisen la zona 260 a 1420).

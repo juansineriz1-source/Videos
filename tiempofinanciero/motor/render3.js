@@ -2,7 +2,7 @@
 const {chromium}=require('playwright');const {spawn}=require('child_process');
 (async()=>{const [out,dur,cfg,bg,ss]=process.argv.slice(2);const fps=30,n=Math.round(+dur*fps),C=JSON.parse(cfg);
 const b=await chromium.launch();const p=await b.newPage({viewport:{width:1080,height:1920}});
-await p.goto('file://'+require('path').resolve('g3.html'));await p.evaluate(()=>document.fonts.ready);
+await p.goto('file://'+require('path').resolve(C.p.look==='n1'?'n1.html':'g3.html'));await p.evaluate(()=>document.fonts.ready);
 if(out.endsWith('.png')){await p.evaluate(([t,C])=>window.render(t,C),[+dur,C]);await p.screenshot({path:out,omitBackground:!!bg});await b.close();return}
 let args;const W=C.p.win;
 if(bg&&W){args=['-y','-v','error','-f','image2pipe','-framerate',String(fps),'-c:v','png','-i','-','-stream_loop','-1','-ss',ss||'0.5','-i',bg,'-filter_complex',
