@@ -21,8 +21,8 @@
 2,
 {
 "g": "archivo",
-"bg": "v:nv/nv-01.mp4@136",
-"crop": "1440:1080:300:0",
+"bg": "v:nv/nv-01.mp4@132",
+"crop": "1280:960:200:60",
 "k": "Noviembre de 2026",
 "h": "Nvidia perdió <i>un billón</i>",
 "cred": "NVIDIA · GTC 2026"
@@ -70,7 +70,7 @@
 3,
 {
 "g": "archivo",
-"bg": "v:nv/nv-01.mp4@66",
+"bg": "v:nv/nv-01.mp4@200.4",
 "crop": "1440:1080:240:0",
 "k": "1993",
 "h": "La fundó con <b>dos socios</b>",
@@ -102,7 +102,7 @@
 {
 "g": "archivo",
 "bg": "v:nv/nv-05.mp4@19",
-"crop": "1280:960:320:0",
+"crop": "1120:840:400:40",
 "k": "Qué hace",
 "h": "Chips para <b>videojuegos</b>",
 "cred": "NVIDIA"
@@ -300,9 +300,9 @@
 "en": 0.2
 },
 {
-"t": "Secretos comprometidos",
-"st": "EL DIRECTORIO NO VE",
-"en": 1.6
+"t": "Directorio: no ve secretos comprometidos",
+"en": 1.6,
+"color": "ver"
 }
 ],
 "src": "Según el comunicado del directorio de Nvidia."
@@ -318,7 +318,7 @@
 2.8,
 {
 "g": "archivo",
-"bg": "v:nv/nv-01.mp4@200",
+"bg": "v:nv/nv-01.mp4@88.2",
 "crop": "1440:1080:240:0",
 "k": "12 de noviembre",
 "h": "<i>Renunció</i> como director ejecutivo",
@@ -358,14 +358,12 @@
 "g",
 1,
 {
-"g": "archivo",
-"bg": "v:nv/nv-07.mp4@88",
-"crop": "520:420:360:210",
-"k": "Quién la dirige hoy",
-"h": "CEO <b>interina</b>",
+"g": "foto",
+"img": "img/kress.jpg",
+"k": "CEO interina · Foto: Bloomberg Tech",
 "nombre": "Colette Kress",
 "rol": "Directora financiera de Nvidia",
-"cred": "Bloomberg Tech"
+"en": 0.3
 }
 ]
 ]
@@ -429,7 +427,7 @@
 {
 "g": "archivo",
 "bg": "v:nv/nv-05.mp4@80",
-"crop": "1280:960:320:0",
+"crop": "1120:840:400:40",
 "k": "El riesgo",
 "h": "Armada alrededor de <b>una sola persona</b>",
 "cred": "NVIDIA"
@@ -469,7 +467,7 @@
 1,
 {
 "g": "num",
-"bg": "v:nv/nv-05.mp4@203",
+"bg": "v:nv/nv-01.mp4@67.6",
 "k": "Martes 17 de noviembre",
 "h": "Presenta <b>resultados</b>",
 "num": "17/11",
