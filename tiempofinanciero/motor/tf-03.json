@@ -1,0 +1,402 @@
+{
+ "voz": "voz-tf03.wav",
+ "palabras": "voz-tf03n.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "img": "img/px-6286876.jpg",
+  "pos": "70% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "h": "El foro que hizo temblar a <b>Wall Street</b>",
+  "sub": "GameStop, enero de 2021"
+ },
+ "segs": [
+  {
+   "txt": "Un grupo de desconocidos en un foro de internet casi funde a un fondo de Wall Street Y no es una película",
+   "vis": [
+    [
+     "g",
+     4.7,
+     {
+      "g": "titulo",
+      "bg": "c:215751@2",
+      "k": "Enero de 2021",
+      "h": "Un foro contra <b>Wall Street</b>",
+      "size": 170,
+      "en": 0.2
+     }
+    ],
+    [
+     "g",
+     1.5,
+     {
+      "g": "titulo",
+      "bg": "c:215751@9",
+      "h": "Y no es una <i>película</i>",
+      "size": 170,
+      "en": 0.05,
+      "paso": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Enero de 2021 GameStop una cadena que vendía videojuegos en disco en plena era digital",
+   "vis": [
+    [
+     "g",
+     3.2,
+     {
+      "g": "foto",
+      "img": "img/px-6286876.jpg",
+      "pos": "70% 50%",
+      "k": "Enero de 2021",
+      "nombre": "GameStop",
+      "src": "Foto: Sergei Tokmakov · Pixabay"
+     }
+    ],
+    [
+     "g",
+     3.7,
+     {
+      "g": "archivo",
+      "bg": "c:246909@1",
+      "crop": "1920:1440:320:0",
+      "k": "Qué vendía",
+      "h": "Videojuegos <b>en disco</b>",
+      "cred": "Video: Pixabay",
+      "pie": "En plena era digital"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Varios fondos grandes apostaban a que su acción iba a caer Eso se llama ir en corto",
+   "vis": [
+    [
+     "g",
+     3.0,
+     {
+      "g": "linea",
+      "k": "Varios fondos grandes",
+      "h": "Apostaban a que <i>iba a caer</i>",
+      "series": [
+       {
+        "pts": [
+         100,
+         96,
+         98,
+         90,
+         84,
+         87,
+         75,
+         66
+        ],
+        "label": "La apuesta",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "src": "Esquema ilustrativo, no son precios reales"
+     }
+    ],
+    [
+     "g",
+     1.7,
+     {
+      "g": "titulo",
+      "k": "Eso se llama",
+      "h": "Ir <i>en corto</i>",
+      "size": 230,
+      "en": 0.3
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pedís acciones prestadas las vendés y esperás recomprarlas más baratas para devolverlas",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Ir en corto",
+      "h": "Cómo <b>funciona</b>",
+      "items": [
+       {
+        "t": "Pedís acciones prestadas",
+        "en": 0.2
+       },
+       {
+        "t": "Las vendés",
+        "en": "las"
+       },
+       {
+        "t": "Las recomprás más baratas",
+        "en": "recomprarlas"
+       },
+       {
+        "t": "Las devolvés",
+        "en": "devolverlas"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero había más acciones vendidas en corto que todas las que circulaban libremente",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "GameStop, enero de 2021",
+      "h": "Más vendidas <i>que las que había</i>",
+      "bars": [
+       {
+        "v": 100,
+        "txt": "100 %",
+        "label": "En circulación",
+        "color": "gr",
+        "en": 0.2
+       },
+       {
+        "v": 140,
+        "txt": "140 %",
+        "label": "Vendidas en corto",
+        "color": "roj",
+        "en": "corto"
+       }
+      ],
+      "src": "Aproximado, mediados de enero de 2021"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En el foro WallStreetBets lo vieron y empezaron a comprar Miles Millones",
+   "vis": [
+    [
+     "g",
+     3.6,
+     {
+      "g": "archivo",
+      "bg": "c:104077@1",
+      "crop": "1440:1080:646:180",
+      "k": "Reddit",
+      "h": "El foro <b>WallStreetBets</b>",
+      "cred": "Video: Pixabay",
+      "pie": "Lo vieron, y empezaron a comprar"
+     }
+    ],
+    [
+     "g",
+     1.9,
+     {
+      "g": "titulo",
+      "h": "Miles. <i>Millones.</i>",
+      "size": 210,
+      "en": 0.05,
+      "paso": 0.7
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La acción pasó de menos de 20 dólares a principios de enero a casi 500 en un momento del 28 de enero",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "GameStop · máximo de cada día",
+      "h": "De <b>US$ 20</b> a <i>US$ 483</i>",
+      "series": [
+       {
+        "pts": [
+         19.1,
+         18.1,
+         19.0,
+         19.5,
+         18.3,
+         20.6,
+         20.4,
+         38.7,
+         43.1,
+         40.8,
+         45.5,
+         41.2,
+         44.8,
+         76.8,
+         159.2,
+         150.0,
+         380.0,
+         483.0
+        ],
+        "label": "",
+        "pre": "US$ ",
+        "color": "roj"
+       }
+      ],
+      "xl": [
+       "4 ene",
+       "15 ene",
+       "28 ene"
+      ],
+      "min": 0,
+      "src": "Yahoo Finance · precios de 2021, antes del desdoblamiento de 2022"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los que estaban en corto tenían que recomprar a cualquier precio y eso la empujaba más arriba",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Short squeeze",
+      "h": "El <i>círculo</i>",
+      "items": [
+       {
+        "t": "La acción sube",
+        "en": 0.2
+       },
+       {
+        "t": "Los que están en corto recompran",
+        "en": "recomprar"
+       },
+       {
+        "t": "Y eso la empuja más arriba",
+        "en": "eso",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Melvin Capital uno de esos fondos perdió más de la mitad de su plata en un mes y tuvo que recibir un rescate Cerró en 2022",
+   "vis": [
+    [
+     "g",
+     4.3,
+     {
+      "g": "num",
+      "k": "Melvin Capital",
+      "h": "Perdió en <i>un mes</i>",
+      "num": "−53 %",
+      "color": "roj",
+      "sub": "enero de 2021",
+      "en": "perdió"
+     }
+    ],
+    [
+     "g",
+     3.6,
+     {
+      "g": "lista",
+      "k": "Melvin Capital",
+      "h": "El <b>rescate</b>",
+      "items": [
+       {
+        "t": "Rescate",
+        "r": "US$ 2.750 M",
+        "en": 0.2
+       },
+       {
+        "t": "De Citadel y Point72",
+        "en": 0.8
+       },
+       {
+        "t": "Cerró",
+        "r": "2022",
+        "hi": true,
+        "en": "cerró"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El 28 de enero Robinhood la app que usaban casi todos frenó las compras",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "28 de enero de 2021",
+      "h": "Robinhood: la app de <b>casi todos</b>",
+      "items": [
+       {
+        "t": "Comprar GameStop",
+        "st": "FRENADO",
+        "en": "frenó"
+       },
+       {
+        "t": "Vender",
+        "r": "permitido",
+        "en": "compras"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La acción se desplomó y muchos que entraron tarde perdieron mucha plata",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "foto",
+      "img": "img/px-5986888.jpg",
+      "pos": "50% 50%",
+      "k": "2 de febrero de 2021",
+      "nombre": "−51 % en un día",
+      "src": "Foto: techdaily · Pixabay"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés qué es un short squeeze cuando los que apostaron a la baja tienen que salir corriendo a comprar",
+   "vis": [
+    [
+     "g",
+     1.6,
+     {
+      "g": "titulo",
+      "k": "Ya sabés qué es",
+      "h": "Short <b>squeeze</b>",
+      "size": 210,
+      "en": 0.2
+     }
+    ],
+    [
+     "g",
+     3.2,
+     {
+      "g": "titulo",
+      "k": "Short squeeze",
+      "h": "Los que apostaron a la baja salen <i>corriendo a comprar</i>",
+      "size": 130,
+      "en": 0.05,
+      "paso": 0.2
+     }
+    ]
+   ]
+  }
+ ]
+}

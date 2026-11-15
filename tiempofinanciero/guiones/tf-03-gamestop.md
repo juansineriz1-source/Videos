@@ -1,5 +1,5 @@
 # tf-03 GameStop: el foro que hizo temblar a Wall Street
-Tipo: historia. Duración objetivo: 60 s. Estado: corregido con la revisión financiera (2026-11-14).
+Tipo: historia. Duración objetivo: 60 s. Estado: grabado y armado en Matriz (2026-11-15, 57 s); video en reels/reel-tf03-gamestop.mp4, spec motor/tf-03.json. En la voz la fila 10 dice "El veintiocho de enero" en vez de "Ese mismo día".
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -18,8 +18,9 @@ Tipo: historia. Duración objetivo: 60 s. Estado: corregido con la revisión fin
 | 12 | Ya sabés qué es un short squeeze: cuando los que apostaron a la baja tienen que salir corriendo a comprar. | — | Gráfico: resumen |
 
 ## Caption
-Enero 2021: un foro de Reddit contra los fondos de Wall Street. Qué es un short squeeze, contado con GameStop.
-Precios antes del desdoblamiento de acciones de 2022. Contenido educativo. No es recomendación de inversión.
+Enero de 2021: un foro de Reddit contra los fondos de Wall Street. Qué es un short squeeze, contado con GameStop.
+Precios de 2021, antes del desdoblamiento de acciones de 2022 (Yahoo Finance). Imágenes: Pixabay.
+Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #gamestop #wallstreetbets #shortsqueeze #bolsa #inversiones #finanzas
 
 ## A revisar (agente financiero)
