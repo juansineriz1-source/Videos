@@ -63,3 +63,9 @@ Sin música (no poner `musica` en el spec) y `"tempo": 1.21`. Ver AGENTE.md.
 
 ## Look "papel y marcador" para el reel de noticias (lab de diseño, 2026-11-14)
 Escenas en `n1.html` (documentadas en `../diseno/README.md`): `gancho`, `sep`, `dato`, `foto`, `cierre`. Para usarlas en un spec de `armar_tf3.py`, agregar `"look":"n1"` a los parámetros de la toma: `["g",4.5,{"look":"n1","g":"gancho","refran":"El que madruga, <m>compra caro</m>.","vuelta":"...","img":"img/x.jpg","cred":"Foto: ..."}]`. `render3.js` carga `n1.html` cuando ve `look:"n1"`; sin eso usa `g3.html` (look anterior). Los `en`, `marca_en`, `vuelta_en`, `delta_en` aceptan palabra de la voz o segundos. Requiere `fuentes/` al lado de `n1.html`. Todavía sin probar: reel entero armado con este look y subtítulos encima (revisar que no pisen la zona 260 a 1420).
+
+## Look MATRIZ (m1), elegido por juan el 2026-11-15 para TODA la cuenta
+Negro, blanco y rojo E5222B, números en puntos (Doto), Space Grotesk, material real en blanco y negro. Lo hizo el lab de diseño.
+- `armar_tf3.py` ahora arma en Matriz por defecto (`LOOK=m1`; cada toma recibe `look:"m1"` salvo que traiga otro). `render3.js` carga `g3m.html` para `m1`, `n1.html` para `n1` y `g3.html` si no hay look. Subtítulos en Space Grotesk Bold con palabra activa y barra en rojo.
+- `g3m.html` se genera desde `g3.html` con `construir.py` (reemplazos): si se agrega una escena a g3.html, volver a correr construir.py.
+- El look anterior (azul y oro) quedó en `armar_tf3-oro.py` y `render3-oro.js`. El look "papel y marcador" (n1) quedó superado por Matriz: no usarlo en reels nuevos salvo que juan lo pida.

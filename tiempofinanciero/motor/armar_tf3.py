@@ -2,6 +2,7 @@
 # vis: ["c:ID@ss",peso] clip Pixabay | ["v:footage/x.mp4@ss",peso,{"cred":"AP Archive","pos":0.5}] material real |
 #      ["g",peso,{...}] gráfico; si lleva "bg":"c:ID@ss" o "v:ruta@ss" se dibuja encima del video
 import json,sys,os,re,subprocess
+LOOK=os.environ.get("LOOK","m1"); SUB={"m1":("Space Grotesk Bold",74,"&H2B22E5&","0xE5222B"),"c3":("Unbounded Black",54,"&H3EFFD7&","0xD7FF3E")}[LOOK]
 R=json.load(open(sys.argv[1])); OUT=sys.argv[2]; W,H,FPS=1080,1920,30; T=R.get("tempo",1.0)
 os.makedirs("tmp",exist_ok=True)
 SOLO=os.environ.get("SOLO"); SOLO=set(SOLO.split(",")) if SOLO else None  # SOLO=4,7 rehace solo esas tomas y reusa tmp/pN.mp4 del resto
@@ -33,7 +34,7 @@ for i,s in enumerate(R["segs"]):
         if vis=="g":
             at={}
             for j in range(ini[i],ini[i+1]): at.setdefault(tok(pal[j][2]),max(0,pal[j][0]-t0))
-            g=v[2]
+            g=v[2]; g.setdefault('look',LOOK)
             if g.get('g')=='archivo':
                 cw,ch=(int(x) for x in g['crop'].split(':')[:2]) if g.get('crop') else map(int,subprocess.check_output(['ffprobe','-v','0','-select_streams','v:0','-show_entries','stream=width,height','-of','csv=p=0',src(g['bg'])[0]]).decode().strip().split(','))
                 hh=round(1000*ch/cw/2)*2; g['win']={'x':40,'y':g.get('y',640 if g.get('h') else 480),'w':1000,'h':hh,'crop':g.get('crop')}
@@ -48,23 +49,23 @@ for i,s in enumerate(R["segs"]):
               "-t",f"{d:.3f}","-an","-c:v","libx264","-preset","veryfast","-crf","16","-pix_fmt","yuv420p",p])
         partes.append(p); t0+=d
 if R.get("portada"):
-    run(["node","render3.js",OUT.replace(".mp4","-portada.png"),"3",json.dumps({"p":R["portada"],"d":3,"at":{}},ensure_ascii=False)])
+    run(["node","render3.js",OUT.replace(".mp4","-portada.png"),"3",json.dumps({"p":dict(R["portada"],look=LOOK),"d":3,"at":{}},ensure_ascii=False)])
 if R.get("cierre"):
-    p=f"tmp/p{k}.mp4"; run(["node","render3.js",p,str(R["cierre"]),json.dumps({"p":{"g":"cierre"},"d":R["cierre"],"at":{},"t0":cortes[-1]})]); partes.append(p); cuts.append(cortes[-1])
+    p=f"tmp/p{k}.mp4"; run(["node","render3.js",p,str(R["cierre"]),json.dumps({"p":{"g":"cierre","look":LOOK},"d":R["cierre"],"at":{},"t0":cortes[-1]})]); partes.append(p); cuts.append(cortes[-1])
 TOT=cortes[-1]+R.get("cierre",0)
 open("tmp/l.txt","w").write("".join(f"file '{os.path.abspath(p)}'\n" for p in partes))
 run(["ffmpeg","-y","-f","concat","-safe","0","-i","tmp/l.txt","-c","copy","tmp/mudo.mp4"])
 def tc(x): x=max(0,x); return f"{int(x//3600)}:{int(x%3600//60):02d}:{x%60:05.2f}"
 ass=["[Script Info]","ScriptType: v4.00+","PlayResX: 1080","PlayResY: 1920","WrapStyle: 0","","[V4+ Styles]",
 "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding",
-"Style: Cap,Montserrat Black,80,&H00FFFFFF,&H00FFFFFF,&H001A0D07,&HB4000000,0,0,0,0,100,100,1,0,1,8,5,2,70,70,340,1",
+f"Style: Cap,{SUB[0]},{SUB[1]},&H00FFFFFF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,1,7,4,2,70,70,340,1",
 "","[Events]","Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"]
 for i,s in enumerate(R["segs"]):
     g=[]
     def volcar(g,fin):
         for m,(a,b,w) in enumerate(g):
             e=g[m+1][0] if m+1<len(g) else min(b+0.25,fin)
-            txt=" ".join(((r"{\c&H4BB8F2&\fscx114\fscy114}"+x[2]+r"{\c&HFFFFFF&\fscx100\fscy100}") if n==m else x[2]) for n,x in enumerate(g)).upper()
+            txt=" ".join(((r"{\c"+SUB[2]+r"\fscx110\fscy110}"+x[2]+r"{\c&HFFFFFF&\fscx100\fscy100}") if n==m else x[2]) for n,x in enumerate(g)).upper()
             ass.append(f"Dialogue: 0,{tc(a)},{tc(e)},Cap,,0,0,0,,"+(r"{\fad(40,0)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}" if m==0 else "")+txt)
     for j in range(ini[i],ini[i+1]):
         g.append(pal[j])
@@ -78,6 +79,6 @@ mus=R.get("musica"); ins=["-i","tmp/mudo.mp4","-i",R["voz"],"-i","tmp/wh.wav"]+(
 fa=f"[1:a]atempo={T},loudnorm=I=-15:TP=-1.5,apad=pad_dur={R.get('cierre',0)+0.5}[vz];[2:a]asplit={n}"+"".join(f"[w{q}]" for q in range(n))+";"+"".join(f"[w{q}]adelay={int(max(0,c-0.17)*1000)}:all=1[d{q}];" for q,c in enumerate(cs))
 if mus: fa+=f"[3:a]volume={R.get('musica_vol',0.11)},afade=t=in:d=1.2,afade=t=out:st={TOT-1.5:.2f}:d=1.5[mu];"
 fa+="[vz]"+"".join(f"[d{q}]" for q in range(n))+("[mu]" if mus else "")+f"amix=inputs={n+1+(1 if mus else 0)}:normalize=0:duration=first[a]"
-fv=f"[0:v]ass=tmp/s.ass:fontsdir=assets[s];color=c=0xF2B84B:s={W}x10:r={FPS}[bar];[s][bar]overlay=x='-w+w*t/{TOT:.2f}':y=0:shortest=1[v]"
+fv=f"[0:v]ass=tmp/s.ass:fontsdir=assets[s];color=c={SUB[3]}:s={W}x10:r={FPS}[bar];[s][bar]overlay=x='-w+w*t/{TOT:.2f}':y=0:shortest=1[v]"
 run(["ffmpeg","-y",*ins,"-filter_complex",fv+";"+fa,"-map","[v]","-map","[a]","-c:v","libx264","-preset","medium","-crf","20","-maxrate","6500k","-bufsize","13000k","-pix_fmt","yuv420p","-c:a","aac","-b:a","160k","-movflags","+faststart","-t",f"{TOT:.2f}",OUT])
 print(OUT,round(TOT,1),"s",round(os.path.getsize(OUT)/1e6,1),"MB",len(partes),"tomas","| tomas largas (seg,dur):",largas)

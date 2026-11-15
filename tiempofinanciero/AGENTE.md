@@ -62,3 +62,6 @@ Las historias de precios siguen igual. La tarea diaria arranca 7:07 para llegar 
 - **Tono**: contarlo distinto y con gracia, con vuelta de rosca. Abrir con un gancho: refrán, verso o comparación de la calle. Nada de tono de noticiero. El humor no cambia los hechos ni se burla de personas.
 - **Diseño**: gráficos muy dinámicos, estética cuidada, imágenes en HD o Ultra HD. Encargado al hilo de diseño ("Probar diseños nuevos para reels"); lo que entregue va en `diseno/`.
 - juan: "Dedicale": calidad antes que apuro.
+
+## Diseño: look Matriz (juan 2026-11-15, 01:46Z)
+juan eligió el estilo "Matriz" (negro, blanco y rojo, números en puntos, material real en blanco y negro) para TODA la cuenta: reels de noticia, de historia y los ya publicados, que se rehacen para que él los borre y los vuelva a subir. El motor arma en Matriz por defecto (ver motor/README.md). Los tres publicados (Madoff, SPY, Nvidia) los rehace el lab de diseño; republicar solo con ok de juan.
