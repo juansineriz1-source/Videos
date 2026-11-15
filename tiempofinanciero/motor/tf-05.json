@@ -1,0 +1,405 @@
+{
+ "voz": "voz-tf05.wav",
+ "palabras": "voz-tf05n.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "img": "img/ah-004.jpg",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "h": "La bolsa comprada <b>a crédito</b>",
+  "sub": "El crac de 1929"
+ },
+ "segs": [
+  {
+   "txt": "Imaginate comprar acciones poniendo solo el 10% y pidiendo prestado el resto Así invertían muchos en 1929",
+   "vis": [
+    [
+     "g",
+     1.1,
+     {
+      "g": "num",
+      "k": "Comprar acciones en 1929",
+      "num": "10%",
+      "sub": "plata tuya",
+      "row": "El 90 % lo prestaba el corredor",
+      "color": "roj",
+      "en": 0.1,
+      "row_en": "prestado"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:footage/seg/ah-034.mp4@1",
+      "k": "Así invertían muchos",
+      "h": "Comprar <i>a crédito</i>",
+      "cred": "Archivo · A/V Geeks",
+      "pie": "Oficina de corredores (imagen de 1941)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Nadie lo veía como un riesgo la bolsa de Nueva York venía subiendo hacía años",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:footage/seg/ah-003.mp4@0.5",
+      "crop": "1440:1080:240:0",
+      "k": "Nueva York, 1929",
+      "h": "La bolsa <b>venía subiendo</b>",
+      "cred": "Archivo · British Movietone"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El 3 de septiembre de 1929 el Dow Jones tocó su máximo 381 puntos",
+   "vis": [
+    [
+     "g",
+     0.8,
+     {
+      "g": "titulo",
+      "bg": "v:footage/seg/ah-003.mp4@4",
+      "bgcrop": "1440:1080:240:0",
+      "k": "Nueva York",
+      "h": "3 de septiembre de <b>1929</b>",
+      "size": 150,
+      "en": 0.1,
+      "paso": 0.2
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Dow Jones · 3 de septiembre de 1929",
+      "h": "El <b>máximo</b>",
+      "num": "381",
+      "sub": "puntos",
+      "color": "oro",
+      "en": "381",
+      "src": "Cierre: 381,17. Fuente: Federal Reserve History"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El lunes 28 de octubre el índice cayó casi 13% en un solo día",
+   "vis": [
+    [
+     "g",
+     1.2,
+     {
+      "g": "archivo",
+      "bg": "v:footage/seg/ah-004.mp4@1",
+      "crop": "1440:1080:240:0",
+      "k": "Lunes 28 de octubre de 1929",
+      "h": "<i>Lunes negro</i>",
+      "cred": "Archivo · British Movietone",
+      "pie": "Gente frente a la Bolsa de Nueva York"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Dow Jones, en un día",
+      "num": "-13%",
+      "sub": "casi",
+      "color": "roj",
+      "en": 0.1,
+      "src": "Exacto: -12,8 %"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El martes 29 otro 12% Se negociaron más de 16 millones de acciones un récord para la época",
+   "vis": [
+    [
+     "g",
+     1.1,
+     {
+      "g": "barras",
+      "k": "Octubre de 1929",
+      "h": "Dos días <i>seguidos</i>",
+      "bars": [
+       {
+        "v": 12.8,
+        "txt": "-12,8 %",
+        "label": "Lunes 28",
+        "color": "roj",
+        "en": 0.1
+       },
+       {
+        "v": 11.7,
+        "txt": "-11,7 %",
+        "label": "Martes 29",
+        "color": "roj",
+        "en": "12%"
+       }
+      ],
+      "src": "Dow Jones, cierres diarios"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:footage/seg/ah-001.mp4@0.5",
+      "crop": "552:414:0:66",
+      "k": "Martes 29 de octubre",
+      "h": "<b>16 millones</b> de acciones",
+      "cred": "Archivo · British Pathé",
+      "pie": "Un récord para la época"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y ahí apareció la trampa del crédito cuando la acción baja el corredor te exige más plata",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "bg": "v:footage/seg/ah-002.mp4@0.5",
+      "bgcrop": "552:414:0:66",
+      "k": "La trampa del crédito",
+      "h": "El corredor te pide <i>más plata</i>",
+      "size": 150,
+      "en": 0.1,
+      "paso": 0.25
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:footage/seg/ah-007.mp4@0.2",
+      "crop": "552:414:0:66",
+      "k": "Cuando la acción baja",
+      "h": "Poné <i>más plata</i>",
+      "cred": "Archivo · British Pathé"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Si no la tenés te vende todo al precio que haya Y esas ventas forzadas empujaban los precios todavía más abajo",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:footage/seg/ah-006.mp4@0.3",
+      "crop": "552:414:0:66",
+      "k": "Si no la tenés",
+      "h": "Te vende <i>todo</i>",
+      "cred": "Archivo · British Pathé",
+      "pie": "Al precio que haya"
+     }
+    ],
+    [
+     "g",
+     1.3,
+     {
+      "g": "flujo",
+      "k": "La espiral",
+      "h": "Ventas <i>forzadas</i>",
+      "items": [
+       {
+        "t": "Baja la acción",
+        "en": 0.1
+       },
+       {
+        "t": "Te piden más garantía",
+        "en": "ventas"
+       },
+       {
+        "t": "Venden a la fuerza",
+        "en": "forzadas"
+       },
+       {
+        "t": "Baja más",
+        "en": "abajo"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La caída siguió casi 3 años En julio de 1932 el Dow tocó fondo en 41 puntos",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:footage/seg/ah-005.mp4@1",
+      "crop": "552:414:0:66",
+      "k": "La Gran Depresión",
+      "h": "Casi <b>3 años</b> de caída",
+      "cred": "Archivo · British Pathé",
+      "pie": "Desocupados en una plaza, 1930"
+     }
+    ],
+    [
+     "g",
+     1.2,
+     {
+      "g": "linea",
+      "k": "Dow Jones, 1929 a 1932",
+      "h": "Hasta el <i>fondo</i>",
+      "series": [
+       {
+        "pts": [
+         381,
+         230,
+         248,
+         294,
+         240,
+         165,
+         194,
+         150,
+         78,
+         73,
+         41
+        ],
+        "label": "Dow",
+        "color": "roj",
+        "en": "julio"
+       }
+      ],
+      "xl": [
+       "1929",
+       "1930",
+       "1931",
+       "1932"
+      ],
+      "min": 0,
+      "src": "Valores aproximados. Mínimo: 41,22 el 8/7/1932"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Había perdido el 89% desde el máximo",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "bg": "v:footage/seg/ah-008.mp4@1",
+      "bgcrop": "552:414:0:66",
+      "k": "Desde el máximo",
+      "num": "-89%",
+      "sub": "de 381 a 41 puntos",
+      "color": "roj",
+      "en": "89%"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Recién en noviembre de 1954 volvió a ese nivel 25 años de espera",
+   "vis": [
+    [
+     "g",
+     1.2,
+     {
+      "g": "linea",
+      "k": "Dow Jones, 1929 a 1954",
+      "h": "Volver <b>al máximo</b>",
+      "series": [
+       {
+        "pts": [
+         381,
+         41,
+         100,
+         180,
+         120,
+         110,
+         150,
+         190,
+         180,
+         200,
+         280,
+         381
+        ],
+        "label": "Dow",
+        "color": "ver",
+        "en": "noviembre"
+       }
+      ],
+      "xl": [
+       "1929",
+       "1937",
+       "1945",
+       "1954"
+      ],
+      "min": 0,
+      "src": "Valores aproximados. Volvió a 381 el 23/11/1954"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Para recuperar",
+      "num": "25",
+      "sub": "años de espera",
+      "color": "oro",
+      "en": "25"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés lo que hace la deuda agranda las ganancias pero en la baja te saca del juego",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Lo que hace <i>la deuda</i>",
+      "size": 170,
+      "en": 0.1,
+      "paso": 0.2
+     }
+    ],
+    [
+     "g",
+     1.2,
+     {
+      "g": "remate",
+      "k": "Agranda las ganancias, pero en la baja",
+      "big": "Te saca del juego",
+      "color": "roj",
+      "en": "pero"
+     }
+    ]
+   ]
+  }
+ ]
+}
