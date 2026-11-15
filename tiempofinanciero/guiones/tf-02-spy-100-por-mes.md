@@ -30,7 +30,6 @@ Si la bolsa cae 40 %, ¿qué hacés? / 1: Vendo todo / 2: Sigo poniendo
 100 dólares por mes durante 20 años en el SPY (unas 500 de las empresas más grandes de EE. UU.): pusiste US$ 24.000 y hoy tendrías unos US$ 111.000. Con una caída de más del 40 % en el medio. Cuenta en dólares.
 Ojo: fueron 20 años muy buenos. En otras ventanas de 20 años (las que empezaron entre 1993 y 2003) la misma cuenta dio entre 2 y 3 veces lo puesto.
 Cálculo con datos de Yahoo Finance al 13/11/2026, dividendos reinvertidos, sin comisiones (en Argentina ~0,7 % por compra) ni impuestos.
-Si la bolsa cae 40 %, ¿qué hacés? Comentá 1 (Vendo todo) o 2 (Sigo poniendo) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #spy #inversiones #interescompuesto #cedears #bolsa #finanzas #argentina
 
@@ -38,3 +37,6 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 - Que la cuenta esté bien y el supuesto (aporte a principio de mes, adjclose) sea razonable.
 - ¿Sumar el efecto de la comisión del CEDEAR o la inflación de EE. UU. (CPI) en pantalla?
 - 2026-11-14 (2): peor momento unificado con tf-25 (cierre diario): 9/3/2009, −45%.
+
+
+Nota 2026-11-15: versión en look Matriz (sin música, sin encuesta, tempo 1.21) en NAS tiempofinanciero/reels/matriz/. El texto de voz de arriba conserva la pregunta final de la versión publicada el 14/11; en la versión Matriz ese cierre está cortado.

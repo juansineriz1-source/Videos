@@ -22,7 +22,6 @@ Tipo: historia de actualidad (pedido de juan 2026-11-14, sale HOY). Duración ob
 
 ## Caption
 Nvidia se quedó sin Jensen Huang. Cómo nació en un Denny's, por qué sus chips mueven la inteligencia artificial y qué riesgo deja una empresa armada alrededor de una sola persona.
-¿Nvidia sin Huang vale lo mismo? Comentá 1 (Sí, la empresa es más que él) o 2 (No, él era Nvidia) 👇
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 Fuentes: Reuters, Fortune, Al Jazeera, EFE, Bloomberg y The New York Times; precios de Yahoo Finance al cierre del 13/11/2026.
 #nvidia #jensenhuang #bolsa #inversiones #inteligenciaartificial #wallstreet #finanzas
@@ -45,3 +44,6 @@ Fuentes: Reuters, Fortune, Al Jazeera, EFE, Bloomberg y The New York Times; prec
 
 ## Video (2026-11-14)
 Spec: motor/tf-35-v3.json. Voz Justo (HeyGen). Material real con crédito en pantalla: NVIDIA (GTC 2026, Blackwell, AI Factory), CNBC, The Wall Street Journal, Stanford Journalism, Bloomberg Tech. Lista en NAS descargas/nvidia/canales.txt.
+
+
+Nota 2026-11-15: versión en look Matriz (sin música, sin encuesta, tempo 1.21) en NAS tiempofinanciero/reels/matriz/. El texto de voz de arriba conserva la pregunta final de la versión publicada el 14/11; en la versión Matriz ese cierre está cortado.

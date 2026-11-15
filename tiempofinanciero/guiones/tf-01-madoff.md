@@ -24,7 +24,6 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK por el agente fina
 
 ## Caption
 El fondo que nunca perdía 📉 Bernie Madoff mostró ganancias parejas durante décadas… y era todo mentira. La estafa Ponzi más grande de la historia, en un minuto.
-¿Le hubieras dado tu plata a Madoff? Comentá 1 (Sí, me convencía) o 2 (No, demasiado perfecto) 👇
 Contenido educativo. No es recomendación de inversión.
 #madoff #bolsa #inversiones #estafa #wallstreet #finanzas #argentina
 
@@ -35,3 +34,6 @@ Contenido educativo. No es recomendación de inversión.
 - US$ 64.800 M en los estados de cuenta; capital realmente aportado y perdido ~US$ 17.500 M (fideicomisario Irving Picard).
 - Markopolos: presentaciones a la SEC en 2000, 2001, 2005 (y seguimientos hasta 2008).
 - Spielberg: su fundación Wunderkinder tenía plata con Madoff.
+
+
+Nota 2026-11-15: versión en look Matriz (sin música, sin encuesta, tempo 1.21) en NAS tiempofinanciero/reels/matriz/. El texto de voz de arriba conserva la pregunta final de la versión publicada el 14/11; en la versión Matriz ese cierre está cortado.
