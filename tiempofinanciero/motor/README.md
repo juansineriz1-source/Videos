@@ -69,3 +69,6 @@ Negro, blanco y rojo E5222B, números en puntos (Doto), Space Grotesk, material 
 - `armar_tf3.py` ahora arma en Matriz por defecto (`LOOK=m1`; cada toma recibe `look:"m1"` salvo que traiga otro). `render3.js` carga `g3m.html` para `m1`, `n1.html` para `n1` y `g3.html` si no hay look. Subtítulos en Space Grotesk Bold con palabra activa y barra en rojo.
 - `g3m.html` se genera desde `g3.html` con `construir.py` (reemplazos): si se agrega una escena a g3.html, volver a correr construir.py.
 - El look anterior (azul y oro) quedó en `armar_tf3-oro.py` y `render3-oro.js`. El look "papel y marcador" (n1) quedó superado por Matriz: no usarlo en reels nuevos salvo que juan lo pida.
+
+## Escenas de noticias en Matriz (`n1m.html`, 2026-11-15)
+Mismas escenas y parámetros que `n1.html` (gancho, sep, dato, foto, cierre; ver `../diseno/README.md`) en look Matriz. En el spec de un reel de noticias, esas tomas llevan `"look":"n1m"`; el resto de las tomas (num, lista, archivo, etc.) quedan en `m1` por defecto. Ejemplo: `["g",4.5,{"look":"n1m","g":"gancho","refran":"El que madruga, <m>compra caro</m>.","vuelta":"...","img":"img/x.jpg","cred":"Foto: ..."}]`.
