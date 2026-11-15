@@ -1,0 +1,396 @@
+{
+ "voz": "voz-tf06.wav",
+ "palabras": "voz-tf06n.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "img": "clips/114980.jpg",
+  "pos": "50% 60%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "h": "La burbuja de los <b>tulipanes</b>",
+  "sub": "Holanda, 1637: lo que no te contaron"
+ },
+ "segs": [
+  {
+   "txt": "Se cuenta que en Holanda en 1637 pagaron por un bulbo de tulipán más que por una casa",
+   "vis": [
+    [
+     "g",
+     0.9,
+     {
+      "g": "titulo",
+      "bg": "c:22840@2",
+      "k": "Se cuenta que",
+      "h": "Holanda, <b>1637</b>",
+      "size": 180,
+      "en": 0.1,
+      "paso": 0.2
+     }
+    ],
+    [
+     "g",
+     1.1,
+     {
+      "g": "archivo",
+      "bg": "c:114980@1",
+      "crop": "1920:1440:320:0",
+      "k": "Se cuenta que",
+      "h": "Un bulbo, <i>más que una casa</i>",
+      "cred": "Video: Quankawa · Pixabay",
+      "pie": "Campo de tulipanes de hoy"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Seguro te la contaron como la primera gran burbuja de la historia Pero la versión famosa está exagerada",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "bg": "c:180712@2",
+      "k": "Seguro te la contaron",
+      "h": "La primera gran <b>burbuja</b>",
+      "size": 160,
+      "en": 0.1,
+      "paso": 0.2
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Tulipomanía",
+      "h": "Lo que te <i>contaron</i>",
+      "items": [
+       {
+        "t": "La versión famosa",
+        "st": "EXAGERADA",
+        "en": "exagerada"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Lo cierto los tulipanes eran un lujo nuevo y los más buscados tenían pétalos rayados por un virus",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:112430@2",
+      "crop": "1920:1440:320:0",
+      "k": "Lo cierto",
+      "h": "Un <b>lujo nuevo</b>",
+      "cred": "Video: NickyPe · Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "bg": "c:22840@12",
+      "k": "Los más buscados",
+      "h": "Pétalos rayados <i>por un virus</i>",
+      "size": 150,
+      "en": "pétalos",
+      "paso": 0.2
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El más famoso el Semper Augustus llegó a cotizar 10.000 florines",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "El más famoso: Semper Augustus",
+      "num": "10.000",
+      "sub": "florines por un bulbo",
+      "color": "oro",
+      "en": 0.1,
+      "src": "Precio atribuido, en su punto más alto"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Un artesano calificado ganaba unos 300 florines por año Eran más de 30 años de sueldo",
+   "vis": [
+    [
+     "g",
+     1.1,
+     {
+      "g": "barras",
+      "k": "En florines",
+      "h": "Sueldo contra <i>bulbo</i>",
+      "bars": [
+       {
+        "v": 300,
+        "txt": "300",
+        "label": "Sueldo de un año",
+        "color": "gr",
+        "en": 0.1
+       },
+       {
+        "v": 10000,
+        "txt": "10.000",
+        "label": "Un bulbo",
+        "color": "roj",
+        "en": 0.8
+       }
+      ],
+      "src": "Sueldo de un artesano calificado, aproximado"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Un solo bulbo",
+      "num": "30",
+      "sub": "años de sueldo",
+      "row": "Más de",
+      "color": "roj",
+      "en": 0.1,
+      "row_en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y casi nadie compraba flores en las tabernas se firmaban contratos por bulbos que seguían bajo tierra",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:143419@3",
+      "crop": "1920:1440:320:0",
+      "k": "En las tabernas",
+      "h": "Contratos, <i>no flores</i>",
+      "cred": "Video: NickyPe · Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Los contratos",
+      "h": "Por bulbos que seguían <i>bajo tierra</i>",
+      "size": 140,
+      "en": "bulbos",
+      "paso": 0.2
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los holandeses lo llamaban comercio de viento papeles que pasaban de mano en mano cada vez más caros",
+   "vis": [
+    [
+     "g",
+     0.9,
+     {
+      "g": "titulo",
+      "bg": "c:83437@2",
+      "k": "Los holandeses lo llamaban",
+      "h": "Comercio <i>de viento</i>",
+      "size": 180,
+      "en": "comercio",
+      "paso": 0.2
+     }
+    ],
+    [
+     "g",
+     1.2,
+     {
+      "g": "flujo",
+      "k": "Comercio de viento",
+      "h": "De mano <b>en mano</b>",
+      "items": [
+       {
+        "t": "Firmás un contrato",
+        "en": "papeles"
+       },
+       {
+        "t": "Lo vendés más caro",
+        "en": "mano"
+       },
+       {
+        "t": "Y otro, más caro todavía",
+        "en": "cada"
+       },
+       {
+        "t": "El bulbo, bajo tierra",
+        "en": "caros"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En la primera semana de febrero de 1637 en Haarlem de golpe no hubo compradores Los precios se derrumbaron",
+   "vis": [
+    [
+     "g",
+     0.9,
+     {
+      "g": "titulo",
+      "bg": "c:180712@8",
+      "k": "Haarlem",
+      "h": "Febrero de <b>1637</b>",
+      "size": 170,
+      "en": 0.1,
+      "paso": 0.2
+     }
+    ],
+    [
+     "g",
+     1.3,
+     {
+      "g": "linea",
+      "k": "Precio de los contratos",
+      "h": "De golpe, <i>sin compradores</i>",
+      "series": [
+       {
+        "pts": [
+         10,
+         12,
+         15,
+         20,
+         28,
+         40,
+         60,
+         95,
+         100,
+         30,
+         12
+        ],
+        "label": "Contratos",
+        "color": "roj",
+        "fmt": false,
+        "en": "golpe"
+       }
+      ],
+      "xl": [
+       "Nov 1636",
+       "Feb 1637"
+      ],
+      "min": 0,
+      "src": "Curva ilustrativa: no hay serie de precios confiable"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 1841 el escocés Charles Mackay escribió que hubo ruina general Así nació la leyenda",
+   "vis": [
+    [
+     "g",
+     1.1,
+     {
+      "g": "archivo",
+      "bg": "c:113407@2",
+      "crop": "1920:1440:320:0",
+      "k": "1841",
+      "h": "Charles Mackay: <i>ruina general</i>",
+      "cred": "Video: AttilaPergel · Pixabay"
+     }
+    ],
+    [
+     "g",
+     0.9,
+     {
+      "g": "titulo",
+      "k": "Así nació",
+      "h": "La <b>leyenda</b>",
+      "size": 200,
+      "en": 0.05,
+      "paso": 0.2
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero la historiadora Anne Goldgar revisó los archivos y encontró menos de 6 personas con problemas serios",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Anne Goldgar revisó los archivos",
+      "h": "La <i>ruina general</i>",
+      "items": [
+       {
+        "t": "Ruina general",
+        "st": "NO APARECE",
+        "en": "archivos"
+       }
+      ],
+      "src": "Anne Goldgar, Tulipmania (2007)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que encontró",
+      "num": "6",
+      "sub": "personas con problemas serios",
+      "row": "Menos de",
+      "color": "ver",
+      "en": 0.1,
+      "row_en": 0.1,
+      "src": "Anne Goldgar, Tulipmania (2007)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés cómo se arma una burbuja comprás algo caro solo porque creés que otro va a pagar más",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Cómo se arma <b>una burbuja</b>",
+      "size": 160,
+      "en": 0.1,
+      "paso": 0.2
+     }
+    ],
+    [
+     "g",
+     1.2,
+     {
+      "g": "remate",
+      "k": "Comprás caro porque creés que",
+      "big": "Otro va a pagar más",
+      "color": "roj",
+      "en": "otro"
+     }
+    ]
+   ]
+  }
+ ]
+}
