@@ -72,3 +72,6 @@ Negro, blanco y rojo E5222B, números en puntos (Doto), Space Grotesk, material 
 
 ## Escenas de noticias en Matriz (`n1m.html`, 2026-11-15)
 Mismas escenas y parámetros que `n1.html` (gancho, sep, dato, foto, cierre; ver `../diseno/README.md`) en look Matriz. En el spec de un reel de noticias, esas tomas llevan `"look":"n1m"`; el resto de las tomas (num, lista, archivo, etc.) quedan en `m1` por defecto. Ejemplo: `["g",4.5,{"look":"n1m","g":"gancho","refran":"El que madruga, <m>compra caro</m>.","vuelta":"...","img":"img/x.jpg","cred":"Foto: ..."}]`.
+
+## Pies de fuente (juez, 2026-11-15)
+Los pies (`src`) salen chicos y en gris: si el pie lleva una aclaración que hace a la honestidad del dato, ponerla también en un lugar legible (`row`, `sub`, `pie` o el rótulo). Pendiente: subir tamaño y contraste del `src` en g3.html/n1.html. En un mismo dato usar una sola formulación (la exacta).
