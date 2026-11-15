@@ -43,6 +43,9 @@ Meta: **2 reels por día**, publicados solos por Buffer cuando juan lo autorice.
 - Fondo azul tinta #0B1426, bronce del toro #E8B64C, verde suba #2BD67B, rojo baja #FF5A5F, blanco #F4F6FA.
 - Tipografías del toro disponibles: Anton / Bebas Neue para carteles, Montserrat para textos.
 
+## Banco de 100 guiones (2026-11-15)
+Ya están escritos los 100 guiones que no son de noticias: tf-01 a tf-34 y tf-37 a tf-102 en `guiones/` (tf-35 y tf-36 son de noticias). Los tf-37 a tf-102 están en borrador: cada uno trae una sección "Datos a verificar (juez)" y no se graba la voz hasta que el juez los apruebe. Orden de uso para el reel de las 19:00: primero los que ya tienen voz grabada, después los aprobados por el juez. Los que dependen de un precio o de un estado actual (YPF, Terra Luna, Microsoft, Apple, Buffett, Mt. Gox) se actualizan el día que se graban. No hace falta escribir más guiones de historia por día; solo sumar si aparece una idea mejor.
+
 ## Lista de ideas (ir sumando)
 Historias: Madoff, GameStop 2021, Newton y los Mares del Sur (1720), tulipanes (1637), crack del 29, lunes negro 1987, Long-Term Capital (1998), burbuja puntocom, Enron, Lehman 2008, Jesse Livermore, Buffett compra Coca-Cola, Michael Burry y la gran apuesta, FTX y SBF, Archegos, Nick Leeson y la quiebra del Barings, Hetty Green, el corralito 2001, YPF en Nueva York, el Merval en dólares desde 2001.
 La cuenta: 100 USD por mes en el SPY 20 años, 100 USD una vez en 1990, el costo de esperar 10 años para empezar, regla del 72, comisiones de 2% en 30 años, perderse los 10 mejores días, dólar colchón vs inflación de EE. UU., Apple vs iPhone (comprar la acción o el teléfono), Coca-Cola y sus dividendos, el Merval vs el SPY en dólares.
