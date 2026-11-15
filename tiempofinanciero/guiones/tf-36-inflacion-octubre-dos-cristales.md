@@ -1,5 +1,5 @@
 # tf-36 Inflación de octubre: los dos cristales
-Tipo: noticia del día (domingo 2026-11-15), formato 1 noticia. Duración objetivo: 55 s (máximo 58). Estado: a revisar por el juez antes de grabar.
+Tipo: noticia del día (domingo 2026-11-15), formato 1 noticia. Duración objetivo: 55 s (máximo 58). Estado: guion aprobado por el juez (2026-11-15), grabado y armado (47 s); video en reels/reel-tf36-inflacion.mp4, spec motor/tf-36.json.
 
 ## Texto (voz) y visuales
 | # | Voz | Visual |
@@ -7,15 +7,15 @@ Tipo: noticia del día (domingo 2026-11-15), formato 1 noticia. Duración objeti
 | 1 | Todo depende del cristal con que se mire. Y la inflación de octubre tiene dos cristales. | Gancho: refrán + tira "La inflación de octubre" |
 | 2 | El primero: los precios subieron 2,2 por ciento. Segundo mes seguido para arriba, y el número más alto desde abril. | Dato 2,2 % en rojo, sello "2° mes en suba", línea de los últimos meses |
 | 3 | Los analistas esperaban 1,8. Le erraron. | Barras: esperado 1,8 / fue 2,2 |
-| 4 | El segundo cristal es el del Gobierno: la inflación núcleo, la que deja afuera lo que sube por temporada y los precios regulados, fue 1,5. La más baja desde julio del año pasado. | Dato 1,5 % en blanco, "núcleo", sello "la más baja desde julio de 2025" |
+| 4 | El segundo cristal es el que destaca el Gobierno: la inflación núcleo, la que deja afuera lo que sube por temporada y los precios regulados, fue 1,5. La más baja desde julio del año pasado. | Dato 1,5 % en blanco, "núcleo", sello "la más baja desde julio de 2025" |
 | 5 | ¿Entonces qué empujó? Lo estacional, como las verduras, subió 5,5. Y los regulados, como las tarifas, 2,9. | Lista: estacionales 5,5 / regulados 2,9 / núcleo 1,5, sobre video real de verdulería |
 | 6 | Dato para la sobremesa del domingo: en América Latina, de los países que ya publicaron, solo Venezuela tuvo más inflación que nosotros en octubre. Brasil tuvo 0,14. | Barras: Venezuela 6,2 / Argentina 2,2 / Bolivia 2,07 / Brasil 0,14 |
 | 7 | En el año van 26,3 por ciento. | Dato 26,3 %, "enero a octubre" |
 | 8 | Ya sabés: cuando te digan que la inflación sube, o que baja, preguntá con cuál de los dos cristales la están mirando. | Remate + cierre de marca |
 
 ## Caption
-La inflación de octubre fue 2,2 %: la más alta desde abril. Pero la núcleo fue 1,5 %, la más baja desde julio de 2025. Las dos cosas son ciertas: depende de qué número mires.
-Fuente: INDEC (dato publicado el 12/11/2026), vía Infobae y Ámbito. Comparación regional: Ámbito, 14/11/2026.
+La inflación de octubre fue 2,2 %: la más alta desde abril. Pero la núcleo fue 1,5 %, la más baja desde julio de 2025. Las dos cosas son ciertas: depende de con qué cristal la mires.
+Fuente: INDEC (dato publicado el 12/11/2026), vía Infobae y Ámbito. Comparación regional: Infobae, 14/11/2026, con datos de organismos oficiales.
 Contenido educativo. No es recomendación de inversión.
 #inflacion #indec #economia #argentina #finanzas #precios
 

@@ -1,0 +1,362 @@
+{
+ "voz": "voz-tf36.wav",
+ "palabras": "voz-tf36n.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "img": "img/verduleria.jpg",
+  "pos": "50% 50%",
+  "k": "LA NOTICIA DEL DÍA",
+  "h": "Inflación: <b>2,2 %</b>",
+  "sub": "Dos formas de mirar el mismo número"
+ },
+ "segs": [
+  {
+   "txt": "Todo depende del cristal con que se mire Y la inflación de octubre tiene dos cristales",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "look": "n1m",
+      "g": "gancho",
+      "k": "La noticia del día",
+      "cinta": "Tiempo Financiero · Dom 15 nov · Inflación de octubre",
+      "refran": "Todo depende del <m>cristal</m> con que se mire.",
+      "vuelta": "La inflación tiene <i>dos cristales</i>",
+      "vuelta_en": "inflación",
+      "img": "img/ba-9dejulio.jpg",
+      "pos": "50% 50%",
+      "cred": "Imagen: Pixabay"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El primero los precios subieron 2,2%",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "look": "n1m",
+      "g": "dato",
+      "k": "Cristal 1 · Inflación general",
+      "h": "Los precios <i>subieron</i>",
+      "num": "2,2 %",
+      "color": "roj",
+      "delta": "Septiembre: 1,9 %",
+      "dir": "up",
+      "sub": "octubre de 2026",
+      "src": "Fuente: INDEC",
+      "cinta": "Tiempo Financiero · Dom 15 nov · Inflación de octubre",
+      "paso": [
+       1,
+       2
+      ],
+      "av0": 0,
+      "av1": 0.3
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Segundo mes seguido para arriba y el número más alto desde abril",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Inflación mensual 2026",
+      "h": "El más alto <i>desde abril</i>",
+      "series": [
+       {
+        "pts": [
+         2.6,
+         2.1,
+         1.9,
+         2.1,
+         1.7,
+         1.9,
+         2.2
+        ],
+        "label": "IPC mensual",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "abr 2,6",
+       "jul 2,1",
+       "oct 2,2"
+      ],
+      "min": 1,
+      "src": "Fuente: INDEC"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los analistas esperaban 1,8 Le erraron",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Lo esperado y lo real",
+      "h": "Le <i>erraron</i>",
+      "bars": [
+       {
+        "v": 1.8,
+        "txt": "1,8 %",
+        "label": "Esperaban",
+        "color": "gr",
+        "en": 0.3
+       },
+       {
+        "v": 2.2,
+        "txt": "2,2 %",
+        "label": "Fue",
+        "color": "roj",
+        "en": "le"
+       }
+      ],
+      "src": "REM del Banco Central · INDEC"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El segundo cristal es el que destaca el Gobierno la inflación núcleo la que deja afuera lo que sube por temporada y los precios regulados fue 1,5 La más baja desde julio del año pasado",
+   "vis": [
+    [
+     "g",
+     3.8,
+     {
+      "g": "titulo",
+      "bg": "c:170042@9",
+      "k": "Cristal 2 · el que destaca el Gobierno",
+      "h": "La inflación <b>núcleo</b>",
+      "size": 170,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     3.5,
+     {
+      "g": "flujo",
+      "k": "Inflación núcleo",
+      "h": "Qué deja <i>afuera</i>",
+      "items": [
+       {
+        "t": "Lo que sube por temporada",
+        "en": "temporada"
+       },
+       {
+        "t": "Los precios regulados",
+        "en": "regulados"
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     3.7,
+     {
+      "look": "n1m",
+      "g": "dato",
+      "k": "Cristal 2 · Inflación núcleo",
+      "h": "La más baja <u>en 15 meses</u>",
+      "num": "1,5 %",
+      "delta": "Septiembre: 1,7 %",
+      "dir": "down",
+      "sub": "octubre de 2026",
+      "row": "La más baja desde julio de 2025",
+      "src": "Fuente: INDEC",
+      "cinta": "Tiempo Financiero · Dom 15 nov · Inflación de octubre",
+      "paso": [
+       2,
+       2
+      ],
+      "av0": 0.5,
+      "av1": 1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Entonces qué empujó Lo estacional como las verduras subió 5,5 Y los regulados como las tarifas 2,9",
+   "vis": [
+    [
+     "g",
+     2.9,
+     {
+      "g": "archivo",
+      "bg": "c:151@1",
+      "crop": "1440:1080:0:0",
+      "k": "¿Entonces qué empujó?",
+      "h": "Lo estacional: <i>+5,5 %</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Estacionales: verduras, tubérculos y legumbres"
+     }
+    ],
+    [
+     "g",
+     2.4,
+     {
+      "g": "archivo",
+      "bg": "c:151@6.5",
+      "crop": "1440:1080:480:0",
+      "k": "¿Entonces qué empujó?",
+      "h": "Lo estacional: <i>+5,5 %</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Estacionales: verduras, tubérculos y legumbres"
+     }
+    ],
+    [
+     "g",
+     3.1,
+     {
+      "g": "barras",
+      "k": "Octubre, por tipo de precio",
+      "h": "Lo que <i>empujó</i>",
+      "bars": [
+       {
+        "v": 5.5,
+        "txt": "5,5 %",
+        "label": "Estacionales",
+        "color": "roj",
+        "en": 0.2
+       },
+       {
+        "v": 2.9,
+        "txt": "2,9 %",
+        "label": "Regulados (gas y combustibles)",
+        "color": "bl",
+        "en": 0.6
+       },
+       {
+        "v": 1.5,
+        "txt": "1,5 %",
+        "label": "Núcleo",
+        "color": "gr",
+        "en": 1.1
+       }
+      ],
+      "src": "Fuente: INDEC"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Dato para la sobremesa del domingo en América Latina de los países que ya publicaron solo Venezuela tuvo más inflación que nosotros en octubre Brasil tuvo 0,14",
+   "vis": [
+    [
+     "g",
+     4.9,
+     {
+      "g": "titulo",
+      "bg": "c:38664@3",
+      "k": "América Latina · octubre",
+      "h": "Dato para la <b>sobremesa</b>",
+      "sub": "Entre los países que ya publicaron",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     5.3,
+     {
+      "g": "barras",
+      "k": "Inflación de octubre",
+      "h": "Solo <i>Venezuela</i> tuvo más",
+      "bars": [
+       {
+        "v": 6.2,
+        "txt": "6,2 %",
+        "label": "Venezuela",
+        "color": "gr",
+        "en": "venezuela"
+       },
+       {
+        "v": 2.2,
+        "txt": "2,2 %",
+        "label": "Argentina",
+        "color": "roj",
+        "en": "nosotros"
+       },
+       {
+        "v": 2.1,
+        "txt": "2,1 %",
+        "label": "Bolivia",
+        "color": "gr",
+        "en": "octubre"
+       },
+       {
+        "v": 0.1,
+        "txt": "0,1 %",
+        "label": "Brasil",
+        "color": "gr",
+        "en": "brasil"
+       }
+      ],
+      "src": "Octubre 2026, organismos oficiales. Sin dato: Cuba, Ecuador y Panamá."
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En el año van 26,3%",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "look": "n1m",
+      "g": "dato",
+      "k": "Acumulado 2026",
+      "h": "En el año <i>van</i>",
+      "num": "26,3 %",
+      "color": "roj",
+      "sub": "enero a octubre",
+      "row": "Interanual: 33,1 %",
+      "src": "Fuente: INDEC",
+      "cinta": "Tiempo Financiero · Dom 15 nov · Inflación de octubre"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés cuando te digan que la inflación sube o que baja preguntá con cuál de los dos cristales la están mirando",
+   "vis": [
+    [
+     "g",
+     3.6,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "¿Sube <i>o baja?</i>",
+      "sub": "Cuando te digan cualquiera de las dos",
+      "size": 150,
+      "en": 0.5
+     }
+    ],
+    [
+     "g",
+     2.9,
+     {
+      "g": "remate",
+      "big": "¿Con qué cristal?",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
