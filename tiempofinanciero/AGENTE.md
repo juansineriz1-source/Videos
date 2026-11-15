@@ -65,3 +65,12 @@ Las historias de precios siguen igual. La tarea diaria arranca 7:07 para llegar 
 
 ## Diseño: look Matriz (juan 2026-11-15, 01:46Z)
 juan eligió el estilo "Matriz" (negro, blanco y rojo, números en puntos, material real en blanco y negro) para TODA la cuenta: reels de noticia, de historia y los ya publicados, que se rehacen para que él los borre y los vuelva a subir. El motor arma en Matriz por defecto (ver motor/README.md). Los tres publicados (Madoff, SPY, Nvidia) los rehace el lab de diseño; republicar solo con ok de juan.
+
+## Referencia que le gustó a juan (2026-11-15): @lacartabursatil, reel DfwoJDhqVlD
+"Alguien apostó 8 millones contra Nvidia" (80 s, 1.785 me gusta el mismo día). Copia en NAS `tiempofinanciero/referencias/ig-DfwoJDhqVlD/`. Qué tomar (sin copiar el reel):
+- Una sola historia con misterio en la primera frase ("nadie sabe quién es") y un número que crece (8 M a 196 M).
+- Un mismo gráfico que acompaña todo el reel: la línea del precio vuelve una y otra vez con una marca nueva (la apuesta, el escándalo, la renuncia). No son placas sueltas.
+- Cada concepto difícil se explica con una comparación de la vida ("un put es como un seguro") y una placa propia.
+- Material real mínimo y puntual: logo de la empresa, tapa del diario, foto de la persona. El resto es gráfico.
+- Cierra bajando el titular ("¿Sabía algo? No hay ninguna prueba") y el caption trae un bloque "Ojo con los titulares" con lo que no se puede afirmar, más las fuentes con fecha.
+- Subtítulos chicos, en una línea, abajo; pantalla limpia.
