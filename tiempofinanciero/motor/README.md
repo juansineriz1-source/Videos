@@ -75,3 +75,6 @@ Mismas escenas y parámetros que `n1.html` (gancho, sep, dato, foto, cierre; ver
 
 ## Pies de fuente (juez, 2026-11-15)
 Los pies (`src`) salen chicos y en gris: si el pie lleva una aclaración que hace a la honestidad del dato, ponerla también en un lugar legible (`row`, `sub`, `pie` o el rótulo). Pendiente: subir tamaño y contraste del `src` en g3.html/n1.html. En un mismo dato usar una sola formulación (la exacta).
+
+## Voz larga y cortes de HeyGen (2026-11-15)
+Los guiones de más de unas 170 palabras (tf-07) se cuelgan a los 60 s en HeyGen. Si pasa, grabar el guion en dos mitades (cortando en un punto) y unirlas con ffmpeg concat, corriendo los tiempos de la segunda mitad. `numerar.py in.json out.json "diez por ciento=10%" ...` junta palabras en números para los subtítulos (cada reemplazo sin espacios).
