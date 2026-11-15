@@ -1,5 +1,5 @@
 # tf-03 GameStop: el foro que hizo temblar a Wall Street
-Tipo: historia. Duración objetivo: 60 s. Estado: grabado y armado en Matriz (2026-11-15, 57 s); video en reels/reel-tf03-gamestop.mp4, spec motor/tf-03.json. En la voz la fila 10 dice "El veintiocho de enero" en vez de "Ese mismo día".
+Tipo: historia. Duración objetivo: 60 s. Estado: grabado y armado en Matriz (2026-11-15, 57 s); video en reels/reel-tf03-gamestop.mp4, spec motor/tf-03.json. Fila 10 regrabada con la corrección del juez (2026-11-15).
 
 ## Texto (voz) y visuales
 | # | Voz | Cartel | Visual |
@@ -13,7 +13,7 @@ Tipo: historia. Duración objetivo: 60 s. Estado: grabado y armado en Matriz (20
 | 7 | La acción pasó de menos de veinte dólares a principios de enero a casi quinientos en un momento del veintiocho de enero. | US$ 20 → 483 | Gráfico: vela/línea vertical |
 | 8 | Los que estaban en corto tenían que recomprar a cualquier precio, y eso la empujaba más arriba. | SHORT SQUEEZE | Gráfico: espiral para arriba |
 | 9 | Melvin Capital, uno de esos fondos, perdió más de la mitad de su plata en un mes y tuvo que recibir un rescate. Cerró en 2022. | -53 % | Pixabay: oficina vacía / pantallas |
-| 10 | Ese mismo día, Robinhood, la app que usaban casi todos, frenó las compras. | COMPRAS BLOQUEADAS | Gráfico: celular con botón bloqueado |
+| 10 | El veintiocho de enero, Robinhood, la app más popular entre ellos, frenó las compras. | COMPRAS BLOQUEADAS | Gráfico: celular con botón bloqueado |
 | 11 | La acción se desplomó, y muchos que entraron tarde perdieron mucha plata. | — | Pixabay: pantalla en rojo |
 | 12 | Ya sabés qué es un short squeeze: cuando los que apostaron a la baja tienen que salir corriendo a comprar. | — | Gráfico: resumen |
 
