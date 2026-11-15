@@ -20,7 +20,7 @@ FIT=r"""
 def tema(s,T):
     m=T=='m'
     # fuentes
-    s=rep(s,"@font-face{font-family:AN;src:url(assets/Anton-Regular.ttf)}","@font-face{font-family:AN;src:url(assets/%s)}@font-face{font-family:NUM;src:url(assets/%s)}"%(("SpaceGrotesk-Bold.ttf","Doto-Black.ttf") if m else ("Unbounded-Black.ttf","Unbounded-Black.ttf")))
+    s=rep(s,"@font-face{font-family:AN;src:url(assets/Anton-Regular.ttf)}","@font-face{font-family:AN;src:url(assets/%s)}@font-face{font-family:NUM;src:url(assets/%s)}@font-face{font-family:NUM;src:url(assets/SpaceGrotesk-Bold.ttf);unicode-range:U+25}"%(("SpaceGrotesk-Bold.ttf","Doto-Black.ttf") if m else ("Unbounded-Black.ttf","Unbounded-Black.ttf")))
     s=rep(s,"@font-face{font-family:MB;src:url(assets/Montserrat-Black.ttf)}","@font-face{font-family:MB;src:url(assets/%s)}"%("SpaceMono-Bold.ttf" if m else "Unbounded-SemiBold.ttf"))
     s=rep(s,"@font-face{font-family:MS;src:url(assets/Montserrat-SemiBold.ttf)}","@font-face{font-family:MS;src:url(assets/SpaceGrotesk-Medium.ttf)}")
     # colores

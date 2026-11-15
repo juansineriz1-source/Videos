@@ -4,7 +4,7 @@ def rep(a,b,n=None):
     global s
     c=s.count(a); assert c>0 and (n is None or c==n),(a,c); s=s.replace(a,b)
 rep('diseño "papel y marcador" (lab de diseño, 2026-11-14)','estilo MATRIZ (lab de diseño, 2026-11-15; generado por construir_n1.py desde n1.html)')
-rep('@font-face{font-family:AN;src:url(fuentes/Anton-Regular.ttf)}','@font-face{font-family:AN;src:url(assets/SpaceGrotesk-Bold.ttf)}@font-face{font-family:NUM;src:url(assets/Doto-Black.ttf)}')
+rep('@font-face{font-family:AN;src:url(fuentes/Anton-Regular.ttf)}','@font-face{font-family:AN;src:url(assets/SpaceGrotesk-Bold.ttf)}@font-face{font-family:NUM;src:url(assets/Doto-Black.ttf)}@font-face{font-family:NUM;src:url(assets/SpaceGrotesk-Bold.ttf);unicode-range:U+25}')
 rep('fuentes/Montserrat-Black.ttf','assets/SpaceGrotesk-Bold.ttf')
 rep('fuentes/Montserrat-SemiBold.ttf','assets/SpaceGrotesk-Medium.ttf')
 rep('fuentes/DMSerifDisplay-Italic.ttf','assets/SpaceGrotesk-Medium.ttf')
