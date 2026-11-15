@@ -33,3 +33,8 @@ Todas aceptan `cinta` (texto del teletipo), `src` (zócalo de fuente abajo, entr
 - Color (ya lo hace `ventana()` en n1.html, igual para todas): saturación 0,8, contraste 1,06, sombras hacia azul noche y luces hacia crema, grano fino encima de todo. Así una foto de prensa y una de archivo parecen de la misma familia. No usar filtros propios por foto.
 - Crédito siempre visible en la etiqueta papel de la foto ("Foto: Reuters", "Video: CNBC"), y la fuente del dato en el zócalo.
 - Sin emojis; flechas y triángulos se dibujan con CSS.
+
+## Estilo Matriz (oficial desde 2026-11-15, decisión de juan)
+- `n1m.html`: las mismas escenas (gancho, sep, dato, foto, cierre) y los mismos parámetros que `n1.html`, en estilo Matriz: negro, blanco y rojo E5222B, números en matriz de puntos (Doto), títulos Space Grotesk, mono Space Mono, fotos en blanco y negro. Se genera con `python3 construir_n1.py` desde `n1.html` (no editar a mano).
+- Fuentes: las busca en `assets/` (Doto-Black, SpaceGrotesk-Bold, SpaceGrotesk-Medium, SpaceMono-Bold), las mismas de g3m.html.
+- Muestra: `hoja-noticias-matriz.jpg`.
