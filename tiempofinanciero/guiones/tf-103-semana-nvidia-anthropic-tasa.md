@@ -7,7 +7,7 @@ Tipo: noticias, formato 3 noticias (prueba de juan). Fecha: 2026-11-16. Duració
 | 1 | Dicen que el martes, ni te cases ni te embarques. Esta semana Wall Street tiene tres citas, y una cae justo en martes. |
 | 2 | Primera: el martes 17, Nvidia presenta resultados. Es la primera vez sin Jensen Huang como director ejecutivo: renunció el jueves pasado. |
 | 3 | El mercado espera ventas por casi 109 mil millones de dólares en el trimestre. La acción cerró el viernes en 162 dólares. |
-| 4 | Segunda: Anthropic, la empresa que creó a Claude, sale a la bolsa. Fija el precio el miércoles y empieza a cotizar el jueves 19 en el Nasdaq. |
+| 4 | Segunda: Anthropic, la empresa que creó a Claude, sale a la bolsa. Según la prensa, fija el precio el miércoles y empieza a cotizar el jueves 19 en el Nasdaq. |
 | 5 | El rango anunciado es de 70 a 78 dólares por acción, y puede cambiar el miércoles. Arriba de todo, contando todas sus acciones, la empresa valdría cerca de 1,4 billones de dólares. |
 | 6 | Y tercera, la que menos brilla: la tasa del bono a diez años de Estados Unidos terminó la semana en 5,15 por ciento. |
 | 7 | Subió 0,3 puntos en cinco días, por inflación más alta y porque el mercado ya apuesta a que la Reserva Federal suba la tasa en diciembre. |
