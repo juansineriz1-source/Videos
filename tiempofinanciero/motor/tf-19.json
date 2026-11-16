@@ -1,0 +1,302 @@
+{
+ "voz": "voz-tf19.wav",
+ "palabras": "voz-tf19.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-066.jpg",
+  "h": "El día que <b>la libra se rindió</b>",
+  "sub": "Soros, 16 de septiembre de 1992"
+ },
+ "segs": [
+  {
+   "txt": "Un solo día, un solo fondo, y el Banco de Inglaterra terminó rindiéndose. Pasó el dieciséis de septiembre de 1992.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-066.mp4@1",
+      "k": "16 de septiembre de 1992",
+      "h": "El Banco de Inglaterra <i>se rinde</i>",
+      "cred": "Archivo · LM. LONDON",
+      "pie": "Royal Exchange frente al Banco de Inglaterra (imagen actual)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero el mito exagera: George Soros no quebró a nadie. Encontró una promesa que no se podía cumplir.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-067.mp4@1",
+      "k": "El mito exagera",
+      "h": "Soros <i>no quebró a nadie</i>",
+      "cred": "Archivo · Katumi Stock",
+      "pie": "Billetes de libras"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Encontró",
+      "h": "Una promesa que <i>no se podía cumplir</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 1990 el Reino Unido había atado la libra al marco alemán, dentro de una banda fija.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "La libra atada al marco",
+      "h": "Una <i>banda fija</i>",
+      "series": [
+       {
+        "pts": [
+         2.95,
+         2.95,
+         2.9,
+         2.85,
+         2.8,
+         2.78
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "1990 centro 2,95",
+       "sep-92 piso 2,773"
+      ],
+      "src": "Marcos alemanes por libra"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero Alemania tenía tasas altas y la economía británica estaba en recesión. La libra estaba cara.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-063.mp4@1",
+      "k": "Alemania con tasas altas",
+      "h": "Reino Unido <i>en recesión</i>",
+      "cred": "Archivo · J Utah",
+      "pie": "Londres (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Resultado",
+      "h": "La libra <i>estaba cara</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El fondo de Soros vendió libras prestadas por más de diez mil millones de dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "En libras vendidas",
+      "num": "+US$ 10.000 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "El fondo de Soros",
+      "sub": "con libras prestadas"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La idea, según contó Stanley Druckenmiller, fue suya. Soros lo empujó a hacerla mucho más grande.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "El aporte de Soros fue empujarme a ir mucho más grande",
+      "en": 0.3,
+      "autor": "Stanley Druckenmiller, según su relato"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ese miércoles, el banco central compró libras y subió la tasa de diez a doce por ciento. Prometió quince.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Tasa de interés, el mismo día",
+      "h": "Subió <i>dos veces</i>",
+      "bars": [
+       {
+        "label": "Antes",
+        "v": 10,
+        "txt": "10 %",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Mediodía",
+        "v": 12,
+        "txt": "12 %",
+        "color": "gr",
+        "en": 0.4
+       },
+       {
+        "label": "Prometida",
+        "v": 15,
+        "txt": "15 %",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Banco de Inglaterra, 16/9/1992"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "No alcanzó. A las siete de la tarde, el Reino Unido soltó la libra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:18792@1",
+      "k": "A las 7 de la tarde",
+      "h": "El Reino Unido <i>suelta la libra</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "16/9/1992",
+      "h": "<i>Miércoles negro</i>",
+      "items": [
+       {
+        "t": "19:00",
+        "st": "SE RINDE",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La ganancia de Soros se estima en más de mil millones de dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Ganancia de Soros",
+      "num": "US$ 1.000 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Se estima",
+      "sub": "más de"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Al Tesoro británico le costó unos tres mil trescientos millones de libras.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "El costo",
+      "h": "Uno ganó, <i>otro pagó</i>",
+      "bars": [
+       {
+        "label": "Soros (estimado)",
+        "v": 1000,
+        "txt": "+US$ 1.000 M",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Tesoro británico",
+        "v": 3300,
+        "txt": "-£ 3.300 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Costo del Tesoro: estimación oficial de 2005"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés qué pasa con un tipo de cambio fijo cuando el mercado deja de creerle. Acá lo vimos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-026.mp4@1",
+      "k": "Ya sabés",
+      "h": "Cuando el mercado <i>deja de creer</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Argentina 2002: casa de cambio"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Acá lo vimos",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

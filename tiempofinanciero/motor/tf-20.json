@@ -1,0 +1,297 @@
+{
+ "voz": "voz-tf20.wav",
+ "palabras": "voz-tf20.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-197489.jpg",
+  "h": "Unas gotas <b>y nueve mil millones</b>",
+  "sub": "Theranos"
+ },
+ "segs": [
+  {
+   "txt": "¿Le confiarías tu salud a un análisis de sangre que nadie pudo comprobar? Miles de personas lo hicieron.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:197489@1",
+      "k": "¿Le confiarías tu salud?",
+      "h": "A un análisis <i>que nadie comprobó</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Elizabeth Holmes fundó Theranos en 2003, a los diecinueve años, después de dejar la Universidad de Stanford.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Elizabeth Holmes funda Theranos",
+      "num": "19 años",
+      "color": "bl",
+      "en": 0.1,
+      "h": "2003",
+      "sub": "después de dejar Stanford"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Prometía hacer análisis completos con unas gotas de sangre sacadas del dedo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:21617@1",
+      "k": "La promesa",
+      "h": "Análisis completos <i>con unas gotas</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Unas gotas",
+      "h": "Sacadas <i>del dedo</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Juntó más de setecientos millones de dólares de inversores. La empresa llegó a valer nueve mil millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Theranos, 2013-2014",
+      "h": "Llegó a valer <i>US$ 9.000 M</i>",
+      "bars": [
+       {
+        "label": "Plata juntada",
+        "v": 724,
+        "txt": "US$ 724 M",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Valuación",
+        "v": 9000,
+        "txt": "US$ 9.000 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En el directorio había dos exsecretarios de Estado: Henry Kissinger y George Shultz.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Su directorio",
+      "h": "Nombres <i>famosos</i>",
+      "items": [
+       {
+        "t": "Henry Kissinger",
+        "en": 0.15,
+        "r": "exsecretario de Estado"
+       },
+       {
+        "t": "George Shultz",
+        "en": 0.45,
+        "r": "exsecretario de Estado"
+       },
+       {
+        "t": "James Mattis",
+        "en": 0.75
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y la cadena de farmacias Walgreens ofreció los análisis en más de cuarenta locales.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:5448@1",
+      "k": "Walgreens",
+      "h": "Más de <i>40 farmacias</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Locales de Walgreens",
+      "num": "+40",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "ofrecían los análisis"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En octubre de 2015, el diario Wall Street Journal publicó que la máquina propia casi no se usaba.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "The Wall Street Journal, octubre de 2015",
+      "h": "<i>La máquina</i> casi no se usaba",
+      "items": [
+       {
+        "t": "Máquina propia de Theranos",
+        "st": "CASI NO SE USABA",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La mayoría de los análisis se hacía con equipos comunes, de otras marcas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:5456@1",
+      "k": "La mayoría de los análisis",
+      "h": "Con equipos <i>de otras marcas</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 2018 la empresa cerró. En 2022 un jurado declaró culpable a Holmes de cuatro cargos de fraude a inversores.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Valor de Theranos",
+      "h": "De US$ 9.000 M <i>a cero</i>",
+      "series": [
+       {
+        "pts": [
+         9000,
+         800,
+         0
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "2014 US$ 9.000 M",
+       "2016 US$ 800 M",
+       "2018 cierre"
+      ],
+      "src": "2016: estimación de Forbes"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Cargos de fraude a inversores",
+      "num": "4",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Culpable",
+      "sub": "veredicto de 2022"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La condenaron a once años y tres meses. En 2026 un juez le redujo un año.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Meses de condena",
+      "num": "135 → 123",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Elizabeth Holmes",
+      "sub": "condena de 2022, reducida en 2026",
+      "row": "Restitución: US$ 452 M"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés qué mirar: nombres famosos y mucha plata no reemplazan una prueba independiente.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:197486@1",
+      "k": "Ya sabés",
+      "h": "Nombres famosos <i>no alcanzan</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Pedí la prueba",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -212,7 +212,7 @@
    ]
   },
   {
-   "txt": "Al catorce de noviembre de 2026, un bitcoin cotiza cerca de sesenta y cinco mil dólares.",
+   "txt": "Al dieciséis de noviembre de 2026, un bitcoin cotiza cerca de sesenta y cinco mil dólares.",
    "vis": [
     [
      "g",
@@ -239,7 +239,7 @@
        "2010",
        "2026 US$ 65.200"
       ],
-      "src": "Precio al 14/11/2026"
+      "src": "Precio al 16/11/2026"
      }
     ]
    ]
@@ -263,7 +263,7 @@
         "en": 0.15
        },
        {
-        "label": "14/11/2026",
+        "label": "16/11/2026",
         "v": 652000000,
         "txt": "US$ 652 M",
         "color": "roj",
@@ -278,7 +278,7 @@
      {
       "g": "num",
       "k": "Cada pizza",
-      "num": "US$ 325 M",
+      "num": "US$ 326 M",
       "color": "bl",
       "en": 0.1,
       "sub": "Hanyecz dice que no se arrepiente"

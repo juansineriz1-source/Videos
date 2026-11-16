@@ -8,7 +8,7 @@ SEGS=[
  [F('Trato hecho','Bitcoins por <i>pizzas</i>',['Hanyecz','10.000 BTC','Sturdivant','2 pizzas de Papa John’s'])],
  [N('US$ 41','10.000 BTC el 22/5/2010',h='Ese día valían')],
  [A('123629@1','22 de mayo','El día de <i>la pizza bitcoin</i>',pie='Imagen ilustrativa'),T('La primera compra','De algo físico <i>con bitcoin</i>')],
- [L('Precio de bitcoin','De centavos <i>a US$ 65.200</i>',[0.004,1,800,20000,65200],xl=['2010','2026 US$ 65.200'],src='Precio al 14/11/2026')],
- [B('Las dos pizzas','De US$ 41 <i>a US$ 652 M</i>',[('2010',41,'US$ 41'),('14/11/2026',652000000,'US$ 652 M','roj')]),N('US$ 325 M','Cada pizza',sub='Hanyecz dice que no se arrepiente')],
+ [L('Precio de bitcoin','De centavos <i>a US$ 65.200</i>',[0.004,1,800,20000,65200],xl=['2010','2026 US$ 65.200'],src='Precio al 16/11/2026')],
+ [B('Las dos pizzas','De US$ 41 <i>a US$ 652 M</i>',[('2010',41,'US$ 41'),('16/11/2026',652000000,'US$ 652 M','roj')]),N('US$ 326 M','Cada pizza',sub='Hanyecz dice que no se arrepiente')],
  [A('db:tf-004@1','Ya sabés','Una moneda <i>vale</i>',pie='Imagen ilustrativa'),R('Vale si alguien la acepta')],
 ]
