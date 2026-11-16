@@ -1,0 +1,310 @@
+{
+ "voz": "voz-tf103.wav",
+ "palabras": "voz-tf103n.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "img": "img/nv01-sede.jpg",
+  "pos": "0% 60%",
+  "k": "LAS 3 CITAS DE LA SEMANA",
+  "h": "Martes: <b>ni te cases</b>",
+  "sub": "Nvidia, Anthropic y la tasa arriba de 5 %",
+  "cred": "Imagen: NVIDIA"
+ },
+ "segs": [
+  {
+   "txt": "Dicen que el martes ni te cases ni te embarques Esta semana Wall Street tiene tres citas y una cae justo en martes",
+   "vis": [
+    [
+     "g",
+     3.4,
+     {
+      "look": "n1m",
+      "g": "gancho",
+      "k": "Las noticias de la semana",
+      "cinta": "Tiempo Financiero · Lun 16 nov · La semana en Wall Street",
+      "refran": "El martes, ni te cases <m>ni te embarques</m>.",
+      "vuelta": "Wall Street tiene <i>tres citas</i>",
+      "vuelta_en": "Wall",
+      "img": "img/px-137799.jpg",
+      "pos": "50% 50%",
+      "cred": "Imagen: Pixabay"
+     }
+    ],
+    [
+     "g",
+     2.6,
+     {
+      "g": "flujo",
+      "k": "Esta semana",
+      "h": "Tres <i>citas</i>",
+      "items": [
+       {
+        "t": "Martes 17 · Nvidia",
+        "en": 0.1
+       },
+       {
+        "t": "Jueves 19 · Anthropic",
+        "en": 0.5
+       },
+       {
+        "t": "La tasa a 10 años",
+        "en": 0.9
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Primera el martes 17 Nvidia presenta resultados Es la primera vez sin Jensen Huang como director ejecutivo renunció el jueves pasado",
+   "vis": [
+    [
+     "g",
+     3.2,
+     {
+      "g": "archivo",
+      "bg": "v:nv/nv-01.mp4@1",
+      "crop": "1440:1080:240:0",
+      "k": "Cita 1 · Martes 17",
+      "h": "Nvidia presenta <i>resultados</i>",
+      "cred": "NVIDIA · GTC 2026",
+      "pie": "Sede de Nvidia, California"
+     }
+    ],
+    [
+     "g",
+     4.6,
+     {
+      "g": "archivo",
+      "bg": "v:nv/nv-01.mp4@190",
+      "crop": "1440:1080:240:0",
+      "k": "Cita 1 · Martes 17",
+      "h": "La primera <i>sin Huang</i>",
+      "cred": "NVIDIA · GTC 2026",
+      "nombre": "Jensen Huang",
+      "rol": "Fundador; dejó la dirección ejecutiva el 12/11/2026"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El mercado espera ventas por casi 109.000 millones de dólares en el trimestre La acción cerró el viernes en 162 dólares",
+   "vis": [
+    [
+     "g",
+     4.3,
+     {
+      "look": "n1m",
+      "g": "dato",
+      "k": "Nvidia · lo que espera el mercado",
+      "h": "Ventas del <i>trimestre</i>",
+      "num": "109 mil",
+      "sub": "millones de dólares · estimación",
+      "src": "MarketBeat · Seeking Alpha · Fiscal.ai",
+      "cinta": "Tiempo Financiero · Lun 16 nov · La semana en Wall Street"
+     }
+    ],
+    [
+     "g",
+     3.0,
+     {
+      "look": "n1m",
+      "g": "dato",
+      "k": "Nvidia · acción",
+      "h": "Cierre del <i>viernes</i>",
+      "num": "162",
+      "sub": "dólares · cierre del 13/11 (162,85)",
+      "src": "Fuente: Yahoo Finance",
+      "cinta": "Tiempo Financiero · Lun 16 nov · La semana en Wall Street"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Segunda Anthropic la empresa que creó a Claude sale a la bolsa Según la prensa fija el precio el miércoles y empieza a cotizar el jueves 19 en el Nasdaq",
+   "vis": [
+    [
+     "g",
+     4.4,
+     {
+      "g": "archivo",
+      "bg": "c:316712@0",
+      "crop": "2580:1440:0:0",
+      "k": "Cita 2 · Jueves 19",
+      "h": "Anthropic <i>sale a la bolsa</i>",
+      "cred": "Video: Pixabay",
+      "pie": "La empresa que creó a Claude · imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     5.6,
+     {
+      "g": "flujo",
+      "bg": "c:121994@4",
+      "k": "Según la prensa",
+      "h": "Anthropic en el <i>Nasdaq</i>",
+      "items": [
+       {
+        "t": "Miércoles 18 · fija el precio",
+        "en": "miércoles"
+       },
+       {
+        "t": "Jueves 19 · empieza a cotizar",
+        "en": "cotizar"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El rango anunciado es de 70 a 78 dólares por acción y puede cambiar el miércoles Arriba de todo contando todas sus acciones la empresa valdría cerca de 1,4 billones de dólares",
+   "vis": [
+    [
+     "g",
+     4.7,
+     {
+      "look": "n1m",
+      "g": "dato",
+      "k": "Anthropic · rango anunciado",
+      "h": "Rango por <i>acción</i>",
+      "num": "70 a 78",
+      "sub": "dólares · puede cambiar el miércoles",
+      "src": "Fortune · Decrypt · 10/11/2026",
+      "cinta": "Tiempo Financiero · Lun 16 nov · La semana en Wall Street"
+     }
+    ],
+    [
+     "g",
+     6.0,
+     {
+      "look": "n1m",
+      "g": "dato",
+      "k": "Anthropic · arriba del rango",
+      "h": "Valdría <i>cerca de</i>",
+      "num": "1,4",
+      "sub": "billones de dólares",
+      "row": "Contando todas sus acciones (1 billón = un millón de millones)",
+      "src": "Fortune · Decrypt · 10/11/2026",
+      "cinta": "Tiempo Financiero · Lun 16 nov · La semana en Wall Street"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y tercera la que menos brilla la tasa del bono a 10 años de Estados Unidos terminó la semana en 5,15%",
+   "vis": [
+    [
+     "g",
+     2.6,
+     {
+      "g": "titulo",
+      "bg": "c:42489@2",
+      "k": "Cita 3 · la que menos brilla",
+      "h": "El bono a <b>10 años</b>",
+      "sub": "Tesoro de Estados Unidos",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     3.6,
+     {
+      "look": "n1m",
+      "g": "dato",
+      "k": "Bono del Tesoro a 10 años",
+      "h": "Terminó la <i>semana</i>",
+      "num": "5,15 %",
+      "color": "roj",
+      "sub": "tasa anual",
+      "src": "Yahoo Finance, 13/11/2026",
+      "cinta": "Tiempo Financiero · Lun 16 nov · La semana en Wall Street"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Subió tres décimas en cinco días por inflación más alta y porque el mercado ya apuesta a que la Reserva Federal suba la tasa en diciembre",
+   "vis": [
+    [
+     "g",
+     2.4,
+     {
+      "g": "barras",
+      "k": "Bono a 10 años",
+      "h": "Tres décimas en <i>cinco días</i>",
+      "bars": [
+       {
+        "v": 4.86,
+        "txt": "4,86 %",
+        "label": "Viernes 6/11",
+        "color": "gr",
+        "en": 0.2
+       },
+       {
+        "v": 5.15,
+        "txt": "5,15 %",
+        "label": "Viernes 13/11",
+        "color": "roj",
+        "en": 0.6
+       }
+      ],
+      "min": 4.5,
+      "src": "Yahoo Finance"
+     }
+    ],
+    [
+     "g",
+     4.6,
+     {
+      "g": "flujo",
+      "bg": "c:204306@2",
+      "k": "¿Por qué subió?",
+      "h": "Dos <i>motivos</i>",
+      "items": [
+       {
+        "t": "Inflación más alta",
+        "en": "inflación"
+       },
+       {
+        "t": "Apuesta a una suba de la Fed en diciembre",
+        "en": "Reserva"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés cuando el bono del Tesoro paga más de 5% a las acciones caras se les pide más",
+   "vis": [
+    [
+     "g",
+     2.8,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Bono a más<br>de <i>5&nbsp;%</i>",
+      "sub": "Cuando el Tesoro paga eso",
+      "size": 150,
+      "en": 0.3
+     }
+    ],
+    [
+     "g",
+     2.3,
+     {
+      "g": "remate",
+      "big": "A lo caro se le pide más",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
