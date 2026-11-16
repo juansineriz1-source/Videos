@@ -69,7 +69,7 @@ if ref in I or ref.isdigit():
     if ref.isdigit() and not os.path.exists(f'clips/{ref}.mp4'): subprocess.run(['python3','clip.py','bajar',ref],check=True,capture_output=True)
     out=f"img/fr-{ref.replace(':','-')}.jpg"; src=f'clips/{ref}.mp4' if ref.isdigit() else I[ref]['path']
     subprocess.run(['ffmpeg','-v','error','-y','-ss',ss or '1','-i',src,'-frames:v','1',out],check=True); P['img']=out
-spec=dict(voz=f'voz-tf{NN}.wav',palabras=env.get('PALABRAS',f'voz-tf{NN}.json'),tempo=1.21,cierre=1.8,
+spec=dict(voz=f'voz-tf{NN}.wav',palabras=env.get('PALABRAS',f'voz-tf{NN}.json'),tempo=float(env.get('TEMPO',1.21)),cierre=1.8,
   portada=dict(g='portada',pos=P.get('pos','50% 50%'),k=P.get('k','HISTORIAS DE LA BOLSA'),**{k:v for k,v in P.items() if k not in('pos','k')}),
   segs=[dict(txt=t,vis=v) for t,v in zip(rows,segs)])
 json.dump(spec,open(f'tf-{NN}.json','w'),ensure_ascii=False,indent=1); print('ok',f'tf-{NN}.json',len(rows),'filas')

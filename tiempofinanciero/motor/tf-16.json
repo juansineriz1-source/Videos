@@ -1,0 +1,333 @@
+{
+ "voz": "voz-tf16.wav",
+ "palabras": "voz-tf16.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-c-tf-008.jpg",
+  "h": "De 32.000 millones <b>a la quiebra</b>",
+  "sub": "FTX, 2022"
+ },
+ "segs": [
+  {
+   "txt": "Si tenés plata en una plataforma cripto, escuchá esta historia hasta el final.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/cripto/tf-008.mp4@1",
+      "k": "Si tenés cripto en una plataforma",
+      "h": "<i>Escuchá</i> esta historia",
+      "cred": "Archivo · PJ Films Official",
+      "crop": "1920:1080:0:0",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En enero de 2022, FTX valía treinta y dos mil millones de dólares. En noviembre estaba en quiebra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Valor de FTX en 2022",
+      "h": "De US$ 32.000 M <i>a la quiebra</i>",
+      "series": [
+       {
+        "pts": [
+         32,
+         32,
+         30,
+         28,
+         25,
+         0
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ene US$ 32.000 M",
+       "11-nov quiebra"
+      ],
+      "src": "Valuación en su última ronda, enero de 2022"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La fundó en 2019 Sam Bankman-Fried, que además era dueño de un fondo, Alameda Research.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "2019",
+      "h": "<i>FTX + Alameda</i>",
+      "items": [
+       {
+        "t": "FTX",
+        "en": 0.15,
+        "r": "la plataforma"
+       },
+       {
+        "t": "Alameda Research",
+        "en": 0.45,
+        "r": "su fondo"
+       },
+       {
+        "t": "Dueño de las dos",
+        "en": 0.75,
+        "r": "Sam Bankman-Fried",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "FTX tenía su propio token, el FTT. Y buena parte del patrimonio de Alameda estaba en ese token.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "El token FTT",
+      "h": "Todo <i>en la misma ficha</i>",
+      "items": [
+       {
+        "t": "FTX emite FTT",
+        "en": 0.1
+       },
+       {
+        "t": "Alameda lo tiene",
+        "en": 0.45
+       },
+       {
+        "t": "Como patrimonio",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El dos de noviembre de 2022, el sitio CoinDesk publicó ese balance.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "2 de noviembre de 2022",
+      "h": "CoinDesk publica <i>el balance</i>",
+      "items": [
+       {
+        "t": "Balance de Alameda",
+        "st": "LLENO DE FTT",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Cuatro días después, Binance, su competidor, anunció que vendía todos sus FTT.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/cripto/tf-008.mp4@4",
+      "k": "Cuatro días después",
+      "h": "Binance <i>vende todos sus FTT</i>",
+      "cred": "Archivo · PJ Films Official",
+      "crop": "1920:1080:0:0",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Precio del FTT",
+      "num": "-80%",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "8/11/2022"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los clientes corrieron a retirar: unos seis mil millones de dólares en tres días.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Retirados en 72 horas",
+      "num": "US$ 6.000 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Los clientes corrieron"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y la plata no estaba. Según la Justicia, unos ocho mil millones de los clientes habían ido a parar a Alameda.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Según la Justicia",
+      "h": "<i>La plata no estaba</i>",
+      "items": [
+       {
+        "t": "Depósitos de clientes de FTX",
+        "en": 0.1
+       },
+       {
+        "t": "US$ 8.000 M",
+        "en": 0.45
+       },
+       {
+        "t": "Alameda Research",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El once de noviembre FTX pidió la quiebra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/tf-002.mp4@1",
+      "k": "11 de noviembre de 2022",
+      "h": "FTX pide <i>la quiebra</i>",
+      "cred": "Archivo · Epic Cinematic",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "FTX",
+      "h": "<i>Quiebra</i>",
+      "items": [
+       {
+        "t": "11/11/2022",
+        "st": "QUIEBRA",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 2023 un jurado lo declaró culpable de siete cargos de fraude y conspiración.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Cargos de fraude y conspiración",
+      "num": "7",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Culpable",
+      "sub": "veredicto del jurado, 2023"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 2024 lo condenaron a veinticinco años de prisión. En junio de 2026 le rechazaron la apelación.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Sam Bankman-Fried",
+      "h": "<i>25 años</i>",
+      "items": [
+       {
+        "t": "28/3/2024",
+        "st": "25 AÑOS",
+        "en": 0.15
+       },
+       {
+        "t": "Decomiso",
+        "st": "US$ 11.020 M",
+        "en": 0.45
+       },
+       {
+        "t": "12/6/2026",
+        "st": "APELACIÓN RECHAZADA",
+        "en": 0.75
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés la diferencia: una cosa es tener cripto y otra es dejársela a alguien para que la guarde.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/cripto/tf-001.mp4@1",
+      "k": "Ya sabés",
+      "h": "Tener cripto <i>no es</i> dejarla en custodia",
+      "cred": "Archivo · RelaxTV",
+      "pie": "Billetera de cripto propia"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Tener no es dejar",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

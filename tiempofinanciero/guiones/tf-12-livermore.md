@@ -11,8 +11,8 @@ Tipo: historia. Duración objetivo: 60 s. Estado: corregido (2026-11-14).
 | 5 | Ganaba tanto que, según se cuenta, le prohibieron la entrada. Entonces se fue a Wall Street. | PROHIBIDO ENTRAR | Wikimedia: Wall Street hacia 1900-1910 (dominio público) |
 | 6 | En el pánico de 1907 apostó a la baja y ganó cerca de un millón de dólares en un solo día. | 1907: US$ 1 MILLÓN | Gráfico: barras. Ganancias a la baja: 1906 US$ 250.000 / 1907 US$ 1 M |
 | 7 | En 1929 repitió la jugada, mucho más grande. Se le atribuyen unos cien millones. | 1929: US$ 100 M | Gráfico: línea. Dow Jones en 1929 cayendo, con la marca 'Livermore apostaba a la baja' |
-| 8 | Pero no supo conservarlos. En 1934 se declaró en quiebra por tercera vez. | TERCERA QUIEBRA | Gráfico: lista. Quiebras: una antes de 1915 / 1915 / 1934 |
-| 9 | Declaró ochenta y cuatro mil dólares en bienes contra dos millones y medio de deudas. | 84.000 vs 2,5 M | Gráfico: barras. Bienes US$ 84.000 / Deudas US$ 2,5 M (1934) |
+| 8 | Pero no supo conservarlos. En 1934 volvió a quebrar. | VOLVIÓ A QUEBRAR | Gráfico: lista. Quiebras: 1908 / 1915 / 1934 (según sus biógrafos) |
+| 9 | Declaró unos ciento ochenta y cinco mil dólares en bienes contra más de dos millones de deudas. | 185.000 vs 2,26 M | Gráfico: barras. Bienes US$ 185.000 / Deudas US$ 2,26 M (TIME, 19/3/1934) |
 | 10 | Murió en 1940, a los sesenta y tres años, en Nueva York. | 1877-1940 | Pixabay: empty hotel lobby vintage |
 | 11 | Había ganado y perdido fortunas más de una vez. | GANÓ Y PERDIÓ | Gráfico: línea de su fortuna: 1907, 1915, 1929, 1934 |
 | 12 | Ya sabés que ganar plata y conservarla son dos habilidades distintas. | GANAR NO ES CONSERVAR | Pixabay: hourglass sand dark |

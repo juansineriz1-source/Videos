@@ -1,0 +1,338 @@
+{
+ "voz": "voz-tf17.wav",
+ "palabras": "voz-tf17.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-wsn-tf-037.jpg",
+  "h": "20.000 millones <b>en dos días</b>",
+  "sub": "Archegos, 2021"
+ },
+ "segs": [
+  {
+   "txt": "¿Se puede perder veinte mil millones de dólares en dos días? Según Bloomberg, a un hombre le pasó en marzo de 2021.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "En 2 días · marzo de 2021",
+      "num": "-US$ 20.000 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Según Bloomberg"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y no era un banco ni un fondo famoso. Era la oficina que manejaba la fortuna de una sola persona: Bill Hwang.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-029.mp4@1",
+      "k": "Ni banco ni fondo famoso",
+      "h": "La fortuna de <i>una sola persona</i>",
+      "cred": "Archivo · Abdul Afram",
+      "pie": "Manhattan (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Bill Hwang",
+      "h": "Su <i>oficina familiar</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Se llamaba Archegos, y llegó a administrar más de treinta y seis mil millones de dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Archegos Capital",
+      "num": "US$ 36.000 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Llegó a manejar más de"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hwang apostaba a pocas acciones, como ViacomCBS, y con plata prestada por los bancos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Pocas acciones, mucha deuda",
+      "h": "Apuestas <i>concentradas</i>",
+      "items": [
+       {
+        "t": "ViacomCBS",
+        "en": 0.15
+       },
+       {
+        "t": "Baidu",
+        "en": 0.35
+       },
+       {
+        "t": "Vipshop",
+        "en": 0.55
+       },
+       {
+        "t": "Farfetch",
+        "en": 0.75
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Usaba un contrato llamado swap: el banco compra la acción y vos te llevás la ganancia o la pérdida.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "El swap",
+      "h": "El banco compra, <i>vos ganás o perdés</i>",
+      "items": [
+       {
+        "t": "Archegos pone garantía",
+        "en": 0.1
+       },
+       {
+        "t": "El banco compra la acción",
+        "en": 0.45
+       },
+       {
+        "t": "Ganancia o pérdida: de Archegos",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Como las acciones no figuraban a su nombre, ningún banco veía cuánto debía en los demás.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/bancos-centrales-fed/tf-006.mp4@1",
+      "k": "Las acciones no estaban a su nombre",
+      "h": "Ningún banco <i>veía el total</i>",
+      "cred": "Archivo · Laurenc Riese",
+      "pie": "Bancos en Nueva York (imagen actual)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "A fines de marzo, ViacomCBS cayó, y los bancos le pidieron más garantías. Se llama margin call.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-033.mp4@1",
+      "k": "Fines de marzo",
+      "h": "ViacomCBS <i>cae</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Bolsa de Nueva York"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Los bancos piden más garantías",
+      "h": "<i>Margin call</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "No pudo pagar. El veintiséis de marzo los bancos vendieron todo de golpe.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "ViacomCBS",
+      "h": "<i>-27 %</i> en un día",
+      "series": [
+       {
+        "pts": [
+         100,
+         95,
+         88,
+         80,
+         73
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "25-mar",
+       "26-mar -27 %"
+      ],
+      "src": "26/3/2021"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "26 de marzo de 2021",
+      "h": "Venden todo <i>de golpe</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los bancos perdieron más de diez mil millones. Solo Credit Suisse, cinco mil quinientos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Pérdidas de los bancos",
+      "h": "Más de <i>US$ 10.000 M</i>",
+      "bars": [
+       {
+        "label": "Credit Suisse",
+        "v": 5500,
+        "txt": "5.500",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "Nomura",
+        "v": 2850,
+        "txt": "2.850",
+        "color": "gr",
+        "en": 0.28
+       },
+       {
+        "label": "Morgan Stanley",
+        "v": 911,
+        "txt": "911",
+        "color": "gr",
+        "en": 0.4
+       },
+       {
+        "label": "UBS",
+        "v": 774,
+        "txt": "774",
+        "color": "gr",
+        "en": 0.53
+       },
+       {
+        "label": "MUFG",
+        "v": 300,
+        "txt": "300",
+        "color": "gr",
+        "en": 0.65
+       }
+      ],
+      "src": "Millones de dólares. Informes de cada banco"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 2024 un jurado lo declaró culpable de fraude y manipulación, y lo condenaron a dieciocho años. Él apeló.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Bill Hwang · 2024",
+      "num": "18 años",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Condenado",
+      "sub": "culpable de fraude y manipulación; apeló"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés qué hace la plata prestada: agranda lo que ganás, y también lo que perdés.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Con deuda 5 a 1",
+      "h": "La deuda <i>agranda todo</i>",
+      "bars": [
+       {
+        "label": "Si sube 10 %",
+        "v": 50,
+        "txt": "+50 %",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Si baja 10 %",
+        "v": 50,
+        "txt": "-50 %",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Ejemplo ilustrativo"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Agranda todo",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "voz": "voz-tf15.wav",
+ "palabras": "voz-tf15.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-101.jpg",
+  "h": "El médico que <b>vio venir 2008</b>",
+  "sub": "Michael Burry"
+ },
+ "segs": [
+  {
+   "txt": "Un médico vio venir la crisis de 2008 antes que los bancos más grandes del mundo. Y apostó en contra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-101.mp4@1",
+      "k": "Crisis de 2008",
+      "h": "Un médico <i>la vio venir</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Barrio de casas nuevas en EE. UU."
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Y apostó",
+      "h": "<i>En contra</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Michael Burry no venía de Wall Street. Era médico y desde el año 2000 manejaba su propio fondo, Scion Capital.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Michael Burry",
+      "h": "Médico, <i>no banquero</i>",
+      "items": [
+       {
+        "t": "Médico",
+        "en": 0.15,
+        "r": "Vanderbilt, 1997"
+       },
+       {
+        "t": "Residencia",
+        "en": 0.45,
+        "r": "Stanford"
+       },
+       {
+        "t": "Scion Capital",
+        "en": 0.75,
+        "r": "desde 2000",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 2005 se puso a leer, uno por uno, los préstamos que había adentro de los bonos hipotecarios.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/tf-009.mp4@1",
+      "k": "2005",
+      "h": "Leyó los préstamos <i>uno por uno</i>",
+      "cred": "Archivo · Epic Cinematic",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Encontró créditos dados a gente que no iba a poder pagarlos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-102.mp4@1",
+      "k": "Encontró",
+      "h": "Créditos <i>que no se iban a pagar</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Cartel en EE. UU., crisis de 2008"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Entonces les compró a los bancos un seguro contra esos bonos. Se llama credit default swap.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Credit default swap",
+      "h": "Un <i>seguro</i> contra los bonos",
+      "items": [
+       {
+        "t": "Burry paga una prima",
+        "en": 0.1
+       },
+       {
+        "t": "El banco",
+        "en": 0.45
+       },
+       {
+        "t": "Si el bono cae, el banco le paga",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pagás una prima todos los años. Si el bono se cae, cobrás muchísimo más.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Cómo funciona",
+      "h": "Prima chica, <i>cobro grande</i>",
+      "bars": [
+       {
+        "label": "Prima anual",
+        "v": 1,
+        "txt": "chica",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Si el bono cae",
+        "v": 10,
+        "txt": "grande",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Esquema ilustrativo, sin cifras reales"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El primero fue en mayo de 2005, sobre sesenta millones de dólares en bonos. Después pasó los mil millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "El primero · 19/5/2005",
+      "num": "US$ 60 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "En bonos",
+      "sub": "después pasó los US$ 1.000 M"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Durante dos años pagó primas sin cobrar nada, y varios inversores le pidieron que les devolviera la plata.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/tf-005.mp4@1",
+      "k": "Dos años",
+      "h": "Pagó primas <i>sin cobrar</i>",
+      "cred": "Archivo · Epic Cinematic",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Sus inversores",
+      "h": "Pedían <i>la plata</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 2007 las hipotecas empezaron a caer y en 2008 arrastraron a bancos enteros.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-097.mp4@1",
+      "k": "2007",
+      "h": "Las hipotecas <i>caen</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Casa embargada, crisis de 2008"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-011.mp4@1",
+      "k": "2008",
+      "h": "Caen <i>bancos enteros</i>",
+      "cred": "Archivo · AP Archive",
+      "crop": "480:360:80:0",
+      "pie": "Empleados de Lehman, Londres 2008"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Según el libro La gran apuesta, ganó cien millones para él y más de setecientos para sus inversores.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Según \"La gran apuesta\"",
+      "h": "Lo que <i>ganó</i>",
+      "bars": [
+       {
+        "label": "Burry",
+        "v": 100,
+        "txt": "US$ 100 M",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Sus inversores",
+        "v": 700,
+        "txt": "US$ 700 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: Michael Lewis, La gran apuesta"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés lo más difícil de tener razón antes de tiempo: aguantar mientras todos creen que estás equivocado.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Nov. 2000 a jun. 2008",
+      "h": "Tener razón <i>antes de tiempo</i>",
+      "bars": [
+       {
+        "label": "Scion",
+        "v": 489,
+        "txt": "+489 %",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "S&P 500",
+        "v": 2,
+        "txt": "+2 %",
+        "color": "gr",
+        "en": 0.65
+       }
+      ],
+      "src": "Rendimiento neto. Fuente: Michael Lewis"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Aguantar",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

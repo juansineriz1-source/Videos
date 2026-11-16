@@ -1,0 +1,362 @@
+{
+ "voz": "voz-tf14.wav",
+ "palabras": "voz-tf14.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-ah-tf-033.jpg",
+  "h": "La promesa <b>con nombre y apellido</b>",
+  "sub": "Charles Ponzi, 1920"
+ },
+ "segs": [
+  {
+   "txt": "Si te ofrecen ganar cincuenta por ciento en cuarenta y cinco días, desconfiá. Esa promesa tiene nombre y apellido.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "En 45 días",
+      "num": "50%",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Desconfiá",
+      "sub": "o 100 % en 90"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Esa promesa",
+      "h": "Tiene <i>nombre y apellido</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Charles Ponzi llegó a Boston desde Italia en 1903. Según él, con dos dólares y medio en el bolsillo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-127.mp4@1",
+      "k": "Boston, 1903",
+      "h": "Charles Ponzi <i>llega de Italia</i>",
+      "cred": "Archivo · Our World by Drone in 4K",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "En el bolsillo",
+      "num": "US$ 2,50",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "según él"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 1920 encontró su idea: cupones de correo que se compraban baratos en Europa y valían más en Estados Unidos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-031.mp4@1",
+      "k": "1920",
+      "h": "Cupones <i>de correo</i>",
+      "cred": "Archivo · skip@avgeeks.com",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "La idea",
+      "h": "Comprar barato, <i>vender caro</i>",
+      "items": [
+       {
+        "t": "Cupón barato en Europa",
+        "en": 0.1
+       },
+       {
+        "t": "Vale más en EE. UU.",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Para respaldar lo que juntó hacían falta unos ciento sesenta millones de cupones. En circulación había unos veintisiete mil.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Cupones de correo",
+      "h": "No <i>alcanzaban</i>",
+      "bars": [
+       {
+        "label": "Necesarios",
+        "v": 160000000,
+        "txt": "160 millones",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "En circulación",
+        "v": 27000,
+        "txt": "27.000",
+        "color": "gr",
+        "en": 0.65
+       }
+      ],
+      "src": "Según la investigación de 1920"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Entonces les pagaba a los primeros con la plata de los que entraban después.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "El esquema",
+      "h": "Plata <i>de otros</i>",
+      "items": [
+       {
+        "t": "Entran inversores nuevos",
+        "en": 0.1
+       },
+       {
+        "t": "Ponzi",
+        "en": 0.45
+       },
+       {
+        "t": "Paga a los viejos",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y como pagaba, corría la voz. En julio de 1920 le entraban cientos de miles de dólares por día.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Plata recibida en 1920",
+      "h": "Cientos de miles <i>por día</i>",
+      "series": [
+       {
+        "pts": [
+         0.42,
+         2.5,
+         7.5
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "mayo US$ 420.000",
+       "junio US$ 2,5 M",
+       "julio"
+      ],
+      "src": "En julio, unos US$ 250.000 por día"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Por día",
+      "num": "US$ 250.000",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "julio de 1920"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El diario Boston Post investigó y publicó que era insolvente.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:152728@1",
+      "k": "El Boston Post",
+      "h": "Lo <i>destapó</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imprenta (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Boston Post, 1920",
+      "h": "<i>Insolvente</i>",
+      "items": [
+       {
+        "t": "Charles Ponzi",
+        "st": "INSOLVENTE",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En agosto de 1920 todo se cayó. Las pérdidas rondaron los veinte millones de dólares y quebraron seis bancos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-021.mp4@1",
+      "k": "Agosto de 1920",
+      "h": "Todo <i>se cayó</i>",
+      "cred": "Archivo · UniversalNewsreels",
+      "pie": "Multitud frente a un banco cerrado, 1933 (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Pérdidas",
+      "num": "US$ 20 M",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "y quebraron seis bancos"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los inversores recuperaron menos de treinta centavos por cada dólar.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Por cada dólar puesto",
+      "h": "Recuperaron <i>menos de 30 centavos</i>",
+      "bars": [
+       {
+        "label": "Puesto",
+        "v": 1,
+        "txt": "US$ 1",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Recuperado",
+        "v": 0.3,
+        "txt": "< US$ 0,30",
+        "color": "roj",
+        "en": 0.65
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ponzi fue preso, lo deportaron en 1934 y murió en 1949 en un hospital de Río de Janeiro, casi sin plata.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Charles Ponzi",
+      "h": "El final",
+      "items": [
+       {
+        "t": "Preso",
+        "en": 0.15
+       },
+       {
+        "t": "Deportado",
+        "en": 0.45,
+        "r": "1934"
+       },
+       {
+        "t": "Murió en Río de Janeiro",
+        "en": 0.75,
+        "r": "1949",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés cómo reconocer un esquema Ponzi: te pagan con plata de otros inversores, no con ganancias reales.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:65269@1",
+      "k": "Ya sabés",
+      "h": "Cómo reconocer <i>un Ponzi</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Te pagan con plata de otros",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
