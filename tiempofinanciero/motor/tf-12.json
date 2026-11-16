@@ -8,7 +8,7 @@
   "pos": "50% 50%",
   "k": "HISTORIAS DE LA BOLSA",
   "img": "img/fr-ah-tf-001.jpg",
-  "h": "Ganó 100 millones <b>y terminó en la ruina</b>",
+  "h": "¿Ganó 100 millones? <b>Terminó en la ruina</b>",
   "sub": "Jesse Livermore"
  },
  "segs": [
@@ -22,7 +22,7 @@
       "g": "archivo",
       "bg": "v:banco/archivo-historico/tf-001.mp4@1",
       "k": "1929",
-      "h": "Ganó <i>100 millones</i>",
+      "h": "Se le atribuyen <i>100 millones</i>",
       "cred": "Archivo · British Pathé",
       "pie": "Wall Street durante el crac de 1929"
      }
@@ -228,30 +228,30 @@
    ]
   },
   {
-   "txt": "Pero no supo conservarlos. En 1934 se declaró en quiebra por tercera vez.",
+   "txt": "Pero no supo conservarlos. En 1934 volvió a quebrar.",
    "vis": [
     [
      "g",
      1,
      {
       "g": "lista",
-      "k": "Sus quiebras",
-      "h": "No supo <i>conservarlos</i>",
+      "k": "Sus quiebras, según sus biógrafos",
+      "h": "Volvió <i>a quebrar</i>",
       "items": [
        {
-        "t": "Antes de 1915",
+        "t": "1908",
         "en": 0.15,
-        "r": "1ra"
+        "r": "quiebra"
        },
        {
         "t": "1915",
         "en": 0.45,
-        "r": "2da"
+        "r": "quiebra"
        },
        {
         "t": "1934",
         "en": 0.75,
-        "r": "3ra",
+        "r": "quiebra",
         "hi": true
        }
       ]
@@ -260,7 +260,7 @@
    ]
   },
   {
-   "txt": "Declaró ochenta y cuatro mil dólares en bienes contra dos millones y medio de deudas.",
+   "txt": "Declaró unos ciento ochenta y cinco mil dólares en bienes contra más de dos millones de deudas.",
    "vis": [
     [
      "g",
@@ -272,19 +272,20 @@
       "bars": [
        {
         "label": "Bienes",
-        "v": 0.084,
-        "txt": "US$ 84.000",
+        "v": 0.185,
+        "txt": "US$ 185.000",
         "color": "gr",
         "en": 0.15
        },
        {
         "label": "Deudas",
-        "v": 2.5,
-        "txt": "US$ 2,5 M",
+        "v": 2.26,
+        "txt": "US$ 2,26 M",
         "color": "roj",
         "en": 0.65
        }
-      ]
+      ],
+      "src": "TIME, 19/3/1934"
      }
     ]
    ]

@@ -6,7 +6,7 @@ SEGS=[
  [N('88888','Cuenta de errores',h='Ahí escondía las pérdidas',sub='S$ 373,9 M a diciembre de 1994',color='roj')],
  [F('Nadie controlaba','Él solo',['Leeson opera','Leeson registra','Leeson controla'])],
  [A('55674@1','Para recuperar','Apostaba <i>más fuerte</i>'),T('La apuesta','Que Tokio <i>no iba a bajar</i>')],
- [A('x-074@1','17 de enero de 1995','Terremoto en <i>Kobe</i>',pie='Bolsa de Tokio: Nikkei en baja (imagen de archivo)'),L('Nikkei 225, enero de 1995','La bolsa <i>se hundió</i>',[19700,19500,19300,18800,18100,17800],xl=['16-ene','17-ene Kobe','fin de enero'],src='Valores aproximados')],
+ [A('x-074@1','17 de enero de 1995','Terremoto en <i>Kobe</i>',pie='Bolsa de Tokio: Nikkei en baja (imagen de archivo)'),L('Nikkei 225, enero de 1995','La bolsa <i>se hundió</i>',[19331,19241,17785],xl=['13-ene 19.331','17-ene Kobe','23-ene 17.785'],src='Cierres del Nikkei 225 (Yahoo Finance)')],
  [T('Leeson','Dobló <i>la apuesta</i>'),Q('Lo siento','nota de Nick Leeson, 23/2/1995')],
  [B('El agujero','<i>El doble</i> del capital',[('Capital para operar',413,'aprox. la mitad'),('Pérdida',827,'£ 827 M','roj')],src='Fuente: Banco de Inglaterra, informe de 1995')],
  [N('£ 1','Lo que pagó ING por Barings',h='233 años, vendido por',sub='1995',color='roj')],

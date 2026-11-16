@@ -196,12 +196,9 @@
       "series": [
        {
         "pts": [
-         19700,
-         19500,
-         19300,
-         18800,
-         18100,
-         17800
+         19331,
+         19241,
+         17785
         ],
         "label": "",
         "color": "roj",
@@ -209,11 +206,11 @@
        }
       ],
       "xl": [
-       "16-ene",
+       "13-ene 19.331",
        "17-ene Kobe",
-       "fin de enero"
+       "23-ene 17.785"
       ],
-      "src": "Valores aproximados"
+      "src": "Cierres del Nikkei 225 (Yahoo Finance)"
      }
     ]
    ]

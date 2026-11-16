@@ -9,7 +9,7 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 3 | La fundó en 2019 Sam Bankman-Fried, que además era dueño de un fondo, Alameda Research. | FTX + ALAMEDA | Wikimedia: Sam Bankman-Fried en una audiencia del Congreso de EE. UU. (foto oficial) |
 | 4 | FTX tenía su propio token, el FTT. Y buena parte del patrimonio de Alameda estaba en ese token. | EL TOKEN FTT | Gráfico: flujo: FTX emite FTT → Alameda lo tiene como patrimonio |
 | 5 | El dos de noviembre de 2022, el sitio CoinDesk publicó ese balance. | 2/11/2022 | Pixabay: news website laptop |
-| 6 | Cuatro días después, Binance, su competidor, anunció que vendía todos sus FTT. | BINANCE VENDE | Gráfico: línea: precio del FTT: -80 % el 8/11/2022 |
+| 6 | Cuatro días después, Binance, su competidor, anunció que vendía todos sus FTT. | BINANCE VENDE | Gráfico: línea: precio del FTT: -75 % el 8/11/2022 (cierre 22,14 a 5,52, Yahoo) |
 | 7 | Los clientes corrieron a retirar: unos seis mil millones de dólares en tres días. | US$ 6.000 M EN 3 DÍAS | Gráfico: número grande: US$ 6.000 M retirados en 72 horas |
 | 8 | Y la plata no estaba. Según la Justicia, unos ocho mil millones de los clientes habían ido a parar a Alameda. | FALTABAN US$ 8.000 M | Gráfico: flujo: depósitos de clientes de FTX → US$ 8.000 M → Alameda Research |
 | 9 | El once de noviembre FTX pidió la quiebra. | 11/11/2022: QUIEBRA | Pixabay: empty office desks |
@@ -25,7 +25,7 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 
 ## Fuentes y datos a verificar (agente financiero)
 - FTX fundada en abril-mayo de 2019. Valuación US$ 32.000 M en la ronda de enero de 2022 (US$ 400 M). Fuente: Wikipedia "FTX" (consultado 2026-11-14).
-- CoinDesk publicó el balance de Alameda el 02/11/2022; Changpeng Zhao (Binance) anunció la venta de sus FTT el 06/11/2022; FTT cayó 80 % el 08/11/2022. Fuentes: Wikipedia "FTX" y "Sam Bankman-Fried".
+- CoinDesk publicó el balance de Alameda el 02/11/2022; Changpeng Zhao (Binance) anunció la venta de sus FTT el 06/11/2022; FTT cayó 75 % el 08/11/2022 (Yahoo: 22,14 a 5,52). Fuentes: Wikipedia "FTX" y "Sam Bankman-Fried".
 - Retiros estimados en US$ 6.000 M en tres días. Fuente: Wikipedia "FTX".
 - Faltante: unos US$ 8.000 M de clientes tomados por Alameda. Fuente: Wikipedia "Sam Bankman-Fried" (acusación y juicio). Dicho como "según la Justicia".
 - Quiebra (Chapter 11): 11/11/2022, FTX, Alameda y más de 100 sociedades. Fuentes: Wikipedia "FTX" y "Sam Bankman-Fried".
