@@ -1,0 +1,345 @@
+{
+ "voz": "voz-tf10.wav",
+ "palabras": "voz-tf10.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-169.jpg",
+  "h": "La más admirada <b>era humo</b>",
+  "sub": "Enron, 2001"
+ },
+ "segs": [
+  {
+   "txt": "Si trabajaras en la empresa más admirada del país, ¿pondrías toda tu jubilación en sus acciones?",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-169.mp4@1",
+      "k": "Houston",
+      "h": "¿Toda tu <i>jubilación</i>?",
+      "cred": "Archivo · Drone Snap",
+      "pie": "Houston (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Si trabajaras",
+      "h": "En la empresa <i>más admirada</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Miles de empleados de Enron lo hicieron. Fortune la había elegido la más innovadora del país seis años seguidos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "\"La más innovadora\" según Fortune",
+      "h": "<i>6 años seguidos</i>",
+      "items": [
+       {
+        "t": "1996",
+        "en": 0.15
+       },
+       {
+        "t": "1997",
+        "en": 0.27
+       },
+       {
+        "t": "1998",
+        "en": 0.39
+       },
+       {
+        "t": "1999",
+        "en": 0.51
+       },
+       {
+        "t": "2000",
+        "en": 0.63
+       },
+       {
+        "t": "2001",
+        "en": 0.75,
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Era una empresa de energía de Houston que decía facturar cien mil millones por año.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-170.mp4@1",
+      "k": "Enron",
+      "h": "Energía <i>de Houston</i>",
+      "cred": "Archivo · Drone Snap",
+      "pie": "Houston (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que decía facturar",
+      "num": "US$ 100.000 M",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "por año"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En agosto de 2000, su acción llegó a noventa dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Acción de Enron",
+      "num": "US$ 90",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Agosto de 2000",
+      "sub": "23/8/2000"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "¿El truco? Anotaba como ganancia de hoy la plata que esperaba ganar en el futuro con sus contratos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "El truco",
+      "h": "Ganancias <i>del futuro</i>",
+      "items": [
+       {
+        "t": "Contrato a 20 años",
+        "en": 0.1
+       },
+       {
+        "t": "Ganancia estimada",
+        "en": 0.45
+       },
+       {
+        "t": "Anotada entera hoy",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y las deudas y las pérdidas las escondía en sociedades aparte, fuera del balance.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/tf-005.mp4@1",
+      "k": "Las deudas y las pérdidas",
+      "h": "Fuera del <i>balance</i>",
+      "cred": "Archivo · Epic Cinematic",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Sociedades aparte",
+      "h": "Fuera del <i>balance</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Su auditora, Arthur Andersen, una de las más grandes del mundo, firmaba todo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Su auditora",
+      "h": "La auditora <i>firmaba</i>",
+      "items": [
+       {
+        "t": "Balance de Enron",
+        "st": "AUDITADO: ARTHUR ANDERSEN",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En octubre de 2001 reconoció una pérdida de seiscientos treinta y ocho millones, y la confianza se evaporó.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Octubre de 2001",
+      "num": "-US$ 638 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Reconoció una pérdida"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Y la confianza",
+      "h": "Se <i>evaporó</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El dos de diciembre de 2001 pidió la quiebra. La acción valía menos de un dólar.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Acción de Enron",
+      "h": "De 90 dólares <i>a menos de 1</i>",
+      "series": [
+       {
+        "pts": [
+         90,
+         80,
+         70,
+         45,
+         30,
+         10,
+         0.6
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ago-00 US$ 90",
+       "dic-01 < US$ 1"
+      ],
+      "src": "Quiebra: 2/12/2001"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Tenía unos veinte mil empleados. Muchos perdieron el trabajo y gran parte de sus ahorros para la jubilación.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/tf-009.mp4@1",
+      "k": "Unos 20.000 empleados",
+      "h": "Perdieron <i>trabajo y ahorros</i>",
+      "cred": "Archivo · Epic Cinematic",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Empleados de Enron",
+      "num": "20.000",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "muchos perdieron gran parte de su jubilación"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Su director ejecutivo, Jeffrey Skilling, fue condenado a veinticuatro años de cárcel.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Jeffrey Skilling, director ejecutivo",
+      "num": "24 años",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Condenado",
+      "sub": "en 2006; cumplió unos 12"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés el riesgo de tener el sueldo y los ahorros en la misma canasta: si se cae, perdés las dos cosas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:15292@1",
+      "k": "Ya sabés",
+      "h": "Sueldo y ahorros <i>en la misma canasta</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Si se cae, perdés las dos",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

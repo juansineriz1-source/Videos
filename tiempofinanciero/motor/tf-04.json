@@ -1,0 +1,321 @@
+{
+ "voz": "voz-tf04.wav",
+ "palabras": "voz-tf04.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-066.jpg",
+  "h": "Newton <b>perdió todo</b>",
+  "sub": "La burbuja de los Mares del Sur"
+ },
+ "segs": [
+  {
+   "txt": "Isaac Newton, el genio de la gravedad, perdió una fortuna en la bolsa. Y lo que dijo después es mejor que la historia.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Isaac Newton",
+      "h": "El genio <i>que perdió</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "Una fortuna en la bolsa",
+      "bg": "v:banco/extra/x-063.mp4@1"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Y lo que dijo después",
+      "h": "Es mejor que <i>la historia</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Londres, 1720. La Compañía de los Mares del Sur promete ganancias enormes con el comercio con la América española.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-066.mp4@1",
+      "k": "Londres, 1720",
+      "h": "Compañía de los <i>Mares del Sur</i>",
+      "cred": "Archivo · LM. LONDON",
+      "pie": "Royal Exchange, el centro financiero de Londres (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "La promesa",
+      "h": "Comercio con la <i>América española</i>",
+      "size": 150,
+      "en": 0.1,
+      "bg": "v:banco/extra/x-123.mp4@2"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Su acción arranca el año en unas ciento treinta libras, y en junio pasa las mil.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Acción de los Mares del Sur, 1720",
+      "h": "De 130 a <i>más de 1.000</i>",
+      "series": [
+       {
+        "pts": [
+         130,
+         175,
+         330,
+         550,
+         890,
+         1050
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ene 130",
+       "abr",
+       "jun 1.000+"
+      ],
+      "src": "Libras por acción. Valores aproximados de 1720"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Newton compra temprano, y vende con una linda ganancia.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Newton",
+      "h": "Primero <i>gana</i>",
+      "items": [
+       {
+        "t": "Compra temprano",
+        "en": 0.15
+       },
+       {
+        "t": "Vende",
+        "en": 0.75,
+        "r": "con ganancia",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero ve que sus conocidos siguen ganando. Y vuelve a entrar, mucho más caro.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-022.mp4@1",
+      "k": "Sus conocidos",
+      "h": "Siguen <i>ganando</i>",
+      "cred": "Archivo · British Movietone",
+      "pie": "Corredores en Londres (imagen de los años 30)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Newton",
+      "h": "Vuelve a entrar, <i>mucho más caro</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En septiembre la burbuja explota, y la acción cae por debajo de doscientas libras.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Septiembre de 1720",
+      "h": "La burbuja <i>explota</i>",
+      "series": [
+       {
+        "pts": [
+         1050,
+         950,
+         800,
+         520,
+         300,
+         190
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "jun 1.000+",
+       "ago",
+       "sep <200"
+      ],
+      "src": "Libras por acción. Valores aproximados"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Caída desde el máximo",
+      "num": "-80%",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "en pocos meses"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Se calcula que Newton perdió unas veinte mil libras. Hoy serían varios millones de dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-045.mp4@1",
+      "k": "Se calcula que perdió",
+      "h": "Unas <i>£20.000</i>",
+      "cred": "Archivo · skip@avgeeks.com",
+      "pie": "Monedas recién acuñadas"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que perdió Newton",
+      "num": "£20.000",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "hoy serían varios millones de dólares",
+      "src": "Estimación de historiadores"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y se le atribuye la frase: \"Puedo calcular el movimiento de los astros, pero no la locura de la gente\".",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:6962@1",
+      "k": "Se le atribuye la frase",
+      "h": "La locura <i>de la gente</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "Puedo calcular el movimiento de los astros, pero no la locura de la gente",
+      "en": 0.3,
+      "autor": "frase atribuida a Newton"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La lección: ser un genio no te salva del miedo a quedarte afuera.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "La lección",
+      "h": "Ser un genio <i>no te salva</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "del miedo a quedarte afuera"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Miedo a quedarte afuera",
+      "num": "FOMO",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "fear of missing out"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que lo peligroso no es entrar: es volver a entrar porque todos están ganando.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Lo peligroso no es <i>entrar</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Volver a entrar porque todos ganan",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

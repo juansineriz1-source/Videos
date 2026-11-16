@@ -1,0 +1,344 @@
+{
+ "voz": "voz-tf09.wav",
+ "palabras": "voz-tf09.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-093.jpg",
+  "h": "Duró <b>nueve meses</b> en la bolsa",
+  "sub": "La fiebre puntocom"
+ },
+ "segs": [
+  {
+   "txt": "En el año 2000, una empresa que vendía comida para mascotas por internet salió a la bolsa. Duró nueve meses.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-093.mp4@1",
+      "k": "Año 2000",
+      "h": "Comida para mascotas <i>por internet</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Feria de internet en Nueva York, 1999"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que duró en la bolsa",
+      "num": "9 meses",
+      "color": "roj",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "No era un caso raro: a fines de los noventa, cualquier puntocom valía fortunas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-094.mp4@1",
+      "k": "Fines de los noventa",
+      "h": "Fiebre <i>puntocom</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Feria de internet, 1999"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-096.mp4@1",
+      "k": "Fines de los noventa",
+      "h": "Cualquier puntocom <i>valía fortunas</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Feria de internet, 1999"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pets punto com pagó más de un millón de dólares por un aviso en el Super Bowl de enero de 2000.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Pets.com · Super Bowl",
+      "num": "US$ 1,2 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Por un aviso",
+      "sub": "enero de 2000"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En febrero salió a la bolsa a once dólares por acción y juntó más de ochenta millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Pets.com sale a la bolsa",
+      "h": "Febrero de <i>2000</i>",
+      "items": [
+       {
+        "t": "Precio",
+        "en": 0.15,
+        "r": "US$ 11"
+       },
+       {
+        "t": "Recaudó",
+        "en": 0.75,
+        "r": "US$ 82,5 M",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El problema: vendía por debajo de lo que le costaba la mercadería. Cuanto más vendía, más perdía.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Pets.com, primer año",
+      "h": "Vendía <i>a pérdida</i>",
+      "bars": [
+       {
+        "label": "Ventas",
+        "v": 0.619,
+        "txt": "US$ 619.000",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Publicidad",
+        "v": 11.8,
+        "txt": "US$ 11,8 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: prospecto de Pets.com ante la SEC"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El diez de marzo de 2000, el Nasdaq tocó su máximo: cinco mil cuarenta y ocho puntos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-091.mp4@1",
+      "k": "10 de marzo de 2000",
+      "h": "Nasdaq: <i>5.048</i>",
+      "cred": "Archivo · Olena Glazkov",
+      "pie": "Times Square, Nueva York (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Nasdaq · 10/3/2000",
+      "num": "5.048",
+      "color": "bl",
+      "en": 0.1,
+      "h": "El máximo",
+      "sub": "puntos"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Después la confianza se cortó, y sin plata nueva esas empresas no pudieron seguir.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-095.mp4@2",
+      "k": "Después",
+      "h": "Se cortó <i>la plata</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Feria de internet, 1999"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Sin plata nueva",
+      "h": "No pudieron <i>seguir</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En noviembre, Pets punto com anunció el cierre. Ese día la acción valía diecinueve centavos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Acción de Pets.com",
+      "h": "De 11 dólares <i>a 19 centavos</i>",
+      "series": [
+       {
+        "pts": [
+         11,
+         8,
+         5,
+         2.5,
+         1,
+         0.19
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "feb-00 US$ 11",
+       "7-11-00 US$ 0,19"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El Nasdaq cayó setenta y ocho por ciento hasta octubre de 2002, y tardó unos quince años en recuperar el máximo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Nasdaq",
+      "h": "<i>-78 %</i>",
+      "series": [
+       {
+        "pts": [
+         5048,
+         3000,
+         2000,
+         1114,
+         1500,
+         2300,
+         3500,
+         5048
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "2000 5.048",
+       "2002 1.114",
+       "2015 5.048"
+      ],
+      "src": "Recupera el máximo en 2015"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Nasdaq hasta octubre de 2002",
+      "num": "-78%",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "y unos 15 años para recuperar"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ojo: internet sí cambió el mundo. Amazon sobrevivió, aunque su acción cayó noventa y cuatro por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-015.mp4@1",
+      "k": "Ojo",
+      "h": "Internet <i>sí cambió el mundo</i>",
+      "cred": "Archivo · iTWire TV",
+      "pie": "Centro de distribución de Amazon (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que cayó Amazon",
+      "num": "-94%",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "y sobrevivió"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés la diferencia: una buena idea no siempre es un buen negocio, ni una buena inversión a cualquier precio.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:64865@1",
+      "k": "Ya sabés",
+      "h": "Una buena idea <i>no siempre</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Idea no es negocio",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
