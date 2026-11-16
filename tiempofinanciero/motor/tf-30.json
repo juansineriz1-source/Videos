@@ -1,0 +1,300 @@
+{
+ "voz": "voz-tf30.wav",
+ "palabras": "voz-tf30.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA CUENTA",
+  "img": "img/fr-et-tf-015.jpg",
+  "h": "1.000 dólares en Amazon <b>en 1997</b>",
+  "sub": "Y por qué casi nadie los tiene"
+ },
+ "segs": [
+  {
+   "txt": "Si ponías mil dólares en Amazon el día que salió a la bolsa, hoy tendrías más de dos millones setecientos mil.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "US$ 1.000 en Amazon desde 1997",
+      "num": "US$ 2,7 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Hoy tendrías"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hagamos la cuenta. Y después vemos por qué casi nadie los tiene.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-015.mp4@1",
+      "k": "Hagamos la cuenta",
+      "h": "Y por qué <i>casi nadie</i> los tiene",
+      "cred": "Archivo · iTWire TV",
+      "pie": "Centro de distribución de Amazon (imagen actual)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Amazon empezó a cotizar el quince de mayo de 1997. Vendía libros por internet y perdía plata.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:96690@1",
+      "k": "15 de mayo de 1997",
+      "h": "Amazon <i>sale a la bolsa</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Vendía libros por internet",
+      "h": "Y <i>perdía plata</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ese día cerró a veintitrés dólares con cincuenta. Mil dólares a ese precio hoy son dos millones setecientos veinte mil.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Cierre del primer día",
+      "num": "US$ 23,50",
+      "color": "bl",
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "US$ 1.000 en Amazon",
+      "h": "<i>x2.723</i>",
+      "series": [
+       {
+        "pts": [
+         1000,
+         33798,
+         6914,
+         16662,
+         17311,
+         30934,
+         37583,
+         103435,
+         136115,
+         217531,
+         489175,
+         955478,
+         1645731,
+         1135656,
+         2095346,
+         2723327
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "1997",
+       "2011",
+       "nov-26"
+      ],
+      "src": "Precios de Yahoo Finance"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En el mismo tiempo, mil dólares en el SPY son unos quince mil.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "US$ 1.000 desde 1997",
+      "h": "Amazon contra <i>el SPY</i>",
+      "bars": [
+       {
+        "label": "Amazon",
+        "v": 2723000,
+        "txt": "US$ 2.723.000",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "SPY",
+        "v": 14800,
+        "txt": "US$ 14.800",
+        "color": "gr",
+        "en": 0.65
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ahora lo que no se cuenta. A fines de 1999, tus mil dólares ya eran cincuenta y cuatro mil.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:108078@1",
+      "k": "Lo que no se cuenta",
+      "h": "Fines de 1999: <i>US$ 54.000</i>",
+      "cred": "Video: Pixabay"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Explotó la burbuja puntocom. En septiembre de 2001 quedaban tres mil. Noventa y cuatro por ciento abajo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "1999-2001",
+      "h": "<i>-94 %</i>",
+      "series": [
+       {
+        "pts": [
+         54479,
+         40000,
+         25000,
+         12000,
+         5000,
+         3049
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "10-12-99 US$ 54.479",
+       "28-9-01 US$ 3.049"
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Explotó la burbuja",
+      "num": "-94%",
+      "color": "roj",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Tardó casi diez años en volver. Después cayó sesenta y cinco por ciento en 2008 y cincuenta y seis en 2022.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Para volver",
+      "num": "10 años",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Tardó casi",
+      "sub": "y cayó 65 % en 2008 y 56 % en 2022"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y había que elegir justo Amazon. Muchas puntocom desaparecieron, como Pets punto com, Webvan o eToys.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Las que no llegaron",
+      "h": "Había que elegir <i>justo Amazon</i>",
+      "items": [
+       {
+        "t": "Pets.com",
+        "st": "DESAPARECIÓ",
+        "en": 0.15
+       },
+       {
+        "t": "Webvan",
+        "st": "DESAPARECIÓ",
+        "en": 0.45
+       },
+       {
+        "t": "eToys",
+        "st": "DESAPARECIÓ",
+        "en": 0.75
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que el premio grande exigió aguantar caídas enormes y tener suerte. Y que lo que pasó no garantiza lo que viene.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Premio grande, <i>caídas enormes</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "y suerte"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Aguante y suerte",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

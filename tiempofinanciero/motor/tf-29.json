@@ -1,0 +1,314 @@
+{
+ "voz": "voz-tf29.wav",
+ "palabras": "voz-tf29.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA CUENTA",
+  "img": "img/fr-et-tf-007.jpg",
+  "h": "¿El iPhone <b>o la acción?</b>",
+  "sub": "US$ 599 en 2007"
+ },
+ "segs": [
+  {
+   "txt": "Si en 2007, en vez del primer iPhone, comprabas acciones de Apple, hoy tendrías más de cincuenta y ocho mil dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que serían hoy los US$ 599 del primer iPhone",
+      "num": "US$ 58.500",
+      "color": "bl",
+      "en": 0.1,
+      "h": "En acciones de Apple"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hagamos la cuenta, con el precio de aquel día.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-088.mp4@1",
+      "k": "Hagamos la cuenta",
+      "h": "Con el precio <i>de aquel día</i>",
+      "cred": "Archivo · My Electronics Collection",
+      "pie": "Celular de la época (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El primer iPhone salió a la venta en Estados Unidos el veintinueve de junio de 2007.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-001.mp4@1",
+      "k": "29 de junio de 2007",
+      "h": "Sale el <i>primer iPhone</i>",
+      "cred": "Archivo · Framework Films",
+      "pie": "Apple Park (imagen actual)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El modelo de ocho gigas costaba quinientos noventa y nueve dólares, con contrato.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "8 GB, con contrato",
+      "num": "US$ 599",
+      "color": "bl",
+      "en": 0.1,
+      "h": "El primer iPhone"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ese mismo día, esa plata en acciones de Apple, reinvirtiendo dividendos y sin vender nunca.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-003.mp4@1",
+      "k": "Esa misma plata",
+      "h": "En <i>acciones de Apple</i>",
+      "cred": "Archivo · Framework Films",
+      "pie": "Apple Park (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Reinvirtiendo dividendos",
+      "h": "Y <i>sin vender nunca</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hoy serían unos cincuenta y ocho mil quinientos dólares. Casi cien veces más.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "US$ 599 en Apple",
+      "h": "<i>x98</i>",
+      "series": [
+       {
+        "pts": [
+         599,
+         697,
+         1640,
+         1988,
+         4555,
+         5466,
+         7762,
+         21788,
+         30656,
+         32839,
+         58509
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "jun-07",
+       "2017",
+       "nov-26 US$ 58.509"
+      ],
+      "src": "Precios de Yahoo Finance"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero ojo. En enero de 2009, tus quinientos noventa y nueve valían trescientos ochenta y cuatro.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Pero ojo",
+      "h": "Enero de 2009: <i>US$ 384</i>",
+      "series": [
+       {
+        "pts": [
+         599,
+         850,
+         990,
+         700,
+         450,
+         384
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "jun-07",
+       "dic-07 pico",
+       "20-1-09 US$ 384"
+      ],
+      "src": "-61 % desde el pico"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La acción había caído sesenta y uno por ciento. Y después cayó más de treinta otras cuatro veces.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Caídas de más de 30 %",
+      "h": "<i>-61 %</i> y cuatro más",
+      "items": [
+       {
+        "t": "2008",
+        "en": 0.15,
+        "r": "-61 %",
+        "hi": true
+       },
+       {
+        "t": "2013",
+        "en": 0.3,
+        "r": "-44 %"
+       },
+       {
+        "t": "2019",
+        "en": 0.45,
+        "r": "-38 %"
+       },
+       {
+        "t": "2022",
+        "en": 0.6,
+        "r": "-31 %"
+       },
+       {
+        "t": "2025",
+        "en": 0.75,
+        "r": "-33 %"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Además, en 2007 nadie sabía que iba a ganar Apple. Nokia y BlackBerry dominaban, y sus acciones después se hundieron.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-088.mp4@3",
+      "k": "En 2007",
+      "h": "Dominaban <i>Nokia y BlackBerry</i>",
+      "cred": "Archivo · My Electronics Collection",
+      "pie": "Nokia de la época"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Y sus acciones",
+      "h": "Después <i>se hundieron</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La misma plata en el SPY, repartida entre quinientas empresas, hoy serían unos cuatro mil trescientos dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "US$ 599 desde 2007",
+      "h": "Apple contra <i>el SPY</i>",
+      "bars": [
+       {
+        "label": "Apple",
+        "v": 58500,
+        "txt": "US$ 58.500",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "SPY",
+        "v": 4270,
+        "txt": "US$ 4.270",
+        "color": "gr",
+        "en": 0.65
+       }
+      ],
+      "src": "El iPhone: pieza de colección"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que elegir a la ganadora es fácil mirando para atrás. Y que lo que pasó no garantiza lo que viene.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Elegir a la ganadora es fácil <i>mirando atrás</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Fácil mirando para atrás",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

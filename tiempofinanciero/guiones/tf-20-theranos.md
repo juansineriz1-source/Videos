@@ -5,7 +5,7 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | # | Voz | Cartel | Visual |
 |---|---|---|---|
 | 1 | ¿Le confiarías tu salud a un análisis de sangre que nadie pudo comprobar? Miles de personas lo hicieron. | NADIE LO COMPROBÓ | Pixabay: blood test laboratory tubes |
-| 2 | Elizabeth Holmes fundó Theranos en 2003, a los diecinueve años, después de dejar la Universidad de Stanford. | 2003: 19 AÑOS | Wikimedia: Elizabeth Holmes en un evento público, 2014 (verificar licencia) |
+| 2 | Elizabeth Holmes fundó Theranos en 2003, a los diecinueve años, y al año siguiente dejó Stanford. | 2003: 19 AÑOS · DEJÓ STANFORD EN 2004 | Wikimedia: Elizabeth Holmes en un evento público, 2014 (verificar licencia) |
 | 3 | Prometía hacer análisis completos con unas gotas de sangre sacadas del dedo. | UNAS GOTAS | Pixabay: finger prick blood drop |
 | 4 | Juntó más de setecientos millones de dólares de inversores. La empresa llegó a valer nueve mil millones. | US$ 9.000 M | Gráfico: barras: plata juntada US$ 724 M vs valuación US$ 9.000 M (2013-2014) |
 | 5 | En el directorio había dos exsecretarios de Estado: Henry Kissinger y George Shultz. | EL DIRECTORIO | Gráfico: lista: Henry Kissinger · George Shultz · James Mattis |

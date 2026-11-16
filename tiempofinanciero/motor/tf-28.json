@@ -1,0 +1,403 @@
+{
+ "voz": "voz-tf28.wav",
+ "palabras": "voz-tf28.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA CUENTA",
+  "img": "img/fr-59139.jpg",
+  "h": "El 2 % que <b>se llevó la mitad</b>",
+  "sub": "Lo que cuesta una comisión"
+ },
+ "segs": [
+  {
+   "txt": "Una comisión de dos por ciento anual parece poca cosa. En treinta años se te llevó casi la mitad.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Se llevó una comisión de 2 % anual",
+      "num": "-45%",
+      "color": "roj",
+      "en": 0.1,
+      "h": "En 30 años"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hagamos la cuenta con números reales de la bolsa de Estados Unidos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:59139@1",
+      "k": "Hagamos la cuenta",
+      "h": "Con números <i>reales</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Diez mil dólares en el SPY en noviembre de 1996. Dividendos reinvertidos, sin tocar nada treinta años.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-007.mp4@1",
+      "k": "Noviembre de 1996",
+      "h": "<i>US$ 10.000</i> en el SPY",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "30 años",
+      "h": "Sin <i>tocar nada</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "con dividendos reinvertidos"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Sin comisión, hoy serían unos ciento setenta mil dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Sin comisión",
+      "h": "<i>US$ 170.000</i>",
+      "series": [
+       {
+        "pts": [
+         10000,
+         15776,
+         19806,
+         13264,
+         17938,
+         21898,
+         14134,
+         20519,
+         24172,
+         37837,
+         41816,
+         54194,
+         74668,
+         84811,
+         131115,
+         170544
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "nov-96",
+       "2008",
+       "nov-26"
+      ],
+      "src": "Precios de Yahoo Finance"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ahora lo mismo, pero alguien te cobra dos por ciento del saldo cada año.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/tf-010.mp4@1",
+      "k": "Lo mismo, pero",
+      "h": "Te cobran <i>2 % por año</i>",
+      "cred": "Archivo · Epic Cinematic",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hoy tendrías unos noventa y tres mil. Setenta y siete mil dólares menos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Con 2 % anual",
+      "h": "<i>US$ 93.000</i>",
+      "series": [
+       {
+        "pts": [
+         10000,
+         15776,
+         19806,
+         13264,
+         17938,
+         21898,
+         14134,
+         20519,
+         24172,
+         37837,
+         41816,
+         54194,
+         74668,
+         84811,
+         131115,
+         170544
+        ],
+        "label": "Sin comisión",
+        "color": "gr",
+        "fmt": false
+       },
+       {
+        "pts": [
+         10000,
+         15151,
+         18267,
+         11753,
+         15267,
+         17898,
+         11095,
+         15471,
+         17504,
+         26314,
+         27933,
+         34767,
+         46008,
+         50193,
+         74530,
+         93133
+        ],
+        "label": "Con 2 % anual",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "nov-96",
+       "2008",
+       "nov-26"
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "La diferencia",
+      "num": "-US$ 77.000",
+      "color": "roj",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "¿Por qué tanto? Porque no se cobra sobre lo que pusiste. Se cobra cada año sobre todo lo que tenés.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Se cobra sobre todo",
+      "h": "<i>Cada año</i>",
+      "items": [
+       {
+        "t": "Saldo",
+        "en": 0.1
+       },
+       {
+        "t": "-2 %",
+        "en": 0.28
+       },
+       {
+        "t": "Saldo",
+        "en": 0.45
+       },
+       {
+        "t": "-2 %",
+        "en": 0.62
+       },
+       {
+        "t": "... 30 veces",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y cada dólar que se va deja de crecer. Es interés compuesto, pero en contra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:98141@1",
+      "k": "Cada dólar que se va",
+      "h": "<i>Deja de crecer</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Interés compuesto",
+      "h": "Pero <i>en contra</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Con uno por ciento anual se va la cuarta parte. Con medio punto, catorce por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Valor final según la comisión",
+      "h": "Chico, <i>pero suma</i>",
+      "bars": [
+       {
+        "label": "Sin comisión",
+        "v": 170500,
+        "txt": "170.500",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "0,5 %",
+        "v": 146800,
+        "txt": "146.800",
+        "color": "gr",
+        "en": 0.28
+       },
+       {
+        "label": "1 %",
+        "v": 126200,
+        "txt": "126.200",
+        "color": "gr",
+        "en": 0.4
+       },
+       {
+        "label": "2 %",
+        "v": 93100,
+        "txt": "93.100",
+        "color": "roj",
+        "en": 0.53
+       },
+       {
+        "label": "3 %",
+        "v": 68500,
+        "txt": "68.500",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Dólares, de US$ 10.000 en 1996"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ojo: la comisión se cobra igual cuando perdés. Entre 2007 y 2009 esa inversión cayó cincuenta y cinco por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-074.mp4@1",
+      "k": "Ojo",
+      "h": "Se cobra igual <i>cuando perdés</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Tablero en baja (imagen de archivo)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "2007 a 2009",
+      "num": "-55%",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "y la comisión igual"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que un número chico, repetido treinta años, es enorme. Y que lo que pasó no garantiza lo que viene.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Ya sabés",
+      "h": "Chico por 30 años = <i>enorme</i>",
+      "bars": [
+       {
+        "label": "Sin comisión",
+        "v": 170500,
+        "txt": "US$ 170.500",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Con 2 %",
+        "v": 93100,
+        "txt": "US$ 93.100",
+        "color": "roj",
+        "en": 0.65
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Chico por 30 años es enorme",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

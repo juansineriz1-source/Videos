@@ -1,0 +1,398 @@
+{
+ "voz": "voz-tf27.wav",
+ "palabras": "voz-tf27.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA CUENTA",
+  "img": "img/fr-x-033.jpg",
+  "h": "10 días que <b>valen la mitad</b>",
+  "sub": "Los mejores días de la bolsa"
+ },
+ "segs": [
+  {
+   "txt": "Si en veinte años te perdiste solo los diez mejores días de la bolsa, te quedaste con menos de la mitad.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Por perderte 10 días en 20 años",
+      "num": "-57%",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Te quedaste con menos de la mitad"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hagamos la cuenta: son diez días entre más de cinco mil ruedas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:197974@1",
+      "k": "Hagamos la cuenta",
+      "h": "<i>10 de 5.030</i> ruedas",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Días de 5.030 ruedas",
+      "num": "10",
+      "color": "bl",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Diez mil dólares en el SPY en noviembre de 2006, con dividendos reinvertidos. Hoy serían unos setenta y ocho mil.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "US$ 10.000 en SPY",
+      "h": "<i>US$ 78.000</i>",
+      "series": [
+       {
+        "pts": [
+         10000,
+         6454,
+         9370,
+         11038,
+         17278,
+         19096,
+         24748,
+         34097,
+         38729,
+         59874,
+         77879
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "nov-06",
+       "2016",
+       "nov-26"
+      ],
+      "src": "Con dividendos reinvertidos. Precios de Yahoo Finance"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ahora sacá los diez mejores días. Quedan unos treinta y cuatro mil. Cincuenta y siete por ciento menos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Sin los 10 mejores días",
+      "h": "<i>US$ 34.000</i>",
+      "series": [
+       {
+        "pts": [
+         10000,
+         6454,
+         9370,
+         11038,
+         17278,
+         19096,
+         24748,
+         34097,
+         38729,
+         59874,
+         77879
+        ],
+        "label": "Siempre adentro",
+        "color": "gr",
+        "fmt": false
+       },
+       {
+        "pts": [
+         10000,
+         4481,
+         5676,
+         6687,
+         10466,
+         11567,
+         14991,
+         16349,
+         18570,
+         28709,
+         33793
+        ],
+        "label": "Sin los 10 mejores",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "nov-06",
+       "2016",
+       "nov-26"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Sin los cuarenta mejores quedan nueve mil cuatrocientos: menos de lo que pusiste.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Valor final",
+      "h": "Sin 40 días, <i>perdés</i>",
+      "bars": [
+       {
+        "label": "Todos",
+        "v": 77900,
+        "txt": "77.900",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Sin 10",
+        "v": 33800,
+        "txt": "33.800",
+        "color": "gr",
+        "en": 0.32
+       },
+       {
+        "label": "Sin 20",
+        "v": 20300,
+        "txt": "20.300",
+        "color": "gr",
+        "en": 0.48
+       },
+       {
+        "label": "Sin 40",
+        "v": 9400,
+        "txt": "9.400",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Dólares. Pusiste US$ 10.000"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "¿Cuándo fueron? Cinco en 2008, uno en 2009, tres en 2020 y uno en 2025.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Los 10 mejores días",
+      "h": "¿Cuándo <i>fueron</i>?",
+      "items": [
+       {
+        "t": "2008",
+        "en": 0.15,
+        "r": "5 días",
+        "hi": true
+       },
+       {
+        "t": "2009",
+        "en": 0.35,
+        "r": "1"
+       },
+       {
+        "t": "2020",
+        "en": 0.55,
+        "r": "3"
+       },
+       {
+        "t": "2025",
+        "en": 0.75,
+        "r": "1"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Todos en plena crisis. Siete de los diez, a menos de dos semanas de uno de los peores.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-043.mp4@1",
+      "k": "Todos en plena crisis",
+      "h": "<i>Pegados</i> a los peores",
+      "cred": "Archivo · Media Burn Archive",
+      "crop": "1440:1080:240:0",
+      "pie": "Operadores en Chicago, años 90"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "A menos de dos semanas",
+      "num": "7 de 10",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "de uno de los peores días"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "O sea: el que sale por miedo suele perderse también el rebote.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:187666@1",
+      "k": "El que sale por miedo",
+      "h": "Se pierde <i>el rebote</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La contra es real: para cobrar esos días hubo que aguantar una caída de cincuenta y cinco por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "SPY 2007-2009",
+      "h": "<i>-55 %</i>",
+      "series": [
+       {
+        "pts": [
+         11417,
+         10500,
+         9000,
+         7000,
+         5800,
+         5116
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "9-10-07 11.417",
+       "9-3-09 5.116"
+      ],
+      "src": "Valor de US$ 10.000 iniciales"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que hubo que aguantar",
+      "num": "-55%",
+      "color": "roj",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Esquivando los diez peores tendrías mucho más. Pero nadie sabe cuáles son hasta que pasaron.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:81496@1",
+      "k": "Esquivar los peores",
+      "h": "Nadie sabe <i>cuáles son</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Nadie los adivina",
+      "h": "Hasta <i>que pasaron</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés por qué entrar y salir puede costar caro. Y que lo que pasó no garantiza lo que viene.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Ya sabés",
+      "h": "Entrar y salir <i>cuesta caro</i>",
+      "bars": [
+       {
+        "label": "Siempre adentro",
+        "v": 77900,
+        "txt": "US$ 77.900",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Sin los 10 mejores",
+        "v": 33800,
+        "txt": "US$ 33.800",
+        "color": "roj",
+        "en": 0.65
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "10 días, media ganancia",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

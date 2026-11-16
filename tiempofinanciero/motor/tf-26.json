@@ -1,0 +1,360 @@
+{
+ "voz": "voz-tf26.wav",
+ "palabras": "voz-tf26.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA CUENTA",
+  "img": "img/fr-209854.jpg",
+  "h": "Duplicá tu plata <b>de memoria</b>",
+  "sub": "La regla del 72"
+ },
+ "segs": [
+  {
+   "txt": "Al diez por ciento anual, tu plata se duplica en unos siete años. Y lo calculás de memoria.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Al 10 % anual",
+      "num": "x2 en 7 años",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Tu plata se duplica"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hagamos la cuenta. Se llama la regla del setenta y dos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:209854@1",
+      "k": "Hagamos la cuenta",
+      "h": "La regla <i>del 72</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Dividís setenta y dos por la tasa anual. El resultado son los años que tarda en duplicarse.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "La regla del 72",
+      "h": "<i>72 ÷ tasa</i> = años",
+      "items": [
+       {
+        "t": "72",
+        "en": 0.1
+       },
+       {
+        "t": "dividido la tasa anual",
+        "en": 0.45
+       },
+       {
+        "t": "años para duplicar",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Al seis por ciento, doce años. Al diez por ciento, siete años y pico.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "72 ÷ tasa",
+      "h": "Años para <i>duplicar</i>",
+      "items": [
+       {
+        "t": "3 %",
+        "en": 0.15,
+        "r": "24 años"
+       },
+       {
+        "t": "6 %",
+        "en": 0.35,
+        "r": "12 años",
+        "hi": true
+       },
+       {
+        "t": "10 %",
+        "en": 0.55,
+        "r": "7,2 años",
+        "hi": true
+       },
+       {
+        "t": "12 %",
+        "en": 0.75,
+        "r": "6 años"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Probémosla con datos reales. El SPY, con dividendos reinvertidos, rindió casi diez por ciento anual en treinta años.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-002.mp4@1",
+      "k": "Con datos reales",
+      "h": "SPY: <i>9,9 % anual</i>",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "SPY con dividendos",
+      "num": "9,9%",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "por año, en 30 años"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Siete años por duplicación. En treinta años son cuatro: multiplicar por dieciséis.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Cada 7 años",
+      "h": "<i>x2 x2 x2 x2</i>",
+      "items": [
+       {
+        "t": "1.000",
+        "en": 0.1
+       },
+       {
+        "t": "2.000",
+        "en": 0.28
+       },
+       {
+        "t": "4.000",
+        "en": 0.45
+       },
+       {
+        "t": "8.000",
+        "en": 0.62
+       },
+       {
+        "t": "16.000",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La cuenta real: mil dólares de noviembre de 1996 hoy son unos diecisiete mil. La regla anduvo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "US$ 1.000 en SPY",
+      "h": "La regla <i>anduvo</i>",
+      "series": [
+       {
+        "pts": [
+         1000,
+         1578,
+         1981,
+         1326,
+         1794,
+         2190,
+         1413,
+         2052,
+         2417,
+         3784,
+         4182,
+         5419,
+         7467,
+         8481,
+         13112,
+         17054
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "nov-96",
+       "2008",
+       "nov-26 US$ 17.054"
+      ],
+      "src": "Con dividendos reinvertidos. Precios de Yahoo Finance"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero ojo, es un promedio. La primera duplicación tardó tres años, y después vinieron dos crisis.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:41@1",
+      "k": "Pero ojo",
+      "h": "Es <i>un promedio</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "La primera duplicación",
+      "h": "Tardó <i>tres años</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "y después vinieron dos crisis"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Con una caída de cincuenta y cinco por ciento, recién en 2011 quedó para siempre arriba del doble.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Arriba del doble",
+      "h": "Recién en <i>2011</i>, para siempre",
+      "series": [
+       {
+        "pts": [
+         1000,
+         1578,
+         2100,
+         1326,
+         1794,
+         2190,
+         1413,
+         2052
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "1996",
+       "1999 cruza",
+       "2002 y 2008 cae",
+       "2011"
+      ],
+      "src": "Raya del doble: US$ 2.000"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "La peor caída",
+      "num": "-55%",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "2007-2009"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "También sirve al revés. Con la inflación de Estados Unidos, los precios en dólares se duplican cada veintiocho años.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/supermercado-precios/tf-002.mp4@1",
+      "k": "También sirve al revés",
+      "h": "La <i>inflación</i>",
+      "cred": "Archivo · Aviones y Ciudades",
+      "pie": "Supermercado (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Inflación de EE. UU.",
+      "num": "28 años",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Precios en dólares x2",
+      "sub": "72 ÷ 2,6 %"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés estimar una duplicación sin calculadora. Y que lo que pasó no garantiza lo que viene.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Duplicar <i>sin calculadora</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "72 ÷ tasa",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

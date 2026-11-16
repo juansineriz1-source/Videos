@@ -24,7 +24,7 @@ Cálculo: Yahoo Finance, SPY diario con dividendos reinvertidos (adjclose), 100 
 | 12 | Ya sabés que el tiempo pesa más que el monto. Y que lo que pasó no garantiza lo que viene. | TIEMPO > MONTO | Gráfico: remate "30 años: US$ 239.500 / 20 años: US$ 111.600" |
 
 ## Caption
-Dos personas, 100 dólares por mes en el SPY. Una empezó en noviembre de 1996 (30 años): puso US$ 36.000 y hoy tendría unos US$ 239.500. La otra esperó diez años (desde noviembre de 2006): puso US$ 24.000 y tendría unos US$ 111.600. Doce mil dólares menos de aportes, casi 128 mil menos de resultado. La que empezó antes también pasó dos crisis: en marzo de 2009 tenía 33 % menos de lo que había puesto.
+Dos personas, 100 dólares por mes en el SPY. Una empezó en noviembre de 1996 (30 años): puso US$ 36.000 y al 13/11/2026 tendría unos US$ 239.500. La otra esperó diez años (desde noviembre de 2006): puso US$ 24.000 y tendría unos US$ 111.600. Doce mil dólares menos de aportes, casi 128 mil menos de resultado. La que empezó antes también pasó dos crisis: en marzo de 2009 tenía 33 % menos de lo que había puesto.
 Cálculo con datos de Yahoo Finance al 13/11/2026: aporte el primer día hábil de cada mes, dividendos reinvertidos, sin comisiones ni impuestos. Cuenta en dólares.
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #interescompuesto #spy #inversiones #ahorro #bolsa #finanzas #argentina

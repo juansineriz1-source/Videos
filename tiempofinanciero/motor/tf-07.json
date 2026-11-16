@@ -1,0 +1,353 @@
+{
+ "voz": "voz-tf07.wav",
+ "palabras": "voz-tf07.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-033.jpg",
+  "h": "El <b>lunes negro</b>",
+  "sub": "Wall Street, 19 de octubre de 1987"
+ },
+ "segs": [
+  {
+   "txt": "¿Te imaginás que la bolsa pierda casi la cuarta parte de su valor en un solo día? Pasó.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-033.mp4@1",
+      "k": "¿Te imaginás?",
+      "h": "Un cuarto de la bolsa <i>en un día</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Piso de la Bolsa de Nueva York"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "En un solo día",
+      "num": "-22,6%",
+      "color": "roj",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y no hubo guerra, ni quiebra, ni una noticia terrible. Fue el lunes diecinueve de octubre de 1987.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-041.mp4@0.5",
+      "k": "Sin guerra ni quiebra",
+      "h": "Ninguna <i>noticia terrible</i>",
+      "cred": "Archivo · Deus Ex Trader",
+      "pie": "Pozo de futuros a fines de los 80"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "19 de octubre de 1987",
+      "h": "<i>Lunes negro</i>",
+      "items": [
+       {
+        "t": "Wall Street",
+        "st": "LUNES NEGRO",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El Dow Jones cayó quinientos ocho puntos: veintidós coma seis por ciento. Sigue siendo su peor día en porcentaje.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Dow Jones · 19/10/1987",
+      "num": "-508",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Su peor día",
+      "sub": "puntos: -22,6 %",
+      "src": "Cierre: 1.738,74. Fuente: Federal Reserve History"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Venía de un año de fiesta: en agosto había marcado un máximo de dos mil setecientos veintidós puntos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Dow Jones 1987",
+      "h": "Venía de <i>un año de fiesta</i>",
+      "series": [
+       {
+        "pts": [
+         1900,
+         2200,
+         2400,
+         2722,
+         2500,
+         2246,
+         1739
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ene",
+       "ago 2.722",
+       "19-oct 1.739"
+      ],
+      "src": "Fuente: Federal Reserve History"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El viernes anterior ya había caído casi cinco por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-043.mp4@1",
+      "k": "Viernes 16 de octubre",
+      "h": "Ya había caído <i>casi 5 %</i>",
+      "cred": "Archivo · Media Burn Archive",
+      "crop": "1440:1080:240:0",
+      "pie": "Operadores en Chicago, años 90"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "El viernes anterior",
+      "num": "-4,6%",
+      "color": "roj",
+      "en": 0.1,
+      "src": "Federal Reserve History"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El lunes, las bolsas de Asia abrieron en picada, y el pánico llegó a Nueva York.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-074.mp4@1",
+      "k": "El lunes",
+      "h": "Asia abrió <i>en picada</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Bolsa de Tokio: tablero del Nikkei en baja"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-076.mp4@1",
+      "k": "Y el pánico",
+      "h": "Llegó a <i>Nueva York</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Bolsa de Tokio"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Un gran acelerador fue el seguro de cartera: programas de computadora que vendían solos cuando el mercado bajaba.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-095.mp4@1",
+      "k": "El acelerador",
+      "h": "Seguro de <i>cartera</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Computadora de época (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Seguro de cartera",
+      "h": "Programas que <i>vendían solos</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "cuando el mercado bajaba"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Cuanto más caía, más vendían. Y cuanto más vendían, más caía.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Círculo vicioso",
+      "h": "Cuanto más caía, <i>más vendían</i>",
+      "items": [
+       {
+        "t": "Cae el mercado",
+        "en": 0.1
+       },
+       {
+        "t": "El programa vende",
+        "en": 0.33
+       },
+       {
+        "t": "Cae más",
+        "en": 0.57
+       },
+       {
+        "t": "Vende más",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Al día siguiente, la Reserva Federal avisó que estaba lista para dar toda la liquidez necesaria.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/bancos-centrales-fed/tf-006.mp4@1",
+      "k": "Martes 20 de octubre",
+      "h": "La Fed <i>respalda</i>",
+      "cred": "Archivo · Laurenc Riese",
+      "pie": "Banco de la Reserva Federal de Nueva York (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "Lista para servir como fuente de liquidez",
+      "en": 0.3,
+      "autor": "Reserva Federal, 20/10/1987"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El mercado se calmó, y en menos de dos años había superado los máximos previos a la caída.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "S&P 500",
+      "h": "Menos de <i>dos años</i>",
+      "series": [
+       {
+        "pts": [
+         336.77,
+         224,
+         250,
+         265,
+         280,
+         300,
+         336.77
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ago-87 336,77",
+       "oct-87",
+       "jul-89 336,77"
+      ],
+      "src": "Recupera el máximo el 26/7/1989"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Para superar el máximo",
+      "num": "< 2 años",
+      "color": "bl",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que un día negro asusta, pero el que vendió en el pánico convirtió un susto en pérdida.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-155.mp4@1",
+      "k": "Ya sabés",
+      "h": "Un día negro <i>asusta</i>",
+      "cred": "Archivo · Drone Snap",
+      "pie": "Chicago (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Susto no es pérdida",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "voz": "voz-tf21.wav",
+ "palabras": "voz-tf21.json",
+ "tempo": 1.26,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-wsn-tf-029.jpg",
+  "h": "Valía 47.000 millones <b>y perdía plata</b>",
+  "sub": "WeWork"
+ },
+ "segs": [
+  {
+   "txt": "¿Cuánto vale una empresa que pierde más plata de la que factura? En 2019 dijeron: cuarenta y siete mil millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Valuación de WeWork · enero de 2019",
+      "num": "US$ 47.000 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "¿Cuánto vale?"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Una empresa",
+      "h": "Que pierde más <i>de lo que factura</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "WeWork se presentaba como tecnológica. En los hechos alquilaba edificios a largo plazo y los subalquilaba por mes.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:3132@1",
+      "k": "¿Tecnológica?",
+      "h": "Alquilaba <i>y subalquilaba</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Oficina compartida (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "El negocio real",
+      "h": "Subalquilar <i>por mes</i>",
+      "items": [
+       {
+        "t": "Alquila edificios a largo plazo",
+        "en": 0.1
+       },
+       {
+        "t": "Los subalquila por mes",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La fundaron Adam Neumann y Miguel McKelvey en Nueva York, en 2010.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-029.mp4@1",
+      "k": "Nueva York, 2010",
+      "h": "Adam Neumann y <i>Miguel McKelvey</i>",
+      "cred": "Archivo · Abdul Afram",
+      "pie": "Manhattan (imagen actual)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El grupo japonés SoftBank puso miles de millones y en enero de 2019 la valuó en esa cifra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que invirtió SoftBank",
+      "num": "US$ 10.300 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "SoftBank",
+      "sub": "en total. En enero de 2019 la valuó en US$ 47.000 M"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En agosto de 2019 presentó los papeles para salir a la bolsa. Y ahí aparecieron los números.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/tf-006.mp4@1",
+      "k": "Agosto de 2019",
+      "h": "Papeles para <i>salir a la bolsa</i>",
+      "cred": "Archivo · Epic Cinematic",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Y ahí aparecieron",
+      "h": "Los <i>números</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 2018 había facturado mil ochocientos millones de dólares, y había perdido mil novecientos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "WeWork, 2018",
+      "h": "Facturó menos <i>de lo que perdió</i>",
+      "bars": [
+       {
+        "label": "Facturó",
+        "v": 1800,
+        "txt": "1.800",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Perdió",
+        "v": 1900,
+        "txt": "1.900",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Millones de dólares. Fuente: prospecto de WeWork ante la SEC, 2019"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Además, le había pagado casi seis millones a una sociedad de sus fundadores por la marca We.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "La marca \"We\"",
+      "h": "<i>US$ 5,9 M</i>",
+      "items": [
+       {
+        "t": "WeWork",
+        "en": 0.1
+       },
+       {
+        "t": "US$ 5,9 M",
+        "en": 0.45
+       },
+       {
+        "t": "Sociedad de los fundadores",
+        "en": 0.8
+       }
+      ],
+      "src": "Después los devolvieron"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los inversores no quisieron comprar. En septiembre, Neumann renunció y la salida a bolsa se canceló.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/tf-002.mp4@1",
+      "k": "Septiembre de 2019",
+      "h": "Neumann <i>renuncia</i>",
+      "cred": "Archivo · Epic Cinematic",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Salida a bolsa de WeWork",
+      "h": "<i>Cancelada</i>",
+      "items": [
+       {
+        "t": "IPO 2019",
+        "st": "CANCELADA",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "SoftBank la rescató. En noviembre de 2019 ya reconocía pérdidas de más de cuatro mil millones con WeWork.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "SoftBank y WeWork",
+      "h": "La rescató y <i>perdió</i>",
+      "bars": [
+       {
+        "label": "Invirtió",
+        "v": 10300,
+        "txt": "US$ 10.300 M",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Pérdida reconocida",
+        "v": 4600,
+        "txt": "US$ 4.600 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Noviembre de 2019"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Salió a la bolsa recién en 2021, valuada en nueve mil millones. En noviembre de 2023 pidió la quiebra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Valor de WeWork",
+      "h": "De 47.000 <i>a la quiebra</i>",
+      "series": [
+       {
+        "pts": [
+         47000,
+         9000,
+         0
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ene-19 47.000",
+       "oct-21 9.000",
+       "nov-23 quiebra"
+      ],
+      "src": "Millones de dólares. Quiebra: 6/11/2023"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés la diferencia entre valuación y valor: una es lo que alguien pagó, la otra es lo que la empresa gana.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Valuación <i>no es valor</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "una es lo que alguien pagó; la otra, lo que la empresa gana"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Valuación no es valor",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
