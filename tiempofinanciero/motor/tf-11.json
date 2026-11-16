@@ -1,0 +1,338 @@
+{
+ "voz": "voz-tf11.wav",
+ "palabras": "voz-tf11.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-ah-tf-011.jpg",
+  "h": "Lehman: <b>quebró en un fin de semana</b>",
+  "sub": "Septiembre de 2008"
+ },
+ "segs": [
+  {
+   "txt": "¿Un banco con más de ciento cincuenta años de historia puede desaparecer en un fin de semana? Sí.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-037.mp4@1",
+      "k": "¿Un banco de 158 años?",
+      "h": "¿Desaparecer en <i>un fin de semana</i>?",
+      "cred": "Archivo · Walks & Wall Street ",
+      "pie": "Wall Street, Nueva York (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "La historia de Lehman Brothers",
+      "num": "158 años",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "de 1850 a 2008"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Lehman Brothers había sobrevivido a la crisis del treinta. Era el cuarto banco de inversión de Estados Unidos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Lehman Brothers",
+      "h": "Sobrevivió <i>a la crisis del 30</i>",
+      "size": 150,
+      "en": 0.1,
+      "bg": "v:banco/archivo-historico/tf-004.mp4@2"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Banco de inversión de EE. UU.",
+      "num": "4°",
+      "color": "bl",
+      "en": 0.1,
+      "h": "El cuarto más grande"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En los años dos mil compró empresas que daban hipotecas a gente con poca capacidad de pago: las subprime.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-101.mp4@1",
+      "k": "Años 2000",
+      "h": "Hipotecas <i>subprime</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Barrio de casas nuevas en EE. UU., crisis de 2008"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Subprime",
+      "h": "Gente con <i>poca capacidad de pago</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y lo hizo con deuda: en 2007 tenía unos treinta y un dólares en activos por cada dólar propio.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Activos por cada dólar propio",
+      "h": "<i>31 a 1</i>",
+      "bars": [
+       {
+        "label": "2003",
+        "v": 24,
+        "txt": "24",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "2007",
+        "v": 31,
+        "txt": "31",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: balances de Lehman Brothers"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Con esa proporción, una caída de poco más de tres por ciento en sus activos alcanza para borrar el capital.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Con 31 a 1",
+      "h": "<i>-3 %</i> y chau capital",
+      "items": [
+       {
+        "t": "US$ 31 de activos",
+        "en": 0.1
+       },
+       {
+        "t": "Caen 3,2 %",
+        "en": 0.33
+       },
+       {
+        "t": "Quedan US$ 30",
+        "en": 0.57
+       },
+       {
+        "t": "Capital propio: cero",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Cuando las casas bajaron de precio, esos activos pasaron a valer mucho menos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-099.mp4@1",
+      "k": "Cuando las casas bajaron",
+      "h": "Los activos <i>valían menos</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Casa embargada en EE. UU., crisis de 2008"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-100.mp4@1",
+      "k": "Cuando las casas bajaron",
+      "h": "Los activos <i>valían menos</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "'Venta por liquidación del banco', 2008"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En marzo de 2008 habían rescatado a su rival Bear Stearns. Con Lehman no hubo rescate.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "2008",
+      "h": "Con Lehman <i>no hubo rescate</i>",
+      "items": [
+       {
+        "t": "Marzo: Bear Stearns",
+        "st": "RESCATADO",
+        "en": 0.15
+       },
+       {
+        "t": "Septiembre: Lehman",
+        "st": "SIN RESCATE",
+        "en": 0.75
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El lunes quince de septiembre de 2008 pidió la quiebra, con seiscientos treinta y nueve mil millones en activos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-011.mp4@1",
+      "k": "Lunes 15 de septiembre de 2008",
+      "h": "Pidió <i>la quiebra</i>",
+      "cred": "Archivo · AP Archive",
+      "crop": "480:360:80:0",
+      "pie": "Empleados de Lehman salen con cajas, Londres 2008"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "En activos",
+      "num": "US$ 639.000 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "La mayor quiebra",
+      "sub": "de la historia de EE. UU."
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Fue la mayor de la historia del país. Tenía veinticinco mil empleados.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-014.mp4@1",
+      "k": "25.000 empleados",
+      "h": "La mayor <i>del país</i>",
+      "cred": "Archivo · AP Archive",
+      "crop": "480:360:80:0",
+      "pie": "Empleados de Lehman con sus cajas, Londres 2008"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-017.mp4@1",
+      "k": "Dick Fuld, director ejecutivo de Lehman",
+      "h": "Ante el <i>Congreso</i>",
+      "cred": "Archivo · AP Archive",
+      "crop": "480:360:80:0",
+      "pie": "Audiencia en el Congreso de EE. UU., octubre de 2008"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ese día el Dow Jones cayó más de quinientos puntos, y la crisis se hizo mundial.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Dow Jones · 15/9/2008",
+      "num": "-504",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Ese día",
+      "sub": "puntos: -4,4 %"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "La crisis",
+      "h": "Se hizo <i>mundial</i>",
+      "size": 150,
+      "en": 0.1,
+      "bg": "v:banco/extra/x-097.mp4@1"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que el tamaño no protege: a un banco lo funden la deuda y la pérdida de confianza.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:28659@1",
+      "k": "Ya sabés",
+      "h": "El tamaño <i>no protege</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Deuda y confianza",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

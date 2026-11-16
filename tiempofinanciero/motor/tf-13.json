@@ -1,0 +1,351 @@
+{
+ "voz": "voz-tf13.wav",
+ "palabras": "voz-tf13.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-150.jpg",
+  "h": "Un empleado <b>fundió un banco</b>",
+  "sub": "Nick Leeson y Barings, 1995"
+ },
+ "segs": [
+  {
+   "txt": "Un solo empleado de veintiocho años fundió a uno de los bancos más antiguos de Inglaterra. Y lo hizo desde Singapur.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-150.mp4@1",
+      "k": "Singapur",
+      "h": "<i>Un solo</i> empleado",
+      "cred": "Archivo · MTI Aerials",
+      "pie": "Centro financiero de Singapur (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Tenía Nick Leeson",
+      "num": "28 años",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "y fundió uno de los bancos más antiguos de Inglaterra"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El banco era Barings, fundado en 1762. Manejaba plata de la familia real británica.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-066.mp4@1",
+      "k": "Barings",
+      "h": "Fundado en <i>1762</i>",
+      "cred": "Archivo · LM. LONDON",
+      "pie": "Royal Exchange, Londres (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Barings",
+      "h": "El banco de la <i>familia real</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Nick Leeson era su estrella en Asia: operaba futuros sobre la bolsa japonesa y mostraba ganancias enormes.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-073.mp4@1",
+      "k": "Nick Leeson",
+      "h": "La estrella <i>en Asia</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Bolsa de Tokio (imagen de archivo)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Futuros",
+      "h": "Sobre la bolsa <i>japonesa</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "y ganancias enormes"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero las pérdidas las escondía en una cuenta de errores numerada con cinco ochos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Cuenta de errores",
+      "num": "88888",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Ahí escondía las pérdidas",
+      "sub": "S$ 373,9 M a diciembre de 1994"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El problema de fondo: él mismo operaba y él mismo se controlaba.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Nadie controlaba",
+      "h": "Él solo",
+      "items": [
+       {
+        "t": "Leeson opera",
+        "en": 0.1
+       },
+       {
+        "t": "Leeson registra",
+        "en": 0.45
+       },
+       {
+        "t": "Leeson controla",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Para recuperar, apostaba cada vez más fuerte a que la bolsa de Tokio no iba a bajar.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:55674@1",
+      "k": "Para recuperar",
+      "h": "Apostaba <i>más fuerte</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "La apuesta",
+      "h": "Que Tokio <i>no iba a bajar</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El diecisiete de enero de 1995, un terremoto sacudió Kobe, y la bolsa japonesa se hundió.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-074.mp4@1",
+      "k": "17 de enero de 1995",
+      "h": "Terremoto en <i>Kobe</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Bolsa de Tokio: Nikkei en baja (imagen de archivo)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Nikkei 225, enero de 1995",
+      "h": "La bolsa <i>se hundió</i>",
+      "series": [
+       {
+        "pts": [
+         19700,
+         19500,
+         19300,
+         18800,
+         18100,
+         17800
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "16-ene",
+       "17-ene Kobe",
+       "fin de enero"
+      ],
+      "src": "Valores aproximados"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Leeson dobló la apuesta. El veintitrés de febrero se escapó y dejó una nota: lo siento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Leeson",
+      "h": "Dobló <i>la apuesta</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "Lo siento",
+      "en": 0.3,
+      "autor": "nota de Nick Leeson, 23/2/1995"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El agujero era de ochocientos veintisiete millones de libras, el doble del capital que el banco tenía para operar.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "El agujero",
+      "h": "<i>El doble</i> del capital",
+      "bars": [
+       {
+        "label": "Capital para operar",
+        "v": 413,
+        "txt": "aprox. la mitad",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Pérdida",
+        "v": 827,
+        "txt": "£ 827 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: Banco de Inglaterra, informe de 1995"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Barings, con doscientos treinta y tres años, se vendió por una libra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que pagó ING por Barings",
+      "num": "£ 1",
+      "color": "roj",
+      "en": 0.1,
+      "h": "233 años, vendido por",
+      "sub": "1995"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "A Leeson lo condenaron a seis años y medio de cárcel en Singapur.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:144296@1",
+      "k": "Singapur",
+      "h": "<i>Seis años y medio</i> de cárcel",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Condena a Nick Leeson",
+      "num": "6,5 años",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "en Singapur"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés lo que pasa cuando se dobla la apuesta para tapar una pérdida: el agujero crece.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Doblar la apuesta <i>para tapar</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "El agujero crece",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

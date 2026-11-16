@@ -1,0 +1,383 @@
+{
+ "voz": "voz-tf12.wav",
+ "palabras": "voz-tf12.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-ah-tf-001.jpg",
+  "h": "Ganó 100 millones <b>y terminó en la ruina</b>",
+  "sub": "Jesse Livermore"
+ },
+ "segs": [
+  {
+   "txt": "Se dice que ganó cien millones de dólares en 1929, mientras casi todos se fundían. Y terminó en la ruina.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-001.mp4@1",
+      "k": "1929",
+      "h": "Ganó <i>100 millones</i>",
+      "cred": "Archivo · British Pathé",
+      "pie": "Wall Street durante el crac de 1929"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Y terminó",
+      "h": "En <i>la ruina</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Jesse Livermore no era banquero ni tenía título. Empezó de adolescente, en Boston, anotando precios en una pizarra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-037.mp4@1",
+      "k": "Jesse Livermore",
+      "h": "Ni banquero <i>ni título</i>",
+      "cred": "Archivo · skip@avgeeks.com",
+      "pie": "Operador anotando órdenes, 1941 (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Boston",
+      "h": "El chico <i>de la pizarra</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "anotaba precios de adolescente"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "A los quince años hizo su primera apuesta: cinco dólares. Ganó tres con doce.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Su primera apuesta, a los 15",
+      "num": "US$ 3,12",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Puso 5, ganó",
+      "sub": "1892"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Apostaba en casas donde no se compraban acciones: solo se jugaba a si subían o bajaban.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:9086@1",
+      "k": "Casas de apuestas",
+      "h": "Solo se jugaba a <i>sube o baja</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Casas de apuestas",
+      "h": "No se compraban <i>acciones</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ganaba tanto que, según se cuenta, le prohibieron la entrada. Entonces se fue a Wall Street.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Según se cuenta",
+      "h": "Le prohibieron <i>la entrada</i>",
+      "items": [
+       {
+        "t": "Jesse Livermore",
+        "st": "PROHIBIDO ENTRAR",
+        "en": 0.15
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-003.mp4@1",
+      "k": "Entonces",
+      "h": "Se fue a <i>Wall Street</i>",
+      "cred": "Archivo · British Movietone",
+      "crop": "1440:1080:240:0",
+      "pie": "Wall Street con la iglesia Trinity, 1929"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En el pánico de 1907 apostó a la baja y ganó cerca de un millón de dólares en un solo día.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Ganancias apostando a la baja",
+      "h": "1907: <i>un millón</i>",
+      "bars": [
+       {
+        "label": "1906",
+        "v": 0.25,
+        "txt": "US$ 250.000",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "1907",
+        "v": 1,
+        "txt": "US$ 1 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Según sus biógrafos"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 1929 repitió la jugada, mucho más grande. Se le atribuyen unos cien millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Dow Jones en 1929",
+      "h": "Apostó <i>a la baja</i>",
+      "series": [
+       {
+        "pts": [
+         381,
+         350,
+         300,
+         230,
+         250,
+         200
+        ],
+        "label": "Livermore apostaba a la baja",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "sep 381",
+       "oct",
+       "nov 199"
+      ],
+      "src": "Las ganancias que se le atribuyen no tienen registro oficial"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que se le atribuye",
+      "num": "US$ 100 M",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "en 1929"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero no supo conservarlos. En 1934 se declaró en quiebra por tercera vez.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Sus quiebras",
+      "h": "No supo <i>conservarlos</i>",
+      "items": [
+       {
+        "t": "Antes de 1915",
+        "en": 0.15,
+        "r": "1ra"
+       },
+       {
+        "t": "1915",
+        "en": 0.45,
+        "r": "2da"
+       },
+       {
+        "t": "1934",
+        "en": 0.75,
+        "r": "3ra",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Declaró ochenta y cuatro mil dólares en bienes contra dos millones y medio de deudas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Quiebra de 1934",
+      "h": "Bienes contra <i>deudas</i>",
+      "bars": [
+       {
+        "label": "Bienes",
+        "v": 0.084,
+        "txt": "US$ 84.000",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Deudas",
+        "v": 2.5,
+        "txt": "US$ 2,5 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Murió en 1940, a los sesenta y tres años, en Nueva York.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-030.mp4@1",
+      "k": "Nueva York, 1940",
+      "h": "Murió a los <i>63 años</i>",
+      "cred": "Archivo · Abdul Afram",
+      "pie": "Nueva York (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Jesse Livermore",
+      "num": "1877-1940",
+      "color": "bl",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Había ganado y perdido fortunas más de una vez.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "La fortuna de Livermore",
+      "h": "Ganó y perdió <i>más de una vez</i>",
+      "series": [
+       {
+        "pts": [
+         1,
+         10,
+         2,
+         8,
+         100,
+         1
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "1907",
+       "1915",
+       "1929",
+       "1934"
+      ],
+      "src": "Esquema ilustrativo, sin escala"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que ganar plata y conservarla son dos habilidades distintas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:26452@1",
+      "k": "Ya sabés",
+      "h": "Ganar y conservar",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Ganar no es conservar",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

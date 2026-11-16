@@ -1,0 +1,314 @@
+{
+ "voz": "voz-tf08.wav",
+ "palabras": "voz-tf08.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-wsn-tf-002.jpg",
+  "h": "Los Nobel que <b>casi tumban</b> Wall Street",
+  "sub": "LTCM, 1998"
+ },
+ "segs": [
+  {
+   "txt": "Dos premios Nobel de Economía trabajaban en un mismo fondo de inversión. Y ese fondo casi tumba a Wall Street.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-002.mp4@1",
+      "k": "Wall Street",
+      "h": "Dos premios <i>Nobel</i>",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Un mismo fondo",
+      "h": "Casi tumba <i>a Wall Street</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Te hablo de Long-Term Capital Management, creado en 1994 por John Meriwether, una estrella de Salomon Brothers.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Febrero de 1994",
+      "h": "Long-Term Capital <i>Management</i>",
+      "items": [
+       {
+        "t": "Fundador: John Meriwether",
+        "st": "LTCM 1994",
+        "en": 0.15
+       }
+      ],
+      "src": "Meriwether venía de Salomon Brothers"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En el equipo estaban Myron Scholes y Robert Merton, que ganaron el Nobel en 1997.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "El equipo",
+      "h": "Dos <i>premios Nobel</i>",
+      "items": [
+       {
+        "t": "Myron Scholes",
+        "en": 0.15,
+        "r": "Nobel 1997"
+       },
+       {
+        "t": "Robert Merton",
+        "en": 0.75,
+        "r": "Nobel 1997"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Arrancaron brillante: ganaron más de cuarenta por ciento en 1995 y otra vez en 1996.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Rendimiento anual de LTCM",
+      "h": "Arrancaron <i>brillante</i>",
+      "bars": [
+       {
+        "label": "1994",
+        "v": 20,
+        "txt": "20 %",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "1995",
+        "v": 43,
+        "txt": "43 %",
+        "color": "roj",
+        "en": 0.32
+       },
+       {
+        "label": "1996",
+        "v": 41,
+        "txt": "41 %",
+        "color": "roj",
+        "en": 0.48
+       },
+       {
+        "label": "1997",
+        "v": 17,
+        "txt": "17 %",
+        "color": "gr",
+        "en": 0.65
+       }
+      ],
+      "src": "Rendimientos para los inversores, aproximados"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "¿La estrategia? Buscar diferencias mínimas de precio entre bonos parecidos y apostar a que se iban a achicar.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Bonos parecidos",
+      "h": "Diferencias <i>mínimas</i>",
+      "series": [
+       {
+        "pts": [
+         100,
+         99.6,
+         99.4,
+         99.3,
+         99.2
+        ],
+        "label": "La apuesta: que se juntaran",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "src": "Esquema ilustrativo, no son precios reales"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Como cada ganancia era chiquita, la multiplicaban con deuda.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/dolares-billetes/tf-001.mp4@1",
+      "k": "Cada ganancia era chiquita",
+      "h": "La multiplicaban <i>con deuda</i>",
+      "cred": "Archivo · StockVid - Royalty Free Footage",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "A comienzos de 1998 tenían menos de cinco mil millones propios y más de ciento veinte mil millones prestados.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Comienzos de 1998",
+      "h": "<i>25 a 1</i>",
+      "bars": [
+       {
+        "label": "Capital propio",
+        "v": 4.7,
+        "txt": "US$ 4.700 M",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Deuda",
+        "v": 124.5,
+        "txt": "US$ 124.500 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: informe del Grupo de Trabajo del Presidente de EE. UU., 1999"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En agosto de 1998, Rusia dejó de pagar su deuda. Los inversores huyeron a lo más seguro.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:43252@2",
+      "k": "Agosto de 1998",
+      "h": "Rusia <i>deja de pagar</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Moscú (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Los inversores",
+      "h": "Huyeron a lo <i>más seguro</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Esas diferencias, en vez de achicarse, se agrandaron. El fondo perdió cuatro mil seiscientos millones en menos de cuatro meses.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que perdió el fondo",
+      "num": "-US$ 4.600 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "En menos de cuatro meses"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La Reserva Federal de Nueva York reunió a catorce bancos, que pusieron tres mil seiscientos millones para evitar algo peor.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/bancos-centrales-fed/tf-006.mp4@2",
+      "k": "La Fed de Nueva York",
+      "h": "Reunió a <i>14 bancos</i>",
+      "cred": "Archivo · Laurenc Riese",
+      "pie": "Banco de la Reserva Federal de Nueva York (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Pusieron 14 bancos",
+      "num": "US$ 3.600 M",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "para evitar algo peor"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que tener razón no alcanza: con demasiada deuda, el mercado te funde antes de dártela.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:19600@1",
+      "k": "Ya sabés",
+      "h": "Tener razón <i>no alcanza</i>",
+      "cred": "Video: Pixabay"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "La deuda no espera",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
