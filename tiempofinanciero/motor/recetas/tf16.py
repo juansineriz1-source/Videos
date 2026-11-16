@@ -5,7 +5,7 @@ SEGS=[
  [Li('2019','<i>FTX + Alameda</i>',[('FTX','la plataforma'),('Alameda Research','su fondo'),('Dueño de las dos','Sam Bankman-Fried',1)])],
  [F('El token FTT','Todo <i>en la misma ficha</i>',['FTX emite FTT','Alameda lo tiene','Como patrimonio'])],
  [S('2 de noviembre de 2022','CoinDesk publica <i>el balance</i>',[('Balance de Alameda','LLENO DE FTT')])],
- [A('c:tf-008@4','Cuatro días después','Binance <i>vende todos sus FTT</i>',pie='Imagen ilustrativa'),N('-80%','Precio del FTT',sub='8/11/2022',color='roj')],
+ [A('c:tf-008@4','Cuatro días después','Binance <i>vende todos sus FTT</i>',pie='Imagen ilustrativa'),N('-75%','Precio del FTT',sub='8/11/2022 · Yahoo Finance',color='roj')],
  [N('US$ 6.000 M','Retirados en 72 horas',h='Los clientes corrieron',color='roj')],
  [F('Según la Justicia','<i>La plata no estaba</i>',['Depósitos de clientes de FTX','US$ 8.000 M','Alameda Research'])],
  [A('ot:tf-002@1','11 de noviembre de 2022','FTX pide <i>la quiebra</i>',pie='Imagen ilustrativa'),S('FTX','<i>Quiebra</i>',[('11/11/2022','QUIEBRA')])],
