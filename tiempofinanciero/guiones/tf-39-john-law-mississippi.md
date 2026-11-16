@@ -1,5 +1,5 @@
 # tf-39 John Law: el hombre que inventó los millonarios y fundió a Francia
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez (2026-11-15), correcciones aplicadas 2026-11-16. Listo para grabar.
 
 ## Texto (voz)
 | # | Voz |
@@ -7,7 +7,7 @@ Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), fa
 | 1 | La palabra millonario se hizo famosa por una burbuja. Y la armó un escocés prófugo en Francia. |
 | 2 | John Law era jugador y matemático. En 1716 convenció al gobierno francés de imprimir billetes de papel en vez de usar oro. |
 | 3 | Después creó la Compañía del Mississippi, con el monopolio del comercio con Luisiana. |
-| 4 | Prometía riquezas que nadie había visto. En 1719 la acción pasó de 500 libras a unas 10.000. |
+| 4 | Prometía riquezas que nadie había visto. En 1719 la acción pasó de 500 libras francesas a unas 10.000. |
 | 5 | París se llenó de nuevos ricos. Les decían millonarios. |
 | 6 | Pero para sostener el precio, el banco imprimía cada vez más billetes. Y los precios de todo se dispararon. |
 | 7 | En 1720 la gente quiso cambiar papel por oro, y no había. La acción se derrumbó y Law escapó del país. |

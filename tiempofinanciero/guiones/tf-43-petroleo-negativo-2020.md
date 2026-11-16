@@ -1,5 +1,5 @@
 # tf-43 El día que te pagaban por llevarte petróleo
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez sin cambios (2026-11-15). Listo para grabar.
 
 ## Texto (voz)
 | # | Voz |
@@ -14,6 +14,7 @@ Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), fa
 | 8 | Ya sabés que un precio no es solo lo que vale algo: también es lo que cuesta guardarlo. |
 
 ## Visuales sugeridos (estilo Matriz)
+En pantalla: aclarar "WTI de Estados Unidos; el Brent no fue negativo" (pedido del juez 2026-11-15).
 Línea real del futuro de WTI de abril de 2020 cruzando el cero (con el eje marcado); recortes petroleo-energia del banco (cigüeñas, tanques); número −37,63; flujo: contrato vence, hay que recibir barriles, no hay tanques.
 
 ## Caption

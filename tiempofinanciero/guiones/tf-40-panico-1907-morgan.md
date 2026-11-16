@@ -1,5 +1,5 @@
 # tf-40 1907: el día que un solo hombre fue el banco central
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez sin cambios (2026-11-15). Listo para grabar.
 
 ## Texto (voz)
 | # | Voz |

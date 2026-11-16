@@ -1,5 +1,5 @@
 # tf-38 El corralito: cuando tu plata estaba en el banco pero no era tuya
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez (2026-11-15), correcciones aplicadas 2026-11-16. Listo para grabar.
 
 ## Texto (voz)
 | # | Voz |
@@ -8,9 +8,9 @@ Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), fa
 | 2 | Eso fue el corralito. Lo anunció el gobierno el primero de diciembre para frenar la corrida. |
 | 3 | Hacía meses que la gente retiraba dólares, porque nadie creía que el uno a uno aguantara. |
 | 4 | El 20 de diciembre renunció el presidente De la Rúa. Días después, Argentina dejó de pagar su deuda. |
-| 5 | En enero de 2002 se terminó la convertibilidad, y los depósitos en dólares se devolvieron en pesos, a 1,40. |
+| 5 | En enero de 2002 se terminó la convertibilidad. En febrero, los depósitos en dólares se pasaron a pesos: 1,40 por dólar más un ajuste por inflación. |
 | 6 | Para mitad de año, el dólar ya rozaba los 4 pesos. |
-| 7 | El que tenía dólares en el banco perdió buena parte. El que los tenía afuera, no. |
+| 7 | El que tenía dólares en el banco perdió buena parte, salvo que ganara un juicio. El que los tenía afuera, no. |
 | 8 | Ya sabés por qué tantos argentinos desconfían: no es folclore, es memoria. |
 
 ## Visuales sugeridos (estilo Matriz)

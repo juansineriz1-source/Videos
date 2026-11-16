@@ -1,5 +1,5 @@
 # tf-37 Hetty Green: la bruja de Wall Street
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez (2026-11-15), correcciones aplicadas 2026-11-16. Listo para grabar.
 
 ## Texto (voz)
 | # | Voz |
@@ -10,7 +10,7 @@ Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), fa
 | 4 | Pero su método era muy simple: comprar cuando todos vendían asustados, y tener siempre efectivo guardado. |
 | 5 | En el pánico de 1907, cuando faltaba plata en todos lados, ella tenía. Hasta le prestó a la ciudad de Nueva York. |
 | 6 | Murió en 1916 con una fortuna estimada en más de 100 millones de dólares de la época. |
-| 7 | Su frase: comprar barato, vender caro, y no tener apuro. |
+| 7 | Se le atribuye una regla: comprar barato cuando nadie quiere, y esperar sin apuro. |
 | 8 | Ya sabés que en las crisis no gana el más audaz: gana el que llegó con efectivo. |
 
 ## Visuales sugeridos (estilo Matriz)

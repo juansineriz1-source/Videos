@@ -1,15 +1,15 @@
 # tf-47 Kodak inventó la cámara digital. Y la guardó en un cajón
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez (2026-11-15), correcciones aplicadas 2026-11-16. Listo para grabar.
 
 ## Texto (voz)
 | # | Voz |
 |---|---|
-| 1 | La cámara digital la inventó Kodak. En 1975. Y decidió no venderla. |
+| 1 | La cámara digital la inventó Kodak. En 1975. Y la dejó guardada años. |
 | 2 | El ingeniero se llamaba Steve Sasson y tenía 24 años. Su prototipo pesaba casi cuatro kilos y tardaba 23 segundos en guardar una foto en blanco y negro. |
-| 3 | Cuando se la mostró a los jefes, la respuesta fue clara: está muy linda, pero no se lo cuentes a nadie. |
+| 3 | Cuando se la mostró a los jefes, según contó él, la respuesta fue clara: está muy linda, pero no se lo cuentes a nadie. |
 | 4 | Kodak ganaba fortunas vendiendo rollos y revelado. Una cámara sin rollo era una amenaza para su propio negocio. |
 | 5 | Durante años fue una de las empresas más valiosas de Estados Unidos. |
-| 6 | Pero la tecnología llegó igual, de la mano de otros. En enero de 2012, Kodak pidió la quiebra. |
+| 6 | Kodak llegó tarde y nunca pudo reemplazar la ganancia del rollo. En enero de 2012 pidió la quiebra. |
 | 7 | Ya sabés el riesgo de cuidar demasiado lo que hoy te da de comer: que otro te coma mañana. |
 
 ## Visuales sugeridos (estilo Matriz)

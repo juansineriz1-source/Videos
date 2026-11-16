@@ -1,5 +1,5 @@
 # tf-44 Volkswagen 2008: la empresa más valiosa del mundo por un rato
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez (2026-11-15), correcciones aplicadas 2026-11-16. Listo para grabar.
 
 ## Texto (voz)
 | # | Voz |
@@ -9,7 +9,7 @@ Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), fa
 | 3 | Un domingo, Porsche anunció que controlaba cerca de 74 por ciento de Volkswagen, entre acciones y opciones. |
 | 4 | Otro 20 por ciento era de un estado alemán, que no vendía. |
 | 5 | Hagamos la cuenta: quedaba alrededor de 6 por ciento para comprar. Y los que estaban en corto necesitaban el doble. |
-| 6 | El lunes salieron todos a comprar al precio que fuera. La acción se multiplicó por cinco en dos días y pasó los 1.000 euros. |
+| 6 | El lunes salieron todos a comprar al precio que fuera. La acción se multiplicó casi por cinco en dos días y pasó los 1.000 euros. |
 | 7 | Se calcula que los fondos perdieron decenas de miles de millones. |
 | 8 | Ya sabés que apostar a la baja tiene un problema: la pérdida no tiene techo. |
 

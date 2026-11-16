@@ -1,10 +1,10 @@
 # tf-46 1890: cuando la Argentina casi funde al banco más famoso de Londres
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez (2026-11-15), correcciones aplicadas 2026-11-16. Listo para grabar.
 
 ## Texto (voz)
 | # | Voz |
 |---|---|
-| 1 | En 1890, una crisis argentina casi hace quebrar al banco más prestigioso de Londres. |
+| 1 | En 1890, una crisis argentina casi hace quebrar a uno de los bancos más prestigiosos de Londres. |
 | 2 | El Barings le había prestado y colocado montañas de deuda a la Argentina, que crecía a toda velocidad. |
 | 3 | Ferrocarriles, puertos, obras de agua para Buenos Aires. Todo con plata inglesa. |
 | 4 | Pero el país gastaba más de lo que entraba, y emitía sin respaldo. En 1890 estalló la crisis, hubo una revolución y el presidente renunció. |

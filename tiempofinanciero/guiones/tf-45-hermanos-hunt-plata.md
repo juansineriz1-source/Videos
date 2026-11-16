@@ -1,10 +1,10 @@
 # tf-45 Los hermanos que quisieron comprar toda la plata del mundo
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez (2026-11-15), correcciones aplicadas 2026-11-16. Listo para grabar.
 
 ## Texto (voz)
 | # | Voz |
 |---|---|
-| 1 | Dos hermanos de Texas intentaron comprar toda la plata del mundo. Y casi lo logran. |
+| 1 | Dos hermanos de Texas intentaron comprar toda la plata del mundo. Y llegaron a tener un tercio. |
 | 2 | Bunker y Herbert Hunt eran herederos de una fortuna petrolera. En los setenta, con la inflación alta, no confiaban en el dólar. |
 | 3 | Empezaron a comprar plata. Mucha. Y gran parte con plata prestada. |
 | 4 | A comienzos de 1979 la onza valía unos 6 dólares. En enero de 1980 llegó a casi 50. |
