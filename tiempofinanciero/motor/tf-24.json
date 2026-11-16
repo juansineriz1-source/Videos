@@ -1,0 +1,313 @@
+{
+ "voz": "voz-tf24.wav",
+ "palabras": "voz-tf24.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-085.jpg",
+  "h": "Blockbuster <b>dijo que no</b>",
+  "sub": "Netflix por 50 millones"
+ },
+ "segs": [
+  {
+   "txt": "Imaginate rechazar por cincuenta millones de dólares una empresa que hoy vale doscientos cincuenta y cinco mil millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Netflix",
+      "h": "<i>US$ 50 M</i>",
+      "bars": [
+       {
+        "label": "Lo que pedía en 2000",
+        "v": 50,
+        "txt": "US$ 50 M",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Lo que vale hoy",
+        "v": 255000,
+        "txt": "US$ 255.000 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Netflix al 13/11/2026"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pasó en el año 2000. Y en ese momento, decir que no parecía lo más lógico.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-084.mp4@1",
+      "k": "Año 2000",
+      "h": "Decir que no <i>parecía lógico</i>",
+      "cred": "Archivo · Vampire Robot",
+      "pie": "Video club en 1987"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Blockbuster era el gigante del alquiler de películas. Netflix mandaba DVD por correo y perdía plata.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-085.mp4@1",
+      "k": "Blockbuster",
+      "h": "El <i>gigante</i>",
+      "cred": "Archivo · Vampire Robot",
+      "pie": "Video club en 1987"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "2000",
+      "h": "Gigante contra <i>recién nacida</i>",
+      "items": [
+       {
+        "t": "Blockbuster",
+        "en": 0.15,
+        "r": "alquiler de películas"
+       },
+       {
+        "t": "Netflix",
+        "en": 0.75,
+        "r": "DVD por correo, perdía plata",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Sus fundadores, Reed Hastings y Marc Randolph, viajaron a Dallas a ofrecerle la empresa.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-169.mp4@1",
+      "k": "Dallas",
+      "h": "Reed Hastings y <i>Marc Randolph</i>",
+      "cred": "Archivo · Drone Snap",
+      "pie": "Texas (imagen actual)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pidieron cincuenta millones. Según contó Randolph en su libro, el jefe de Blockbuster apenas contuvo la risa.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que pidieron",
+      "num": "US$ 50 M",
+      "color": "bl",
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "Luchaba por no reírse",
+      "en": 0.3,
+      "autor": "Marc Randolph, sobre el jefe de Blockbuster"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Blockbuster siguió creciendo. En 2004 llegó a nueve mil noventa y cuatro locales en el mundo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Locales de Blockbuster en 2004",
+      "num": "9.094",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Siguió creciendo",
+      "sub": "84.300 empleados"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Blockbuster cobraba multas por devolver tarde. Netflix cobraba un abono fijo por mes, sin multas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "El modelo",
+      "h": "Multas contra <i>abono fijo</i>",
+      "items": [
+       {
+        "t": "Blockbuster",
+        "en": 0.15,
+        "r": "por película + multa"
+       },
+       {
+        "t": "Netflix",
+        "en": 0.75,
+        "r": "abono fijo, sin multas",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Después llegó el streaming, y la gente dejó de ir al local.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-090.mp4@1",
+      "k": "Después",
+      "h": "Llegó <i>el streaming</i>",
+      "cred": "Archivo · Olena Glazkov",
+      "pie": "Times Square (imagen actual)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El veintitrés de septiembre de 2010, Blockbuster pidió la quiebra, con unos novecientos millones de deuda.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Locales de Blockbuster",
+      "h": "De 9.094 <i>a uno</i>",
+      "series": [
+       {
+        "pts": [
+         9094,
+         8000,
+         4000,
+         1500,
+         1
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "2004 9.094",
+       "2010 quiebra",
+       "hoy 1"
+      ],
+      "src": "Quiebra: 23/9/2010, con unos US$ 900 M de deuda"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hoy queda un solo local abierto, en Bend, Oregón.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Bend, Oregón",
+      "h": "Queda <i>un solo local</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Local de Blockbuster abierto",
+      "num": "1",
+      "color": "roj",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Netflix vale unas cinco mil veces lo que pidió aquella vez. Cálculo al catorce de noviembre de 2026.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que vale hoy contra lo que pedía",
+      "num": "× 5.000",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Netflix",
+      "sub": "US$ 255.000 M ÷ US$ 50 M · al 14/11/2026"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que muchas veces a una empresa grande no la tumba el rival: la tumba no cambiar a tiempo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "No la tumba <i>el rival</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "No cambiar a tiempo",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

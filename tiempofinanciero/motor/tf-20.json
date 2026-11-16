@@ -30,7 +30,7 @@
    ]
   },
   {
-   "txt": "Elizabeth Holmes fundó Theranos en 2003, a los diecinueve años, después de dejar la Universidad de Stanford.",
+   "txt": "Elizabeth Holmes fundó Theranos en 2003, a los diecinueve años, y al año siguiente dejó Stanford.",
    "vis": [
     [
      "g",
@@ -42,7 +42,7 @@
       "color": "bl",
       "en": 0.1,
       "h": "2003",
-      "sub": "después de dejar Stanford"
+      "sub": "dejó Stanford en 2004"
      }
     ]
    ]

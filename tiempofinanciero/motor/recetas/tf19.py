@@ -2,7 +2,7 @@ PORTADA=dict(img='x-066@3',h='El día que <b>la libra se rindió</b>',sub='Soros
 SEGS=[
  [A('x-066@1','16 de septiembre de 1992','El Banco de Inglaterra <i>se rinde</i>',pie='Royal Exchange frente al Banco de Inglaterra (imagen actual)')],
  [A('x-067@1','El mito exagera','Soros <i>no quebró a nadie</i>',pie='Billetes de libras'),T('Encontró','Una promesa que <i>no se podía cumplir</i>')],
- [L('La libra atada al marco','Una <i>banda fija</i>',[2.95,2.95,2.9,2.85,2.8,2.78],xl=['1990 centro 2,95','sep-92 piso 2,773'],src='Marcos alemanes por libra')],
+ [L('La libra atada al marco','Una <i>banda fija</i>',[2.95,2.95,2.9,2.85,2.8,2.78],xl=['1990 centro 2,95','sep-92 piso 2,778'],src='Marcos alemanes por libra')],
  [A('x-063@1','Alemania con tasas altas','Reino Unido <i>en recesión</i>',pie='Londres (imagen actual)'),T('Resultado','La libra <i>estaba cara</i>')],
  [N('+US$ 10.000 M','En libras vendidas',h='El fondo de Soros',sub='con libras prestadas',color='roj')],
  [Q('El aporte de Soros fue empujarme a ir mucho más grande','Stanley Druckenmiller, según su relato')],

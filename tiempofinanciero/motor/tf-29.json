@@ -184,7 +184,7 @@
    ]
   },
   {
-   "txt": "La acción había caído sesenta y uno por ciento. Y después cayó más de treinta otras cuatro veces.",
+   "txt": "La acción había caído sesenta y uno por ciento. Y después cayó más de treinta por ciento otras seis veces.",
    "vis": [
     [
      "g",
@@ -192,7 +192,7 @@
      {
       "g": "lista",
       "k": "Caídas de más de 30 %",
-      "h": "<i>-61 %</i> y cuatro más",
+      "h": "<i>-61 %</i> y seis más",
       "items": [
        {
         "t": "2008",
@@ -202,17 +202,27 @@
        },
        {
         "t": "2013",
-        "en": 0.3,
+        "en": 0.25,
         "r": "-44 %"
+       },
+       {
+        "t": "2016",
+        "en": 0.35,
+        "r": "-32 %"
        },
        {
         "t": "2019",
         "en": 0.45,
-        "r": "-38 %"
+        "r": "-39 %"
+       },
+       {
+        "t": "2020",
+        "en": 0.55,
+        "r": "-31 %"
        },
        {
         "t": "2022",
-        "en": 0.6,
+        "en": 0.65,
         "r": "-31 %"
        },
        {
