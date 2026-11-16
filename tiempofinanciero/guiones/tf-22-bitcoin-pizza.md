@@ -12,13 +12,13 @@ Tipo: historia. Duración objetivo: 60 s. Estado: revisado OK (2026-11-14).
 | 6 | Le pidió dos pizzas de Papa John's a domicilio y recibió las monedas. | TRATO HECHO | Gráfico: flujo: Hanyecz → 10.000 BTC → Sturdivant → 2 pizzas → Hanyecz |
 | 7 | Ese día, los diez mil bitcoins valían unos cuarenta y un dólares. | US$ 41 | Gráfico: número grande: 10.000 BTC = US$ 41 (22/05/2010) |
 | 8 | Fue la primera compra conocida de algo físico con bitcoin. Por eso el veintidós de mayo es el Día de la Pizza. | DÍA DE LA PIZZA | Pixabay: pizza slices table friends |
-| 9 | Al catorce de noviembre de 2026, un bitcoin cotiza cerca de sesenta y cinco mil dólares. | 1 BTC ≈ US$ 65.200 | Gráfico: línea: precio de bitcoin 2010 → 14/11/2026: US$ 65.200 |
-| 10 | Cada pizza: trescientos veinticinco millones. Hanyecz dijo varias veces que no se arrepiente. | US$ 325 M CADA UNA | Gráfico: barras: US$ 41 (2010) vs US$ 652 M (14/11/2026) |
+| 9 | Al dieciséis de noviembre de 2026, un bitcoin cotiza cerca de sesenta y cinco mil dólares. | 1 BTC ≈ US$ 65.200 | Gráfico: línea: precio de bitcoin 2010 → 16/11/2026: US$ 65.200 |
+| 10 | Cada pizza: trescientos veinticinco millones. Hanyecz dijo varias veces que no se arrepiente. | US$ 326 M CADA UNA | Gráfico: barras: US$ 41 (2010) vs US$ 652 M (16/11/2026) |
 | 11 | Ya sabés por qué esta historia importa: una moneda vale cuando alguien la acepta a cambio de algo. | VALE SI ALGUIEN LA ACEPTA | Pixabay: paying with phone shop |
 
 ## Caption
-22 de mayo de 2010: un programador paga dos pizzas con 10.000 bitcoins, que ese día valían unos 41 dólares. Al 14/11/2026 serían unos 650 millones. La primera compra con bitcoin, en un minuto.
-Precio de bitcoin: Yahoo Finance (BTC-USD), 14/11/2026. Imágenes: Pixabay.
+22 de mayo de 2010: un programador paga dos pizzas con 10.000 bitcoins, que ese día valían unos 41 dólares. Al 16/11/2026 serían unos 650 millones. La primera compra con bitcoin, en un minuto.
+Precio de bitcoin: Yahoo Finance (BTC-USD), 16/11/2026. Imágenes: Pixabay.
 Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
 #bitcoin #bitcoinpizzaday #cripto #historiadelbitcoin #finanzas #inversiones
 
@@ -36,3 +36,4 @@ Contenido educativo. No es recomendación de inversión. Rendimientos pasados no
 
 ## Revisión financiera (2026-11-14)
 OK. BTC a US$ 65.595 (Yahoo, 2026-11-14) da 656 M: 'seiscientos cincuenta millones' alcanza. Recalcular el día de grabar.
+- 2026-11-16: el juez pidió fechar al 16/11 (BTC ~65.200; el 14/11 cerró 64.128). Voz fila 9 regrabada; placa 326 M.

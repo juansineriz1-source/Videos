@@ -1,0 +1,13 @@
+reel,clave_nas,caption,estado,fecha,nota
+tf06,tiempofinanciero/reels/reel-tf06-tulipanes.mp4,captions/cap-tf06.txt,programado,2026-11-17,
+tf04,tiempofinanciero/reels/reel-tf04-newton.mp4,captions/cap-tf04.txt,programado,2026-11-18,
+tf10,tiempofinanciero/reels/reel-tf10-enron.mp4,captions/cap-tf10.txt,programado,2026-11-19,
+tf09,tiempofinanciero/reels/reel-tf09-puntocom.mp4,captions/cap-tf09.txt,programado,2026-11-20,
+tf11,tiempofinanciero/reels/reel-tf11-lehman.mp4,captions/cap-tf11.txt,aprobado,,no pegado a tf15
+tf14,tiempofinanciero/reels/reel-tf14-charles-ponzi.mp4,captions/cap-tf14.txt,aprobado,,
+tf17,tiempofinanciero/reels/reel-tf17-archegos.mp4,captions/cap-tf17.txt,aprobado,,el día de publicar chequear que la apelación de Hwang siga pendiente
+tf15,tiempofinanciero/reels/reel-tf15-michael-burry.mp4,captions/cap-tf15.txt,aprobado,,no pegado a tf11
+tf12,tiempofinanciero/reels/reel-tf12-livermore.mp4,captions/cap-tf12.txt,aprobado,,
+tf13,tiempofinanciero/reels/reel-tf13-nick-leeson.mp4,captions/cap-tf13.txt,aprobado,,
+tf18,tiempofinanciero/reels/reel-tf18-buffett-coca-cola.mp4,captions/cap-tf18.txt,aprobado,,
+tf23,tiempofinanciero/reels/reel-tf23-ronald-wayne.mp4,captions/cap-tf23.txt,aprobado,,

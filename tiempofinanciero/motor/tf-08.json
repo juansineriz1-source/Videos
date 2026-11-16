@@ -1,7 +1,7 @@
 {
  "voz": "voz-tf08.wav",
  "palabras": "voz-tf08.json",
- "tempo": 1.21,
+ "tempo": 1.28,
  "cierre": 1.8,
  "portada": {
   "g": "portada",
@@ -188,7 +188,7 @@
      {
       "g": "barras",
       "k": "Comienzos de 1998",
-      "h": "<i>25 a 1</i>",
+      "h": "Más de <i>25 a 1</i>",
       "bars": [
        {
         "label": "Capital propio",
