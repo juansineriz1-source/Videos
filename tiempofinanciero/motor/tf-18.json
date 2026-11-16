@@ -1,0 +1,313 @@
+{
+ "voz": "voz-tf18.wav",
+ "palabras": "voz-tf18.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-56.jpg",
+  "h": "2 millones de dólares <b>por día</b>",
+  "sub": "Buffett y Coca-Cola"
+ },
+ "segs": [
+  {
+   "txt": "Hay una inversión que hoy paga más de dos millones de dólares por día, y se hizo hace casi cuarenta años.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Por día",
+      "num": "US$ 2,3 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Una inversión que paga",
+      "sub": "848 M al año dividido 365"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Se hizo",
+      "h": "Hace <i>casi 40 años</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "No es una tecnológica ni una cripto. Es Coca-Cola.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:56@1",
+      "k": "Ni tecnológica ni cripto",
+      "h": "Es <i>Coca-Cola</i>",
+      "cred": "Video: Pixabay"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 1988, meses después del derrumbe de la bolsa de 1987, Warren Buffett empezó a comprar acciones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-172.mp4@1",
+      "k": "1988",
+      "h": "Buffett <i>empieza a comprar</i>",
+      "cred": "Archivo · TAPP Channel",
+      "pie": "Omaha, la ciudad de Buffett (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Meses después",
+      "h": "Del derrumbe de <i>1987</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Siguió hasta 1994. En total, su empresa Berkshire Hathaway puso mil trescientos millones de dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Lo que puso Berkshire",
+      "h": "<i>US$ 1.299 M</i> en total",
+      "bars": [
+       {
+        "label": "1988",
+        "v": 593,
+        "txt": "US$ 593 M",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "1989",
+        "v": 1024,
+        "txt": "US$ 1.024 M",
+        "color": "gr",
+        "en": 0.4
+       },
+       {
+        "label": "1994",
+        "v": 1299,
+        "txt": "US$ 1.299 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Costo acumulado. Cartas de Berkshire Hathaway"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Desde entonces no vendió ni una. Hoy son cuatrocientos millones de acciones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Acciones de Coca-Cola",
+      "num": "400 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "No vendió ni una",
+      "sub": "en manos de Berkshire"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Coca-Cola reparte parte de sus ganancias en efectivo a sus accionistas. Eso es un dividendo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Dividendo",
+      "h": "Ganancia <i>en efectivo</i>",
+      "items": [
+       {
+        "t": "Ganancia de la empresa",
+        "en": 0.1
+       },
+       {
+        "t": "Dividendo en efectivo",
+        "en": 0.45
+       },
+       {
+        "t": "Accionista",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y lo sube todos los años, desde hace más de seis décadas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Dividendo por acción",
+      "h": "<i>64 años</i> seguidos subiendo",
+      "series": [
+       {
+        "pts": [
+         0.1,
+         0.3,
+         0.6,
+         1,
+         1.5,
+         2.12
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "1963",
+       "2026 US$ 2,12"
+      ],
+      "src": "Esquema de la tendencia; 64 aumentos anuales seguidos hasta 2026"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 2026 paga dos dólares con doce por acción. Para Berkshire son ochocientos cuarenta y ocho millones al año.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Al año para Berkshire",
+      "num": "US$ 848 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "400 M × US$ 2,12",
+      "sub": "dividendo de 2026"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "O sea: cada año cobra el sesenta y cinco por ciento de lo que puso. Sin vender nada.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Cada año cobra",
+      "h": "<i>65 %</i> de lo que puso",
+      "bars": [
+       {
+        "label": "Lo que puso",
+        "v": 1299,
+        "txt": "US$ 1.299 M",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Cobra por año",
+        "v": 848,
+        "txt": "US$ 848 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y las acciones valen casi cuarenta mil millones. Cálculo al catorce de noviembre de 2026.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Valor al 13/11/2026",
+      "h": "Casi <i>US$ 40.000 M</i>",
+      "bars": [
+       {
+        "label": "Costo",
+        "v": 1299,
+        "txt": "US$ 1.299 M",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Valor",
+        "v": 39700,
+        "txt": "US$ 39.700 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Cierre 13/11/2026: US$ 99,25 por acción. Fuente: Yahoo Finance"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés qué es el rendimiento sobre el costo: lo que cobrás hoy, medido contra lo que pagaste hace años.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ya sabés",
+      "h": "Rendimiento <i>sobre el costo</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "lo que cobrás hoy contra lo que pagaste"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Paciencia que paga",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

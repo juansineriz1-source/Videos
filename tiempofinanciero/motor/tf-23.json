@@ -1,0 +1,341 @@
+{
+ "voz": "voz-tf23.wav",
+ "palabras": "voz-tf23.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-et-tf-007.jpg",
+  "h": "Vendió su parte de Apple <b>por 800 dólares</b>",
+  "sub": "Ronald Wayne"
+ },
+ "segs": [
+  {
+   "txt": "Imaginate vender por ochocientos dólares algo que hoy equivaldría a más de quinientos mil millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Lo que vendió",
+      "h": "<i>US$ 800</i>",
+      "bars": [
+       {
+        "label": "1976",
+        "v": 800,
+        "txt": "US$ 800",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Hoy (10 % de Apple)",
+        "v": 518000000000,
+        "txt": "US$ 518.000 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Al 13/11/2026"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Le pasó a Ronald Wayne, el tercer fundador de Apple. El que casi nadie conoce.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-001.mp4@1",
+      "k": "Apple",
+      "h": "El tercer <i>fundador</i>",
+      "cred": "Archivo · Framework Films",
+      "pie": "Apple Park, Cupertino (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Ronald Wayne",
+      "h": "El que <i>casi nadie conoce</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El primero de abril de 1976 firmó la sociedad con Steve Jobs y Steve Wozniak.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "1 de abril de 1976",
+      "h": "La sociedad",
+      "items": [
+       {
+        "t": "Steve Jobs",
+        "st": "SOCIO",
+        "en": 0.15
+       },
+       {
+        "t": "Steve Wozniak",
+        "st": "SOCIO",
+        "en": 0.45
+       },
+       {
+        "t": "Ronald Wayne",
+        "st": "SOCIO",
+        "en": 0.75
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ellos tenían cuarenta y cinco por ciento cada uno. Wayne, el diez, para desempatar.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "La sociedad",
+      "h": "Wayne, <i>para desempatar</i>",
+      "bars": [
+       {
+        "label": "Jobs",
+        "v": 45,
+        "txt": "45 %",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Wozniak",
+        "v": 45,
+        "txt": "45 %",
+        "color": "gr",
+        "en": 0.4
+       },
+       {
+        "label": "Wayne",
+        "v": 10,
+        "txt": "10 %",
+        "color": "roj",
+        "en": 0.65
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Escribió el contrato de la sociedad y dibujó el primer logo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:198901@1",
+      "k": "Ronald Wayne",
+      "h": "Escribió el contrato <i>y dibujó el logo</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero era una sociedad de personas: si Apple no pagaba sus deudas, respondían los socios con sus bienes.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Sociedad de personas",
+      "h": "Respondían <i>con sus bienes</i>",
+      "items": [
+       {
+        "t": "Deuda de la sociedad",
+        "en": 0.1
+       },
+       {
+        "t": "La pagan los socios",
+        "en": 0.45
+       },
+       {
+        "t": "Con sus bienes personales",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Jobs y Wozniak tenían veintipico. Wayne tenía cuarenta y un años y bienes que perder.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Las edades",
+      "h": "Wayne tenía <i>bienes que perder</i>",
+      "items": [
+       {
+        "t": "Jobs",
+        "en": 0.15,
+        "r": "21"
+       },
+       {
+        "t": "Wozniak",
+        "en": 0.45,
+        "r": "25"
+       },
+       {
+        "t": "Wayne",
+        "en": 0.75,
+        "r": "41",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "A los doce días se fue. Le pagaron ochocientos dólares, y después mil quinientos más por renunciar a cualquier reclamo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que duró Wayne",
+      "num": "12 días",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Se fue",
+      "sub": "cobró US$ 800 + US$ 1.500 = US$ 2.300"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Al trece de noviembre de 2026, Apple vale más de cinco billones de dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Valor de Apple en bolsa",
+      "h": "Más de <i>5 billones</i>",
+      "series": [
+       {
+        "pts": [
+         0.0,
+         0.1,
+         0.5,
+         2,
+         3,
+         5.18
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "1980",
+       "13-11-2026 US$ 5,18 billones"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El diez por ciento serían quinientos dieciocho mil millones. Aunque con los años esa parte se habría achicado mucho.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-002.mp4@1",
+      "k": "El 10 %",
+      "h": "<i>US$ 518.000 M</i>",
+      "cred": "Archivo · Framework Films",
+      "pie": "Apple Park (imagen actual)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Aunque",
+      "h": "Esa parte <i>se habría achicado</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Wayne dijo que no se arrepiente: decidió con la información que tenía.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "La mejor decisión con la información disponible en ese momento",
+      "en": 0.3,
+      "autor": "Ronald Wayne"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que el riesgo no es igual para todos: depende de cuánto tenés para perder.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:220024@1",
+      "k": "Ya sabés",
+      "h": "El riesgo <i>no es igual para todos</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Depende de cuánto podés perder",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

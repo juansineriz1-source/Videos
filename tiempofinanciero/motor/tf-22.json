@@ -1,0 +1,317 @@
+{
+ "voz": "voz-tf22.wav",
+ "palabras": "voz-tf22.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-17177.jpg",
+  "h": "Dos pizzas <b>por 650 millones</b>",
+  "sub": "El día de la pizza bitcoin"
+ },
+ "segs": [
+  {
+   "txt": "¿Cuánto pagarías por dos pizzas? Un programador pagó diez mil bitcoins. Hoy serían seiscientos cincuenta millones de dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:17177@1",
+      "k": "¿Cuánto pagarías por dos pizzas?",
+      "h": "<i>10.000 bitcoins</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que valdrían hoy",
+      "num": "US$ 650 M",
+      "color": "roj",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero no fue una locura. En mayo de 2010, bitcoin tenía poco más de un año y no se usaba para comprar nada.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Bitcoin",
+      "h": "Mayo de 2010: <i>menos de un centavo</i>",
+      "series": [
+       {
+        "pts": [
+         0,
+         0,
+         0,
+         0.001,
+         0.004
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ene-09 nace",
+       "may-10 < US$ 0,01"
+      ],
+      "src": "Recién en 2010 empezó a tener precio de mercado"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Laszlo Hanyecz, un programador de Florida, quiso probar si servía como plata de verdad.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:215189@1",
+      "k": "Laszlo Hanyecz, Florida",
+      "h": "¿Sirve <i>como plata</i>?",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El dieciocho de mayo escribió en un foro: ofrezco diez mil bitcoins por dos pizzas grandes.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "Ofrezco 10.000 bitcoins por dos pizzas grandes",
+      "en": 0.3,
+      "autor": "foro Bitcointalk, 18/5/2010 (traducido)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Cuatro días después aceptó un chico de diecinueve años, de California: Jeremy Sturdivant.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-089.mp4@1",
+      "k": "22 de mayo de 2010",
+      "h": "Acepta <i>Jeremy Sturdivant</i>",
+      "cred": "Archivo · My Electronics Collection",
+      "pie": "Tecnología de la época (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Tenía Jeremy Sturdivant",
+      "num": "19 años",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "de California"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Le pidió dos pizzas de Papa John's a domicilio y recibió las monedas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Trato hecho",
+      "h": "Bitcoins por <i>pizzas</i>",
+      "items": [
+       {
+        "t": "Hanyecz",
+        "en": 0.1
+       },
+       {
+        "t": "10.000 BTC",
+        "en": 0.33
+       },
+       {
+        "t": "Sturdivant",
+        "en": 0.57
+       },
+       {
+        "t": "2 pizzas de Papa John’s",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ese día, los diez mil bitcoins valían unos cuarenta y un dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "10.000 BTC el 22/5/2010",
+      "num": "US$ 41",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Ese día valían"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Fue la primera compra conocida de algo físico con bitcoin. Por eso el veintidós de mayo es el Día de la Pizza.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "c:123629@1",
+      "k": "22 de mayo",
+      "h": "El día de <i>la pizza bitcoin</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "La primera compra",
+      "h": "De algo físico <i>con bitcoin</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Al catorce de noviembre de 2026, un bitcoin cotiza cerca de sesenta y cinco mil dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Precio de bitcoin",
+      "h": "De centavos <i>a US$ 65.200</i>",
+      "series": [
+       {
+        "pts": [
+         0.004,
+         1,
+         800,
+         20000,
+         65200
+        ],
+        "label": "",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "2010",
+       "2026 US$ 65.200"
+      ],
+      "src": "Precio al 14/11/2026"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Cada pizza: trescientos veinticinco millones. Hanyecz dijo varias veces que no se arrepiente.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Las dos pizzas",
+      "h": "De US$ 41 <i>a US$ 652 M</i>",
+      "bars": [
+       {
+        "label": "2010",
+        "v": 41,
+        "txt": "US$ 41",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "14/11/2026",
+        "v": 652000000,
+        "txt": "US$ 652 M",
+        "color": "roj",
+        "en": 0.65
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Cada pizza",
+      "num": "US$ 325 M",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "Hanyecz dice que no se arrepiente"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés por qué esta historia importa: una moneda vale cuando alguien la acepta a cambio de algo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/dolares-billetes/tf-004.mp4@1",
+      "k": "Ya sabés",
+      "h": "Una moneda <i>vale</i>",
+      "cred": "Archivo · Early Financial Freedom",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Vale si alguien la acepta",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
