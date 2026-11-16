@@ -1,0 +1,231 @@
+{
+ "voz": "voz-tf47.wav",
+ "palabras": "voz-tf47.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-kd-021.jpg",
+  "h": "Kodak inventó la cámara digital <b>y la escondió</b>",
+  "sub": "La historia de 1975"
+ },
+ "segs": [
+  {
+   "txt": "La cámara digital la inventó Kodak. En 1975. Y la dejó guardada años.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/kd-021.mp4@1",
+      "k": "Kodak, 1975",
+      "h": "Inventó <i>la cámara digital</i>",
+      "cred": "Video: Pixabay · FlickrVideos",
+      "pie": "Cámara de rollo (imagen ilustrativa, Pixabay)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Año del primer prototipo",
+      "num": "1975",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Y la dejó <i>guardada</i>"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El ingeniero se llamaba Steve Sasson y tenía 24 años. Su prototipo pesaba casi cuatro kilos y tardaba 23 segundos en guardar una foto en blanco y negro.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Steve Sasson",
+      "h": "Ingeniero <i>de 24 años</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Por cada foto en blanco y negro",
+      "num": "23 s",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Lento <i>y pesado</i>",
+      "sub": "el prototipo pesaba cerca de 3,6 kg"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-087.mp4@1",
+      "k": "Blanco y negro",
+      "h": "Una foto <i>cada 23 segundos</i>",
+      "cred": "Archivo · The Darkroom UK Ltd",
+      "pie": "Cámara de 35 mm (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Cuando se la mostró a los jefes, según contó él, la respuesta fue clara: está muy linda, pero no se lo cuentes a nadie.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/kd-005.mp4@1",
+      "k": "Los jefes",
+      "h": "La respuesta",
+      "cred": "Video: Pixabay · tommyvideo",
+      "pie": "Película fotográfica (animación ilustrativa, Pixabay)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "Está muy linda, pero no se lo cuentes a nadie",
+      "en": 0.3,
+      "autor": "Respuesta de los jefes, según contó Sasson"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Kodak ganaba fortunas vendiendo rollos y revelado. Una cámara sin rollo era una amenaza para su propio negocio.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-086.mp4@1",
+      "k": "El negocio",
+      "h": "Rollos <i>y revelado</i>",
+      "cred": "Archivo · The Darkroom UK Ltd",
+      "pie": "Rollo de película (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Cómo ganaba Kodak",
+      "h": "El rollo <i>era la caja</i>",
+      "items": [
+       {
+        "t": "Vende el rollo",
+        "en": 0.1
+       },
+       {
+        "t": "Cobra el revelado",
+        "en": 0.45
+       },
+       {
+        "t": "Repite",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Durante años fue una de las empresas más valiosas de Estados Unidos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/kd-016.mp4@1",
+      "k": "Décadas de oro",
+      "h": "Una de las <i>más valiosas</i>",
+      "cred": "Video: Pixabay · wisconsinpictures",
+      "pie": "Cámara instantánea y rollo (imagen ilustrativa, Pixabay)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Kodak llegó tarde y nunca pudo reemplazar la ganancia del rollo. En enero de 2012 pidió la quiebra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/kd-010.mp4@1",
+      "k": "Llegó lo digital",
+      "h": "Kodak <i>llegó tarde</i>",
+      "cred": "Video: Pixabay · Coverr-Free-Footage",
+      "pie": "Foto con celular (imagen ilustrativa, Pixabay)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Enero de 2012",
+      "h": "Kodak",
+      "items": [
+       {
+        "t": "Pedido de quiebra",
+        "st": "QUIEBRA",
+        "en": 0.15
+       }
+      ],
+      "src": "Eastman Kodak, 19/1/2012"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés el riesgo de cuidar demasiado lo que hoy te da de comer: que otro te coma mañana.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/kd-012.mp4@1",
+      "k": "Ya sabés",
+      "h": "Cuidar <i>lo de hoy</i>",
+      "cred": "Video: Pixabay · magicmore",
+      "pie": "Fotos en el celular (imagen ilustrativa, Pixabay)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Otro te come mañana",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

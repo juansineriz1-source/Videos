@@ -1,0 +1,311 @@
+{
+ "voz": "voz-tf38.wav",
+ "palabras": "voz-tf38.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-057.jpg",
+  "h": "Tus dólares, <b>en pesos</b>",
+  "sub": "El corralito de 2001"
+ },
+ "segs": [
+  {
+   "txt": "Diciembre de 2001. Tenés tus ahorros en el banco, y de un día para el otro solo podés sacar 250 por semana.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-049.mp4@1",
+      "k": "Diciembre de 2001",
+      "h": "Tus ahorros, <i>en el banco</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Buenos Aires, 2001"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Por semana, como máximo",
+      "num": "$ 250",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Lo que <i>podías sacar</i>",
+      "sub": "en pesos o dólares"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Eso fue el corralito. Lo anunció el gobierno el primero de diciembre para frenar la corrida.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Decreto 1570/2001",
+      "h": "Nace <i>el corralito</i>",
+      "items": [
+       {
+        "t": "1 de diciembre",
+        "st": "CORRALITO",
+        "en": 0.15
+       }
+      ],
+      "src": "Anunciado el 1/12, vigente desde el 3/12"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-050.mp4@1",
+      "k": "Para frenar",
+      "h": "La corrida <i>bancaria</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "City porteña, 2001"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hacía meses que la gente retiraba dólares, porque nadie creía que el uno a uno aguantara.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-051.mp4@1",
+      "k": "El uno a uno",
+      "h": "Nadie creía <i>que aguantara</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "City porteña, 2001"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Meses antes",
+      "h": "La gente <i>sacaba dólares</i>",
+      "items": [
+       {
+        "t": "Desconfianza",
+        "en": 0.1
+       },
+       {
+        "t": "Retiros",
+        "en": 0.45
+       },
+       {
+        "t": "Corrida",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El 20 de diciembre renunció el presidente De la Rúa. Días después, Argentina dejó de pagar su deuda.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-055.mp4@1",
+      "k": "20 de diciembre",
+      "h": "Renuncia <i>De la Rúa</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Plaza de Mayo, diciembre de 2001"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "23 de diciembre de 2001",
+      "h": "Argentina <i>no paga</i>",
+      "items": [
+       {
+        "t": "Deuda",
+        "st": "DEFAULT",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En enero de 2002 se terminó la convertibilidad. En febrero, los depósitos en dólares se pasaron a pesos: 1,40 por dólar más un ajuste por inflación.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "2002",
+      "h": "Fin del <i>uno a uno</i>",
+      "items": [
+       {
+        "t": "Enero",
+        "en": 0.15,
+        "r": "termina la convertibilidad"
+       },
+       {
+        "t": "Febrero",
+        "en": 0.75,
+        "r": "depósitos pasados a pesos",
+        "hi": true
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Por cada dólar depositado",
+      "num": "$ 1,40",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Pesificación",
+      "sub": "más ajuste por inflación (CER)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-052.mp4@1",
+      "k": "Ahorristas",
+      "h": "Contra <i>los bancos</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Buenos Aires, 2002"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Para mitad de año, el dólar ya rozaba los 4 pesos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Dólar libre en 2002",
+      "h": "Casi <i>4 pesos</i>",
+      "series": [
+       {
+        "pts": [
+         1,
+         1.7,
+         2.1,
+         3,
+         2.9,
+         3.5,
+         3.8
+        ],
+        "label": "pesos por dólar",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "dic-01 $1",
+       "mar",
+       "jun $3,8"
+      ],
+      "src": "Valores aproximados del mercado libre"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El que tenía dólares en el banco perdió buena parte, salvo que ganara un juicio. El que los tenía afuera, no.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Quién perdió",
+      "h": "Adentro <i>o afuera</i>",
+      "bars": [
+       {
+        "label": "Dólares en el banco",
+        "v": 1.8,
+        "txt": "$ 1,40 + CER (≈ $ 1,80)",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "Dólares afuera",
+        "v": 3.8,
+        "txt": "$ 3,80",
+        "color": "gr",
+        "en": 0.65
+       }
+      ],
+      "src": "Valores aproximados a mitad de 2002"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-054.mp4@1",
+      "k": "Juicios",
+      "h": "Algunos <i>recuperaron</i>",
+      "cred": "Archivo · AP Archive",
+      "pie": "Cola frente a un banco, 2002"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés por qué tantos argentinos desconfían: no es folclore, es memoria.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-058.mp4@1",
+      "k": "Ya sabés",
+      "h": "No es <i>folclore</i>",
+      "cred": "Archivo · Federico Colombo",
+      "pie": "Cacerolazo, 19 de diciembre de 2001"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Es memoria",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

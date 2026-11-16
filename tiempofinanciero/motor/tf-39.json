@@ -1,0 +1,297 @@
+{
+ "voz": "voz-tf39.wav",
+ "palabras": "voz-tf39.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-db-tf-007.jpg",
+  "h": "La burbuja que <b>inventó a los millonarios</b>",
+  "sub": "John Law, Francia 1720"
+ },
+ "segs": [
+  {
+   "txt": "La palabra millonario se hizo famosa por una burbuja. Y la armó un escocés prófugo en Francia.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Millonario",
+      "h": "Nace <i>en una burbuja</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "Francia, 1719"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "John Law",
+      "h": "Un escocés <i>prófugo</i>",
+      "items": [
+       {
+        "t": "En Francia",
+        "st": "PRÓFUGO",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "John Law era jugador y matemático. En 1716 convenció al gobierno francés de imprimir billetes de papel en vez de usar oro.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "John Law",
+      "h": "Jugador <i>y matemático</i>",
+      "items": [
+       {
+        "t": "Escocia",
+        "en": 0.15,
+        "r": "nace en 1671"
+       },
+       {
+        "t": "1716",
+        "en": 0.75,
+        "r": "banco en París",
+        "hi": true
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/dolares-billetes/tf-007.mp4@1",
+      "k": "1716",
+      "h": "Billetes de papel <i>en vez de oro</i>",
+      "cred": "Archivo · European Central Bank",
+      "pie": "Imprenta de billetes actual (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Después creó la Compañía del Mississippi, con el monopolio del comercio con Luisiana.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Compañía del Mississippi",
+      "h": "El monopolio <i>de Luisiana</i>",
+      "items": [
+       {
+        "t": "Comercio con América",
+        "en": 0.1
+       },
+       {
+        "t": "Acciones para todos",
+        "en": 0.45
+       },
+       {
+        "t": "Riquezas prometidas",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Prometía riquezas que nadie había visto. En 1719 la acción pasó de 500 libras francesas a unas 10.000.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Acción de la Compañía, 1719",
+      "h": "De 500 <i>a 10.000</i>",
+      "series": [
+       {
+        "pts": [
+         500,
+         600,
+         1500,
+         3000,
+         6000,
+         9000,
+         10000
+        ],
+        "label": "libras francesas",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ene 500",
+       "jun",
+       "dic 10.000"
+      ],
+      "src": "Valores aproximados; las fuentes van de 9.000 a 10.000"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que subió la acción",
+      "num": "x20",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "en un año"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "París se llenó de nuevos ricos. Les decían millonarios.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oro-metales/px-009.mp4@1",
+      "k": "París",
+      "h": "Se llena de <i>nuevos ricos</i>",
+      "cred": "Video: Pixabay",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Millonarios",
+      "h": "Así les <i>decían</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero para sostener el precio, el banco imprimía cada vez más billetes. Y los precios de todo se dispararon.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "El círculo",
+      "h": "Más billetes, <i>más precio</i>",
+      "items": [
+       {
+        "t": "Más billetes",
+        "en": 0.1
+       },
+       {
+        "t": "Precio de la acción",
+        "en": 0.33
+       },
+       {
+        "t": "Precio de todo",
+        "en": 0.57
+       },
+       {
+        "t": "Más billetes",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 1720 la gente quiso cambiar papel por oro, y no había. La acción se derrumbó y Law escapó del país.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oro-metales/tf-016.mp4@1",
+      "k": "1720",
+      "h": "Papel por oro: <i>no había</i>",
+      "cred": "Archivo · Sky News",
+      "pie": "Bóveda de oro actual (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Acción de la Compañía, 1720",
+      "h": "Se derrumba",
+      "series": [
+       {
+        "pts": [
+         10000,
+         8000,
+         5000,
+         3000,
+         1000
+        ],
+        "label": "libras francesas",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ene",
+       "jun",
+       "dic"
+      ],
+      "src": "Valores aproximados"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que imprimir plata para sostener un precio funciona, hasta que alguien pide el oro.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oro-metales/tf-007.mp4@1",
+      "k": "Ya sabés",
+      "h": "Imprimir funciona...",
+      "cred": "Archivo · Skytech Group",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Hasta que piden el oro",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

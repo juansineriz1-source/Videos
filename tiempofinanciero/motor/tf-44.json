@@ -1,0 +1,271 @@
+{
+ "voz": "voz-tf44.wav",
+ "palabras": "voz-tf44.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-bcf-tf-003.jpg",
+  "h": "La empresa más valiosa <b>del mundo, por un rato</b>",
+  "sub": "Volkswagen, octubre de 2008"
+ },
+ "segs": [
+  {
+   "txt": "En octubre de 2008, en plena crisis, Volkswagen fue por un rato la empresa más valiosa del mundo. Y no por vender autos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Octubre de 2008",
+      "h": "Plena <i>crisis</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Volkswagen, la más valiosa del mundo",
+      "num": "N.º 1",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "por unas horas"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-013.mp4@1",
+      "k": "Y no por",
+      "h": "Vender <i>autos</i>",
+      "cred": "Archivo · Tesla",
+      "pie": "Fábrica de autos en Berlín (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Muchos fondos apostaban a que su acción iba a bajar. Estaban en corto.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Los fondos",
+      "h": "Apostaban <i>a la baja</i>",
+      "items": [
+       {
+        "t": "Piden acciones prestadas",
+        "en": 0.1
+       },
+       {
+        "t": "Las venden",
+        "en": 0.45
+       },
+       {
+        "t": "Esperan recomprarlas más baratas",
+        "en": 0.8
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Volkswagen",
+      "h": "Estaban <i>en corto</i>",
+      "items": [
+       {
+        "t": "Cerca de 12 % de las acciones",
+        "st": "EN CORTO",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Un domingo, Porsche anunció que controlaba cerca de 74 por ciento de Volkswagen, entre acciones y opciones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Domingo 26/10/2008",
+      "h": "Porsche <i>controla 74 %</i>",
+      "bars": [
+       {
+        "label": "Acciones",
+        "v": 42.6,
+        "txt": "42,6 %",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Opciones",
+        "v": 31.5,
+        "txt": "31,5 %",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Comunicado de Porsche, 26/10/2008"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Otro 20 por ciento era de un estado alemán, que no vendía.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Baja Sajonia",
+      "h": "Un estado <i>que no vende</i>",
+      "items": [
+       {
+        "t": "20,1 % de Volkswagen",
+        "st": "NO SE VENDE",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hagamos la cuenta: quedaba alrededor de 6 por ciento para comprar. Y los que estaban en corto necesitaban el doble.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Hagamos la cuenta",
+      "h": "Quedaba <i>muy poco</i>",
+      "bars": [
+       {
+        "label": "Libre para comprar",
+        "v": 6,
+        "txt": "≈ 6 %",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Lo que debían recomprar",
+        "v": 12,
+        "txt": "≈ 12 %",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Valores aproximados"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El lunes salieron todos a comprar al precio que fuera. La acción se multiplicó casi por cinco en dos días y pasó los 1.000 euros.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/bancos-centrales-fed/tf-003.mp4@1",
+      "k": "Lunes 27/10",
+      "h": "A comprar <i>al precio que fuera</i>",
+      "cred": "Archivo · 4k Ambient Relax Footage",
+      "pie": "Frankfurt (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Acción de Volkswagen",
+      "h": "Casi <i>x5 en dos días</i>",
+      "series": [
+       {
+        "pts": [
+         211,
+         520,
+         1005
+        ],
+        "label": "euros por acción",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "24/10 € 211",
+       "27/10",
+       "28/10 € 1.005"
+      ],
+      "src": "Valores aproximados; máximo intradiario del 28/10/2008"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Se calcula que los fondos perdieron decenas de miles de millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que habrían perdido los fondos",
+      "num": "€ 20.000-30.000 M",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "estimaciones de la época"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que apostar a la baja tiene un problema: la pérdida no tiene techo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/bancos-centrales-fed/tf-005.mp4@1",
+      "k": "Ya sabés",
+      "h": "Apostar a la baja",
+      "cred": "Archivo · 4k Ambient Relax Footage",
+      "pie": "Frankfurt (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "La pérdida no tiene techo",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

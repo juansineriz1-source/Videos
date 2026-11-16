@@ -1,0 +1,285 @@
+{
+ "voz": "voz-tf45.wav",
+ "palabras": "voz-tf45.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-129.jpg",
+  "h": "Quisieron comprar <b>toda la plata del mundo</b>",
+  "sub": "Los hermanos Hunt, 1980"
+ },
+ "segs": [
+  {
+   "txt": "Dos hermanos de Texas intentaron comprar toda la plata del mundo. Y llegaron a tener un tercio.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-129.mp4@1",
+      "k": "Texas",
+      "h": "Dos hermanos <i>contra el mundo</i>",
+      "cred": "Archivo · USMINT",
+      "pie": "Lingotes de plata, West Point (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "De la plata disponible",
+      "num": "1/3",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Llegaron <i>a un tercio</i>"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Bunker y Herbert Hunt eran herederos de una fortuna petrolera. En los setenta, con la inflación alta, no confiaban en el dólar.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Bunker y Herbert Hunt",
+      "h": "Herederos <i>del petróleo</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-049.mp4@1",
+      "k": "Fortuna petrolera",
+      "h": "La plata <i>de la familia</i>",
+      "cred": "Archivo · skip@avgeeks.com",
+      "pie": "Pozo de petróleo de los años 20 (archivo ilustrativo)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Años setenta",
+      "h": "Inflación <i>alta</i>",
+      "items": [
+       {
+        "t": "El dólar",
+        "st": "NO CONFIABAN",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Empezaron a comprar plata. Mucha. Y gran parte con plata prestada.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-134.mp4@1",
+      "k": "Plata",
+      "h": "Compraron <i>mucha</i>",
+      "cred": "Archivo · Silver Dragons",
+      "pie": "Lingote de plata (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Cómo",
+      "h": "Con plata <i>prestada</i>",
+      "items": [
+       {
+        "t": "Compran plata",
+        "en": 0.1
+       },
+       {
+        "t": "Piden prestado",
+        "en": 0.45
+       },
+       {
+        "t": "Compran más",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "A comienzos de 1979 la onza valía unos 6 dólares. En enero de 1980 llegó a casi 50.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Plata, US$ por onza",
+      "h": "De 6 <i>a casi 50</i>",
+      "series": [
+       {
+        "pts": [
+         6,
+         8,
+         12,
+         18,
+         35,
+         49.45
+        ],
+        "label": "US$ por onza",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "ene-79 US$ 6",
+       "jun-79",
+       "18/1/80 US$ 49,45"
+      ],
+      "src": "Valores aproximados"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Se calcula que controlaban cerca de un tercio de la plata disponible en el mercado.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "De la plata disponible en el mercado",
+      "num": "1/3",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "estimación habitual, sin contar reservas de gobiernos"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Entonces el mercado cambió las reglas: ya no se podía comprar con tanta deuda.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "COMEX, enero de 1980",
+      "h": "Cambian <i>las reglas</i>",
+      "items": [
+       {
+        "t": "Comprar con tanta deuda",
+        "st": "PROHIBIDO",
+        "en": 0.15
+       }
+      ],
+      "src": "Silver Rule 7"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El precio empezó a caer, y a los Hunt les exigieron más garantías. El 27 de marzo de 1980 no pudieron pagar. La plata se derrumbó a menos de 11 dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "La caída",
+      "h": "Piden <i>más garantías</i>",
+      "items": [
+       {
+        "t": "Baja el precio",
+        "en": 0.1
+       },
+       {
+        "t": "Más garantías",
+        "en": 0.45
+       },
+       {
+        "t": "No pueden pagar",
+        "en": 0.8
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Plata, 1980",
+      "h": "27 de marzo: <i>se derrumba</i>",
+      "series": [
+       {
+        "pts": [
+         49.45,
+         35,
+         21,
+         10.8
+        ],
+        "label": "US$ por onza",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "18/1",
+       "27/3 US$ 10,80"
+      ],
+      "src": "Valores aproximados"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que podés tener razón con la inflación y fundirte igual, si lo hacés con deuda.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-131.mp4@1",
+      "k": "Ya sabés",
+      "h": "Tener razón <i>no alcanza</i>",
+      "cred": "Archivo · USMINT",
+      "pie": "Monedas de plata (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Con deuda te fundís igual",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

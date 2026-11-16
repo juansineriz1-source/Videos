@@ -1,0 +1,275 @@
+{
+ "voz": "voz-tf40.wav",
+ "palabras": "voz-tf40.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-ah-tf-023.jpg",
+  "h": "Un hombre de 70 años <b>frenó el pánico</b>",
+  "sub": "Nueva York, 1907"
+ },
+ "segs": [
+  {
+   "txt": "En 1907, Estados Unidos no tenía banco central. Cuando llegó el pánico, lo frenó un señor de 70 años.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Estados Unidos, 1907",
+      "h": "Sin <i>banco central</i>",
+      "items": [
+       {
+        "t": "Banco central",
+        "st": "NO HABÍA",
+        "en": 0.15
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-023.mp4@1",
+      "k": "El pánico",
+      "h": "Lo frenó <i>un señor de 70</i>",
+      "cred": "Archivo · skip@avgeeks.com",
+      "pie": "Bolsa de Nueva York (archivo)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Todo empezó con una apuesta fallida para acaparar las acciones de una empresa de cobre.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oro-metales/tf-010.mp4@1",
+      "k": "United Copper",
+      "h": "Una apuesta <i>con el cobre</i>",
+      "cred": "Archivo · Aaron Baker",
+      "pie": "Mina de cobre actual (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "El origen",
+      "h": "Acaparar <i>y fallar</i>",
+      "items": [
+       {
+        "t": "Compran todas las acciones",
+        "en": 0.1
+       },
+       {
+        "t": "El precio se da vuelta",
+        "en": 0.45
+       },
+       {
+        "t": "Pierden",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los bancos que la habían financiado empezaron a caer, y la gente hizo fila para sacar su plata.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Contagio",
+      "h": "Caen <i>los bancos</i>",
+      "items": [
+       {
+        "t": "Bancos que prestaron",
+        "en": 0.1
+       },
+       {
+        "t": "Knickerbocker Trust",
+        "en": 0.45
+       },
+       {
+        "t": "Corrida",
+        "en": 0.8
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-001.mp4@1",
+      "k": "Filas",
+      "h": "Todos a sacar <i>su plata</i>",
+      "cred": "Archivo · British Pathé",
+      "pie": "Fila de época (archivo de 1929, ilustrativo)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "John Pierpont Morgan, el banquero más poderoso del país, tomó el mando.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "J. P. Morgan",
+      "h": "El banquero <i>más poderoso</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "nacido en 1837"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Años que tenía Morgan",
+      "num": "70",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Toma <i>el mando</i>",
+      "sub": "octubre de 1907"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Juntó a los dueños de los bancos en su biblioteca y, según se cuenta, cerró la puerta con llave.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Su biblioteca",
+      "h": "Según se cuenta, <i>con llave</i>",
+      "items": [
+       {
+        "t": "Los dueños de los bancos",
+        "st": "ENCERRADOS",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "No salió nadie hasta que pusieron la plata para rescatar a los que todavía se podían salvar.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "El acuerdo",
+      "h": "Nadie sale <i>sin poner</i>",
+      "items": [
+       {
+        "t": "Los bancos",
+        "en": 0.15,
+        "r": "ponen la plata"
+       },
+       {
+        "t": "Los que se podían salvar",
+        "en": 0.75,
+        "r": "rescatados",
+        "hi": true
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-046.mp4@1",
+      "k": "Funcionó",
+      "h": "El pánico <i>se frenó</i>",
+      "cred": "Archivo · skip@avgeeks.com",
+      "pie": "Casa de la Moneda de EE.UU. (archivo ilustrativo)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Funcionó. Pero el país entendió que no podía depender de la salud de un solo hombre.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Pero",
+      "h": "Un país <i>no puede depender</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "de la salud de un solo hombre"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En 1913 se creó la Reserva Federal. Ya sabés de dónde viene: de un susto y de una biblioteca cerrada.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Nace la Reserva Federal",
+      "num": "1913",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "Ley de la Reserva Federal, diciembre de 1913"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/bancos-centrales-fed/tf-010.mp4@1",
+      "k": "Ya sabés",
+      "h": "De dónde viene <i>la Fed</i>",
+      "cred": "Archivo · Elevated News",
+      "pie": "Edificio de la Reserva Federal, Washington"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Un susto y una biblioteca",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

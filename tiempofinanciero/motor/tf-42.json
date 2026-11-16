@@ -1,0 +1,270 @@
+{
+ "voz": "voz-tf42.wav",
+ "palabras": "voz-tf42.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-et-tf-022.jpg",
+  "h": "45 minutos y <b>440 millones menos</b>",
+  "sub": "Knight Capital, 2012"
+ },
+ "segs": [
+  {
+   "txt": "Una de las firmas más grandes de Wall Street quedó al borde de la quiebra en 45 minutos. Por un error de computadora.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Al borde de la quiebra",
+      "num": "45 min",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Una gigante <i>de Wall Street</i>"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "La causa",
+      "h": "Un error <i>de computadora</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Knight Capital movía una parte enorme de las órdenes de acciones de Estados Unidos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-044.mp4@1",
+      "k": "Knight Capital",
+      "h": "Movía <i>una parte enorme</i>",
+      "cred": "Archivo · Walks & Wall Street ",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Sus órdenes",
+      "h": "De acciones <i>de Estados Unidos</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El primero de agosto de 2012 estrenó un programa nuevo. Pero en uno de sus ocho servidores quedó activo un código viejo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "1 de agosto de 2012",
+      "h": "Un programa <i>nuevo</i>",
+      "items": [
+       {
+        "t": "Servidores 1 a 7",
+        "st": "ACTUALIZADOS",
+        "en": 0.15
+       },
+       {
+        "t": "Servidor 8",
+        "st": "CÓDIGO VIEJO",
+        "en": 0.75
+       }
+      ],
+      "src": "Orden de la SEC, octubre de 2013"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-022.mp4@1",
+      "k": "8 servidores",
+      "h": "Uno <i>sin actualizar</i>",
+      "cred": "Archivo · Demo Reel 4 Schenck",
+      "pie": "Centro de datos (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Cuando abrió el mercado, ese servidor empezó a comprar caro y vender barato, sin parar, millones de acciones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Al abrir el mercado",
+      "h": "Compra caro, <i>vende barato</i>",
+      "items": [
+       {
+        "t": "Compra caro",
+        "en": 0.1
+       },
+       {
+        "t": "Vende barato",
+        "en": 0.33
+       },
+       {
+        "t": "Sin parar",
+        "en": 0.57
+       },
+       {
+        "t": "Millones de acciones",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Nadie encontraba cómo apagarlo. Tardaron 45 minutos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-029.mp4@1",
+      "k": "Nadie lo apagaba",
+      "h": "45 minutos <i>sin control</i>",
+      "cred": "Archivo · Demo Reel 4 Schenck",
+      "pie": "Rack de servidores (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que tardaron en frenarlo",
+      "num": "45 min",
+      "color": "bl",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Para entonces la firma había perdido 440 millones de dólares, más que todo el efectivo que tenía.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Pérdida de la firma",
+      "num": "US$ 440 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Más que <i>su efectivo</i>",
+      "sub": "algunas fuentes: 460 antes de impuestos"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La acción cayó tres cuartas partes en dos días, y la empresa terminó en manos de un competidor.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Acción de Knight Capital",
+      "h": "Cae <i>tres cuartas partes</i>",
+      "series": [
+       {
+        "pts": [
+         10.3,
+         6.9,
+         2.6
+        ],
+        "label": "US$ por acción",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "31/7",
+       "1/8",
+       "2/8"
+      ],
+      "src": "Valores aproximados; cerca de -75 % en dos días"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "El final",
+      "h": "En manos <i>de un competidor</i>",
+      "items": [
+       {
+        "t": "2012",
+        "en": 0.15,
+        "r": "rescate de inversores"
+       },
+       {
+        "t": "2013",
+        "en": 0.75,
+        "r": "fusión con Getco",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que el riesgo no siempre está en el mercado: a veces está en un servidor que nadie revisó.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-026.mp4@1",
+      "k": "Ya sabés",
+      "h": "El riesgo <i>no siempre es el mercado</i>",
+      "cred": "Archivo · Demo Reel 4 Schenck",
+      "pie": "Imagen ilustrativa"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "A veces es un servidor sin revisar",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

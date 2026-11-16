@@ -1,0 +1,269 @@
+{
+ "voz": "voz-tf41.wav",
+ "palabras": "voz-tf41.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-et-tf-024.jpg",
+  "h": "Un billón de dólares <b>en 20 minutos</b>",
+  "sub": "El flash crash de 2010"
+ },
+ "segs": [
+  {
+   "txt": "El 6 de mayo de 2010, la bolsa de Estados Unidos perdió cerca de un billón de dólares. Y lo recuperó en minutos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "6 de mayo de 2010",
+      "h": "Se esfuma <i>un billón</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "un millón de millones de dólares"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que tardó en volver",
+      "num": "20 min",
+      "color": "roj",
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "A las dos y media de la tarde, el Dow Jones empezó a caer sin ninguna noticia nueva.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-092.mp4@1",
+      "k": "14:30",
+      "h": "Sin <i>ninguna noticia</i>",
+      "cred": "Archivo · Point Of View Wander",
+      "pie": "Times Square, Nueva York (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Dow Jones",
+      "h": "Empieza <i>a caer</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Llegó a caer casi 1.000 puntos, alrededor de nueve por ciento. La mayor parte, en cinco minutos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Dow Jones, 6/5/2010",
+      "h": "Casi <i>1.000 puntos</i>",
+      "series": [
+       {
+        "pts": [
+         10868,
+         10650,
+         10450,
+         10300,
+         9870,
+         10300,
+         10520
+        ],
+        "label": "puntos",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "cierre ant.",
+       "14:47 mínimo",
+       "cierre"
+      ],
+      "src": "Valores aproximados; caída máxima 998,5 puntos (9,2 %)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Caída máxima del día",
+      "num": "-9,2 %",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "la mayor parte en cinco minutos"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Acciones de empresas enormes llegaron a operarse a un centavo. Otras, a 100.000 dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Precios absurdos",
+      "h": "Un centavo <i>o 100.000</i>",
+      "bars": [
+       {
+        "label": "Accenture",
+        "v": 0.01,
+        "txt": "US$ 0,01",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "Sotheby's",
+        "v": 100000,
+        "txt": "US$ 100.000",
+        "color": "gr",
+        "en": 0.65
+       }
+      ],
+      "src": "Operaciones luego anuladas"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "¿Qué pasó? Una orden de venta gigante y automática, y miles de programas que reaccionaron vendiendo y retirándose al mismo tiempo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "¿Qué pasó?",
+      "h": "Una orden <i>gigante</i>",
+      "items": [
+       {
+        "t": "Venta automática enorme",
+        "en": 0.1
+       },
+       {
+        "t": "Miles de programas reaccionan",
+        "en": 0.45
+       },
+       {
+        "t": "Venden y se retiran",
+        "en": 0.8
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-028.mp4@1",
+      "k": "Las máquinas",
+      "h": "Todas <i>al mismo tiempo</i>",
+      "cred": "Archivo · Demo Reel 4 Schenck",
+      "pie": "Centro de datos (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Veinte minutos después había recuperado casi toda esa caída.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Después, casi todo recuperado",
+      "num": "20 min",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Vuelve <i>a subir</i>"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Cinco años más tarde detuvieron a un operador que, desde la casa de sus padres en Londres, ponía órdenes falsas para mover los precios. Se declaró culpable de manipular el mercado.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-064.mp4@1",
+      "k": "Londres, 2015",
+      "h": "Un operador <i>desde su casa</i>",
+      "cred": "Archivo · J Utah",
+      "pie": "Londres (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Navinder Sarao",
+      "h": "Órdenes <i>falsas</i>",
+      "items": [
+       {
+        "t": "Manipulación del mercado",
+        "st": "CULPABLE",
+        "en": 0.15
+       }
+      ],
+      "src": "Detenido en 2015; contribuyó, no fue la única causa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que hoy la mayoría de las órdenes las ponen máquinas. Y las máquinas también entran en pánico.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-027.mp4@1",
+      "k": "Ya sabés",
+      "h": "La mayoría de las órdenes, <i>máquinas</i>",
+      "cred": "Archivo · Demo Reel 4 Schenck",
+      "pie": "Servidores (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Las máquinas también tienen pánico",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

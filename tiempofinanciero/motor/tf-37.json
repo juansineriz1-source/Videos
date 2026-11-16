@@ -1,0 +1,262 @@
+{
+ "voz": "voz-tf37.wav",
+ "palabras": "voz-tf37.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-fh-001.jpg",
+  "h": "La mujer más rica <b>vestía de negro</b>",
+  "sub": "Hetty Green, la bruja de Wall Street"
+ },
+ "segs": [
+  {
+   "txt": "A la mujer más rica de Estados Unidos le decían la bruja de Wall Street.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/fh-001.mp4@1",
+      "k": "Hetty Green",
+      "h": "La bruja de <i>Wall Street</i>",
+      "cred": "Archivo · Library of Congress",
+      "pie": "Hetty Green, retrato (Library of Congress)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "La más rica",
+      "h": "De <i>Estados Unidos</i>",
+      "size": 150,
+      "en": 0.1,
+      "sub": "en su época"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hetty Green nació en 1834 y heredó unos millones de una familia ballenera.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Nació Hetty Green",
+      "num": "1834",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Heredó <i>unos millones</i>"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-122.mp4@2",
+      "k": "Familia ballenera",
+      "h": "Fortuna del <i>mar</i>",
+      "cred": "Archivo · Third Coast Drone",
+      "pie": "Velero de 1877 (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Vestía siempre de negro, vivía en pensiones baratas y discutía cada centavo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Su vida diaria",
+      "h": "Cuidaba <i>cada centavo</i>",
+      "items": [
+       {
+        "t": "Ropa",
+        "en": 0.15,
+        "r": "siempre negra"
+       },
+       {
+        "t": "Casa",
+        "en": 0.45,
+        "r": "pensiones baratas"
+       },
+       {
+        "t": "Gastos",
+        "en": 0.75,
+        "r": "discutidos uno por uno",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero su método era muy simple: comprar cuando todos vendían asustados, y tener siempre efectivo guardado.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Su método",
+      "h": "Comprar <i>con miedo ajeno</i>",
+      "items": [
+       {
+        "t": "Todos venden asustados",
+        "en": 0.1
+       },
+       {
+        "t": "Ella compra",
+        "en": 0.45
+       },
+       {
+        "t": "Siempre con efectivo guardado",
+        "en": 0.8
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/dolares-billetes/tf-005.mp4@1",
+      "k": "Efectivo",
+      "h": "Siempre <i>a mano</i>",
+      "cred": "Archivo · Early Financial Freedom",
+      "pie": "Imagen ilustrativa"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En el pánico de 1907, cuando faltaba plata en todos lados, ella tenía. Hasta le prestó a la ciudad de Nueva York.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-002.mp4@1",
+      "k": "Pánico de 1907",
+      "h": "Faltaba plata <i>en todos lados</i>",
+      "cred": "Archivo · British Pathé",
+      "pie": "Wall Street, multitud (archivo de 1929, ilustrativo)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Préstamo a la ciudad de Nueva York",
+      "num": "US$ 1,1 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Ella <i>tenía</i>",
+      "sub": "cifra citada por la prensa, 1907"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Murió en 1916 con una fortuna estimada en más de 100 millones de dólares de la época.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Hetty Green",
+      "h": "Murió <i>en 1916</i>",
+      "items": [
+       {
+        "t": "1834",
+        "en": 0.15,
+        "r": "nace"
+       },
+       {
+        "t": "1907",
+        "en": 0.45,
+        "r": "presta en el pánico"
+       },
+       {
+        "t": "1916",
+        "en": 0.75,
+        "r": "muere",
+        "hi": true
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Fortuna al morir",
+      "num": "+US$ 100 M",
+      "color": "roj",
+      "en": 0.1,
+      "sub": "las estimaciones van de 100 a 200 millones de 1916"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Se le atribuye una regla: comprar barato cuando nadie quiere, y esperar sin apuro.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "Comprar barato cuando nadie quiere, y esperar sin apuro.",
+      "en": 0.3,
+      "autor": "Regla que se le atribuye"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que en las crisis no gana el más audaz: gana el que llegó con efectivo.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/archivo-historico/tf-055.mp4@1",
+      "k": "Ya sabés",
+      "h": "En las crisis <i>gana el que tiene caja</i>",
+      "cred": "Archivo · skip@avgeeks.com",
+      "pie": "Bóveda de un banco, 1947"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Gana el que llegó con efectivo",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

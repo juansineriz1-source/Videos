@@ -1,0 +1,268 @@
+{
+ "voz": "voz-tf46.wav",
+ "palabras": "voz-tf46.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-x-065.jpg",
+  "h": "La Argentina casi funde <b>al banco más famoso de Londres</b>",
+  "sub": "La crisis de Baring, 1890"
+ },
+ "segs": [
+  {
+   "txt": "En 1890, una crisis argentina casi hace quebrar a uno de los bancos más prestigiosos de Londres.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-065.mp4@1",
+      "k": "Londres, 1890",
+      "h": "Un banco <i>en problemas</i>",
+      "cred": "Archivo · J Utah",
+      "pie": "La City de Londres hoy (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "La crisis de Baring",
+      "num": "1890",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Una crisis <i>argentina</i>"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El Barings le había prestado y colocado montañas de deuda a la Argentina, que crecía a toda velocidad.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Baring Brothers",
+      "h": "Prestaba y colocaba <i>deuda argentina</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-001.mp4@1",
+      "k": "Buenos Aires",
+      "h": "Un país <i>que crecía rápido</i>",
+      "cred": "Archivo · Buenos Aires Walks 4K",
+      "pie": "Microcentro porteño hoy (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ferrocarriles, puertos, obras de agua para Buenos Aires. Todo con plata inglesa.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-181.mp4@1",
+      "k": "Ferrocarriles",
+      "h": "Con plata <i>inglesa</i>",
+      "cred": "Archivo · The Great Western Guy",
+      "pie": "Locomotora a vapor (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-023.mp4@1",
+      "k": "Puertos y obras",
+      "h": "Todo <i>a crédito</i>",
+      "cred": "Archivo · Drone Shot",
+      "pie": "Docks de Puerto Madero hoy (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero el país gastaba más de lo que entraba, y emitía sin respaldo. En 1890 estalló la crisis, hubo una revolución y el presidente renunció.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "El problema",
+      "h": "Gastaba <i>más de lo que entraba</i>",
+      "items": [
+       {
+        "t": "Gasta de más",
+        "en": 0.1
+       },
+       {
+        "t": "Emite sin respaldo",
+        "en": 0.45
+       },
+       {
+        "t": "Estalla la crisis",
+        "en": 0.8
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "1890",
+      "h": "Un año <i>terrible</i>",
+      "items": [
+       {
+        "t": "Julio",
+        "en": 0.15,
+        "r": "Revolución del Parque"
+       },
+       {
+        "t": "Agosto",
+        "en": 0.75,
+        "r": "Renuncia Juárez Celman",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los bonos argentinos se desplomaron, y el Barings quedó lleno de papeles que nadie quería.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Bonos argentinos",
+      "h": "Se <i>desploman</i>",
+      "items": [
+       {
+        "t": "Los papeles del Barings",
+        "st": "NADIE LOS QUIERE",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El Banco de Inglaterra armó de urgencia un fondo con otros bancos para sostenerlo. Si caía, arrastraba a toda la City.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oro-metales/tf-014.mp4@1",
+      "k": "Banco de Inglaterra",
+      "h": "Arma <i>un rescate</i>",
+      "cred": "Archivo · Sky News",
+      "pie": "Salón del Banco de Inglaterra (Sky News)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Fondo de garantía con otros bancos, noviembre de 1890",
+      "num": "£ 17 M",
+      "color": "bl",
+      "en": 0.1,
+      "sub": "valor aproximado"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El Barings se salvó. Un siglo después lo fundió un solo empleado, pero esa es otra historia.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Barings",
+      "h": "Se salvó, <i>por un siglo</i>",
+      "items": [
+       {
+        "t": "1890",
+        "en": 0.15,
+        "r": "Rescate"
+       },
+       {
+        "t": "1995",
+        "en": 0.75,
+        "r": "Lo funde un solo empleado",
+        "hi": true
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/x-061.mp4@1",
+      "k": "Londres",
+      "h": "Otra historia",
+      "cred": "Archivo · Drone Snap",
+      "pie": "Londres hoy (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés que nuestras crisis de deuda no empezaron ayer: tienen más de 130 años.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-003.mp4@1",
+      "k": "Ya sabés",
+      "h": "Nuestras crisis <i>no son nuevas</i>",
+      "cred": "Archivo · Buenos Aires Walks 4K",
+      "pie": "Buenos Aires hoy (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Más de 130 años",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
