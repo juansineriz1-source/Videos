@@ -1,0 +1,4 @@
+Regla del 72: dividís 72 por la tasa anual y te da, más o menos, los años que tarda en duplicarse la plata. Al 6 %, 12 años; al 10 %, unos 7. La probamos con el SPY: del 14/11/1996 al 13/11/2026 rindió 9,9 % anual con dividendos reinvertidos, y mil dólares se hicieron unos 17 mil (cuatro duplicaciones). Pero el camino no fue parejo: hubo una caída de 55 % y recién en 2011 quedó definitivamente arriba del doble. También sirve al revés: con la inflación de EE. UU. de los últimos 20 años (2,6 % anual, CPI del BLS), los precios se duplican cada 28 años.
+Es una aproximación, no una fórmula exacta. Cálculo con datos de Yahoo Finance al 13/11/2026, sin comisiones ni impuestos. Cuenta en dólares.
+Contenido educativo. No es recomendación de inversión. Rendimientos pasados no garantizan rendimientos futuros.
+#regladel72 #interescompuesto #inversiones #spy #inflacion #finanzas #argentina
