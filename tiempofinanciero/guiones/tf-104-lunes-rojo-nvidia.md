@@ -1,5 +1,5 @@
 # tf-104 Lunes rojo: Wall Street estornuda y acá nos agarra la gripe
-Tipo: noticia del día (martes 2026-11-17, sobre la rueda del lunes 16/11), formato 1 noticia. Duración objetivo: 50 s (máximo 58). Estado: guion enviado al juez (2026-11-17).
+Tipo: noticia del día (martes 2026-11-17, sobre la rueda del lunes 16/11), formato 1 noticia. Duración objetivo: 50 s (máximo 58). Estado: guion aprobado por el juez (2026-11-17), con aviso de Claude en el caption.
 
 ## Texto (voz) y visuales
 | # | Voz | Visual |
@@ -16,6 +16,7 @@ Tipo: noticia del día (martes 2026-11-17, sobre la rueda del lunes 16/11), form
 ## Caption
 Lunes rojo: el Nasdaq cayó 2,5 % con Nvidia en baja en su primera semana sin Jensen Huang, y acá el Merval se hundió 5,3 % y el riesgo país subió a 855 puntos.
 Fuentes: Yahoo Finance y Motley Fool (cierre de Wall Street, 16/11/2026); Infobae y La Nación (mercado argentino, 16/11/2026).
+Aviso: este contenido se arma con ayuda de Claude, la IA de Anthropic.
 Contenido educativo. No es recomendación de inversión.
 #wallstreet #nvidia #merval #riesgopais #dolar #finanzas #argentina
 

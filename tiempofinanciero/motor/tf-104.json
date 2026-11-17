@@ -1,0 +1,303 @@
+{
+ "voz": "voz-tf104.wav",
+ "palabras": "voz-tf104.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "HISTORIAS DE LA BOLSA",
+  "img": "img/fr-wsn-tf-004.jpg",
+  "h": "Lunes rojo: <b>Wall Street estornudó</b>",
+  "sub": "Y acá nos agarró la gripe"
+ },
+ "segs": [
+  {
+   "txt": "Dicen que cuando Wall Street estornuda, a la Argentina le agarra gripe. Y el lunes, Wall Street estornudó fuerte.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-004.mp4@1",
+      "k": "Lunes 16/11",
+      "h": "Wall Street <i>estornudó</i>",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/nw-005.mp4@1",
+      "k": "La noticia del día",
+      "h": "Un lunes <i>rojo</i>",
+      "cred": "Video: Pixabay · MrWashingt0n",
+      "pie": "Gráfico de velas (animación ilustrativa, Pixabay)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El Nasdaq, el índice de las tecnológicas, cayó 2,5 por ciento. El S&P 500, 1,9.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Cierre del lunes 16/11",
+      "h": "Todo <i>en rojo</i>",
+      "bars": [
+       {
+        "label": "Nasdaq",
+        "v": 2.49,
+        "txt": "-2,5 %",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "S&P 500",
+        "v": 1.92,
+        "txt": "-1,9 %",
+        "color": "roj",
+        "en": 0.4
+       },
+       {
+        "label": "Dow Jones",
+        "v": 1.41,
+        "txt": "-1,4 %",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: Yahoo Finance y Motley Fool"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La que más pesó fue Nvidia: bajó 4 por ciento. Es su primera semana sin Jensen Huang como director ejecutivo, el fundador que dejó el cargo el jueves pasado.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Nvidia, cierre del 16/11 (US$ 156,14)",
+      "num": "-4,1 %",
+      "color": "roj",
+      "en": 0.1,
+      "h": "La que <i>más pesó</i>"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/personas-famosas/tf-008.mp4@1",
+      "k": "Jensen Huang",
+      "h": "Dejó el cargo <i>el 12/11</i>",
+      "cred": "Archivo · NVIDIA",
+      "pie": "Jensen Huang en GTC (archivo NVIDIA)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y para sumar, Estados Unidos endureció las restricciones para vender chips al exterior.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/nw-001.mp4@1",
+      "k": "Chips",
+      "h": "Más <i>restricciones</i>",
+      "cred": "Video: Pixabay · Art-Production",
+      "pie": "Chip en placa (animación ilustrativa, Pixabay)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "flujo",
+      "k": "Y para sumar",
+      "h": "Chips <i>con freno</i>",
+      "items": [
+       {
+        "t": "EE.UU. endurece",
+        "en": 0.1
+       },
+       {
+        "t": "Vender chips afuera",
+        "en": 0.45
+       },
+       {
+        "t": "Caen tecnológicas",
+        "en": 0.8
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "¿Y acá? El Merval se hundió 5,3 por ciento en pesos. YPF y Galicia cayeron más de 5 en Nueva York.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-029.mp4@1",
+      "k": "¿Y acá?",
+      "h": "Peor <i>todavía</i>",
+      "cred": "Archivo · Manuel Rey",
+      "pie": "Buenos Aires (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Lunes 16/11",
+      "h": "Argentina <i>se hundió</i>",
+      "bars": [
+       {
+        "label": "Merval (pesos)",
+        "v": 5.3,
+        "txt": "-5,3 %",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "YPF (NY)",
+        "v": 5.96,
+        "txt": "-6 %",
+        "color": "roj",
+        "en": 0.4
+       },
+       {
+        "label": "Galicia (NY)",
+        "v": 5.21,
+        "txt": "-5,2 %",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: Infobae y Yahoo Finance"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El riesgo país subió a 855 puntos. Y el dólar oficial cerró en 1.575 pesos, récord nominal.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Riesgo país, puntos básicos (+21)",
+      "num": "855",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Sube <i>el riesgo</i>",
+      "src": "Fuente: Infobae, La Capital"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Dólar oficial, Banco Nación",
+      "h": "$ 1.575",
+      "items": [
+       {
+        "t": "Cierre del 16/11",
+        "st": "RÉCORD NOMINAL",
+        "en": 0.15
+       }
+      ],
+      "src": "Fuente: Infobae, La Nación"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ojo con hoy: después del cierre, Nvidia presenta resultados, los primeros sin Huang. Y para el jueves se espera la salida a bolsa de Anthropic.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-010.mp4@1",
+      "k": "Esta semana",
+      "h": "Atentos",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Ojo con esta semana",
+      "h": "Lo que <i>viene</i>",
+      "items": [
+       {
+        "t": "Hoy",
+        "en": 0.15,
+        "r": "Nvidia presenta resultados",
+        "hi": true
+       },
+       {
+        "t": "Jueves 19/11",
+        "en": 0.75,
+        "r": "Se espera la salida a bolsa de Anthropic"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés: en un mercado conectado, un resfrío en Nueva York se contagia rápido.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-041.mp4@1",
+      "k": "Ya sabés",
+      "h": "Mercados <i>conectados</i>",
+      "cred": "Archivo · Walks & Wall Street ",
+      "pie": "Wall Street (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Un resfrío se contagia rápido",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
