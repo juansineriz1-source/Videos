@@ -16,7 +16,7 @@ def serie(t):
 def fila(nombre,t,modo,hoy):
     try: s=serie(t)
     except Exception as e: print("FALLA",t,e); return None
-    if t=="BTC-USD": s=[x for x in s if x[0].weekday()<5]   # mismo calendario que la bolsa
+    if t=="BTC-USD" and modo!="dia": s=[x for x in s if x[0].weekday()<5]   # semana: mismo calendario que la bolsa; dia: contra el día anterior real
     s=[x for x in s if x[0]<hoy] if modo=="dia" or hoy.weekday()>=5 else s
     f,c=s[-1]
     if (hoy-f).days>4: print("VIEJO",t,f); return None
