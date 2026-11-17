@@ -1,4 +1,4 @@
-PORTADA=dict(img='wsn:tf-004@1',h='Lunes rojo: <b>Wall Street estornudó</b>',sub='Y acá nos agarró la gripe')
+PORTADA=dict(k='LA NOTICIA DEL DÍA',img='wsn:tf-004@1',h='Lunes rojo: <b>Wall Street estornudó</b>',sub='Y acá nos agarró la gripe')
 SEGS=[
  [A('wsn:tf-004@1','Lunes 16/11','Wall Street <i>estornudó</i>',pie='Bolsa de Nueva York (imagen ilustrativa)'),A('nw-005@1','La noticia del día','Un lunes <i>rojo</i>',pie='Gráfico de velas (animación ilustrativa, Pixabay)')],
  [B('Cierre del lunes 16/11','Todo <i>en rojo</i>',[('Nasdaq',2.49,'-2,5 %','roj'),('S&P 500',1.92,'-1,9 %','roj'),('Dow Jones',1.41,'-1,4 %','roj')],src='Fuente: Yahoo Finance y Motley Fool')],

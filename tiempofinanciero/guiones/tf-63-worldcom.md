@@ -1,5 +1,5 @@
 # tf-63 WorldCom: el fraude de 11 mil millones
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez (2026-11-16), sin cambios de voz.
 
 ## Texto (voz)
 | # | Voz |
