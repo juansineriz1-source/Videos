@@ -1,0 +1,258 @@
+{
+ "voz": "voz-tf105.wav",
+ "palabras": "voz-tf105.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA NOTICIA DEL DÍA",
+  "img": "img/fr-et-tf-023.jpg",
+  "h": "Nvidia sin Huang: <b>vendió el doble</b>",
+  "sub": "Los números no saben quién es el jefe"
+ },
+ "segs": [
+  {
+   "txt": "Dicen que los números no saben quién es el jefe. Y anoche Nvidia lo demostró.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/personas-famosas/tf-007.mp4@1",
+      "k": "Nvidia",
+      "h": "Los números <i>no saben</i>",
+      "cred": "Archivo · NVIDIA",
+      "pie": "Jensen Huang en GTC (archivo NVIDIA)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/nw-002.mp4@1",
+      "k": "La noticia del día",
+      "h": "Balance <i>de anoche</i>",
+      "cred": "Video: Pixabay · fspik_now",
+      "pie": "Chip (animación ilustrativa, Pixabay)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Presentó su primer balance sin Jensen Huang como director ejecutivo. Lo firmó Colette Kress, la directora financiera, como jefa interina.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Primer balance sin Huang",
+      "h": "Lo firma <i>la interina</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Quién firmó",
+      "h": "Nvidia, 17/11",
+      "items": [
+       {
+        "t": "CEO interina",
+        "en": 0.15,
+        "r": "Colette Kress",
+        "hi": true
+       },
+       {
+        "t": "Además",
+        "en": 0.75,
+        "r": "Directora financiera"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Vendió 115.800 millones de dólares en el trimestre. Más del doble que hace un año: 103 por ciento más.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Ventas del trimestre (agosto a octubre de 2026)",
+      "num": "US$ 115.800 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Más <i>del doble</i>"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Ventas del trimestre, millones de US$",
+      "h": "+103 % <i>en un año</i>",
+      "bars": [
+       {
+        "label": "Trim. a oct-2025",
+        "v": 57000,
+        "txt": "57.000",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Trim. a oct-2026",
+        "v": 115800,
+        "txt": "115.800",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: comunicado de NVIDIA"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Casi todo vino de los centros de datos, el corazón de la inteligencia artificial: 107.600 millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-023.mp4@1",
+      "k": "Centros de datos",
+      "h": "El corazón <i>de la IA</i>",
+      "cred": "Archivo · Demo Reel 4 Schenck",
+      "pie": "Centro de datos (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "De dónde vino",
+      "h": "Casi <i>todo</i>",
+      "bars": [
+       {
+        "label": "Centros de datos",
+        "v": 107600,
+        "txt": "107.600",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "Resto",
+        "v": 8200,
+        "txt": "8.200",
+        "color": "gr",
+        "en": 0.65
+       }
+      ],
+      "src": "Millones de US$. Fuente: comunicado de NVIDIA"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y para el próximo trimestre espera unos 130.000 millones, en un trimestre con una semana más y sin contar chips para centros de datos en China.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que espera vender el próximo trimestre (±3 %)",
+      "num": "US$ 130.000 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Y va <i>por más</i>",
+      "sub": "con una semana extra y sin chips de centros de datos para China"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-025.mp4@1",
+      "k": "La guía",
+      "h": "Sin <i>China</i>",
+      "cred": "Archivo · Demo Reel 4 Schenck",
+      "pie": "Servidores (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El martes, antes del balance, la acción cerró casi sin cambios. Fuera de hora, subía.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Acción de Nvidia, 17/11",
+      "h": "Fuera de hora, <i>sube</i>",
+      "series": [
+       {
+        "pts": [
+         155.46,
+         155.46,
+         162.94
+        ],
+        "label": "US$ por acción",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "cierre US$ 155,46 (-0,4 %)",
+       "",
+       "19:59 NY +4,8 %"
+      ],
+      "src": "Fuente: Motley Fool y StockTitan"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés: el jefe se puede ir, pero mientras el negocio venda, los números hablan solos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/personas-famosas/tf-009.mp4@1",
+      "k": "Ya sabés",
+      "h": "El jefe <i>se puede ir</i>",
+      "cred": "Archivo · NVIDIA",
+      "pie": "Jensen Huang en GTC (archivo NVIDIA)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Los números hablan solos",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
