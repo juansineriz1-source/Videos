@@ -1,0 +1,235 @@
+{
+ "voz": "voz-tf106.wav",
+ "palabras": "voz-tf106.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA NOTICIA DEL DÍA",
+  "img": "img/fr-bcf-tf-008.jpg",
+  "h": "La Fed avisa: <b>vienen más subas</b>",
+  "sub": "Más vale prevenir que curar"
+ },
+ "segs": [
+  {
+   "txt": "Más vale prevenir que curar. Y la Reserva Federal de Estados Unidos parece pensar igual.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/bancos-centrales-fed/tf-008.mp4@1",
+      "k": "Reserva Federal",
+      "h": "Más vale <i>prevenir</i>",
+      "cred": "Archivo · Elevated News",
+      "pie": "Sede de la Reserva Federal en obras, Washington"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/dolares-billetes/tf-011.mp4@1",
+      "k": "La noticia del día",
+      "h": "Las minutas <i>de la Fed</i>",
+      "cred": "Archivo · revolutionary art 99",
+      "pie": "Contadora de billetes (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hoy publicó las minutas de su reunión de octubre, cuando dejó la tasa entre 3,75 y 4 por ciento. Dos de los doce votaron por subirla ya.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Tasa de la Fed, decisión del 28/10",
+      "num": "3,75 a 4 %",
+      "color": "bl",
+      "en": 0.1,
+      "h": "La dejó <i>quieta</i>"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "La votación",
+      "h": "28/10",
+      "items": [
+       {
+        "t": "Mantener",
+        "en": 0.15,
+        "r": "10 votos"
+       },
+       {
+        "t": "Subir 0,25",
+        "en": 0.75,
+        "r": "2 votos: Cook y Hammack",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En el texto, casi todos los miembros creen que probablemente haga falta volver a subirla.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/bancos-centrales-fed/tf-009.mp4@1",
+      "k": "Las minutas",
+      "h": "Subir <i>otra vez</i>",
+      "cred": "Archivo · Elevated News",
+      "pie": "Obra en la sede de la Reserva Federal"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "cita",
+      "texto": "Casi todos los participantes juzgaron que nuevas subas probablemente serían apropiadas",
+      "en": 0.3,
+      "autor": "Minutas de la Fed, 18/11 (traducción)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y un par de ellos dijo que, si la inflación no afloja, en diciembre se podría pensar en subir más de un cuarto de punto.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que un par de miembros pidió considerar en diciembre",
+      "num": "Más de 0,25",
+      "color": "roj",
+      "en": 0.1,
+      "h": "¿Más <i>de un cuarto</i>?",
+      "sub": "si los datos de inflación no ayudan"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/dolares-billetes/tf-013.mp4@1",
+      "k": "Diciembre",
+      "h": "Si la inflación <i>no afloja</i>",
+      "cred": "Archivo · revolutionary art 99",
+      "pie": "Contadora de billetes (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "¿Por qué? Muchos ven a la inteligencia artificial como un riesgo serio de inflación: la demanda para construir la IA encarece los productos tecnológicos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-006.mp4@1",
+      "k": "¿Por qué?",
+      "h": "La IA <i>encarece</i>",
+      "cred": "Archivo · Framework Films",
+      "pie": "Silicon Valley (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Para muchos miembros",
+      "h": "Riesgo de inflación",
+      "items": [
+       {
+        "t": "La construcción de la IA",
+        "st": "fuente material de riesgo",
+        "en": 0.15
+       }
+      ],
+      "src": "Fuente: minutas de la Fed"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Y el mercado ya casi da por hecha una suba el 9 de diciembre.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Suba del 9/12",
+      "h": "Casi <i>segura</i>",
+      "items": [
+       {
+        "t": "El mercado la ve casi segura",
+        "st": "futuros de tasas",
+        "en": 0.15
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-003.mp4@1",
+      "k": "El mercado",
+      "h": "Ya lo <i>descuenta</i>",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés: cuando la Fed sube la tasa, la plata en el mundo se vuelve más cara. Y eso también llega a la Argentina.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/dolares-billetes/tf-012.mp4@1",
+      "k": "Ya sabés",
+      "h": "La plata <i>más cara</i>",
+      "cred": "Archivo · revolutionary art 99",
+      "pie": "Billetes de 100 dólares (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Más vale prevenir",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

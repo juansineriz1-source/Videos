@@ -1,5 +1,5 @@
 # tf-106 Más vale prevenir que curar: las minutas de la Fed
-Tipo: noticia del día (miércoles 2026-11-18, informativo de las 19:00), una noticia. Duración objetivo: 45 s (máximo 58). Estado: guion enviado al juez (2026-11-18).
+Tipo: noticia del día (miércoles 2026-11-18, informativo de las 19:00), una noticia. Duración objetivo: 45 s (máximo 58). Estado: guion aprobado por el juez (2026-11-18), con la placa del mercado sin número.
 
 ## Texto (voz) y visuales
 | # | Voz | Visual |
@@ -8,13 +8,13 @@ Tipo: noticia del día (miércoles 2026-11-18, informativo de las 19:00), una no
 | 2 | Hoy publicó las minutas de su reunión de octubre, cuando dejó la tasa entre 3,75 y 4 por ciento. Dos de los doce votaron por subirla ya. | Dato 3,75 a 4 % + lista de la votación: 10 mantener, 2 subir (Cook y Hammack) |
 | 3 | En el texto, casi todos los miembros creen que probablemente haga falta volver a subirla. | Cita traducida de las minutas + toma de la Fed |
 | 4 | Y un par de ellos dijo que, si la inflación no afloja, en diciembre se podría pensar en subir más de un cuarto de punto. | Dato "más de 0,25 punto" con la condición + billetes |
-| 5 | ¿Por qué? Muchos ven a la inteligencia artificial como un riesgo serio de inflación: la fiebre de centros de datos encarece la tecnología. | Silicon Valley + placa "La IA, riesgo de inflación" |
-| 6 | Y el mercado ya casi da por hecha una suba el 9 de diciembre. | Dato 98 % de chance de +0,25 (LSEG) + Wall Street |
+| 5 | ¿Por qué? Muchos ven a la inteligencia artificial como un riesgo serio de inflación: la demanda para construir la IA encarece los productos tecnológicos. | Silicon Valley + placa "La IA, riesgo de inflación" |
+| 6 | Y el mercado ya casi da por hecha una suba el 9 de diciembre. | Placa "El mercado la ve casi segura (futuros de tasas)", sin número + Wall Street |
 | 7 | Ya sabés: cuando la Fed sube la tasa, la plata en el mundo se vuelve más cara. Y eso también llega a la Argentina. | Remate + cierre de marca |
 
 ## Caption
 La Fed publicó las minutas de su reunión de octubre: casi todos sus miembros ven probable otra suba de tasas, y un par planteó considerar más de un cuarto de punto en diciembre si la inflación no ayuda. Muchos señalan a la inteligencia artificial como riesgo de inflación.
-Fuentes: minutas del FOMC (27 y 28/10/2026, publicadas el 18/11), CNBC, TipRanks y ZeroHedge.
+Fuentes: minutas del FOMC (texto de la Fed, reunión del 27 y 28/10/2026, publicadas el 18/11), CNBC y TipRanks.
 Contenido educativo. No es recomendación de inversión.
 #fed #tasas #inflacion #wallstreet #finanzas #dolar
 
