@@ -1,0 +1,268 @@
+{
+ "voz": "voz-tf107.wav",
+ "palabras": "voz-tf107.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA NOTICIA DEL DÍA",
+  "img": "img/fr-wsn-tf-005.jpg",
+  "h": "Anthropic le puso precio: <b>US$ 83</b>",
+  "sub": "Hoy empieza a cotizar en el Nasdaq"
+ },
+ "segs": [
+  {
+   "txt": "Dicen que no hay que vender la piel del oso antes de cazarlo. Anthropic le puso precio anoche: 83 dólares por acción.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-005.mp4@1",
+      "k": "La noticia del día",
+      "h": "La piel <i>del oso</i>",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Precio por acción de la salida a bolsa",
+      "num": "US$ 83",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Precio <i>de anoche</i>"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Es la empresa que hace Claude, la inteligencia artificial con la que se arma esta cuenta. Por eso, aviso: esto no es una recomendación.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Aviso",
+      "h": "Esta cuenta <i>se arma con Claude</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Claude es de Anthropic",
+      "h": "No es recomendación",
+      "items": [
+       {
+        "t": "Conflicto de interés",
+        "st": "lo aclaramos",
+        "en": 0.15
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Había salido a ofrecer las acciones entre 70 y 78 dólares. Terminó en 83, por encima del rango inicial.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Precio por acción, US$",
+      "h": "Arriba del <i>rango inicial</i>",
+      "bars": [
+       {
+        "label": "Piso inicial",
+        "v": 70,
+        "txt": "70",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Techo inicial",
+        "v": 78,
+        "txt": "78",
+        "color": "gr",
+        "en": 0.4
+       },
+       {
+        "label": "Precio final",
+        "v": 83,
+        "txt": "83",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: TechCrunch y Motley Fool"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-012.mp4@1",
+      "k": "Precio final",
+      "h": "Arriba <i>del techo</i>",
+      "cred": "Archivo · Miketravel",
+      "pie": "Distrito financiero de Nueva York (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "A ese precio vale cerca de 1,5 billones de dólares, contando todas las acciones posibles. En mayo la valuaron en 965.000 millones.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Valuación a US$ 83, totalmente diluida",
+      "num": "US$ 1,5 billones",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Lo que <i>vale</i>"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Valuación, miles de millones de US$",
+      "h": "Casi <i>el doble</i>",
+      "bars": [
+       {
+        "label": "Mayo 2026",
+        "v": 965,
+        "txt": "965",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Salida a bolsa",
+        "v": 1500,
+        "txt": "1.500",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: TechCrunch"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Aparte, Nvidia, Microsoft, Google y otras cuatro tecnológicas ponen 26.000 millones en acciones sin voto.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/tf-018.mp4@1",
+      "k": "Aparte",
+      "h": "Los socios <i>ponen</i>",
+      "cred": "Archivo · Framework Films",
+      "pie": "Campus de Google en Mountain View (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Colocación privada",
+      "h": "US$ 26.000 M <i>sin voto</i>",
+      "items": [
+       {
+        "t": "Nvidia, Microsoft, Google",
+        "en": 0.15,
+        "hi": true
+       },
+       {
+        "t": "AMD, Broadcom, Micron, TSMC",
+        "en": 0.75
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Según CNBC, sería la salida a bolsa más grande de la historia, por encima de SpaceX. El monto final todavía no es oficial.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-008.mp4@1",
+      "k": "Según CNBC",
+      "h": "¿El mayor <i>de la historia</i>?",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Mayor salida a bolsa",
+      "h": "Según CNBC",
+      "items": [
+       {
+        "t": "Por encima de SpaceX",
+        "st": "cifras finales no oficiales",
+        "en": 0.15
+       }
+      ],
+      "src": "Fuente: CNBC y Motley Fool"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Hoy empieza a cotizar en el Nasdaq con la sigla ANT. Ya sabés: el precio de salida es una cosa; lo que pague el mercado, otra.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-014.mp4@1",
+      "k": "Hoy, Nasdaq",
+      "h": "Sigla <i>ANT</i>",
+      "cred": "Archivo · Miketravel",
+      "pie": "Toro de Wall Street (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "El mercado dirá",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
