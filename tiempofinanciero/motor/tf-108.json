@@ -1,0 +1,261 @@
+{
+ "voz": "voz-tf108.wav",
+ "palabras": "voz-tf108.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA NOTICIA DEL DÍA",
+  "img": "img/fr-sp-tf-007.jpg",
+  "h": "Walmart cumplió <b>y la acción bajó</b>",
+  "sub": "Nunca llueve a gusto de todos"
+ },
+ "segs": [
+  {
+   "txt": "Dicen que nunca llueve a gusto de todos. Walmart dio hoy buenos números, y la acción igual bajó.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/supermercado-precios/tf-007.mp4@1",
+      "k": "Walmart",
+      "h": "Nunca llueve <i>a gusto de todos</i>",
+      "cred": "Archivo · Footage Factory",
+      "pie": "Góndolas de supermercado (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-006.mp4@1",
+      "k": "La noticia del día",
+      "h": "Buenos números, <i>acción abajo</i>",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Vendió 188.800 millones de dólares en el trimestre, un 5,2 por ciento más que hace un año y apenas arriba de lo esperado.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Ventas del trimestre (+5,2 % en un año)",
+      "num": "US$ 188.800 M",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Vendió <i>más</i>"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Ventas del trimestre, millones de US$",
+      "h": "Apenas <i>arriba</i>",
+      "bars": [
+       {
+        "label": "Esperado",
+        "v": 187200,
+        "txt": "187.200",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Real",
+        "v": 188800,
+        "txt": "188.800",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: Yahoo Finance (Bloomberg)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ganó 65 centavos por acción, uno más de lo previsto. Y sus ventas por internet crecieron 17 por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Ganancia ajustada por acción (esperado: 0,64)",
+      "num": "US$ 0,65",
+      "color": "bl",
+      "en": 0.1,
+      "h": "Un centavo <i>más</i>"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Ventas por internet",
+      "h": "+17 %",
+      "items": [
+       {
+        "t": "En el trimestre",
+        "st": "crecimiento global",
+        "en": 0.15
+       }
+      ],
+      "src": "Fuente: Yahoo Finance e Investing.com"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Encima, subió lo que espera ganar en el año: ahora, entre 2,84 y 2,89 dólares por acción.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/supermercado-precios/tf-009.mp4@1",
+      "k": "Y encima",
+      "h": "Sube <i>la previsión</i>",
+      "cred": "Archivo · Footage Factory",
+      "pie": "Góndola de supermercado (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Ganancia por acción esperada en el año",
+      "h": "En US$",
+      "items": [
+       {
+        "t": "Antes",
+        "en": 0.15,
+        "r": "2,80 a 2,87"
+       },
+       {
+        "t": "Ahora",
+        "en": 0.75,
+        "r": "2,84 a 2,89",
+        "hi": true
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "¿Y la acción? Cerró con una baja de 1 por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Cierre 19/11: US$ 126,04 (18/11: 127,36)",
+      "num": "-1,0 %",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Cerró <i>en baja</i>",
+      "src": "Fuente: Yahoo Finance"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-001.mp4@1",
+      "k": "Cierre 19/11",
+      "h": "La acción <i>bajó</i>",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pasa que ya venía cara: cotiza a unas 43 veces lo que se espera que gane, cuando su promedio de cinco años, según TIKR, es 30.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Precio / ganancia esperada",
+      "h": "Ya venía <i>cara</i>",
+      "bars": [
+       {
+        "label": "Promedio 5 años",
+        "v": 30,
+        "txt": "30 veces",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Hoy",
+        "v": 43,
+        "txt": "43 veces",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: TIKR vía Yahoo Finance"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-009.mp4@1",
+      "k": "Pasa que",
+      "h": "Esperaban <i>mucho</i>",
+      "cred": "Archivo · Brian's Eye In The Sky",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés: cuando el mercado espera mucho, cumplir no alcanza.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/supermercado-precios/tf-010.mp4@1",
+      "k": "Ya sabés",
+      "h": "Cumplir <i>no alcanza</i>",
+      "cred": "Archivo · Footage Factory",
+      "pie": "Supermercado (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Cumplir no alcanza",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
