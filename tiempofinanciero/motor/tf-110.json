@@ -1,0 +1,264 @@
+{
+ "voz": "voz-tf110.wav",
+ "palabras": "voz-tf110.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA NOTICIA DEL DÍA",
+  "img": "img/fr-bacb-tf-028.jpg",
+  "h": "Riesgo país: <b>pasó los 1.000</b>",
+  "sub": "Llueve sobre mojado"
+ },
+ "segs": [
+  {
+   "txt": "Dicen que llueve sobre mojado. Después de un jueves malo, este viernes el riesgo país de Argentina pasó los 1.000 puntos.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-028.mp4@1",
+      "k": "Viernes 20/11",
+      "h": "Llueve <i>sobre mojado</i>",
+      "cred": "Archivo · Manuel Rey",
+      "pie": "Casa Rosada (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-036.mp4@1",
+      "k": "Argentina",
+      "h": "Riesgo país <i>arriba de 1.000</i>",
+      "cred": "Archivo · Banco Central de la República Argentina",
+      "pie": "Banco Central (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Es un índice de JP Morgan que mide cuánto más rinden los bonos argentinos que los del Tesoro de Estados Unidos. Cuanto más alto, más desconfianza.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "¿Qué es el riesgo país?",
+      "h": "Índice de <i>JP Morgan</i>",
+      "items": [
+       {
+        "t": "Bonos argentinos",
+        "st": "vs. Tesoro de EE.UU.",
+        "en": 0.15
+       },
+       {
+        "t": "Más alto",
+        "st": "más desconfianza",
+        "en": 0.75
+       }
+      ],
+      "src": "Fuente: Ámbito y Minuto de Cierre"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-027.mp4@1",
+      "k": "Cuanto más alto",
+      "h": "Más <i>desconfianza</i>",
+      "cred": "Archivo · Manuel Rey",
+      "pie": "City porteña (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El miércoles estaba en 848, el jueves cerró en 931 y este viernes llegó a 1.050.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Riesgo país, puntos",
+      "h": "En <i>dos días</i>",
+      "series": [
+       {
+        "pts": [
+         848,
+         931,
+         1050
+        ],
+        "label": "puntos",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "mié 18/11",
+       "jue 19/11",
+       "vie 20/11"
+      ],
+      "src": "Fuente: Perfil, Ámbito y elDiarioAR"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Máximo del viernes 20/11 (sin cierre oficial)",
+      "num": "1.050",
+      "color": "roj",
+      "en": 0.1,
+      "h": "El <i>pico</i>",
+      "src": "Fuente: Perfil, Mendoza Today y Punto Biz"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Es el nivel más alto desde octubre de 2025, antes de las elecciones legislativas. Y en lo que va del año, sube más de 60 por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Más de 60 % en el año (Minuto de Cierre, Ahora)",
+      "num": "+60 %",
+      "color": "roj",
+      "en": 0.1,
+      "h": "En el <i>año</i>",
+      "src": "Fuente: Minuto de Cierre y Ahora"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-055.mp4@1",
+      "k": "Lo más alto",
+      "h": "Desde <i>octubre de 2025</i>",
+      "cred": "Archivo · WANDER WALKS ARGENTINA",
+      "pie": "Centro porteño (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Los bonos en dólares cayeron, y la bolsa porteña abrió con una baja de más del 2 por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "Viernes 20/11",
+      "h": "En <i>baja</i>",
+      "items": [
+       {
+        "t": "Bonos en dólares",
+        "en": 0.15,
+        "r": "en baja"
+       },
+       {
+        "t": "Merval",
+        "en": 0.75,
+        "r": "abrió más de 2 % abajo",
+        "hi": true
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-008.mp4@1",
+      "k": "La bolsa porteña",
+      "h": "Abrió <i>en rojo</i>",
+      "cred": "Archivo · Traveling Kangaroo",
+      "pie": "Ministerio de Economía (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "¿Por qué? Los analistas hablan de la caída de las bolsas del mundo y de dudas sobre la política de 2027.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "lista",
+      "k": "¿Por qué?",
+      "h": "Dos <i>razones</i>",
+      "items": [
+       {
+        "t": "Afuera",
+        "en": 0.15,
+        "r": "caen las bolsas"
+       },
+       {
+        "t": "Adentro",
+        "en": 0.75,
+        "r": "dudas por 2027",
+        "hi": true
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-013.mp4@1",
+      "k": "Según los analistas",
+      "h": "Afuera <i>y adentro</i>",
+      "cred": "Archivo · Traveling Kangaroo",
+      "pie": "Plaza de Mayo (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés: cuando afuera llueve, acá diluvia.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/buenos-aires-city-bcra/tf-030.mp4@1",
+      "k": "Ya sabés",
+      "h": "Cuando afuera <i>llueve</i>",
+      "cred": "Archivo · Manuel Rey",
+      "pie": "Obelisco (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "Acá diluvia",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
