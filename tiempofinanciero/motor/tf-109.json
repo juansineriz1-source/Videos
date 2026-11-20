@@ -1,0 +1,285 @@
+{
+ "voz": "voz-tf109.wav",
+ "palabras": "voz-tf109.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA NOTICIA DEL DÍA",
+  "img": "img/fr-wsn-tf-016.jpg",
+  "h": "Anthropic voló <b>y Wall Street cayó</b>",
+  "sub": "Una golondrina no hace verano"
+ },
+ "segs": [
+  {
+   "txt": "Dicen que una golondrina no hace verano. Ayer Anthropic tuvo su estreno en la bolsa, y el resto de Wall Street igual se enfrió.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-016.mp4@1",
+      "k": "Jueves 19/11",
+      "h": "Una golondrina <i>no hace verano</i>",
+      "cred": "Archivo · Miketravel",
+      "pie": "Toro de Wall Street (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-019.mp4@1",
+      "k": "La noticia del día",
+      "h": "El estreno <i>de Anthropic</i>",
+      "cred": "Archivo · Miketravel",
+      "pie": "Wall Street (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Es la empresa que hace Claude, la inteligencia artificial con la que se arma esta cuenta. Por eso, aviso: esto no es una recomendación.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "titulo",
+      "k": "Aviso",
+      "h": "Esta cuenta <i>se arma con Claude</i>",
+      "size": 150,
+      "en": 0.1
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Claude es de Anthropic",
+      "h": "No es recomendación",
+      "items": [
+       {
+        "t": "Conflicto de interés",
+        "st": "lo aclaramos",
+        "en": 0.15
+       }
+      ]
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/px-009.mp4@0.5",
+      "k": "Hecho con IA",
+      "h": "Lo <i>avisamos</i>",
+      "cred": "Video: Pixabay · Coverr-Free-Footage",
+      "pie": "Teclado de computadora (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "La acción salió a 83 dólares, y la primera operación fue a 111,50: un 34 por ciento arriba.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Precio por acción, US$",
+      "h": "Arrancó <i>+34 %</i>",
+      "bars": [
+       {
+        "label": "Precio de salida",
+        "v": 83,
+        "txt": "83",
+        "color": "gr",
+        "en": 0.15
+       },
+       {
+        "label": "Primera operación",
+        "v": 111.5,
+        "txt": "111,50",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: Yahoo Finance, StockTitan y Forbes"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-017.mp4@1",
+      "k": "Primera operación",
+      "h": "Subió <i>de entrada</i>",
+      "cred": "Archivo · Miketravel",
+      "pie": "Toro de Wall Street (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Después se desinfló: tocó 92,72 y cerró en 97,17. Igual, un 17 por ciento arriba del precio de salida.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Anthropic (ANT), jueves 19/11",
+      "h": "Se <i>desinfló</i>",
+      "series": [
+       {
+        "pts": [
+         83,
+         111.5,
+         92.72,
+         97.17
+        ],
+        "label": "US$ por acción",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "salida",
+       "abre",
+       "mínimo",
+       "cierre"
+      ],
+      "src": "Fuente: Yahoo Finance y StockTitan"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Cierre US$ 97,17 contra el precio de salida de US$ 83",
+      "num": "+17 %",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Igual <i>arriba</i>"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "En la salida juntó unos 81.000 millones de dólares.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Lo que juntó en la salida a bolsa",
+      "num": "US$ 81.300 M",
+      "color": "bl",
+      "en": 0.1,
+      "h": "La <i>caja</i>",
+      "src": "Fuente: Yahoo Finance y Forbes"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/dolares-billetes/tf-002.mp4@1",
+      "k": "En la salida",
+      "h": "Unos <i>81.000 M</i>",
+      "cred": "Archivo · Early Financial Freedom",
+      "pie": "Billetes de 100 dólares (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Pero el resto del mercado tuvo un día rojo: el S&P 500 cayó 2 por ciento, el Nasdaq 2,3 y el Dow 2,2, en parte por el temor a nuevas subas de tasas.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Cierre del jueves 19/11",
+      "h": "Día <i>rojo</i>",
+      "bars": [
+       {
+        "label": "Nasdaq",
+        "v": 2.3,
+        "txt": "-2,3 %",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "Dow Jones",
+        "v": 2.2,
+        "txt": "-2,2 %",
+        "color": "roj",
+        "en": 0.4
+       },
+       {
+        "label": "S&P 500",
+        "v": 2.0,
+        "txt": "-2,0 %",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: Yahoo Finance"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-018.mp4@1",
+      "k": "¿Por qué?",
+      "h": "Miedo a <i>más subas de tasas</i>",
+      "cred": "Archivo · Miketravel",
+      "pie": "Toro de Wall Street (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés: una acción que vuela no salva a todo el mercado.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-013.mp4@1",
+      "k": "Ya sabés",
+      "h": "Una acción <i>no alcanza</i>",
+      "cred": "Archivo · Miketravel",
+      "pie": "Wall Street (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "No salva al mercado",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}

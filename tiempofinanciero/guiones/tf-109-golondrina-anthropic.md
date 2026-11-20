@@ -1,5 +1,5 @@
 # tf-109 Una golondrina no hace verano: Anthropic voló y Wall Street cayó
-Tipo: noticia del día (viernes 2026-11-20, informativo de las 10:00), una noticia. Duración objetivo: 45 s (máximo 58). Estado: guion enviado al juez (2026-11-20).
+Tipo: noticia del día (viernes 2026-11-20, informativo de las 10:00), una noticia. Duración objetivo: 45 s (máximo 58). Estado: guion aprobado por el juez (2026-11-20).
 
 ## Texto (voz) y visuales
 | # | Voz | Visual |
@@ -9,7 +9,7 @@ Tipo: noticia del día (viernes 2026-11-20, informativo de las 10:00), una notic
 | 3 | La acción salió a 83 dólares, y la primera operación fue a 111,50: un 34 por ciento arriba. | Barras: precio de salida 83 / primera operación 111,50 |
 | 4 | Después se desinfló: tocó 92,72 y cerró en 97,17. Igual, un 17 por ciento arriba del precio de salida. | Línea: 83 → 111,50 → 92,72 → 97,17 (Yahoo Finance) |
 | 5 | En la salida juntó unos 81.000 millones de dólares. | Dato US$ 81.300 M |
-| 6 | Pero el resto del mercado tuvo un día rojo: el S&P 500 cayó 2 por ciento, el Nasdaq 2,3 y el Dow 2,2, con el temor a nuevas subas de tasas. | Barras de los tres índices en rojo |
+| 6 | Pero el resto del mercado tuvo un día rojo: el S&P 500 cayó 2 por ciento, el Nasdaq 2,3 y el Dow 2,2, en parte por el temor a nuevas subas de tasas. | Barras de los tres índices en rojo |
 | 7 | Ya sabés: una acción que vuela no salva a todo el mercado. | Remate + cierre de marca |
 
 ## Caption
