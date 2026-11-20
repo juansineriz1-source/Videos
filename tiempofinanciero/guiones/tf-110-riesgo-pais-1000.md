@@ -1,5 +1,5 @@
 # tf-110 Llueve sobre mojado: el riesgo país pasó los 1.000 puntos
-Tipo: noticia del día (viernes 2026-11-20, informativo de las 19:00), una noticia. Duración objetivo: 45 s (máximo 58). Estado: guion aprobado por el juez (2026-11-20); línea 3 actualizada a 1.050 sin cierre oficial.
+Tipo: noticia del día (viernes 2026-11-20, informativo de las 19:00), una noticia. Duración objetivo: 45 s (máximo 58). Estado: guion y video aprobados por el juez (2026-11-20); línea 3 actualizada a 1.050 sin cierre oficial.
 
 ## Texto (voz) y visuales
 | # | Voz | Visual |
