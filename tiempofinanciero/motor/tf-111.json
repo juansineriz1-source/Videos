@@ -1,0 +1,284 @@
+{
+ "voz": "voz-tf111.wav",
+ "palabras": "voz-tf111.json",
+ "tempo": 1.21,
+ "cierre": 1.8,
+ "portada": {
+  "g": "portada",
+  "pos": "50% 50%",
+  "k": "LA NOTICIA DEL DÍA",
+  "img": "img/fr-nw-008.jpg",
+  "h": "Los chips <b>se hundieron</b>",
+  "sub": "Cuanto más alto se sube..."
+ },
+ "segs": [
+  {
+   "txt": "Dicen que cuanto más alto se sube, más dura es la caída. Y este viernes les tocó a los chips.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/nw-008.mp4@1",
+      "k": "Viernes 20/11",
+      "h": "Cuanto más alto, <i>más dura la caída</i>",
+      "cred": "Video: Pixabay · doktorkleinmusic",
+      "pie": "Chip de computadora (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/px-006.mp4@1",
+      "k": "Wall Street",
+      "h": "Les tocó <i>a los chips</i>",
+      "cred": "Video: Pixabay · vijayrajesh",
+      "pie": "Código reflejado en anteojos (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El índice de semiconductores de Filadelfia se hundió casi 11 por ciento en un solo día.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Índice de semiconductores de Filadelfia (SOX), viernes 20/11",
+      "num": "-10,7 %",
+      "color": "roj",
+      "en": 0.1,
+      "h": "En <i>un día</i>",
+      "src": "Fuente: Yahoo Finance y TradingKey"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/nw-009.mp4@1",
+      "k": "Semiconductores",
+      "h": "Se <i>hundieron</i>",
+      "cred": "Video: Pixabay · motionstock",
+      "pie": "Chip en una placa (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Nvidia cayó 14 por ciento, Micron casi 14 y AMD 13.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "barras",
+      "k": "Cierre del viernes 20/11",
+      "h": "Las <i>tres en rojo</i>",
+      "bars": [
+       {
+        "label": "Nvidia",
+        "v": 14.0,
+        "txt": "-14,0 %",
+        "color": "roj",
+        "en": 0.15
+       },
+       {
+        "label": "Micron",
+        "v": 13.9,
+        "txt": "-13,9 %",
+        "color": "roj",
+        "en": 0.4
+       },
+       {
+        "label": "AMD",
+        "v": 13.3,
+        "txt": "-13,3 %",
+        "color": "roj",
+        "en": 0.65
+       }
+      ],
+      "src": "Fuente: Yahoo Finance, TradingKey y Longbridge"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/empresas-tech/px-008.mp4@1",
+      "k": "Nvidia, Micron y AMD",
+      "h": "Caídas de <i>dos dígitos</i>",
+      "cred": "Video: Pixabay · MrWashingt0n",
+      "pie": "Centro de datos (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "El Nasdaq perdió 5,3 por ciento y borró todo lo que había ganado en el año. En la semana, cae 10 por ciento.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Nasdaq, cierre diario",
+      "h": "Semana <i>negra</i>",
+      "series": [
+       {
+        "pts": [
+         25136.27,
+         24509.76,
+         24328.38,
+         24429.88,
+         23879.2,
+         22617.73
+        ],
+        "label": "puntos",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "vie 13/11",
+       "",
+       "",
+       "",
+       "",
+       "vie 20/11"
+      ],
+      "src": "Fuente: Yahoo Finance"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "num",
+      "k": "Nasdaq el viernes 20/11: quedó en negativo en el año",
+      "num": "-5,3 %",
+      "color": "roj",
+      "en": 0.1,
+      "h": "Borró <i>el año</i>",
+      "src": "Fuente: Yahoo Finance, TradingKey y Longbridge"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Además, Reuters informó que la SEC, el regulador de la bolsa de Estados Unidos, revisa posibles temas contables en Nvidia. Ni la SEC ni Nvidia lo confirmaron.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "sello",
+      "k": "Según Reuters (fuentes anónimas), 20/11",
+      "h": "La SEC <i>revisa</i>",
+      "items": [
+       {
+        "t": "Posibles temas contables",
+        "st": "en Nvidia",
+        "en": 0.15
+       },
+       {
+        "t": "SEC y Nvidia",
+        "st": "sin confirmar",
+        "en": 0.75
+       }
+      ],
+      "src": "Fuente: Reuters, vía TradingKey y Longbridge"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/oficinas-traders/px-005.mp4@1",
+      "k": "Según Reuters",
+      "h": "<i>Sin confirmar</i>",
+      "cred": "Video: Pixabay · Coverr-Free-Footage",
+      "pie": "Teclado de computadora (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Desde su máximo del 6 de octubre, la acción de Nvidia perdió casi la mitad.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "linea",
+      "k": "Nvidia, US$ por acción",
+      "h": "Casi <i>la mitad</i>",
+      "series": [
+       {
+        "pts": [
+         239.24,
+         125.53
+        ],
+        "label": "US$",
+        "color": "roj",
+        "fmt": false
+       }
+      ],
+      "xl": [
+       "máx. 6/10",
+       "vie 20/11"
+      ],
+      "src": "Fuente: Yahoo Finance"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/extra/nw-003.mp4@1",
+      "k": "Desde octubre",
+      "h": "Perdió <i>casi la mitad</i>",
+      "cred": "Video: Pixabay · DJStrawberry_4111",
+      "pie": "Chip de computadora (imagen ilustrativa)"
+     }
+    ]
+   ]
+  },
+  {
+   "txt": "Ya sabés: en la bolsa, el ascensor que sube también baja.",
+   "vis": [
+    [
+     "g",
+     1,
+     {
+      "g": "archivo",
+      "bg": "v:banco/wall-street-nyse/tf-043.mp4@1",
+      "k": "Ya sabés",
+      "h": "El ascensor <i>que sube</i>",
+      "cred": "Archivo · Walks & Wall Street ",
+      "pie": "Bolsa de Nueva York (imagen ilustrativa)"
+     }
+    ],
+    [
+     "g",
+     1,
+     {
+      "g": "remate",
+      "big": "También baja",
+      "color": "roj",
+      "en": 0.15
+     }
+    ]
+   ]
+  }
+ ]
+}
