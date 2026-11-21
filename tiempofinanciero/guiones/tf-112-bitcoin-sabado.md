@@ -1,5 +1,5 @@
 # tf-112 Después de la tormenta: el sábado de bitcoin
-Tipo: noticia del día (sábado 2026-11-21, informativo de las 19:00), una noticia. Duración objetivo: 40 s (máximo 58). Estado: guion para el juez.
+Tipo: noticia del día (sábado 2026-11-21, informativo de las 19:00), una noticia. Duración objetivo: 40 s (máximo 58). Estado: guion aprobado por el juez (2026-11-21); sin voz: cupo mensual de HeyGen agotado, esperando decisión de juan.
 
 ## Texto (voz) y visuales
 | # | Voz | Visual |
