@@ -9,11 +9,11 @@ Tipo: noticia del día (sábado 2026-11-21, informativo de las 19:00), una notic
 | 3 | Es lo más bajo desde septiembre de 2024. | Placa + clip |
 | 4 | Ether, la segunda cripto más grande, llegó a caer 10 por ciento en 24 horas. | Dato -10 % ether |
 | 5 | ¿Por qué? Siguió la ola de ventas de Wall Street, con dudas sobre cuánto valen las empresas de inteligencia artificial, y hubo ventas forzadas de inversores que operaban con plata prestada. | Lista de causas |
-| 6 | A la tarde rebotó y volvió a pasar los 60.000. Igual, en lo que va del año, cae más de 30 por ciento. | Línea vie → madrugada → sáb tarde + dato del año |
+| 6 | A la tarde rebotó y llegó a pasar otra vez los 60.000. Igual, en lo que va del año, cae más de 30 por ciento. | Línea vie → madrugada → sáb tarde + dato del año |
 | 7 | Ya sabés: la cripto no tiene horario, y los sustos tampoco. | Remate + cierre de marca |
 
 ## Caption
-Sábado 21/11: el bitcoin cayó en la madrugada por debajo de US$ 56.000, lo más bajo desde septiembre de 2024, y a la tarde volvió a superar los US$ 60.000. Ether llegó a caer 10 % en 24 horas. En 2026, el bitcoin cae más de 30 %.
+Sábado 21/11: el bitcoin cayó en la madrugada por debajo de US$ 56.000, lo más bajo desde septiembre de 2024, y a la tarde llegó a superar otra vez los US$ 60.000. Ether llegó a caer 10 % en 24 horas. En 2026, el bitcoin cae más de 30 %.
 Fuentes: Reuters (vía Business Recorder), Brave New Coin, Forbes, CoinDesk (vía Eurasia Business News) y Yahoo Finance, 21/11/2026.
 Contenido educativo. No es recomendación de inversión.
 #bitcoin #cripto #ether #finanzas #mercados
