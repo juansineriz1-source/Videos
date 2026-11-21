@@ -1,5 +1,5 @@
 # tf-111 Cuanto más alto se sube: el viernes negro de los chips
-Tipo: noticia del día (sábado 2026-11-21, informativo de las 10:00, sobre el cierre del viernes 20/11), una noticia. Duración objetivo: 45 s (máximo 58). Estado: guion para el juez.
+Tipo: noticia del día (sábado 2026-11-21, informativo de las 10:00, sobre el cierre del viernes 20/11), una noticia. Duración objetivo: 45 s (máximo 58). Estado: guion y video aprobados por el juez (2026-11-21).
 
 ## Texto (voz) y visuales
 | # | Voz | Visual |
