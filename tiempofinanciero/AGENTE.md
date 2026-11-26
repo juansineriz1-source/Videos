@@ -77,3 +77,30 @@ juan eligió el estilo "Matriz" (negro, blanco y rojo, números en puntos, mater
 - Material real mínimo y puntual: logo de la empresa, tapa del diario, foto de la persona. El resto es gráfico.
 - Cierra bajando el titular ("¿Sabía algo? No hay ninguna prueba") y el caption trae un bloque "Ojo con los titulares" con lo que no se puede afirmar, más las fuentes con fecha.
 - Subtítulos chicos, en una línea, abajo; pantalla limpia.
+
+## Tono picante (juan 2026-11-26)
+juan pidió una vuelta de rosca: reels más atrevidos, con chistes y arranques un poco "border" y analogías picantes, siempre de finanzas y dentro de las normas de Instagram. Vale para todos los guiones nuevos (informativos y generales) desde hoy.
+
+**Sí**
+- Gancho que pica en la frase 1: analogías de la vida real con doble sentido leve. Ex, primera cita, boliche, resaca, suegra, tarjeta del viejo, dieta del lunes, el que "viene a tomar un mate" y se queda a cenar.
+- Chicanas al mercado, a las empresas y a los gobiernos como instituciones. Ironía con el dólar, la inflación y Wall Street.
+- Remate con moraleja canchera en vez de cierre de manual.
+- Un chiste picante por reel, a lo sumo dos. El resto, datos firmes.
+
+**No (normas de IG y reglas de la cuenta)**
+- Nada sexual explícito, desnudos, insultos ni malas palabras fuertes.
+- Nada de burlas por género, religión, origen, cuerpo, edad o discapacidad.
+- Nada de drogas, armas ni violencia, ni como chiste.
+- A las personas reales se las critica por lo que hicieron y está documentado, sin acusar de lo que no se probó.
+- El chiste nunca cambia ni exagera un dato, ni se ríe de los que perdieron plata. No es recomendación.
+- Sin emojis, sin música, sin encuesta, igual que siempre.
+
+**Ejemplos**
+- Chips (antes "cuanto más alto se sube, más dura es la caída"): "Los chips tuvieron el viernes que todos tuvimos alguna vez: arrancaron arriba de todo y terminaron abrazados al inodoro." Remate: "En la bolsa, como en el boliche, el que sube muy rápido después no se acuerda de nada."
+- Riesgo país en 1.000: "El riesgo país volvió a los 1.000 puntos. Como tu ex: cuando creías que lo habías superado, te escribe de nuevo a las tres de la mañana."
+- Nick Leeson: "Escondió las pérdidas en una cuenta como quien esconde el resumen de la tarjeta. Hasta que llegó el resumen: 1.400 millones de dólares y un banco de 233 años fundido."
+- Ronald Wayne: "Vendió su 10 % de Apple por 800 dólares. Es como cortar en la primera cita porque el pibe no tenía auto, y que después se compre la concesionaria."
+- Buffett y Coca-Cola: "Mientras vos cambiás de pareja cada verano, Buffett está casado con Coca-Cola desde 1988 y no le soltó la mano ni una vez."
+- Inflación: "La inflación es como el que te dice 'paso a tomar un mate nomás' y se queda a cenar, a dormir y te pide la clave del wifi."
+- Apalancamiento: "Apalancarse es salir a bailar con la tarjeta del viejo: la noche es espectacular hasta que llega el resumen."
+- Dólar: "El dólar en Argentina es ese amor tóxico: jurás que no lo mirás más y a la semana estás chequeando cómo le va."
