@@ -1,17 +1,17 @@
 # tf-48 Nokia: del 40 % del mundo a vender los celulares
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: correcciones del juez aplicadas y gancho y remate en tono picante (2026-11-27); vuelve al juez antes de grabar.
 
 ## Texto (voz)
 | # | Voz |
 |---|---|
-| 1 | En 2007, cuatro de cada diez celulares que se vendían en el mundo eran Nokia. |
+| 1 | En 2007, Nokia era ese ex que estaba seguro de que nunca lo ibas a dejar: cerca de cuatro de cada diez celulares del mundo eran suyos. |
 | 2 | La empresa había nacido en 1865 como una fábrica de papel en Finlandia, y terminó dominando la telefonía. |
-| 3 | Ese mismo año, Apple presentó el iPhone. En Nokia lo miraron y pensaron: es caro, y la batería dura poco. |
+| 3 | Ese mismo año, Apple presentó el iPhone. En Nokia, según se contó después, lo miraron y pensaron: es caro, y la batería dura poco. |
 | 4 | Tenían razón en los detalles, y se equivocaron en lo importante: el teléfono ya no era un teléfono, era una computadora. |
 | 5 | Mientras Nokia defendía sus teclas, el mundo se pasó a la pantalla táctil. |
 | 6 | En 2013 vendió todo su negocio de celulares a Microsoft, por unos 5.400 millones de euros. |
 | 7 | Dos años después, Microsoft dio casi toda esa compra por perdida. |
-| 8 | Ya sabés que ser el líder de hoy no te asegura nada: en la bolsa, el tamaño no es un seguro. |
+| 8 | Moraleja: en la bolsa, como en el amor, el que se cree irreemplazable es el primero que queda en visto. |
 
 ## Visuales sugeridos (estilo Matriz)
 Barras: participación de Nokia en celulares 2007 contra 2013; archivo de un Nokia clásico y del primer iPhone (foto con crédito); número 5.400 M de euros; sello VENDIDO.

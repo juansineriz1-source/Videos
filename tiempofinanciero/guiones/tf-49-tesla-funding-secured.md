@@ -1,17 +1,17 @@
 # tf-49 Tesla: el tuit de 420 dólares
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: correcciones del juez aplicadas y gancho y remate en tono picante (2026-11-27); vuelve al juez antes de grabar.
 
 ## Texto (voz)
 | # | Voz |
 |---|---|
-| 1 | 7 de agosto de 2018. Elon Musk escribe un tuit de nueve palabras y la acción de Tesla salta once por ciento. |
+| 1 | 7 de agosto de 2018. Elon Musk tuitea nueve palabras con la seguridad del que dice tranquila, yo invito. Y la acción de Tesla salta once por ciento. |
 | 2 | Decía que pensaba sacar a Tesla de la bolsa a 420 dólares por acción, y agregaba: financiamiento asegurado. |
 | 3 | En ese momento, Tesla era la acción con más apuestas en contra de todo Estados Unidos. Y a Musk eso lo enfurecía. |
-| 4 | El problema es que el financiamiento no estaba asegurado. No había ningún acuerdo firmado. |
+| 4 | El problema, según el regulador: dijo yo invito sin tener la billetera. El financiamiento no estaba asegurado y no había ningún acuerdo firmado. |
 | 5 | El regulador lo demandó por engañar a los inversores. |
-| 6 | El arreglo: 20 millones de multa para Musk, 20 millones para Tesla, y Musk tuvo que dejar la presidencia del directorio. |
-| 7 | Tesla nunca salió de la bolsa. Y en 2020 la acción subió más de 700 por ciento. |
-| 8 | Ya sabés que un tuit puede mover miles de millones, pero no cambia lo que vale una empresa. |
+| 6 | El arreglo, sin admitir ni negar la acusación: 20 millones de multa para Musk, 20 millones para Tesla, y Musk tuvo que dejar la presidencia del directorio por tres años. |
+| 7 | En 2023, un jurado lo declaró no responsable ante los accionistas que le reclamaban. Tesla nunca salió de la bolsa, y en 2020 la acción subió más de 700 por ciento. |
+| 8 | Ya sabés: un tuit puede mover miles de millones, pero el que dice yo invito después tiene que pagar la cuenta. |
 
 ## Visuales sugeridos (estilo Matriz)
 Recreación tipográfica del tuit en estilo Matriz (sin logo); línea de la acción ese día con el salto de 11 %; números 20 M + 20 M; línea de TSLA en 2020.
