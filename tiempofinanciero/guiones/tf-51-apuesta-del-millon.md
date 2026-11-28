@@ -1,17 +1,17 @@
 # tf-51 La apuesta del millón de Buffett
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: borrador (2026-11-15), falta revisión del juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: correcciones del juez aplicadas y gancho y remate en tono picante (2026-11-28); vuelve al juez antes de grabar.
 
 ## Texto (voz)
 | # | Voz |
 |---|---|
-| 1 | En 2007, Warren Buffett apostó un millón de dólares contra los mejores gestores de Wall Street. |
+| 1 | En 2007, Warren Buffett hizo lo que hace el tío en el asado cuando dice que le gana a cualquiera: apostó un millón de dólares contra los fondos más sofisticados de Wall Street. |
 | 2 | La apuesta era simple. Él elegía un fondo que copia al índice de las 500 empresas más grandes, sin hacer nada. |
 | 3 | Del otro lado, un gestor profesional elegía cinco canastas de fondos de cobertura, llenos de expertos. |
 | 4 | El plazo: diez años. El que rindiera más, ganaba. El premio iba a una organización benéfica. |
 | 5 | Arrancó en 2008, justo antes de la peor crisis en décadas. El primer año, el índice perdió mucho más. |
 | 6 | Pero después de diez años, el índice había ganado cerca de 126 por ciento. Los fondos de expertos, alrededor de 36. |
 | 7 | ¿La razón principal? Las comisiones. Los expertos cobraban tanto que se comían la ganancia. |
-| 8 | Ya sabés que lo que pagás de comisión es lo único seguro de una inversión. |
+| 8 | Ya sabés: la comisión es como la suegra en las vacaciones. Viene siempre, gane o pierda la familia, y sale carísima. |
 
 ## Visuales sugeridos (estilo Matriz)
 Barras finales 126 % contra 36 %; línea de las dos carreras 2008-2017 (el índice arranca abajo y cruza); número 1.000.000; flujo: rendimiento menos comisiones.
