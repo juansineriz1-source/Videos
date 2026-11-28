@@ -1,5 +1,5 @@
 # tf-56 Templeton: comprar todo lo que valía menos de un dólar
-Tipo: historia. Duración objetivo: 50 a 60 s. Estado: correcciones del juez aplicadas y gancho y remate en tono picante (2026-11-28); vuelve al juez antes de grabar.
+Tipo: historia. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez con tono picante (2026-11-28); falta voz.
 
 ## Texto (voz)
 | # | Voz |

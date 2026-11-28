@@ -86,6 +86,7 @@ juan pidió una vuelta de rosca: reels más atrevidos, con chistes y arranques u
 - Chicanas al mercado, a las empresas y a los gobiernos como instituciones. Ironía con el dólar, la inflación y Wall Street.
 - Remate con moraleja canchera en vez de cierre de manual.
 - Un chiste picante por reel, a lo sumo dos. El resto, datos firmes.
+- Variar las analogías (juez 28/11): no repetir la misma figura (ex, suegra, tarjeta del viejo) en reels de días seguidos ni dos veces en el mismo reel.
 
 **No (normas de IG y reglas de la cuenta)**
 - Nada sexual explícito, desnudos, insultos ni malas palabras fuertes.

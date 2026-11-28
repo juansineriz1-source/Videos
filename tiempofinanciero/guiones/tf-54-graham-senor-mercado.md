@@ -1,5 +1,5 @@
 # tf-54 Benjamin Graham y el Señor Mercado
-Tipo: enseñanza. Duración objetivo: 50 a 60 s. Estado: correcciones del juez aplicadas y gancho y remate en tono picante (2026-11-28); vuelve al juez antes de grabar.
+Tipo: enseñanza. Duración objetivo: 50 a 60 s. Estado: aprobado por el juez con tono picante (2026-11-28); falta voz.
 
 ## Texto (voz)
 | # | Voz |
@@ -11,7 +11,7 @@ Tipo: enseñanza. Duración objetivo: 50 a 60 s. Estado: correcciones del juez a
 | 5 | Si viene eufórico, le podés vender. Si viene deprimido, le podés comprar. Y si no, cerrás la puerta. |
 | 6 | El error es dejar que su humor te diga cuánto vale lo que tenés. |
 | 7 | Graham había perdido cerca del 70 por ciento en la crisis de 1929. De ahí salió esta idea, y su alumno más famoso: Warren Buffett. |
-| 8 | Ya sabés: al Señor Mercado, como al ex que te escribe a las tres de la mañana, no estás obligado a contestarle. |
+| 8 | Ya sabés: el Señor Mercado te toca el timbre todos los días, pero abrirle la puerta es decisión tuya. |
 
 ## Visuales sugeridos (estilo Matriz)
 Animación tipográfica: un timbre y un precio que cambia cada día (línea nerviosa) contra una línea plana de 'valor'; fecha 1949; flujo: eufórico vende, deprimido compra, si no, puerta cerrada.
